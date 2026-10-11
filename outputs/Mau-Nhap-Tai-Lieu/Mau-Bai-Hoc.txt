@@ -1,0 +1,12 @@
+﻿Could you take a look at this? | Bạn xem giúp cái này được không?
+My laptop keeps freezing. | Máy tính của tôi cứ bị treo.
+The screen is completely blank. | Màn hình hoàn toàn không hiển thị gì.
+When did the problem start? | Vấn đề bắt đầu khi nào?
+It started this morning. | Nó bắt đầu sáng nay.
+Have you tried restarting it? | Bạn đã thử khởi động lại chưa?
+I already restarted it twice. | Tôi đã khởi động lại hai lần rồi.
+Could you walk me through the steps? | Bạn hướng dẫn tôi từng bước được không?
+Let me back up my files first. | Để tôi sao lưu các tệp trước đã.
+How long will the repair take? | Việc sửa chữa sẽ mất bao lâu?
+Is the repair covered by the warranty? | Việc sửa chữa có nằm trong bảo hành không?
+Please let me know when it is ready. | Khi nào xong thì báo cho tôi nhé.

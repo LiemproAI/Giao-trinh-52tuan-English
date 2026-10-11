@@ -1,0 +1,29 @@
+﻿FILE MẪU NHẬP VÀO ENGLISH GARDEN V1.1
+
+1. NHẬP TỪ VỰNG
+Mở app → Nhập nội dung → chọn Mau-Tu-Vung.csv.
+Chọn Kho từ vựng → Xem trước nội dung → Lưu vào ứng dụng.
+CSV có hai cột English và Vietnamese; mỗi dòng là một từ hoặc câu.
+Bạn có thể sửa bằng Excel rồi lưu dạng CSV UTF-8.
+Chỉ hai cột đầu được nhập; ví dụ và nhãn có thể bổ sung trong Kho từ vựng.
+
+2. NHẬP BÀI HỌC
+Chọn Mau-Bai-Hoc.txt → đặt tên “Nhờ hỗ trợ và sửa máy tính”.
+Chọn Bài học mới → Xem trước nội dung → Lưu vào ứng dụng.
+Vào Bài học → chọn bộ Bài cá nhân & bài mẫu cũ để tìm bài đã nhập.
+Mỗi dòng dùng định dạng: Câu tiếng Anh | Nghĩa tiếng Việt.
+Không thêm tiêu đề, hướng dẫn hoặc số thứ tự vào file mẫu TXT.
+Có thể mở TXT bằng Notepad, thay nội dung và lưu UTF-8.
+Hoặc sao chép nội dung TXT rồi dán Ctrl+V vào ô Nội dung của app.
+
+3. NHẬP TÀI LIỆU ĐỂ ĐỌC
+Cũng có thể chọn file TXT và chọn Tài liệu học tập để giữ nguyên văn.
+PDF và DOCX được đọc thành văn bản; chúng không tự tạo đủ mọi tab bài học.
+Bài học mới tạo từ các câu nhập; bạn bổ sung hội thoại, mẫu câu và đáp án qua Sửa bài.
+
+4. LƯU VÀ CẬP NHẬT
+Chờ app hiện “Đã đồng bộ” trước khi đóng trang.
+Nội dung đã nhập được giữ trong dữ liệu app trên máy này.
+Nhập lại từ/câu tiếng Anh đã có sẽ bỏ qua mục trùng, không cập nhật nghĩa cũ.
+Muốn sửa nghĩa: vào Kho từ vựng → Sửa → Lưu.
+Đây là bộ mẫu, không cần nhập file Huong-Dan.txt vào kho.

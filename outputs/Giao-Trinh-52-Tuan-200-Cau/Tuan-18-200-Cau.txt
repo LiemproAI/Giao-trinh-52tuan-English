@@ -1,0 +1,200 @@
+﻿I have a reservation under Linh Tran. | Tôi có đặt phòng dưới tên Linh Trần.
+Is breakfast included? | Bữa sáng đã bao gồm chưa?
+What time is checkout? | Mấy giờ phải trả phòng?
+Could I get a quiet room? | Tôi có thể có phòng yên tĩnh không?
+The air conditioning isn't working. | Máy điều hòa không hoạt động.
+Could someone take a look at it? | Có người kiểm tra giúp được không?
+I'd like to check in using my reservation number. | Tôi muốn nhận phòng bằng mã đặt chỗ.
+I need to check in using my reservation number. | Tôi cần nhận phòng bằng mã đặt chỗ.
+Can I check in using my reservation number? | Tôi có thể nhận phòng bằng mã đặt chỗ không?
+Could you help me check in using my reservation number? | Bạn giúp tôi nhận phòng bằng mã đặt chỗ được không?
+How can I check in using my reservation number? | Tôi có thể nhận phòng bằng mã đặt chỗ bằng cách nào?
+I'm trying to check in using my reservation number. | Tôi đang cố gắng nhận phòng bằng mã đặt chỗ.
+I don't know how to check in using my reservation number. | Tôi không biết cách nhận phòng bằng mã đặt chỗ.
+Let me check in using my reservation number first. | Để tôi nhận phòng bằng mã đặt chỗ trước đã.
+I was going to check in using my reservation number, but I ran out of time. | Tôi định nhận phòng bằng mã đặt chỗ, nhưng không còn đủ thời gian.
+I haven't had a chance to check in using my reservation number yet. | Tôi chưa có dịp nhận phòng bằng mã đặt chỗ.
+Do you think it would be more effective for me to check in using my reservation number in person? | Bạn nghĩ tôi nhận phòng bằng mã đặt chỗ trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check in using my reservation number before moving forward. | Nếu ở vị trí của bạn, tôi sẽ nhận phòng bằng mã đặt chỗ trước khi tiếp tục.
+I'll check in using my reservation number as soon as I have the information I need. | Tôi sẽ nhận phòng bằng mã đặt chỗ ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check in using my reservation number. | Nhìn lại, lẽ ra tôi nên dành thời gian để nhận phòng bằng mã đặt chỗ.
+I'd like to ask whether breakfast is included. | Tôi muốn hỏi bữa sáng có được bao gồm không.
+I need to ask whether breakfast is included. | Tôi cần hỏi bữa sáng có được bao gồm không.
+Can I ask whether breakfast is included? | Tôi có thể hỏi bữa sáng có được bao gồm không không?
+Could you help me ask whether breakfast is included? | Bạn giúp tôi hỏi bữa sáng có được bao gồm không được không?
+How can I ask whether breakfast is included? | Tôi có thể hỏi bữa sáng có được bao gồm không bằng cách nào?
+I'm trying to ask whether breakfast is included. | Tôi đang cố gắng hỏi bữa sáng có được bao gồm không.
+I don't know how to ask whether breakfast is included. | Tôi không biết cách hỏi bữa sáng có được bao gồm không.
+Let me ask whether breakfast is included first. | Để tôi hỏi bữa sáng có được bao gồm không trước đã.
+I was going to ask whether breakfast is included, but I ran out of time. | Tôi định hỏi bữa sáng có được bao gồm không, nhưng không còn đủ thời gian.
+I haven't had a chance to ask whether breakfast is included yet. | Tôi chưa có dịp hỏi bữa sáng có được bao gồm không.
+Do you think it would be more effective for me to ask whether breakfast is included in person? | Bạn nghĩ tôi hỏi bữa sáng có được bao gồm không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask whether breakfast is included before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi bữa sáng có được bao gồm không trước khi tiếp tục.
+I'll ask whether breakfast is included as soon as I have the information I need. | Tôi sẽ hỏi bữa sáng có được bao gồm không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask whether breakfast is included. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi bữa sáng có được bao gồm không.
+Is there any reason why I shouldn't ask whether breakfast is included at this stage? | Có lý do nào khiến tôi không nên hỏi bữa sáng có được bao gồm không ở giai đoạn này không?
+I'd rather ask whether breakfast is included now than deal with a misunderstanding later. | Tôi muốn hỏi bữa sáng có được bao gồm không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask whether breakfast is included properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi bữa sáng có được bao gồm không cho đúng.
+Unless there is a better alternative, I plan to ask whether breakfast is included. | Trừ khi có phương án tốt hơn, tôi dự định hỏi bữa sáng có được bao gồm không.
+The main reason I want to ask whether breakfast is included is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi bữa sáng có được bao gồm không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask whether breakfast is included, I'll be in a better position to respond. | Sau khi có dịp hỏi bữa sáng có được bao gồm không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to request a room away from the elevator. | Tôi muốn xin phòng xa thang máy.
+I need to request a room away from the elevator. | Tôi cần xin phòng xa thang máy.
+Can I request a room away from the elevator? | Tôi có thể xin phòng xa thang máy không?
+Could you help me request a room away from the elevator? | Bạn giúp tôi xin phòng xa thang máy được không?
+How can I request a room away from the elevator? | Tôi có thể xin phòng xa thang máy bằng cách nào?
+I'm trying to request a room away from the elevator. | Tôi đang cố gắng xin phòng xa thang máy.
+I don't know how to request a room away from the elevator. | Tôi không biết cách xin phòng xa thang máy.
+Let me request a room away from the elevator first. | Để tôi xin phòng xa thang máy trước đã.
+I was going to request a room away from the elevator, but I ran out of time. | Tôi định xin phòng xa thang máy, nhưng không còn đủ thời gian.
+I haven't had a chance to request a room away from the elevator yet. | Tôi chưa có dịp xin phòng xa thang máy.
+Do you think it would be more effective for me to request a room away from the elevator in person? | Bạn nghĩ tôi xin phòng xa thang máy trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd request a room away from the elevator before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xin phòng xa thang máy trước khi tiếp tục.
+I'll request a room away from the elevator as soon as I have the information I need. | Tôi sẽ xin phòng xa thang máy ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to request a room away from the elevator. | Nhìn lại, lẽ ra tôi nên dành thời gian để xin phòng xa thang máy.
+Is there any reason why I shouldn't request a room away from the elevator at this stage? | Có lý do nào khiến tôi không nên xin phòng xa thang máy ở giai đoạn này không?
+I'd rather request a room away from the elevator now than deal with a misunderstanding later. | Tôi muốn xin phòng xa thang máy ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to request a room away from the elevator properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xin phòng xa thang máy cho đúng.
+Unless there is a better alternative, I plan to request a room away from the elevator. | Trừ khi có phương án tốt hơn, tôi dự định xin phòng xa thang máy.
+The main reason I want to request a room away from the elevator is to avoid unnecessary confusion. | Lý do chính tôi muốn xin phòng xa thang máy là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to request a room away from the elevator, I'll be in a better position to respond. | Sau khi có dịp xin phòng xa thang máy, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask how to connect to the hotel Wi-Fi. | Tôi muốn hỏi cách kết nối Wi-Fi của khách sạn.
+I need to ask how to connect to the hotel Wi-Fi. | Tôi cần hỏi cách kết nối Wi-Fi của khách sạn.
+Can I ask how to connect to the hotel Wi-Fi? | Tôi có thể hỏi cách kết nối Wi-Fi của khách sạn không?
+Could you help me ask how to connect to the hotel Wi-Fi? | Bạn giúp tôi hỏi cách kết nối Wi-Fi của khách sạn được không?
+How can I ask how to connect to the hotel Wi-Fi? | Tôi có thể hỏi cách kết nối Wi-Fi của khách sạn bằng cách nào?
+I'm trying to ask how to connect to the hotel Wi-Fi. | Tôi đang cố gắng hỏi cách kết nối Wi-Fi của khách sạn.
+I don't know how to ask how to connect to the hotel Wi-Fi. | Tôi không biết cách hỏi cách kết nối Wi-Fi của khách sạn.
+Let me ask how to connect to the hotel Wi-Fi first. | Để tôi hỏi cách kết nối Wi-Fi của khách sạn trước đã.
+I was going to ask how to connect to the hotel Wi-Fi, but I ran out of time. | Tôi định hỏi cách kết nối Wi-Fi của khách sạn, nhưng không còn đủ thời gian.
+I haven't had a chance to ask how to connect to the hotel Wi-Fi yet. | Tôi chưa có dịp hỏi cách kết nối Wi-Fi của khách sạn.
+Do you think it would be more effective for me to ask how to connect to the hotel Wi-Fi in person? | Bạn nghĩ tôi hỏi cách kết nối Wi-Fi của khách sạn trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask how to connect to the hotel Wi-Fi before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi cách kết nối Wi-Fi của khách sạn trước khi tiếp tục.
+I'll ask how to connect to the hotel Wi-Fi as soon as I have the information I need. | Tôi sẽ hỏi cách kết nối Wi-Fi của khách sạn ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask how to connect to the hotel Wi-Fi. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi cách kết nối Wi-Fi của khách sạn.
+Is there any reason why I shouldn't ask how to connect to the hotel Wi-Fi at this stage? | Có lý do nào khiến tôi không nên hỏi cách kết nối Wi-Fi của khách sạn ở giai đoạn này không?
+I'd rather ask how to connect to the hotel Wi-Fi now than deal with a misunderstanding later. | Tôi muốn hỏi cách kết nối Wi-Fi của khách sạn ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask how to connect to the hotel Wi-Fi properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi cách kết nối Wi-Fi của khách sạn cho đúng.
+Unless there is a better alternative, I plan to ask how to connect to the hotel Wi-Fi. | Trừ khi có phương án tốt hơn, tôi dự định hỏi cách kết nối Wi-Fi của khách sạn.
+The main reason I want to ask how to connect to the hotel Wi-Fi is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi cách kết nối Wi-Fi của khách sạn là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask how to connect to the hotel Wi-Fi, I'll be in a better position to respond. | Sau khi có dịp hỏi cách kết nối Wi-Fi của khách sạn, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to report that the air conditioning is not working. | Tôi muốn báo điều hòa không hoạt động.
+I need to report that the air conditioning is not working. | Tôi cần báo điều hòa không hoạt động.
+Can I report that the air conditioning is not working? | Tôi có thể báo điều hòa không hoạt động không?
+Could you help me report that the air conditioning is not working? | Bạn giúp tôi báo điều hòa không hoạt động được không?
+How can I report that the air conditioning is not working? | Tôi có thể báo điều hòa không hoạt động bằng cách nào?
+I'm trying to report that the air conditioning is not working. | Tôi đang cố gắng báo điều hòa không hoạt động.
+I don't know how to report that the air conditioning is not working. | Tôi không biết cách báo điều hòa không hoạt động.
+Let me report that the air conditioning is not working first. | Để tôi báo điều hòa không hoạt động trước đã.
+I was going to report that the air conditioning is not working, but I ran out of time. | Tôi định báo điều hòa không hoạt động, nhưng không còn đủ thời gian.
+I haven't had a chance to report that the air conditioning is not working yet. | Tôi chưa có dịp báo điều hòa không hoạt động.
+Do you think it would be more effective for me to report that the air conditioning is not working in person? | Bạn nghĩ tôi báo điều hòa không hoạt động trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd report that the air conditioning is not working before moving forward. | Nếu ở vị trí của bạn, tôi sẽ báo điều hòa không hoạt động trước khi tiếp tục.
+I'll report that the air conditioning is not working as soon as I have the information I need. | Tôi sẽ báo điều hòa không hoạt động ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to report that the air conditioning is not working. | Nhìn lại, lẽ ra tôi nên dành thời gian để báo điều hòa không hoạt động.
+Is there any reason why I shouldn't report that the air conditioning is not working at this stage? | Có lý do nào khiến tôi không nên báo điều hòa không hoạt động ở giai đoạn này không?
+I'd rather report that the air conditioning is not working now than deal with a misunderstanding later. | Tôi muốn báo điều hòa không hoạt động ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to report that the air conditioning is not working properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn báo điều hòa không hoạt động cho đúng.
+Unless there is a better alternative, I plan to report that the air conditioning is not working. | Trừ khi có phương án tốt hơn, tôi dự định báo điều hòa không hoạt động.
+The main reason I want to report that the air conditioning is not working is to avoid unnecessary confusion. | Lý do chính tôi muốn báo điều hòa không hoạt động là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to report that the air conditioning is not working, I'll be in a better position to respond. | Sau khi có dịp báo điều hòa không hoạt động, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask for an extra blanket. | Tôi muốn xin thêm một chiếc chăn.
+I need to ask for an extra blanket. | Tôi cần xin thêm một chiếc chăn.
+Can I ask for an extra blanket? | Tôi có thể xin thêm một chiếc chăn không?
+Could you help me ask for an extra blanket? | Bạn giúp tôi xin thêm một chiếc chăn được không?
+How can I ask for an extra blanket? | Tôi có thể xin thêm một chiếc chăn bằng cách nào?
+I'm trying to ask for an extra blanket. | Tôi đang cố gắng xin thêm một chiếc chăn.
+I don't know how to ask for an extra blanket. | Tôi không biết cách xin thêm một chiếc chăn.
+Let me ask for an extra blanket first. | Để tôi xin thêm một chiếc chăn trước đã.
+I was going to ask for an extra blanket, but I ran out of time. | Tôi định xin thêm một chiếc chăn, nhưng không còn đủ thời gian.
+I haven't had a chance to ask for an extra blanket yet. | Tôi chưa có dịp xin thêm một chiếc chăn.
+Do you think it would be more effective for me to ask for an extra blanket in person? | Bạn nghĩ tôi xin thêm một chiếc chăn trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask for an extra blanket before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xin thêm một chiếc chăn trước khi tiếp tục.
+I'll ask for an extra blanket as soon as I have the information I need. | Tôi sẽ xin thêm một chiếc chăn ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask for an extra blanket. | Nhìn lại, lẽ ra tôi nên dành thời gian để xin thêm một chiếc chăn.
+Is there any reason why I shouldn't ask for an extra blanket at this stage? | Có lý do nào khiến tôi không nên xin thêm một chiếc chăn ở giai đoạn này không?
+I'd rather ask for an extra blanket now than deal with a misunderstanding later. | Tôi muốn xin thêm một chiếc chăn ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask for an extra blanket properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xin thêm một chiếc chăn cho đúng.
+Unless there is a better alternative, I plan to ask for an extra blanket. | Trừ khi có phương án tốt hơn, tôi dự định xin thêm một chiếc chăn.
+The main reason I want to ask for an extra blanket is to avoid unnecessary confusion. | Lý do chính tôi muốn xin thêm một chiếc chăn là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask for an extra blanket, I'll be in a better position to respond. | Sau khi có dịp xin thêm một chiếc chăn, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to check whether I can leave my bags after checkout. | Tôi muốn hỏi tôi có thể gửi hành lý sau khi trả phòng không.
+I need to check whether I can leave my bags after checkout. | Tôi cần hỏi tôi có thể gửi hành lý sau khi trả phòng không.
+Can I check whether I can leave my bags after checkout? | Tôi có thể hỏi tôi có thể gửi hành lý sau khi trả phòng không không?
+Could you help me check whether I can leave my bags after checkout? | Bạn giúp tôi hỏi tôi có thể gửi hành lý sau khi trả phòng không được không?
+How can I check whether I can leave my bags after checkout? | Tôi có thể hỏi tôi có thể gửi hành lý sau khi trả phòng không bằng cách nào?
+I'm trying to check whether I can leave my bags after checkout. | Tôi đang cố gắng hỏi tôi có thể gửi hành lý sau khi trả phòng không.
+I don't know how to check whether I can leave my bags after checkout. | Tôi không biết cách hỏi tôi có thể gửi hành lý sau khi trả phòng không.
+Let me check whether I can leave my bags after checkout first. | Để tôi hỏi tôi có thể gửi hành lý sau khi trả phòng không trước đã.
+I was going to check whether I can leave my bags after checkout, but I ran out of time. | Tôi định hỏi tôi có thể gửi hành lý sau khi trả phòng không, nhưng không còn đủ thời gian.
+I haven't had a chance to check whether I can leave my bags after checkout yet. | Tôi chưa có dịp hỏi tôi có thể gửi hành lý sau khi trả phòng không.
+Do you think it would be more effective for me to check whether I can leave my bags after checkout in person? | Bạn nghĩ tôi hỏi tôi có thể gửi hành lý sau khi trả phòng không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check whether I can leave my bags after checkout before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi tôi có thể gửi hành lý sau khi trả phòng không trước khi tiếp tục.
+I'll check whether I can leave my bags after checkout as soon as I have the information I need. | Tôi sẽ hỏi tôi có thể gửi hành lý sau khi trả phòng không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check whether I can leave my bags after checkout. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi tôi có thể gửi hành lý sau khi trả phòng không.
+Is there any reason why I shouldn't check whether I can leave my bags after checkout at this stage? | Có lý do nào khiến tôi không nên hỏi tôi có thể gửi hành lý sau khi trả phòng không ở giai đoạn này không?
+I'd rather check whether I can leave my bags after checkout now than deal with a misunderstanding later. | Tôi muốn hỏi tôi có thể gửi hành lý sau khi trả phòng không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to check whether I can leave my bags after checkout properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi tôi có thể gửi hành lý sau khi trả phòng không cho đúng.
+Unless there is a better alternative, I plan to check whether I can leave my bags after checkout. | Trừ khi có phương án tốt hơn, tôi dự định hỏi tôi có thể gửi hành lý sau khi trả phòng không.
+The main reason I want to check whether I can leave my bags after checkout is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi tôi có thể gửi hành lý sau khi trả phòng không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to check whether I can leave my bags after checkout, I'll be in a better position to respond. | Sau khi có dịp hỏi tôi có thể gửi hành lý sau khi trả phòng không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to request a late checkout. | Tôi muốn xin trả phòng muộn.
+I need to request a late checkout. | Tôi cần xin trả phòng muộn.
+Can I request a late checkout? | Tôi có thể xin trả phòng muộn không?
+Could you help me request a late checkout? | Bạn giúp tôi xin trả phòng muộn được không?
+How can I request a late checkout? | Tôi có thể xin trả phòng muộn bằng cách nào?
+I'm trying to request a late checkout. | Tôi đang cố gắng xin trả phòng muộn.
+I don't know how to request a late checkout. | Tôi không biết cách xin trả phòng muộn.
+Let me request a late checkout first. | Để tôi xin trả phòng muộn trước đã.
+I was going to request a late checkout, but I ran out of time. | Tôi định xin trả phòng muộn, nhưng không còn đủ thời gian.
+I haven't had a chance to request a late checkout yet. | Tôi chưa có dịp xin trả phòng muộn.
+Do you think it would be more effective for me to request a late checkout in person? | Bạn nghĩ tôi xin trả phòng muộn trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd request a late checkout before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xin trả phòng muộn trước khi tiếp tục.
+I'll request a late checkout as soon as I have the information I need. | Tôi sẽ xin trả phòng muộn ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to request a late checkout. | Nhìn lại, lẽ ra tôi nên dành thời gian để xin trả phòng muộn.
+Is there any reason why I shouldn't request a late checkout at this stage? | Có lý do nào khiến tôi không nên xin trả phòng muộn ở giai đoạn này không?
+I'd rather request a late checkout now than deal with a misunderstanding later. | Tôi muốn xin trả phòng muộn ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to request a late checkout properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xin trả phòng muộn cho đúng.
+Unless there is a better alternative, I plan to request a late checkout. | Trừ khi có phương án tốt hơn, tôi dự định xin trả phòng muộn.
+The main reason I want to request a late checkout is to avoid unnecessary confusion. | Lý do chính tôi muốn xin trả phòng muộn là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to request a late checkout, I'll be in a better position to respond. | Sau khi có dịp xin trả phòng muộn, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to clarify an unexpected charge on the bill. | Tôi muốn làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn.
+I need to clarify an unexpected charge on the bill. | Tôi cần làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn.
+Can I clarify an unexpected charge on the bill? | Tôi có thể làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn không?
+Could you help me clarify an unexpected charge on the bill? | Bạn giúp tôi làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn được không?
+How can I clarify an unexpected charge on the bill? | Tôi có thể làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn bằng cách nào?
+I'm trying to clarify an unexpected charge on the bill. | Tôi đang cố gắng làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn.
+I don't know how to clarify an unexpected charge on the bill. | Tôi không biết cách làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn.
+Let me clarify an unexpected charge on the bill first. | Để tôi làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn trước đã.
+I was going to clarify an unexpected charge on the bill, but I ran out of time. | Tôi định làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn, nhưng không còn đủ thời gian.
+I haven't had a chance to clarify an unexpected charge on the bill yet. | Tôi chưa có dịp làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn.
+Do you think it would be more effective for me to clarify an unexpected charge on the bill in person? | Bạn nghĩ tôi làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd clarify an unexpected charge on the bill before moving forward. | Nếu ở vị trí của bạn, tôi sẽ làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn trước khi tiếp tục.
+I'll clarify an unexpected charge on the bill as soon as I have the information I need. | Tôi sẽ làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to clarify an unexpected charge on the bill. | Nhìn lại, lẽ ra tôi nên dành thời gian để làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn.
+Is there any reason why I shouldn't clarify an unexpected charge on the bill at this stage? | Có lý do nào khiến tôi không nên làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn ở giai đoạn này không?
+I'd rather clarify an unexpected charge on the bill now than deal with a misunderstanding later. | Tôi muốn làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to clarify an unexpected charge on the bill properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn cho đúng.
+Unless there is a better alternative, I plan to clarify an unexpected charge on the bill. | Trừ khi có phương án tốt hơn, tôi dự định làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn.
+The main reason I want to clarify an unexpected charge on the bill is to avoid unnecessary confusion. | Lý do chính tôi muốn làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to clarify an unexpected charge on the bill, I'll be in a better position to respond. | Sau khi có dịp làm rõ một khoản tính tiền ngoài dự kiến trên hóa đơn, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask the front desk to arrange a taxi. | Tôi muốn nhờ lễ tân đặt taxi.
+I need to ask the front desk to arrange a taxi. | Tôi cần nhờ lễ tân đặt taxi.
+Can I ask the front desk to arrange a taxi? | Tôi có thể nhờ lễ tân đặt taxi không?
+Could you help me ask the front desk to arrange a taxi? | Bạn giúp tôi nhờ lễ tân đặt taxi được không?
+How can I ask the front desk to arrange a taxi? | Tôi có thể nhờ lễ tân đặt taxi bằng cách nào?
+I'm trying to ask the front desk to arrange a taxi. | Tôi đang cố gắng nhờ lễ tân đặt taxi.
+I don't know how to ask the front desk to arrange a taxi. | Tôi không biết cách nhờ lễ tân đặt taxi.
+Let me ask the front desk to arrange a taxi first. | Để tôi nhờ lễ tân đặt taxi trước đã.
+I was going to ask the front desk to arrange a taxi, but I ran out of time. | Tôi định nhờ lễ tân đặt taxi, nhưng không còn đủ thời gian.
+I haven't had a chance to ask the front desk to arrange a taxi yet. | Tôi chưa có dịp nhờ lễ tân đặt taxi.
+Do you think it would be more effective for me to ask the front desk to arrange a taxi in person? | Bạn nghĩ tôi nhờ lễ tân đặt taxi trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask the front desk to arrange a taxi before moving forward. | Nếu ở vị trí của bạn, tôi sẽ nhờ lễ tân đặt taxi trước khi tiếp tục.
+I'll ask the front desk to arrange a taxi as soon as I have the information I need. | Tôi sẽ nhờ lễ tân đặt taxi ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask the front desk to arrange a taxi. | Nhìn lại, lẽ ra tôi nên dành thời gian để nhờ lễ tân đặt taxi.
+Is there any reason why I shouldn't ask the front desk to arrange a taxi at this stage? | Có lý do nào khiến tôi không nên nhờ lễ tân đặt taxi ở giai đoạn này không?
+I'd rather ask the front desk to arrange a taxi now than deal with a misunderstanding later. | Tôi muốn nhờ lễ tân đặt taxi ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask the front desk to arrange a taxi properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn nhờ lễ tân đặt taxi cho đúng.
+Unless there is a better alternative, I plan to ask the front desk to arrange a taxi. | Trừ khi có phương án tốt hơn, tôi dự định nhờ lễ tân đặt taxi.
+The main reason I want to ask the front desk to arrange a taxi is to avoid unnecessary confusion. | Lý do chính tôi muốn nhờ lễ tân đặt taxi là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask the front desk to arrange a taxi, I'll be in a better position to respond. | Sau khi có dịp nhờ lễ tân đặt taxi, tôi sẽ có đủ cơ sở hơn để phản hồi.

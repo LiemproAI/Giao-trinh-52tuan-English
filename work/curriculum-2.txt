@@ -1,0 +1,286 @@
+@@ 14|Phone calls and voicemail|Gọi điện và để lại lời nhắn
+GOAL Mở cuộc gọi, xác nhận người nhận và để lại lời nhắn đủ thông tin.
+GRAMMAR May I speak to dùng để xin gặp người qua điện thoại. Could you ask her to call me back dùng ask someone to do something.
+SOUND Đọc số điện thoại theo nhóm, từng chữ số. Phân biệt tên bắt đầu bằng B và P; khi cần nói B as in Boston.
+REGISTER Nêu tên trước khi nói mục đích. Voicemail cần tên, lý do, số liên lạc và yêu cầu gọi lại; không đọc một đoạn dài.
+P Hi, this is Linh calling.|Chào, tôi là Linh đang gọi.
+P May I speak to Jordan?|Tôi nói chuyện với Jordan được không?
+P Is now a good time to talk?|Bây giờ nói chuyện có tiện không?
+P Could you ask her to call me back?|Bạn nhờ cô ấy gọi lại cho tôi được không?
+P Let me read that number back to you.|Để tôi đọc lại số đó cho bạn.
+P I'll leave a brief message.|Tôi sẽ để lại lời nhắn ngắn.
+D Thanks for calling. How can I help you?|Cảm ơn đã gọi. Tôi giúp gì được?
+D Hi, this is Linh. May I speak to Jordan?|Chào, tôi là Linh. Tôi nói chuyện với Jordan được không?
+D She's in a meeting. Would you like to leave a message?|Cô ấy đang họp. Bạn muốn để lại lời nhắn không?
+D Yes. Please tell her the appointment time has changed.|Có. Xin nói với cô ấy là giờ hẹn đã thay đổi.
+D Sure. What's the new time?|Được. Giờ mới là mấy giờ?
+D Thursday at ten. I'll send an email too.|Thứ Năm lúc mười giờ. Tôi cũng sẽ gửi email.
+Q Why is Jordan unavailable?|She's in a meeting.
+Q What is the new appointment time?|Thursday at ten.
+FIX Ask her call me back.|Ask her to call me back.
+TASK Ghi hai voicemail dài 30 giây: đổi lịch và hỏi thông tin; dùng số điện thoại giả để luyện.
+TWIST Đường truyền nhiễu. Xác nhận lại tên, số và thời gian bằng các nhóm ngắn.
+@@ 15|Appointments and services|Đặt hẹn và sử dụng dịch vụ
+GOAL Đặt lịch cắt tóc hoặc sửa xe, hỏi thời gian chờ và hủy lịch lịch sự.
+GRAMMAR I'd like to book theo sau bằng danh từ. Do you have any openings hỏi lịch trống. Need to đi với động từ nguyên mẫu.
+SOUND Nhấn ngày và giờ; khi nói fifteen minutes giữ trọng âm của fifteen để phân biệt fifty.
+REGISTER Opening ở đây là khung lịch còn trống, không phải cửa ra vào. Báo sớm nếu phải hủy và hỏi có cần đặt lại không.
+P I'd like to book an appointment.|Tôi muốn đặt một cuộc hẹn.
+P Do you have any openings this Friday?|Thứ Sáu này còn khung giờ trống không?
+P How long does it usually take?|Thông thường mất bao lâu?
+P I need to reschedule my appointment.|Tôi cần đổi lịch hẹn.
+P Is there a cancellation fee?|Có phí hủy lịch không?
+P Could you send me a confirmation?|Bạn gửi xác nhận cho tôi được không?
+D I'd like to schedule a haircut.|Tôi muốn đặt lịch cắt tóc.
+D We have an opening Friday at four.|Chúng tôi có giờ trống thứ Sáu lúc bốn giờ.
+D Is there anything earlier?|Có giờ nào sớm hơn không?
+D We could do ten thirty on Saturday.|Chúng tôi có thể xếp mười giờ rưỡi sáng thứ Bảy.
+D That works. How long should I plan for?|Được. Tôi nên dành bao lâu?
+D About forty-five minutes.|Khoảng bốn mươi lăm phút.
+Q Which appointment does the customer choose?|Saturday at ten thirty.
+Q How long will the haircut take?|About forty-five minutes.
+FIX I need reschedule my appointment.|I need to reschedule my appointment.
+TASK Đặt hẹn, hỏi thời lượng và xác nhận. Sau đó diễn cuộc gọi đổi lịch.
+TWIST Khung giờ bạn muốn không còn. Đưa hai lựa chọn ngày khác và hỏi danh sách chờ.
+@@ 16|Planning a trip|Lên kế hoạch du lịch
+GOAL Thảo luận lịch trình, ngân sách và lựa chọn phù hợp với cả nhóm.
+GRAMMAR Be going to nói dự định; might nói khả năng chưa chắc. Would rather theo sau động từ nguyên mẫu không có to.
+SOUND Luyện nhịp trong going to visit, nhấn VISIT. Gonna có thể nghe trong lời nói thân mật; ưu tiên viết going to.
+REGISTER Không mặc định everyone can afford it. Hỏi What budget are you comfortable with để thảo luận lịch sự.
+P I'm thinking about taking a short trip.|Tôi đang nghĩ đến chuyến đi ngắn.
+P What's your budget for the weekend?|Ngân sách cuối tuần của bạn là bao nhiêu?
+P I'd rather stay somewhere quiet.|Tôi thích ở nơi yên tĩnh hơn.
+P We could split the cost.|Chúng ta có thể chia chi phí.
+P Let's leave some room in the schedule.|Hãy để lịch trình có chút thời gian linh hoạt.
+P What should we book in advance?|Chúng ta nên đặt trước những gì?
+D Do you want to get away next weekend?|Bạn muốn đi chơi xa cuối tuần tới không?
+D Maybe. I don't want to spend too much.|Có thể. Tôi không muốn tiêu quá nhiều.
+D We could drive to the coast and stay one night.|Mình có thể lái xe ra biển và ở lại một đêm.
+D I'd rather leave early Saturday.|Tôi thích đi sớm thứ Bảy hơn.
+D Works for me. I'll look for a place with free parking.|Tôi cũng thấy được. Tôi sẽ tìm nơi có chỗ đỗ xe miễn phí.
+D Great. Let's compare options tonight.|Tốt. Tối nay mình so sánh các lựa chọn nhé.
+Q How many nights are the speakers considering?|One night.
+Q When would the second speaker rather leave?|Early Saturday.
+FIX I'd rather to leave early.|I'd rather leave early.
+TASK Thống nhất chuyến đi hai ngày với ngân sách giả định. Ôn tiền, lịch và phương tiện ở tuần 6 đến 12.
+TWIST Một người không có xe. Sửa kế hoạch để cả nhóm vẫn tham gia được.
+@@ 17|At the airport|Làm thủ tục tại sân bay
+GOAL Làm thủ tục, hỏi hành lý, tìm cửa ra máy bay và xử lý đổi cửa.
+GRAMMAR Have to nói yêu cầu phải làm. Can I bring hỏi được phép mang. Where do I hỏi địa điểm thực hiện thủ tục.
+SOUND Phân biệt gate eight và gate A bằng cách xác nhận cả chữ và số. Giữ âm cuối trong bags và flight.
+REGISTER Carry-on là hành lý xách tay; checked bag là hành lý ký gửi. Điều kiện hành lý thay đổi theo hãng, nên hỏi trực tiếp.
+P I'd like to check in for my flight.|Tôi muốn làm thủ tục cho chuyến bay.
+P I have one bag to check.|Tôi có một kiện cần ký gửi.
+P Is this small bag allowed as a personal item?|Túi nhỏ này được tính là đồ cá nhân không?
+P Where can I find my gate?|Tôi tìm cửa ra máy bay ở đâu?
+P Has the gate changed?|Cửa ra máy bay đã thay đổi chưa?
+P What time does boarding start?|Mấy giờ bắt đầu lên máy bay?
+D Are you checking any bags today?|Hôm nay bạn có ký gửi hành lý không?
+D Just one. Is there a fee?|Chỉ một kiện. Có phí không?
+D Your ticket includes one checked bag.|Vé của bạn gồm một kiện ký gửi.
+D Great. Which gate should I go to?|Tốt. Tôi cần đến cửa nào?
+D B twelve. Boarding starts at nine twenty.|B mười hai. Bắt đầu lên máy bay lúc chín giờ hai mươi.
+D B twelve at nine twenty. Thank you.|B mười hai lúc chín giờ hai mươi. Cảm ơn.
+Q How many bags will the traveler check?|One bag.
+Q What time does boarding start?|Nine twenty.
+FIX Where I can find my gate?|Where can I find my gate?
+TASK Diễn từ quầy làm thủ tục đến hỏi cửa ra máy bay, xác nhận ba thông tin quan trọng.
+TWIST Cửa B12 đổi sang C18. Hỏi vị trí cửa mới và thời gian đi bộ.
+@@ 18|Hotels and accommodation|Khách sạn và nơi lưu trú
+GOAL Nhận phòng, hỏi tiện ích và báo vấn đề trong phòng.
+GRAMMAR A reservation under theo sau tên người đặt. Could you have someone check dùng have someone do something.
+SOUND Nhấn tên trong under the name Linh Tran. Phân biệt room và rooms bằng phụ âm cuối; nói chậm khi đọc số phòng.
+REGISTER Check in là nhận phòng; check out là trả phòng. Deposit và charge khác nhau; hỏi lại khoản tiền được giữ hoặc tính.
+P I have a reservation under Linh Tran.|Tôi có đặt phòng dưới tên Linh Trần.
+P Is breakfast included?|Bữa sáng đã bao gồm chưa?
+P What time is checkout?|Mấy giờ phải trả phòng?
+P Could I get a quiet room?|Tôi có thể có phòng yên tĩnh không?
+P The air conditioning isn't working.|Máy điều hòa không hoạt động.
+P Could someone take a look at it?|Có người kiểm tra giúp được không?
+D Welcome. Do you have a reservation?|Chào mừng. Bạn đã đặt phòng chưa?
+D Yes, under Linh Tran, for two nights.|Rồi, dưới tên Linh Trần, hai đêm.
+D I found it. You're in room four eighteen.|Tôi tìm thấy rồi. Bạn ở phòng bốn một tám.
+D Is breakfast included?|Bữa sáng đã bao gồm chưa?
+D Yes, from seven to ten in the lobby.|Có, từ bảy đến mười giờ ở sảnh.
+D Thanks. Could you also tell me the checkout time?|Cảm ơn. Bạn cho tôi biết giờ trả phòng nữa được không?
+Q How long is the stay?|Two nights.
+Q Where is breakfast served?|In the lobby.
+FIX I have reservation for two nights.|I have a reservation for two nights.
+TASK Nhận phòng và hỏi bốn thông tin; sau đó gọi lễ tân báo một lỗi trong phòng.
+TWIST Khách sạn chưa có phòng sẵn. Hỏi giữ hành lý và thời gian nhận phòng dự kiến.
+@@ 19|Travel problems|Xử lý sự cố khi đi du lịch
+GOAL Mô tả sự cố, cung cấp thông tin và hỏi bước tiếp theo.
+GRAMMAR Hiện tại hoàn thành nói vấn đề vừa xảy ra: My bag hasn't arrived. Quá khứ đơn nêu thời điểm cụ thể: I checked it in this morning.
+SOUND Phân biệt lost và last. Nhấn NOT khi cần sửa thông tin: It has NOT arrived. Giữ giọng bình tĩnh.
+REGISTER Baggage claim chỉ khu lấy hành lý ở sân bay Mỹ. Mô tả sự thật trước, rồi yêu cầu phương án xử lý.
+P My bag hasn't arrived.|Hành lý của tôi chưa tới.
+P Here's my baggage claim tag.|Đây là thẻ hành lý của tôi.
+P It's a black suitcase with a red strap.|Đó là va li đen có dây đỏ.
+P What happens next?|Bước tiếp theo là gì?
+P Could you give me a reference number?|Bạn cho tôi mã hồ sơ được không?
+P Who should I contact for updates?|Tôi liên hệ ai để biết cập nhật?
+D My suitcase wasn't on the carousel.|Va li của tôi không có trên băng chuyền.
+D I'm sorry. May I see your baggage tag?|Tôi rất tiếc. Cho tôi xem thẻ hành lý được không?
+D Here it is. The bag is black with a red strap.|Đây. Va li đen có dây đỏ.
+D We'll check its location. Where are you staying?|Chúng tôi sẽ kiểm tra vị trí. Bạn đang ở đâu?
+D At the Harbor Hotel. Can you deliver it there?|Ở khách sạn Harbor. Bạn có thể giao đến đó không?
+D Let me check the delivery options for your case.|Để tôi kiểm tra lựa chọn giao cho trường hợp của bạn.
+Q What does the suitcase look like?|It's black with a red strap.
+Q Where is the traveler staying?|At the Harbor Hotel.
+FIX My bag didn't arrived.|My bag didn't arrive.
+TASK Báo thất lạc một món đồ, mô tả năm đặc điểm và hỏi mã hồ sơ cùng kênh theo dõi.
+TWIST Nhân viên tìm được món gần giống nhưng sai màu. Giải thích khác biệt và đề nghị kiểm tra tiếp.
+@@ 20|Introducing yourself at work|Giới thiệu tại nơi làm việc
+GOAL Giới thiệu vai trò, trách nhiệm và hỏi cách phối hợp với đồng nghiệp.
+GRAMMAR Be responsible for theo sau danh từ hoặc V-ing. Work on chỉ dự án; work with chỉ người hoặc công cụ.
+SOUND Luyện trọng âm trong responsible và project. Ngắt theo cụm: I work on / customer support / for the mobile app.
+REGISTER Job title không luôn giải thích đủ vai trò. Thêm một câu đơn giản về việc bạn giúp nhóm làm gì.
+P I recently joined the support team.|Tôi vừa gia nhập nhóm hỗ trợ.
+P I'm responsible for handling customer requests.|Tôi phụ trách xử lý yêu cầu khách hàng.
+P Who should I go to with questions?|Tôi nên hỏi ai khi có thắc mắc?
+P I'm still learning the ropes.|Tôi vẫn đang học cách làm việc ở đây.
+P I'd love to learn more about your role.|Tôi muốn hiểu thêm về vai trò của bạn.
+P Thanks for helping me get settled in.|Cảm ơn đã giúp tôi ổn định khi mới vào.
+D Welcome aboard. What will you be working on?|Chào mừng. Bạn sẽ làm việc gì?
+D I'll be handling customer requests for the mobile app.|Tôi sẽ xử lý yêu cầu khách hàng của ứng dụng di động.
+D Nice. I'm on the product team.|Hay đấy. Tôi thuộc nhóm sản phẩm.
+D Great. Who should I contact about technical issues?|Tốt. Tôi nên liên hệ ai về lỗi kỹ thuật?
+D Start with Sam. He coordinates with engineering.|Bắt đầu với Sam. Anh ấy phối hợp với nhóm kỹ thuật.
+D Thanks. I'll introduce myself to him this afternoon.|Cảm ơn. Chiều nay tôi sẽ giới thiệu bản thân với anh ấy.
+Q What will the new colleague handle?|Customer requests for the mobile app.
+Q Who coordinates with engineering?|Sam.
+FIX I'm responsible to handle requests.|I'm responsible for handling requests.
+TASK Giới thiệu vai trò trong 60 giây, hỏi hai đồng nghiệp cách phối hợp. Ôn tuần 1 và 14.
+TWIST Đồng nghiệp không hiểu chức danh của bạn. Giải thích bằng một ví dụ công việc cụ thể.
+@@ 21|Meetings and updates|Họp và báo cáo tiến độ
+GOAL Cập nhật tiến độ ngắn, xin làm rõ và xác nhận việc cần làm sau họp.
+GRAMMAR Have finished chỉ việc đã hoàn thành; are working on chỉ việc đang làm. Need someone to do chỉ người được giao nhiệm vụ.
+SOUND Nhấn DONE, NEXT và BLOCKED để phân biệt ba phần cập nhật. Dừng ngắn trước yêu cầu hỗ trợ.
+REGISTER Không cần mở đầu dài. Nêu kết quả, việc tiếp theo và vướng mắc. Action item là việc cần thực hiện sau cuộc họp.
+P Here's a quick update.|Đây là cập nhật ngắn.
+P We've finished the first draft.|Chúng tôi đã hoàn thành bản nháp đầu.
+P We're still waiting on approval.|Chúng tôi vẫn đang đợi phê duyệt.
+P Could you clarify what you mean by that?|Bạn làm rõ ý đó được không?
+P What are the next steps?|Các bước tiếp theo là gì?
+P I'll send a recap after the meeting.|Tôi sẽ gửi tóm tắt sau cuộc họp.
+D How's the new page coming along?|Trang mới tiến triển thế nào?
+D The draft is ready. We're waiting on the final images.|Bản nháp đã xong. Chúng tôi đang đợi hình cuối.
+D When do you expect to have them?|Bạn dự kiến khi nào có?
+D By Thursday afternoon, if the design team has no changes.|Trước chiều thứ Năm, nếu nhóm thiết kế không có chỉnh sửa.
+D Okay. Please flag any delays early.|Được. Hãy báo sớm nếu có chậm trễ.
+D Will do. I'll send a recap with the action items.|Tôi sẽ làm. Tôi sẽ gửi tóm tắt kèm các việc cần làm.
+Q What is the team waiting for?|The final images.
+Q What should happen if there are delays?|The team should flag them early.
+FIX We've finish the first draft.|We've finished the first draft.
+TASK Cập nhật dự án trong 90 giây, gồm kết quả, kế hoạch và một yêu cầu hỗ trợ.
+TWIST Có hai người hiểu thời hạn khác nhau. Làm rõ và chốt lại bằng câu xác nhận.
+@@ 22|Emails and work messages|Email và tin nhắn công việc
+GOAL Viết và nói lại yêu cầu rõ ràng với mục đích, thời hạn và phản hồi mong muốn.
+GRAMMAR Could you review dùng động từ nguyên mẫu. By Friday là hạn chót; until Friday là kéo dài đến thứ Sáu.
+SOUND Đọc địa chỉ email bằng at và dot. Khi đọc thời hạn, nhấn BY để người nghe biết đó là mốc cuối.
+REGISTER Email thường cần chủ đề rõ, lời chào và một yêu cầu cụ thể. Just checking in lịch sự nhưng không thay thế thông tin cần thiết.
+P I'm reaching out about the schedule.|Tôi liên hệ về lịch trình.
+P Could you review the attached file?|Bạn xem giúp tệp đính kèm được không?
+P Please let me know by Friday.|Vui lòng cho tôi biết trước hoặc trong thứ Sáu.
+P I'm following up on my earlier message.|Tôi hỏi tiếp về tin nhắn trước của mình.
+P No rush if you're tied up today.|Không gấp nếu hôm nay bạn đang bận.
+P Thanks for getting back to me.|Cảm ơn đã phản hồi tôi.
+D Did you see my email about the draft?|Bạn đã xem email của tôi về bản nháp chưa?
+D I did. When do you need my feedback?|Rồi. Khi nào bạn cần góp ý của tôi?
+D By Friday afternoon, if possible.|Trước chiều thứ Sáu, nếu được.
+D I can review it tomorrow morning.|Sáng mai tôi có thể xem.
+D Perfect. Please focus on the introduction.|Tốt. Bạn tập trung vào phần mở đầu nhé.
+D Sure. I'll send a few comments.|Được. Tôi sẽ gửi vài nhận xét.
+Q When is the feedback needed?|By Friday afternoon.
+Q Which section should receive special attention?|The introduction.
+FIX Please reply until Friday.|Please reply by Friday.
+TASK Soạn email 80 từ rồi diễn cuộc nói chuyện theo dõi tiến độ, không đọc nguyên email.
+TWIST Người nhận chưa thấy tệp đính kèm. Xin lỗi, gửi lại và nhắc thời hạn.
+@@ 23|Requests and deadlines|Nhờ hỗ trợ và thương lượng thời hạn
+GOAL Đưa yêu cầu cụ thể, từ chối khéo và thống nhất thời hạn khả thi.
+GRAMMAR Would you mind theo sau V-ing. Could you theo sau động từ nguyên mẫu. If I finish this first diễn đạt điều kiện thực tế.
+SOUND Nhấn phần việc chính và thời hạn. Would you có thể nối nhanh nhưng giữ giọng và độ rõ phù hợp tình huống.
+REGISTER Nhờ hỗ trợ cần nói rõ việc, thời lượng và mức ưu tiên. No khi trả lời Would you mind có nghĩa là không phiền, nên dùng câu đầy đủ để rõ ý.
+P Could you give me a hand with this?|Bạn giúp tôi việc này được không?
+P Would you mind taking a look?|Bạn xem giúp được không?
+P How urgent is this?|Việc này gấp đến mức nào?
+P I can do it, but not by today.|Tôi làm được, nhưng không kịp hôm nay.
+P Could we push the deadline back a day?|Chúng ta lùi hạn một ngày được không?
+P Which task should I prioritize?|Tôi nên ưu tiên việc nào?
+D Could you help me check these numbers?|Bạn giúp tôi kiểm tra các số này được không?
+D Sure. When do you need it done?|Được. Bạn cần xong khi nào?
+D By the end of the day.|Trước cuối ngày.
+D I have a deadline this afternoon. Would tomorrow morning work?|Chiều nay tôi có hạn chót. Sáng mai có được không?
+D Yes, as long as it's before ten.|Được, miễn là trước mười giờ.
+D Great. I'll put it first on my list tomorrow.|Tốt. Ngày mai tôi sẽ ưu tiên nó đầu tiên.
+Q Why can't the colleague help immediately?|They have a deadline that afternoon.
+Q What time is the revised deadline?|Before ten tomorrow morning.
+FIX Would you mind to check this?|Would you mind checking this?
+TASK Nhờ hỗ trợ ba việc với mức gấp khác nhau; luyện cả vai người nhờ và người nhận.
+TWIST Hai yêu cầu cùng khẩn cấp. Hỏi người phụ trách chốt mức ưu tiên thay vì hứa cả hai.
+@@ 24|Giving and receiving feedback|Góp ý và tiếp nhận góp ý
+GOAL Góp ý cụ thể, hỏi ví dụ và thống nhất một hành động cải thiện.
+GRAMMAR Could have theo sau quá khứ phân từ khi nói điều có thể đã làm khác. Suggest theo sau V-ing, không dùng suggest someone to.
+SOUND Đặt trọng âm vào hành vi và ví dụ, tránh nhấn YOU theo kiểu trách móc. Dừng để người nghe trả lời.
+REGISTER Mô tả việc quan sát được và tác động thay vì đánh giá con người. Could you give me an example giúp tránh hiểu mơ hồ.
+P I liked how clearly you explained the problem.|Tôi thích cách bạn giải thích vấn đề rõ ràng.
+P One thing we could improve is the timing.|Một điều mình có thể cải thiện là thời gian.
+P Could you give me a specific example?|Bạn cho tôi ví dụ cụ thể được không?
+P I see what you mean.|Tôi hiểu ý bạn.
+P I'll keep that in mind next time.|Lần sau tôi sẽ lưu ý điều đó.
+P Let's agree on one change to try.|Mình thống nhất một thay đổi để thử nhé.
+D Your presentation was clear. Could we talk about the ending?|Bài trình bày của bạn rõ. Mình nói về phần kết được không?
+D Of course. What would you change?|Được chứ. Bạn muốn đổi điều gì?
+D The conclusion felt rushed. A short summary might help.|Phần kết hơi vội. Tóm tắt ngắn có thể giúp.
+D That makes sense. I used too much time on the examples.|Hợp lý. Tôi đã dành quá nhiều thời gian cho ví dụ.
+D Maybe cut one example and leave a minute for the summary.|Có thể bỏ một ví dụ và dành một phút cho tóm tắt.
+D I'll try that in the next session.|Buổi sau tôi sẽ thử.
+Q Which part felt rushed?|The conclusion.
+Q What change is proposed?|Cut one example and leave a minute for a summary.
+FIX I suggest you to shorten it.|I suggest that you shorten it.
+TASK Góp ý một bài nói đã ghi âm; nêu hai điểm cụ thể và một thay đổi. Ôn họp và yêu cầu ở tuần 21 đến 23.
+TWIST Người nghe không đồng ý. Hỏi lý do, tóm tắt quan điểm của họ và tìm một thử nghiệm nhỏ.
+@@ 25|Job interviews|Phỏng vấn việc làm
+GOAL Giới thiệu kinh nghiệm, kể một ví dụ theo tình huống hành động kết quả và hỏi về vai trò.
+GRAMMAR Quá khứ đơn kể việc đã làm; hiện tại hoàn thành tóm tắt kinh nghiệm. Have experience in theo sau danh từ hoặc V-ing.
+SOUND Ngắt theo ba cụm khi kể ví dụ. Nhấn hành động của bạn và kết quả; không cố đọc tất cả ở cùng tốc độ.
+REGISTER Trả lời bằng kinh nghiệm thật. Nếu chưa có kinh nghiệm trực tiếp, nói rõ và liên hệ kỹ năng có thể chuyển đổi.
+P I have three years of experience in customer support.|Tôi có ba năm kinh nghiệm hỗ trợ khách hàng.
+P In my previous role, I handled customer complaints.|Ở vị trí trước, tôi xử lý khiếu nại khách hàng.
+P Let me give you a specific example.|Để tôi đưa một ví dụ cụ thể.
+P I haven't used that tool yet, but I'm willing to learn.|Tôi chưa dùng công cụ đó nhưng sẵn sàng học.
+P What would success look like in the first three months?|Trong ba tháng đầu, thành công ở vị trí này được đánh giá thế nào?
+P Could you tell me more about the team?|Bạn nói thêm về nhóm được không?
+D Tell me about a difficult situation you handled.|Hãy kể một tình huống khó bạn đã xử lý.
+D A customer received the wrong item and was upset.|Một khách nhận sai hàng và không hài lòng.
+D What did you do?|Bạn đã làm gì?
+D I listened, confirmed the order, and arranged a replacement.|Tôi lắng nghe, xác nhận đơn và sắp xếp đổi hàng.
+D What was the outcome?|Kết quả thế nào?
+D The customer received the correct item and thanked our team.|Khách nhận đúng hàng và cảm ơn nhóm chúng tôi.
+Q What was wrong with the customer's order?|They received the wrong item.
+Q What action followed confirming the order?|Arranging a replacement.
+FIX I have experience to handle complaints.|I have experience in handling complaints.
+TASK Chuẩn bị phần giới thiệu 90 giây và hai ví dụ thật; nói lại không học thuộc từng chữ.
+TWIST Bạn được hỏi kỹ năng chưa có. Nói rõ giới hạn, nêu kinh nghiệm liên quan và cách sẽ học.
+@@ 26|Travel and work challenge|Ôn tập du lịch và công việc
+GOAL Xử lý chuỗi tình huống chuyến công tác với thay đổi bất ngờ và trao đổi công việc.
+GRAMMAR Ôn hiện tại hoàn thành, quá khứ đơn, yêu cầu lịch sự và by cho hạn chót. Sửa câu ngay khi phát hiện lỗi.
+SOUND Luyện số, ngày, giờ và địa chỉ email trong tiếng nói liên tục. Nghe không rõ thì đọc lại toàn bộ thông tin quan trọng.
+REGISTER Báo vấn đề kèm tác động và phương án. I'm running late cần thêm thời gian dự kiến thay vì chỉ xin lỗi.
+P My flight has been delayed.|Chuyến bay của tôi bị hoãn.
+P I may arrive later than expected.|Tôi có thể đến muộn hơn dự kiến.
+P Could we move the meeting online?|Chúng ta chuyển cuộc họp sang trực tuyến được không?
+P I'll send the materials ahead of time.|Tôi sẽ gửi tài liệu trước.
+P Let me confirm the revised plan.|Để tôi xác nhận kế hoạch đã điều chỉnh.
+P Thanks for being flexible.|Cảm ơn bạn đã linh hoạt.
+D My flight has been delayed by two hours.|Chuyến bay của tôi bị hoãn hai giờ.
+D Will you still make the afternoon meeting?|Bạn còn kịp cuộc họp chiều không?
+D Probably not. Could I join online?|Có lẽ không. Tôi tham gia trực tuyến được không?
+D Yes. Please send the slides before noon.|Được. Hãy gửi slide trước trưa.
+D I'll send them now and test the connection at the hotel.|Tôi sẽ gửi ngay rồi kiểm tra kết nối ở khách sạn.
+D Sounds good. Let us know if anything changes.|Được. Nếu có thay đổi, báo cho chúng tôi nhé.
+Q How long is the flight delay?|Two hours.
+Q When should the slides be sent?|Before noon.
+FIX My flight has delay.|My flight has been delayed.
+TASK Bài kiểm tra chặng 2: diễn 10 phút gồm hoãn chuyến bay, nhận phòng, đổi lịch họp, báo tiến độ và nhờ hỗ trợ.
+TWIST Kết nối ở khách sạn không ổn. Đề xuất hai cách tiếp tục cuộc họp mà vẫn rõ trách nhiệm.

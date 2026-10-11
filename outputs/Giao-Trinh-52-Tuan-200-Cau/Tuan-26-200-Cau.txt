@@ -1,0 +1,200 @@
+﻿My flight has been delayed. | Chuyến bay của tôi bị hoãn.
+I may arrive later than expected. | Tôi có thể đến muộn hơn dự kiến.
+Could we move the meeting online? | Chúng ta chuyển cuộc họp sang trực tuyến được không?
+I'll send the materials ahead of time. | Tôi sẽ gửi tài liệu trước.
+Let me confirm the revised plan. | Để tôi xác nhận kế hoạch đã điều chỉnh.
+Thanks for being flexible. | Cảm ơn bạn đã linh hoạt.
+I'd like to handle a work call while traveling. | Tôi muốn xử lý một cuộc gọi công việc khi đang đi du lịch.
+I need to handle a work call while traveling. | Tôi cần xử lý một cuộc gọi công việc khi đang đi du lịch.
+Can I handle a work call while traveling? | Tôi có thể xử lý một cuộc gọi công việc khi đang đi du lịch không?
+Could you help me handle a work call while traveling? | Bạn giúp tôi xử lý một cuộc gọi công việc khi đang đi du lịch được không?
+How can I handle a work call while traveling? | Tôi có thể xử lý một cuộc gọi công việc khi đang đi du lịch bằng cách nào?
+I'm trying to handle a work call while traveling. | Tôi đang cố gắng xử lý một cuộc gọi công việc khi đang đi du lịch.
+I don't know how to handle a work call while traveling. | Tôi không biết cách xử lý một cuộc gọi công việc khi đang đi du lịch.
+Let me handle a work call while traveling first. | Để tôi xử lý một cuộc gọi công việc khi đang đi du lịch trước đã.
+I was going to handle a work call while traveling, but I ran out of time. | Tôi định xử lý một cuộc gọi công việc khi đang đi du lịch, nhưng không còn đủ thời gian.
+I haven't had a chance to handle a work call while traveling yet. | Tôi chưa có dịp xử lý một cuộc gọi công việc khi đang đi du lịch.
+Do you think it would be more effective for me to handle a work call while traveling in person? | Bạn nghĩ tôi xử lý một cuộc gọi công việc khi đang đi du lịch trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd handle a work call while traveling before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xử lý một cuộc gọi công việc khi đang đi du lịch trước khi tiếp tục.
+I'll handle a work call while traveling as soon as I have the information I need. | Tôi sẽ xử lý một cuộc gọi công việc khi đang đi du lịch ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to handle a work call while traveling. | Nhìn lại, lẽ ra tôi nên dành thời gian để xử lý một cuộc gọi công việc khi đang đi du lịch.
+I'd like to explain a schedule change to a client. | Tôi muốn giải thích thay đổi lịch trình cho khách hàng.
+I need to explain a schedule change to a client. | Tôi cần giải thích thay đổi lịch trình cho khách hàng.
+Can I explain a schedule change to a client? | Tôi có thể giải thích thay đổi lịch trình cho khách hàng không?
+Could you help me explain a schedule change to a client? | Bạn giúp tôi giải thích thay đổi lịch trình cho khách hàng được không?
+How can I explain a schedule change to a client? | Tôi có thể giải thích thay đổi lịch trình cho khách hàng bằng cách nào?
+I'm trying to explain a schedule change to a client. | Tôi đang cố gắng giải thích thay đổi lịch trình cho khách hàng.
+I don't know how to explain a schedule change to a client. | Tôi không biết cách giải thích thay đổi lịch trình cho khách hàng.
+Let me explain a schedule change to a client first. | Để tôi giải thích thay đổi lịch trình cho khách hàng trước đã.
+I was going to explain a schedule change to a client, but I ran out of time. | Tôi định giải thích thay đổi lịch trình cho khách hàng, nhưng không còn đủ thời gian.
+I haven't had a chance to explain a schedule change to a client yet. | Tôi chưa có dịp giải thích thay đổi lịch trình cho khách hàng.
+Do you think it would be more effective for me to explain a schedule change to a client in person? | Bạn nghĩ tôi giải thích thay đổi lịch trình cho khách hàng trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd explain a schedule change to a client before moving forward. | Nếu ở vị trí của bạn, tôi sẽ giải thích thay đổi lịch trình cho khách hàng trước khi tiếp tục.
+I'll explain a schedule change to a client as soon as I have the information I need. | Tôi sẽ giải thích thay đổi lịch trình cho khách hàng ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to explain a schedule change to a client. | Nhìn lại, lẽ ra tôi nên dành thời gian để giải thích thay đổi lịch trình cho khách hàng.
+Is there any reason why I shouldn't explain a schedule change to a client at this stage? | Có lý do nào khiến tôi không nên giải thích thay đổi lịch trình cho khách hàng ở giai đoạn này không?
+I'd rather explain a schedule change to a client now than deal with a misunderstanding later. | Tôi muốn giải thích thay đổi lịch trình cho khách hàng ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to explain a schedule change to a client properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn giải thích thay đổi lịch trình cho khách hàng cho đúng.
+Unless there is a better alternative, I plan to explain a schedule change to a client. | Trừ khi có phương án tốt hơn, tôi dự định giải thích thay đổi lịch trình cho khách hàng.
+The main reason I want to explain a schedule change to a client is to avoid unnecessary confusion. | Lý do chính tôi muốn giải thích thay đổi lịch trình cho khách hàng là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to explain a schedule change to a client, I'll be in a better position to respond. | Sau khi có dịp giải thích thay đổi lịch trình cho khách hàng, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to rebook a canceled flight before a meeting. | Tôi muốn đặt lại chuyến bay bị hủy trước một cuộc họp.
+I need to rebook a canceled flight before a meeting. | Tôi cần đặt lại chuyến bay bị hủy trước một cuộc họp.
+Can I rebook a canceled flight before a meeting? | Tôi có thể đặt lại chuyến bay bị hủy trước một cuộc họp không?
+Could you help me rebook a canceled flight before a meeting? | Bạn giúp tôi đặt lại chuyến bay bị hủy trước một cuộc họp được không?
+How can I rebook a canceled flight before a meeting? | Tôi có thể đặt lại chuyến bay bị hủy trước một cuộc họp bằng cách nào?
+I'm trying to rebook a canceled flight before a meeting. | Tôi đang cố gắng đặt lại chuyến bay bị hủy trước một cuộc họp.
+I don't know how to rebook a canceled flight before a meeting. | Tôi không biết cách đặt lại chuyến bay bị hủy trước một cuộc họp.
+Let me rebook a canceled flight before a meeting first. | Để tôi đặt lại chuyến bay bị hủy trước một cuộc họp trước đã.
+I was going to rebook a canceled flight before a meeting, but I ran out of time. | Tôi định đặt lại chuyến bay bị hủy trước một cuộc họp, nhưng không còn đủ thời gian.
+I haven't had a chance to rebook a canceled flight before a meeting yet. | Tôi chưa có dịp đặt lại chuyến bay bị hủy trước một cuộc họp.
+Do you think it would be more effective for me to rebook a canceled flight before a meeting in person? | Bạn nghĩ tôi đặt lại chuyến bay bị hủy trước một cuộc họp trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd rebook a canceled flight before a meeting before moving forward. | Nếu ở vị trí của bạn, tôi sẽ đặt lại chuyến bay bị hủy trước một cuộc họp trước khi tiếp tục.
+I'll rebook a canceled flight before a meeting as soon as I have the information I need. | Tôi sẽ đặt lại chuyến bay bị hủy trước một cuộc họp ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to rebook a canceled flight before a meeting. | Nhìn lại, lẽ ra tôi nên dành thời gian để đặt lại chuyến bay bị hủy trước một cuộc họp.
+Is there any reason why I shouldn't rebook a canceled flight before a meeting at this stage? | Có lý do nào khiến tôi không nên đặt lại chuyến bay bị hủy trước một cuộc họp ở giai đoạn này không?
+I'd rather rebook a canceled flight before a meeting now than deal with a misunderstanding later. | Tôi muốn đặt lại chuyến bay bị hủy trước một cuộc họp ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to rebook a canceled flight before a meeting properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn đặt lại chuyến bay bị hủy trước một cuộc họp cho đúng.
+Unless there is a better alternative, I plan to rebook a canceled flight before a meeting. | Trừ khi có phương án tốt hơn, tôi dự định đặt lại chuyến bay bị hủy trước một cuộc họp.
+The main reason I want to rebook a canceled flight before a meeting is to avoid unnecessary confusion. | Lý do chính tôi muốn đặt lại chuyến bay bị hủy trước một cuộc họp là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to rebook a canceled flight before a meeting, I'll be in a better position to respond. | Sau khi có dịp đặt lại chuyến bay bị hủy trước một cuộc họp, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to negotiate a deadline after a travel delay. | Tôi muốn thương lượng hạn chót sau khi bị chậm chuyến đi.
+I need to negotiate a deadline after a travel delay. | Tôi cần thương lượng hạn chót sau khi bị chậm chuyến đi.
+Can I negotiate a deadline after a travel delay? | Tôi có thể thương lượng hạn chót sau khi bị chậm chuyến đi không?
+Could you help me negotiate a deadline after a travel delay? | Bạn giúp tôi thương lượng hạn chót sau khi bị chậm chuyến đi được không?
+How can I negotiate a deadline after a travel delay? | Tôi có thể thương lượng hạn chót sau khi bị chậm chuyến đi bằng cách nào?
+I'm trying to negotiate a deadline after a travel delay. | Tôi đang cố gắng thương lượng hạn chót sau khi bị chậm chuyến đi.
+I don't know how to negotiate a deadline after a travel delay. | Tôi không biết cách thương lượng hạn chót sau khi bị chậm chuyến đi.
+Let me negotiate a deadline after a travel delay first. | Để tôi thương lượng hạn chót sau khi bị chậm chuyến đi trước đã.
+I was going to negotiate a deadline after a travel delay, but I ran out of time. | Tôi định thương lượng hạn chót sau khi bị chậm chuyến đi, nhưng không còn đủ thời gian.
+I haven't had a chance to negotiate a deadline after a travel delay yet. | Tôi chưa có dịp thương lượng hạn chót sau khi bị chậm chuyến đi.
+Do you think it would be more effective for me to negotiate a deadline after a travel delay in person? | Bạn nghĩ tôi thương lượng hạn chót sau khi bị chậm chuyến đi trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd negotiate a deadline after a travel delay before moving forward. | Nếu ở vị trí của bạn, tôi sẽ thương lượng hạn chót sau khi bị chậm chuyến đi trước khi tiếp tục.
+I'll negotiate a deadline after a travel delay as soon as I have the information I need. | Tôi sẽ thương lượng hạn chót sau khi bị chậm chuyến đi ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to negotiate a deadline after a travel delay. | Nhìn lại, lẽ ra tôi nên dành thời gian để thương lượng hạn chót sau khi bị chậm chuyến đi.
+Is there any reason why I shouldn't negotiate a deadline after a travel delay at this stage? | Có lý do nào khiến tôi không nên thương lượng hạn chót sau khi bị chậm chuyến đi ở giai đoạn này không?
+I'd rather negotiate a deadline after a travel delay now than deal with a misunderstanding later. | Tôi muốn thương lượng hạn chót sau khi bị chậm chuyến đi ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to negotiate a deadline after a travel delay properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn thương lượng hạn chót sau khi bị chậm chuyến đi cho đúng.
+Unless there is a better alternative, I plan to negotiate a deadline after a travel delay. | Trừ khi có phương án tốt hơn, tôi dự định thương lượng hạn chót sau khi bị chậm chuyến đi.
+The main reason I want to negotiate a deadline after a travel delay is to avoid unnecessary confusion. | Lý do chính tôi muốn thương lượng hạn chót sau khi bị chậm chuyến đi là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to negotiate a deadline after a travel delay, I'll be in a better position to respond. | Sau khi có dịp thương lượng hạn chót sau khi bị chậm chuyến đi, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to give a project update from the hotel. | Tôi muốn báo cáo tiến độ dự án từ khách sạn.
+I need to give a project update from the hotel. | Tôi cần báo cáo tiến độ dự án từ khách sạn.
+Can I give a project update from the hotel? | Tôi có thể báo cáo tiến độ dự án từ khách sạn không?
+Could you help me give a project update from the hotel? | Bạn giúp tôi báo cáo tiến độ dự án từ khách sạn được không?
+How can I give a project update from the hotel? | Tôi có thể báo cáo tiến độ dự án từ khách sạn bằng cách nào?
+I'm trying to give a project update from the hotel. | Tôi đang cố gắng báo cáo tiến độ dự án từ khách sạn.
+I don't know how to give a project update from the hotel. | Tôi không biết cách báo cáo tiến độ dự án từ khách sạn.
+Let me give a project update from the hotel first. | Để tôi báo cáo tiến độ dự án từ khách sạn trước đã.
+I was going to give a project update from the hotel, but I ran out of time. | Tôi định báo cáo tiến độ dự án từ khách sạn, nhưng không còn đủ thời gian.
+I haven't had a chance to give a project update from the hotel yet. | Tôi chưa có dịp báo cáo tiến độ dự án từ khách sạn.
+Do you think it would be more effective for me to give a project update from the hotel in person? | Bạn nghĩ tôi báo cáo tiến độ dự án từ khách sạn trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd give a project update from the hotel before moving forward. | Nếu ở vị trí của bạn, tôi sẽ báo cáo tiến độ dự án từ khách sạn trước khi tiếp tục.
+I'll give a project update from the hotel as soon as I have the information I need. | Tôi sẽ báo cáo tiến độ dự án từ khách sạn ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to give a project update from the hotel. | Nhìn lại, lẽ ra tôi nên dành thời gian để báo cáo tiến độ dự án từ khách sạn.
+Is there any reason why I shouldn't give a project update from the hotel at this stage? | Có lý do nào khiến tôi không nên báo cáo tiến độ dự án từ khách sạn ở giai đoạn này không?
+I'd rather give a project update from the hotel now than deal with a misunderstanding later. | Tôi muốn báo cáo tiến độ dự án từ khách sạn ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to give a project update from the hotel properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn báo cáo tiến độ dự án từ khách sạn cho đúng.
+Unless there is a better alternative, I plan to give a project update from the hotel. | Trừ khi có phương án tốt hơn, tôi dự định báo cáo tiến độ dự án từ khách sạn.
+The main reason I want to give a project update from the hotel is to avoid unnecessary confusion. | Lý do chính tôi muốn báo cáo tiến độ dự án từ khách sạn là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to give a project update from the hotel, I'll be in a better position to respond. | Sau khi có dịp báo cáo tiến độ dự án từ khách sạn, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask for help when my internet connection fails. | Tôi muốn xin hỗ trợ khi kết nối internet của tôi bị lỗi.
+I need to ask for help when my internet connection fails. | Tôi cần xin hỗ trợ khi kết nối internet của tôi bị lỗi.
+Can I ask for help when my internet connection fails? | Tôi có thể xin hỗ trợ khi kết nối internet của tôi bị lỗi không?
+Could you help me ask for help when my internet connection fails? | Bạn giúp tôi xin hỗ trợ khi kết nối internet của tôi bị lỗi được không?
+How can I ask for help when my internet connection fails? | Tôi có thể xin hỗ trợ khi kết nối internet của tôi bị lỗi bằng cách nào?
+I'm trying to ask for help when my internet connection fails. | Tôi đang cố gắng xin hỗ trợ khi kết nối internet của tôi bị lỗi.
+I don't know how to ask for help when my internet connection fails. | Tôi không biết cách xin hỗ trợ khi kết nối internet của tôi bị lỗi.
+Let me ask for help when my internet connection fails first. | Để tôi xin hỗ trợ khi kết nối internet của tôi bị lỗi trước đã.
+I was going to ask for help when my internet connection fails, but I ran out of time. | Tôi định xin hỗ trợ khi kết nối internet của tôi bị lỗi, nhưng không còn đủ thời gian.
+I haven't had a chance to ask for help when my internet connection fails yet. | Tôi chưa có dịp xin hỗ trợ khi kết nối internet của tôi bị lỗi.
+Do you think it would be more effective for me to ask for help when my internet connection fails in person? | Bạn nghĩ tôi xin hỗ trợ khi kết nối internet của tôi bị lỗi trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask for help when my internet connection fails before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xin hỗ trợ khi kết nối internet của tôi bị lỗi trước khi tiếp tục.
+I'll ask for help when my internet connection fails as soon as I have the information I need. | Tôi sẽ xin hỗ trợ khi kết nối internet của tôi bị lỗi ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask for help when my internet connection fails. | Nhìn lại, lẽ ra tôi nên dành thời gian để xin hỗ trợ khi kết nối internet của tôi bị lỗi.
+Is there any reason why I shouldn't ask for help when my internet connection fails at this stage? | Có lý do nào khiến tôi không nên xin hỗ trợ khi kết nối internet của tôi bị lỗi ở giai đoạn này không?
+I'd rather ask for help when my internet connection fails now than deal with a misunderstanding later. | Tôi muốn xin hỗ trợ khi kết nối internet của tôi bị lỗi ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask for help when my internet connection fails properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xin hỗ trợ khi kết nối internet của tôi bị lỗi cho đúng.
+Unless there is a better alternative, I plan to ask for help when my internet connection fails. | Trừ khi có phương án tốt hơn, tôi dự định xin hỗ trợ khi kết nối internet của tôi bị lỗi.
+The main reason I want to ask for help when my internet connection fails is to avoid unnecessary confusion. | Lý do chính tôi muốn xin hỗ trợ khi kết nối internet của tôi bị lỗi là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask for help when my internet connection fails, I'll be in a better position to respond. | Sau khi có dịp xin hỗ trợ khi kết nối internet của tôi bị lỗi, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to write a concise apology for missing a call. | Tôi muốn viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi.
+I need to write a concise apology for missing a call. | Tôi cần viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi.
+Can I write a concise apology for missing a call? | Tôi có thể viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi không?
+Could you help me write a concise apology for missing a call? | Bạn giúp tôi viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi được không?
+How can I write a concise apology for missing a call? | Tôi có thể viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi bằng cách nào?
+I'm trying to write a concise apology for missing a call. | Tôi đang cố gắng viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi.
+I don't know how to write a concise apology for missing a call. | Tôi không biết cách viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi.
+Let me write a concise apology for missing a call first. | Để tôi viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi trước đã.
+I was going to write a concise apology for missing a call, but I ran out of time. | Tôi định viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi, nhưng không còn đủ thời gian.
+I haven't had a chance to write a concise apology for missing a call yet. | Tôi chưa có dịp viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi.
+Do you think it would be more effective for me to write a concise apology for missing a call in person? | Bạn nghĩ tôi viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd write a concise apology for missing a call before moving forward. | Nếu ở vị trí của bạn, tôi sẽ viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi trước khi tiếp tục.
+I'll write a concise apology for missing a call as soon as I have the information I need. | Tôi sẽ viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to write a concise apology for missing a call. | Nhìn lại, lẽ ra tôi nên dành thời gian để viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi.
+Is there any reason why I shouldn't write a concise apology for missing a call at this stage? | Có lý do nào khiến tôi không nên viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi ở giai đoạn này không?
+I'd rather write a concise apology for missing a call now than deal with a misunderstanding later. | Tôi muốn viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to write a concise apology for missing a call properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi cho đúng.
+Unless there is a better alternative, I plan to write a concise apology for missing a call. | Trừ khi có phương án tốt hơn, tôi dự định viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi.
+The main reason I want to write a concise apology for missing a call is to avoid unnecessary confusion. | Lý do chính tôi muốn viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to write a concise apology for missing a call, I'll be in a better position to respond. | Sau khi có dịp viết lời xin lỗi ngắn gọn vì lỡ cuộc gọi, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to prioritize urgent messages during the trip. | Tôi muốn ưu tiên tin nhắn khẩn cấp trong chuyến đi.
+I need to prioritize urgent messages during the trip. | Tôi cần ưu tiên tin nhắn khẩn cấp trong chuyến đi.
+Can I prioritize urgent messages during the trip? | Tôi có thể ưu tiên tin nhắn khẩn cấp trong chuyến đi không?
+Could you help me prioritize urgent messages during the trip? | Bạn giúp tôi ưu tiên tin nhắn khẩn cấp trong chuyến đi được không?
+How can I prioritize urgent messages during the trip? | Tôi có thể ưu tiên tin nhắn khẩn cấp trong chuyến đi bằng cách nào?
+I'm trying to prioritize urgent messages during the trip. | Tôi đang cố gắng ưu tiên tin nhắn khẩn cấp trong chuyến đi.
+I don't know how to prioritize urgent messages during the trip. | Tôi không biết cách ưu tiên tin nhắn khẩn cấp trong chuyến đi.
+Let me prioritize urgent messages during the trip first. | Để tôi ưu tiên tin nhắn khẩn cấp trong chuyến đi trước đã.
+I was going to prioritize urgent messages during the trip, but I ran out of time. | Tôi định ưu tiên tin nhắn khẩn cấp trong chuyến đi, nhưng không còn đủ thời gian.
+I haven't had a chance to prioritize urgent messages during the trip yet. | Tôi chưa có dịp ưu tiên tin nhắn khẩn cấp trong chuyến đi.
+Do you think it would be more effective for me to prioritize urgent messages during the trip in person? | Bạn nghĩ tôi ưu tiên tin nhắn khẩn cấp trong chuyến đi trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd prioritize urgent messages during the trip before moving forward. | Nếu ở vị trí của bạn, tôi sẽ ưu tiên tin nhắn khẩn cấp trong chuyến đi trước khi tiếp tục.
+I'll prioritize urgent messages during the trip as soon as I have the information I need. | Tôi sẽ ưu tiên tin nhắn khẩn cấp trong chuyến đi ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to prioritize urgent messages during the trip. | Nhìn lại, lẽ ra tôi nên dành thời gian để ưu tiên tin nhắn khẩn cấp trong chuyến đi.
+Is there any reason why I shouldn't prioritize urgent messages during the trip at this stage? | Có lý do nào khiến tôi không nên ưu tiên tin nhắn khẩn cấp trong chuyến đi ở giai đoạn này không?
+I'd rather prioritize urgent messages during the trip now than deal with a misunderstanding later. | Tôi muốn ưu tiên tin nhắn khẩn cấp trong chuyến đi ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to prioritize urgent messages during the trip properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn ưu tiên tin nhắn khẩn cấp trong chuyến đi cho đúng.
+Unless there is a better alternative, I plan to prioritize urgent messages during the trip. | Trừ khi có phương án tốt hơn, tôi dự định ưu tiên tin nhắn khẩn cấp trong chuyến đi.
+The main reason I want to prioritize urgent messages during the trip is to avoid unnecessary confusion. | Lý do chính tôi muốn ưu tiên tin nhắn khẩn cấp trong chuyến đi là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to prioritize urgent messages during the trip, I'll be in a better position to respond. | Sau khi có dịp ưu tiên tin nhắn khẩn cấp trong chuyến đi, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to arrange an alternative meeting time. | Tôi muốn sắp xếp giờ họp thay thế.
+I need to arrange an alternative meeting time. | Tôi cần sắp xếp giờ họp thay thế.
+Can I arrange an alternative meeting time? | Tôi có thể sắp xếp giờ họp thay thế không?
+Could you help me arrange an alternative meeting time? | Bạn giúp tôi sắp xếp giờ họp thay thế được không?
+How can I arrange an alternative meeting time? | Tôi có thể sắp xếp giờ họp thay thế bằng cách nào?
+I'm trying to arrange an alternative meeting time. | Tôi đang cố gắng sắp xếp giờ họp thay thế.
+I don't know how to arrange an alternative meeting time. | Tôi không biết cách sắp xếp giờ họp thay thế.
+Let me arrange an alternative meeting time first. | Để tôi sắp xếp giờ họp thay thế trước đã.
+I was going to arrange an alternative meeting time, but I ran out of time. | Tôi định sắp xếp giờ họp thay thế, nhưng không còn đủ thời gian.
+I haven't had a chance to arrange an alternative meeting time yet. | Tôi chưa có dịp sắp xếp giờ họp thay thế.
+Do you think it would be more effective for me to arrange an alternative meeting time in person? | Bạn nghĩ tôi sắp xếp giờ họp thay thế trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd arrange an alternative meeting time before moving forward. | Nếu ở vị trí của bạn, tôi sẽ sắp xếp giờ họp thay thế trước khi tiếp tục.
+I'll arrange an alternative meeting time as soon as I have the information I need. | Tôi sẽ sắp xếp giờ họp thay thế ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to arrange an alternative meeting time. | Nhìn lại, lẽ ra tôi nên dành thời gian để sắp xếp giờ họp thay thế.
+Is there any reason why I shouldn't arrange an alternative meeting time at this stage? | Có lý do nào khiến tôi không nên sắp xếp giờ họp thay thế ở giai đoạn này không?
+I'd rather arrange an alternative meeting time now than deal with a misunderstanding later. | Tôi muốn sắp xếp giờ họp thay thế ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to arrange an alternative meeting time properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn sắp xếp giờ họp thay thế cho đúng.
+Unless there is a better alternative, I plan to arrange an alternative meeting time. | Trừ khi có phương án tốt hơn, tôi dự định sắp xếp giờ họp thay thế.
+The main reason I want to arrange an alternative meeting time is to avoid unnecessary confusion. | Lý do chính tôi muốn sắp xếp giờ họp thay thế là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to arrange an alternative meeting time, I'll be in a better position to respond. | Sau khi có dịp sắp xếp giờ họp thay thế, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to summarize what I learned from the experience. | Tôi muốn tóm tắt điều tôi học được từ trải nghiệm.
+I need to summarize what I learned from the experience. | Tôi cần tóm tắt điều tôi học được từ trải nghiệm.
+Can I summarize what I learned from the experience? | Tôi có thể tóm tắt điều tôi học được từ trải nghiệm không?
+Could you help me summarize what I learned from the experience? | Bạn giúp tôi tóm tắt điều tôi học được từ trải nghiệm được không?
+How can I summarize what I learned from the experience? | Tôi có thể tóm tắt điều tôi học được từ trải nghiệm bằng cách nào?
+I'm trying to summarize what I learned from the experience. | Tôi đang cố gắng tóm tắt điều tôi học được từ trải nghiệm.
+I don't know how to summarize what I learned from the experience. | Tôi không biết cách tóm tắt điều tôi học được từ trải nghiệm.
+Let me summarize what I learned from the experience first. | Để tôi tóm tắt điều tôi học được từ trải nghiệm trước đã.
+I was going to summarize what I learned from the experience, but I ran out of time. | Tôi định tóm tắt điều tôi học được từ trải nghiệm, nhưng không còn đủ thời gian.
+I haven't had a chance to summarize what I learned from the experience yet. | Tôi chưa có dịp tóm tắt điều tôi học được từ trải nghiệm.
+Do you think it would be more effective for me to summarize what I learned from the experience in person? | Bạn nghĩ tôi tóm tắt điều tôi học được từ trải nghiệm trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd summarize what I learned from the experience before moving forward. | Nếu ở vị trí của bạn, tôi sẽ tóm tắt điều tôi học được từ trải nghiệm trước khi tiếp tục.
+I'll summarize what I learned from the experience as soon as I have the information I need. | Tôi sẽ tóm tắt điều tôi học được từ trải nghiệm ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to summarize what I learned from the experience. | Nhìn lại, lẽ ra tôi nên dành thời gian để tóm tắt điều tôi học được từ trải nghiệm.
+Is there any reason why I shouldn't summarize what I learned from the experience at this stage? | Có lý do nào khiến tôi không nên tóm tắt điều tôi học được từ trải nghiệm ở giai đoạn này không?
+I'd rather summarize what I learned from the experience now than deal with a misunderstanding later. | Tôi muốn tóm tắt điều tôi học được từ trải nghiệm ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to summarize what I learned from the experience properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn tóm tắt điều tôi học được từ trải nghiệm cho đúng.
+Unless there is a better alternative, I plan to summarize what I learned from the experience. | Trừ khi có phương án tốt hơn, tôi dự định tóm tắt điều tôi học được từ trải nghiệm.
+The main reason I want to summarize what I learned from the experience is to avoid unnecessary confusion. | Lý do chính tôi muốn tóm tắt điều tôi học được từ trải nghiệm là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to summarize what I learned from the experience, I'll be in a better position to respond. | Sau khi có dịp tóm tắt điều tôi học được từ trải nghiệm, tôi sẽ có đủ cơ sở hơn để phản hồi.

@@ -1,0 +1,298 @@
+@@ 27|Finding a place to live|Tìm và thuê nhà
+GOAL Hỏi thông tin thuê nhà, so sánh hai lựa chọn và xác nhận điều kiện trước khi quyết định.
+GRAMMAR Is ... included? hỏi khoản đã bao gồm; How much is ...? hỏi chi phí. So sánh: quieter than, closer to, more expensive than.
+SOUND Phân biệt rent /rɛnt/ và rented; giữ âm /t/ cuối đủ rõ. Nhấn RENT, UTILITIES, DEPOSIT khi xác nhận tiền.
+REGISTER Lease là hợp đồng thuê; security deposit là tiền đặt cọc. Điều kiện tùy nơi: luôn hỏi, không mặc định tiện ích đã bao gồm.
+P Is the apartment still available?|Căn hộ còn cho thuê không?
+P Are utilities included in the rent?|Tiền thuê đã bao gồm điện, nước và các tiện ích chưa?
+P How much is the security deposit?|Tiền đặt cọc là bao nhiêu?
+P Could I schedule a viewing?|Tôi hẹn xem nhà được không?
+P How long is the lease?|Thời hạn hợp đồng thuê là bao lâu?
+P I'd like to review the lease first.|Tôi muốn xem kỹ hợp đồng trước.
+D Is the one-bedroom apartment still available?|Căn hộ một phòng ngủ còn không?
+D Yes. Would you like to see it on Saturday?|Còn. Bạn muốn xem vào thứ Bảy không?
+D Yes. Are utilities included in the rent?|Có. Tiền thuê đã gồm các tiện ích chưa?
+D Water is included, but electricity isn't.|Có tiền nước, nhưng chưa có tiền điện.
+D Thanks. How long is the lease?|Cảm ơn. Hợp đồng thuê bao lâu?
+D Twelve months. I'll send you the details before the viewing.|Mười hai tháng. Tôi sẽ gửi thông tin trước buổi xem nhà.
+Q Which utility is included?|Water is included.
+Q How long is the lease?|Twelve months.
+FIX This apartment is more cheaper.|This apartment is cheaper.
+TASK Đóng vai cuộc gọi hỏi thuê nhà trong 3 phút: giá, cọc, tiện ích, thời hạn và lịch xem. So sánh với căn thứ hai.
+TWIST Căn gần chỗ làm có giá cao hơn; giải thích ưu tiên của bạn và hỏi thêm một khoản phí chưa rõ.
+
+@@ 28|Repairs and maintenance|Báo hỏng và sửa chữa
+GOAL Mô tả sự cố cụ thể, thời điểm bắt đầu và sắp xếp người đến kiểm tra.
+GRAMMAR Present perfect với since: It's been leaking since yesterday. Câu lịch sự: Could someone take a look at ...?
+SOUND Luyện leaking và clicking: /iː/ dài khác /ɪ/ ngắn. Nhấn thời gian và vị trí để người nghe nhận đúng vấn đề.
+REGISTER Maintenance request là yêu cầu bảo trì. Mô tả điều quan sát được thay vì đoán nguyên nhân kỹ thuật.
+P The kitchen sink is leaking.|Bồn rửa bếp đang rò nước.
+P The heater isn't working.|Máy sưởi không hoạt động.
+P It's been making a strange noise.|Nó đang phát ra tiếng động lạ.
+P Could someone take a look at it?|Có ai đến kiểm tra được không?
+P When can the technician come?|Khi nào kỹ thuật viên đến được?
+P I'll be home after four.|Tôi ở nhà sau bốn giờ.
+D Hi, I'd like to report a problem with the kitchen sink.|Chào bạn, tôi muốn báo sự cố ở bồn rửa bếp.
+D What's happening?|Đang xảy ra chuyện gì?
+D Water is leaking under the cabinet. It started last night.|Nước rò dưới tủ. Nó bắt đầu tối qua.
+D Can our technician come tomorrow morning?|Kỹ thuật viên đến sáng mai được không?
+D I'm at work then. Is anything available after four?|Lúc đó tôi đi làm. Có lịch sau bốn giờ không?
+D We have a five o'clock slot. I'll confirm it by email.|Có lịch lúc năm giờ. Tôi sẽ xác nhận qua email.
+Q Where is the water leaking?|Under the cabinet.
+Q What time will the technician come?|At five o'clock.
+FIX It leaking since yesterday.|It's been leaking since yesterday.
+TASK Gửi tin nhắn báo hỏng trong 60–80 từ rồi diễn cuộc gọi 3 phút để hẹn kiểm tra.
+TWIST Nhân viên đến sớm hơn dự kiến khi bạn chưa về. Thương lượng lại lịch và xác nhận cách liên lạc.
+
+@@ 29|Money and everyday banking|Tiền bạc và giao dịch ngân hàng
+GOAL Hỏi về phí, xem giao dịch và giải thích lựa chọn chi tiêu bằng ngôn ngữ rõ ràng.
+GRAMMAR How much do you charge for ...?; spend money on ...; save up for ... . Phân biệt fee là phí và fine là tiền phạt.
+SOUND Luyện fifteen và fifty, thirteen và thirty: nhấn đuôi -TEEN, nhấn đầu ở số -ty. Đọc lại số tiền để xác nhận.
+REGISTER Checking account là tài khoản giao dịch phổ biến ở Mỹ. Không chia sẻ mã PIN hay mã xác thực trong bài tập; dùng số giả.
+P Is there a monthly fee?|Có phí hằng tháng không?
+P I'd like to check a transaction.|Tôi muốn kiểm tra một giao dịch.
+P I don't recognize this charge.|Tôi không nhận ra khoản thu này.
+P Could you explain the fee?|Bạn giải thích khoản phí được không?
+P I'm trying to stick to my budget.|Tôi đang cố chi tiêu trong ngân sách.
+P I'm saving up for a trip.|Tôi đang dành dụm cho một chuyến đi.
+D I'd like to ask about your checking account.|Tôi muốn hỏi về tài khoản giao dịch của ngân hàng.
+D Sure. What would you like to know?|Được. Bạn muốn biết gì?
+D Is there a monthly fee?|Có phí hằng tháng không?
+D This account has a five-dollar monthly fee.|Tài khoản này có phí năm đô mỗi tháng.
+D Are there any other fees I should know about?|Có khoản phí nào khác tôi cần biết không?
+D I'll show you the fee schedule so you can review it.|Tôi sẽ cho bạn xem bảng phí để xem kỹ.
+Q What is the monthly fee?|Five dollars.
+Q What will the customer review?|The fee schedule.
+FIX I spend too much money for coffee.|I spend too much money on coffee.
+TASK Giải thích ngân sách tháng với số giả trong 2 phút và hỏi nhân viên ngân hàng ba câu về phí.
+TWIST Bạn thấy một giao dịch không nhận ra. Nêu ngày, số tiền giả và hỏi bước xử lý tiếp theo.
+
+@@ 30|At a doctor's appointment|Giao tiếp khi khám bệnh
+GOAL Mô tả triệu chứng, thời gian và mức độ; hỏi lại hướng dẫn bằng lời của mình.
+GRAMMAR I've had ... for ... nêu thời gian kéo dài. It hurts when ... mô tả tình huống. Dùng can/could để xin giải thích.
+SOUND Phân biệt throat /θroʊt/ và thought /θɔt/ theo giọng đang nghe; luyện /θ/ trong throat bằng luồng hơi nhẹ.
+REGISTER Đây là luyện ngôn ngữ, không phải chẩn đoán. Nói chính xác điều bạn biết; yêu cầu interpreter nếu cần hỗ trợ ngôn ngữ.
+P I've had a sore throat for two days.|Tôi đau họng hai ngày rồi.
+P The pain comes and goes.|Cơn đau lúc có lúc không.
+P It hurts when I swallow.|Tôi thấy đau khi nuốt.
+P I'm allergic to penicillin.|Tôi dị ứng với penicillin.
+P Could you explain that in simpler terms?|Bạn giải thích bằng từ dễ hiểu hơn được không?
+P Let me make sure I understood.|Để tôi chắc rằng mình hiểu đúng.
+D What brings you in today?|Hôm nay bạn đến khám vì vấn đề gì?
+D I've had a sore throat for two days.|Tôi đau họng hai ngày rồi.
+D Does it hurt all the time?|Có đau liên tục không?
+D Mostly when I swallow. I'm also feeling tired.|Chủ yếu khi nuốt. Tôi cũng thấy mệt.
+D Thanks for explaining. I'll ask a few more questions.|Cảm ơn bạn đã mô tả. Tôi sẽ hỏi thêm vài câu.
+D Okay. Please let me know if you need me to clarify anything.|Được. Nếu cần tôi nói rõ thêm điều gì, xin cho tôi biết.
+Q How long has the person had a sore throat?|For two days.
+Q When does it mostly hurt?|When the person swallows.
+FIX I have a sore throat since two days.|I've had a sore throat for two days.
+TASK Diễn buổi khám giả định 4 phút: vấn đề, lúc bắt đầu, mức độ, dị ứng nếu có và một câu hỏi lại.
+TWIST Bạn không hiểu một thuật ngữ. Xin giải thích đơn giản và nhắc lại điều mình hiểu; không tự đoán hướng dẫn.
+
+@@ 31|At the pharmacy|Hỏi tại nhà thuốc
+GOAL Nhận thuốc theo đơn, hỏi dược sĩ để làm rõ nhãn và xác nhận thông tin còn thiếu.
+GRAMMAR Is this the same as ...? hỏi sự tương đương; Does it need to ...? hỏi yêu cầu; How often ...? hỏi tần suất.
+SOUND Luyện prescription theo cụm pre-SCRIP-tion; đừng bỏ cụm /skr/. Nói chậm khi đọc tên riêng hoặc tên thuốc.
+REGISTER Pharmacist là dược sĩ; prescription là đơn thuốc; refill là cấp thêm theo đơn. Hỏi người chuyên môn, không tự suy ra liều từ ví dụ.
+P I'm here to pick up a prescription.|Tôi đến lấy thuốc theo đơn.
+P Is it ready for pickup?|Thuốc đã sẵn để nhận chưa?
+P Could you go over the instructions with me?|Bạn giải thích lại hướng dẫn cho tôi được không?
+P What does this warning mean?|Cảnh báo này có nghĩa gì?
+P Should I ask my doctor about that?|Tôi có nên hỏi bác sĩ về việc đó không?
+P Could you write that down for me?|Bạn viết điều đó ra giúp tôi được không?
+D I'm here to pick up a prescription for Alex Nguyen.|Tôi đến lấy thuốc theo đơn của Alex Nguyen.
+D Let me check. It's ready.|Để tôi kiểm tra. Thuốc đã sẵn rồi.
+D Could I speak to the pharmacist about the label?|Tôi nói với dược sĩ về nhãn thuốc được không?
+D Of course. What would you like to clarify?|Được chứ. Bạn muốn làm rõ điều gì?
+D I'm not sure what this warning means.|Tôi chưa rõ cảnh báo này nghĩa gì.
+D The pharmacist can go over it with you.|Dược sĩ có thể giải thích cho bạn.
+Q Whose prescription is being collected?|Alex Nguyen's prescription.
+Q Who can explain the warning?|The pharmacist.
+FIX Could you explain me the label?|Could you explain the label to me?
+TASK Luyện cuộc trao đổi 3 phút với nhãn giả: xin gặp dược sĩ, hỏi từ không hiểu, xin ghi lại và xác nhận.
+TWIST Tên trên túi khác tên bạn. Báo ngay sự khác biệt và nhờ kiểm tra trước khi nhận.
+
+@@ 32|Getting help in an urgent situation|Nhờ giúp đỡ khi có sự cố khẩn cấp
+GOAL Nói vị trí, chuyện đang xảy ra và thông tin chắc chắn một cách ngắn gọn.
+GRAMMAR There is/There are để báo tình huống; someone is ... để mô tả hiện tại. I don't know khi không chắc.
+SOUND Chia địa chỉ thành cụm: số nhà / tên đường / thành phố; đọc từng chữ nếu được hỏi. Ưu tiên rõ hơn nhanh.
+REGISTER Luyện đóng vai, không gọi số thật. Trong tình huống thật, làm theo hướng dẫn của người điều phối và nói rõ điều chưa biết.
+P I need help right away.|Tôi cần giúp đỡ ngay.
+P There's been an accident.|Đã xảy ra một vụ tai nạn.
+P We're at the corner of Oak and Third.|Chúng tôi ở góc đường Oak và Third.
+P Someone is injured.|Có người bị thương.
+P I don't know the exact address.|Tôi không biết địa chỉ chính xác.
+P Could you repeat the question?|Bạn nhắc lại câu hỏi được không?
+D What's the location of the incident?|Sự việc xảy ra ở đâu?
+D We're at the corner of Oak and Third, outside a grocery store.|Chúng tôi ở góc Oak và Third, ngoài một cửa hàng thực phẩm.
+D Tell me what's happening.|Hãy nói chuyện gì đang xảy ra.
+D Two bikes collided, and someone is injured.|Hai xe đạp va vào nhau và có người bị thương.
+D Is the person able to speak?|Người đó nói được không?
+D Yes. I'm staying on the line and listening to your instructions.|Có. Tôi đang giữ máy và nghe hướng dẫn của bạn.
+Q Where did the incident happen?|At the corner of Oak and Third.
+Q What collided?|Two bikes.
+FIX There have an accident.|There's been an accident.
+TASK Với bạn học, đóng vai cuộc báo sự cố 90 giây: vị trí giả, sự việc, điều biết và điều chưa biết.
+TWIST Bạn không biết số nhà. Dùng giao lộ và dấu mốc dễ thấy; trả lời từng câu hỏi, không bịa thông tin.
+
+@@ 33|Fitness and sports|Vận động và thể thao
+GOAL Hỏi về lớp tập, nói sở thích vận động và cùng bạn chọn một hoạt động phù hợp.
+GRAMMAR I'd rather + động từ nguyên mẫu; prefer ... to ...; How often do you ...? hỏi tần suất.
+SOUND Luyện work out và walk: giữ /r/ trong work ở giọng Mỹ có /r/. Nhấn hoạt động và tần suất.
+REGISTER Work out là tập thể dục; warm up là khởi động; pick-up game là trận chơi tự phát. Không mặc định ai cũng thích thi đấu.
+P How often do you work out?|Bạn tập thể dục bao lâu một lần?
+P I'm looking for a beginner-friendly class.|Tôi tìm một lớp phù hợp người mới.
+P I'd rather go for a walk.|Tôi thích đi bộ hơn.
+P Is any equipment provided?|Có cung cấp dụng cụ không?
+P Let's take it at our own pace.|Mình cứ theo nhịp phù hợp với bản thân.
+P I'm not very competitive.|Tôi không thích cạnh tranh lắm.
+D Want to play basketball on Saturday?|Thứ Bảy bạn muốn chơi bóng rổ không?
+D I'd like to, but I'm a beginner.|Tôi muốn, nhưng tôi mới tập.
+D That's fine. It's just a casual game.|Không sao. Chỉ là trận chơi vui thôi.
+D Do I need to bring anything?|Tôi cần mang gì không?
+D Just comfortable shoes and some water.|Chỉ cần giày thoải mái và ít nước.
+D Great. Let's take it at our own pace.|Tuyệt. Mình cứ chơi theo nhịp phù hợp nhé.
+Q Is the game competitive or casual?|It's casual.
+Q What should the beginner bring?|Comfortable shoes and water.
+FIX I prefer walking than running.|I prefer walking to running.
+TASK So sánh đi bộ, bơi và một lớp tập trong 3 phút; chọn hoạt động cùng bạn và hỏi điều cần chuẩn bị.
+TWIST Bạn không thích thi đấu còn người kia thích. Đề xuất cách cả hai vẫn tham gia vui vẻ.
+
+@@ 34|Hobbies, movies, and friendships|Sở thích, phim và kết bạn
+GOAL Mở rộng chuyện trò về sở thích bằng câu hỏi tiếp nối và một lời giới thiệu có lý do.
+GRAMMAR What kind of ...? hỏi loại; be into + danh từ/V-ing diễn tả thích; recommend + danh từ/V-ing.
+SOUND Trong What are you into?, nghe các từ nhỏ nối nhau nhưng luyện chậm trước. Nhấn WHAT và INTO theo ý hỏi.
+REGISTER I'm into ... thân mật; I'm interested in ... trung tính. Khi nói phim, hỏi có muốn nghe nội dung trước khi tiết lộ kết thúc.
+P What do you do for fun?|Bạn thường làm gì để giải trí?
+P I'm really into photography.|Tôi rất thích nhiếp ảnh.
+P How did you get into that?|Bạn bắt đầu thích việc đó như thế nào?
+P What kind of movies do you like?|Bạn thích loại phim nào?
+P I'd recommend this one.|Tôi gợi ý bộ này.
+P I won't spoil the ending.|Tôi sẽ không tiết lộ kết thúc.
+D What do you do for fun?|Bạn làm gì để giải trí?
+D I'm really into photography, especially street photography.|Tôi rất thích nhiếp ảnh, nhất là chụp đường phố.
+D How did you get into that?|Bạn bắt đầu thích nó như thế nào?
+D A friend lent me a camera last year. How about you?|Một người bạn cho tôi mượn máy ảnh năm ngoái. Còn bạn?
+D I watch movies. Have you seen any good ones lately?|Tôi xem phim. Gần đây bạn xem phim nào hay không?
+D Yes. I can recommend one, and I won't spoil the ending.|Có. Tôi giới thiệu một bộ được, và sẽ không kể kết thúc.
+Q When did the friend lend the camera?|Last year.
+Q What does the other person enjoy?|Watching movies.
+FIX I recommend you to watch this movie.|I recommend watching this movie.
+TASK Nói chuyện sở thích 4 phút; mỗi người hỏi ít nhất ba câu tiếp nối rồi gợi ý một hoạt động có lý do.
+TWIST Bạn chưa từng nghe về sở thích của người kia. Nhờ họ giải thích và tìm một điểm chung.
+
+@@ 35|Invitations and polite refusals|Mời, nhận lời và từ chối lịch sự
+GOAL Nhận hoặc từ chối lời mời rõ ràng; đề xuất dịp khác mà không phải giải thích quá nhiều.
+GRAMMAR Would you like to ...?; I'd love to, but ...; How about + V-ing/danh từ để gợi ý phương án.
+SOUND I'd love to thường có to nhẹ; giữ LOVE rõ. Ngữ điệu ấm ở lời cảm ơn, dứt khoát ở giới hạn thời gian.
+REGISTER Rain check dùng thân mật khi muốn hẹn dịp khác. Nếu không muốn hẹn, chỉ cảm ơn và từ chối lịch sự, tránh hứa giả.
+P Would you like to join us?|Bạn muốn tham gia cùng chúng tôi không?
+P Thanks for inviting me.|Cảm ơn bạn đã mời tôi.
+P I'd love to, but I already have plans.|Tôi rất muốn, nhưng đã có kế hoạch rồi.
+P Could we do another day?|Mình chọn hôm khác được không?
+P How about next weekend?|Cuối tuần sau thì sao?
+P I can stay for about an hour.|Tôi ở lại khoảng một giờ được.
+D We're having dinner on Friday. Would you like to join us?|Tối thứ Sáu chúng tôi ăn tối cùng nhau. Bạn tham gia không?
+D Thanks for inviting me. I'd love to, but I already have plans.|Cảm ơn đã mời. Tôi rất muốn nhưng đã có kế hoạch rồi.
+D No problem. Maybe another time?|Không sao. Để dịp khác nhé?
+D How about next weekend?|Cuối tuần sau thì sao?
+D Saturday works for me.|Thứ Bảy tôi được.
+D Great. Let's check with everyone else.|Tuyệt. Mình hỏi mọi người còn lại nhé.
+Q Why can't the person come on Friday?|They already have plans.
+Q Which day works for the other person?|Saturday.
+FIX How about to meet next weekend?|How about meeting next weekend?
+TASK Luyện ba phiên bản: nhận lời, từ chối có hẹn lại, từ chối không hẹn lại. Mỗi phiên bản khoảng một phút.
+TWIST Người kia mời thêm lần nữa sau khi bạn đã từ chối. Nhắc lại quyết định thân thiện và rõ ràng.
+
+@@ 36|Hosting and celebrations|Đón khách và các dịp gặp mặt
+GOAL Đón khách, hỏi nhu cầu ăn uống và đề nghị giúp đỡ trong một buổi gặp mặt.
+GRAMMAR Would you like some ...? mời đồ; Do you need any ...? hỏi nhu cầu; help with + danh từ.
+SOUND Luyện help /hɛlp/ và host /hoʊst/; không bỏ /h/. Nhấn SOME khi mời thêm, dùng ngữ điệu nhẹ nhàng.
+REGISTER Potluck là buổi mọi người mang món ăn chia sẻ. RSVP là phản hồi có tham dự; hỏi chủ nhà nếu chưa rõ kỳ vọng.
+P Make yourself at home.|Bạn cứ tự nhiên nhé.
+P Can I bring anything?|Tôi mang gì đến được không?
+P Do you have any dietary restrictions?|Bạn có yêu cầu hoặc hạn chế ăn uống nào không?
+P Would you like some more?|Bạn muốn thêm một ít không?
+P Let me help with the dishes.|Để tôi giúp rửa bát.
+P Thanks for having me.|Cảm ơn bạn đã đón tôi.
+D Thanks for having me. Can I put this dessert in the kitchen?|Cảm ơn đã đón tôi. Tôi để món tráng miệng này trong bếp nhé?
+D Of course. Make yourself at home.|Được chứ. Bạn cứ tự nhiên.
+D It smells great. Do you need any help?|Thơm quá. Bạn cần giúp gì không?
+D Could you set the table? The plates are over there.|Bạn dọn bàn được không? Đĩa ở đằng kia.
+D Sure. Just so you know, I don't eat meat.|Được. Tôi báo trước là tôi không ăn thịt.
+D Thanks for letting me know. We have a vegetable dish too.|Cảm ơn bạn đã nói. Chúng tôi cũng có món rau.
+Q What did the guest bring?|Dessert.
+Q What help does the host request?|Setting the table.
+FIX Thanks for have me.|Thanks for having me.
+TASK Đóng vai buổi gặp mặt 4 phút: chào, mang món, hỏi nhu cầu, mời thêm và chào về.
+TWIST Một món không phù hợp chế độ ăn của bạn. Từ chối nhẹ nhàng và hỏi lựa chọn khác.
+
+@@ 37|Dating and personal boundaries|Hẹn hò và giới hạn cá nhân
+GOAL Đề xuất một cuộc hẹn, nói mong muốn và tôn trọng câu trả lời của người kia.
+GRAMMAR I'd like to ... nói mong muốn; I'm not comfortable with ... đặt giới hạn; would rather + động từ nêu lựa chọn.
+SOUND Luyện comfortable theo giọng Mỹ thường nghe, khoảng ba âm tiết; đừng ép âm theo từng chữ. Nhấn NOT khi nêu giới hạn.
+REGISTER Giữ câu trực tiếp, lịch sự. No và I'm not interested cần được tôn trọng; không dùng lời nài ép làm bài luyện.
+P Would you like to grab coffee sometime?|Bạn muốn đi uống cà phê lúc nào đó không?
+P I'd like to get to know you better.|Tôi muốn hiểu bạn hơn.
+P I'd rather meet in a public place.|Tôi muốn gặp ở nơi công cộng hơn.
+P I'm not comfortable with that.|Tôi không thoải mái với việc đó.
+P No pressure. It's completely up to you.|Không có áp lực gì. Bạn hoàn toàn tự quyết định.
+P Thanks for being honest with me.|Cảm ơn bạn đã nói thật với tôi.
+D Would you like to grab coffee sometime?|Bạn muốn đi uống cà phê lúc nào đó không?
+D That sounds nice. I'd rather meet during the day.|Nghe hay đó. Tôi muốn gặp vào ban ngày hơn.
+D Sure. How about the café near the library on Saturday?|Được. Quán gần thư viện vào thứ Bảy nhé?
+D That works. I can stay for about an hour.|Được. Tôi ở khoảng một giờ được.
+D No problem. Does eleven work for you?|Không sao. Mười một giờ bạn được không?
+D Yes. Thanks for checking.|Được. Cảm ơn bạn đã hỏi.
+Q When would the person rather meet?|During the day.
+Q How long can the person stay?|About an hour.
+FIX It's up for you.|It's up to you.
+TASK Luyện đề xuất hẹn hai phút rồi luyện từ chối hoặc nêu giới hạn. Người nghe xác nhận và tôn trọng quyết định.
+TWIST Bạn đổi ý về thời gian hoặc hoạt động. Nói rõ mong muốn mới, cho người kia quyền từ chối.
+
+@@ 38|Resolving everyday disagreements|Giải quyết bất đồng hằng ngày
+GOAL Nêu vấn đề không công kích, lắng nghe cách nhìn khác và thống nhất một thay đổi cụ thể.
+GRAMMAR When ... , I ... mô tả tác động; Could we agree on ...? đề xuất; avoid always/never nếu không có căn cứ.
+SOUND Dùng khoảng dừng sau câu nêu vấn đề. Nhấn hành vi và thời gian, tránh nhấn YOU liên tục làm giọng buộc tội.
+REGISTER I statements tập trung trải nghiệm của mình. Clear boundaries và compromise không có nghĩa phải đồng ý mọi yêu cầu.
+P Could we talk about something?|Mình nói về một chuyện được không?
+P The noise has been keeping me awake.|Tiếng ồn đang làm tôi không ngủ được.
+P I see where you're coming from.|Tôi hiểu cách bạn nhìn nhận chuyện đó.
+P Could we agree on a quiet time?|Mình thống nhất giờ yên tĩnh được không?
+P What would work for both of us?|Phương án nào phù hợp cả hai?
+P Let's try that and check in next week.|Mình thử cách đó rồi trao đổi lại tuần sau.
+D Could we talk about the music at night?|Mình nói về nhạc buổi tối được không?
+D Sure. Has it been bothering you?|Được. Nó có làm bạn khó chịu không?
+D Yes. I get up early, and the noise keeps me awake.|Có. Tôi dậy sớm, và tiếng ồn làm tôi không ngủ được.
+D I didn't realize. Would turning it down after nine help?|Tôi không biết. Giảm âm lượng sau chín giờ có giúp không?
+D Yes, thanks. Could you use headphones after ten?|Có, cảm ơn. Sau mười giờ bạn dùng tai nghe được không?
+D That sounds fair. Let's try it this week.|Hợp lý đó. Mình thử tuần này nhé.
+Q Why does the noise cause a problem?|The person gets up early and cannot sleep.
+Q What is suggested after ten?|Using headphones.
+FIX The noise keeps me to wake.|The noise keeps me awake.
+TASK Diễn một bất đồng 5 phút về tiếng ồn hoặc việc nhà: sự việc, tác động, lắng nghe, đề xuất và xác nhận.
+TWIST Người kia thấy đề xuất quá khó. Tìm phương án khác nhưng giữ giới hạn quan trọng của bạn.
+
+@@ 39|Everyday life challenge|Ôn chặng 3: tự lập trong đời sống
+GOAL Kết hợp nhà ở, tiền bạc, sức khỏe và giao tiếp xã hội trong cuộc trò chuyện có đổi tình huống.
+GRAMMAR Ôn present perfect với for/since; câu hỏi làm rõ; I'd rather; điều kiện if + hiện tại, will + động từ.
+SOUND Thu âm rồi đánh dấu chỗ thiếu âm cuối, số chưa rõ và câu quá dài. Luyện lại theo cụm, không tăng tốc bằng mọi giá.
+REGISTER Thay vì nhớ kịch bản cố định, chuẩn bị mục tiêu và thông tin. Dùng Let me think để giữ lượt khi cần suy nghĩ.
+P I've been dealing with a few things this week.|Tuần này tôi đang phải xử lý vài việc.
+P Let me explain what happened.|Để tôi kể chuyện đã xảy ra.
+P Could we look at a couple of options?|Mình xem vài phương án được không?
+P My main concern is the timing.|Điều tôi lo nhất là thời gian.
+P If that doesn't work, I'll try another option.|Nếu cách đó không được, tôi sẽ thử phương án khác.
+P Let me summarize what we've agreed on.|Để tôi tóm tắt điều mình đã thống nhất.
+D How's the new apartment working out?|Căn hộ mới thế nào rồi?
+D It's good, but the heater hasn't worked since Monday.|Ổn, nhưng máy sưởi không hoạt động từ thứ Hai.
+D Have you contacted maintenance?|Bạn liên hệ bảo trì chưa?
+D Yes. They can come Friday, but I have an appointment then.|Rồi. Họ đến thứ Sáu được, nhưng lúc đó tôi có hẹn.
+D Could you ask for an afternoon visit?|Bạn nhờ họ đến buổi chiều được không?
+D I'll try. If that doesn't work, I'll reschedule the appointment.|Tôi sẽ thử. Nếu không được, tôi sẽ đổi lịch hẹn.
+Q Since when has the heater not worked?|Since Monday.
+Q What is the first alternative?|Asking for an afternoon visit.
+FIX It hasn't worked from Monday.|It hasn't worked since Monday.
+TASK Bài kiểm tra chặng 3: nói 10 phút qua bốn cảnh — báo hỏng, hỏi phí, hỏi lại hướng dẫn và đổi một lời mời.
+TWIST Người nghe thêm hai chi tiết bất ngờ. Hỏi làm rõ, chọn phương án và tóm tắt cam kết cuối mỗi cảnh.

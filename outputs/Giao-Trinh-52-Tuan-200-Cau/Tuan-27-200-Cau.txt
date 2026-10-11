@@ -1,0 +1,200 @@
+﻿Is the apartment still available? | Căn hộ còn cho thuê không?
+Are utilities included in the rent? | Tiền thuê đã bao gồm điện, nước và các tiện ích chưa?
+How much is the security deposit? | Tiền đặt cọc là bao nhiêu?
+Could I schedule a viewing? | Tôi hẹn xem nhà được không?
+How long is the lease? | Thời hạn hợp đồng thuê là bao lâu?
+I'd like to review the lease first. | Tôi muốn xem kỹ hợp đồng trước.
+I'd like to ask what utilities are included in the rent. | Tôi muốn hỏi tiền thuê nhà bao gồm những tiện ích nào.
+I need to ask what utilities are included in the rent. | Tôi cần hỏi tiền thuê nhà bao gồm những tiện ích nào.
+Can I ask what utilities are included in the rent? | Tôi có thể hỏi tiền thuê nhà bao gồm những tiện ích nào không?
+Could you help me ask what utilities are included in the rent? | Bạn giúp tôi hỏi tiền thuê nhà bao gồm những tiện ích nào được không?
+What would you recommend if I wanted to ask what utilities are included in the rent? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi tiền thuê nhà bao gồm những tiện ích nào?
+I'm trying to ask what utilities are included in the rent without overlooking any important details. | Tôi đang cố hỏi tiền thuê nhà bao gồm những tiện ích nào mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask what utilities are included in the rent, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi tiền thuê nhà bao gồm những tiện ích nào thế nào, nên rất mong được hướng dẫn.
+Let me ask what utilities are included in the rent first, and then we can discuss the next step. | Để tôi hỏi tiền thuê nhà bao gồm những tiện ích nào trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask what utilities are included in the rent, but something unexpected came up. | Tôi định hỏi tiền thuê nhà bao gồm những tiện ích nào, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask what utilities are included in the rent yet, despite making several attempts. | Tôi vẫn chưa thể hỏi tiền thuê nhà bao gồm những tiện ích nào, dù đã thử vài lần.
+Do you think it would be more effective for me to ask what utilities are included in the rent in person? | Bạn nghĩ tôi hỏi tiền thuê nhà bao gồm những tiện ích nào trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask what utilities are included in the rent before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi tiền thuê nhà bao gồm những tiện ích nào trước khi tiếp tục.
+I'll ask what utilities are included in the rent as soon as I have the information I need. | Tôi sẽ hỏi tiền thuê nhà bao gồm những tiện ích nào ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask what utilities are included in the rent. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi tiền thuê nhà bao gồm những tiện ích nào.
+I'd like to schedule a viewing of the apartment. | Tôi muốn đặt lịch xem căn hộ.
+I need to schedule a viewing of the apartment. | Tôi cần đặt lịch xem căn hộ.
+Can I schedule a viewing of the apartment? | Tôi có thể đặt lịch xem căn hộ không?
+Could you help me schedule a viewing of the apartment? | Bạn giúp tôi đặt lịch xem căn hộ được không?
+What would you recommend if I wanted to schedule a viewing of the apartment? | Bạn sẽ gợi ý gì nếu tôi muốn đặt lịch xem căn hộ?
+I'm trying to schedule a viewing of the apartment without overlooking any important details. | Tôi đang cố đặt lịch xem căn hộ mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to schedule a viewing of the apartment, so I'd appreciate some guidance. | Tôi chưa chắc nên đặt lịch xem căn hộ thế nào, nên rất mong được hướng dẫn.
+Let me schedule a viewing of the apartment first, and then we can discuss the next step. | Để tôi đặt lịch xem căn hộ trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to schedule a viewing of the apartment, but something unexpected came up. | Tôi định đặt lịch xem căn hộ, nhưng có việc bất ngờ xảy ra.
+I haven't been able to schedule a viewing of the apartment yet, despite making several attempts. | Tôi vẫn chưa thể đặt lịch xem căn hộ, dù đã thử vài lần.
+Do you think it would be more effective for me to schedule a viewing of the apartment in person? | Bạn nghĩ tôi đặt lịch xem căn hộ trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd schedule a viewing of the apartment before moving forward. | Nếu ở vị trí của bạn, tôi sẽ đặt lịch xem căn hộ trước khi tiếp tục.
+I'll schedule a viewing of the apartment as soon as I have the information I need. | Tôi sẽ đặt lịch xem căn hộ ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to schedule a viewing of the apartment. | Nhìn lại, lẽ ra tôi nên dành thời gian để đặt lịch xem căn hộ.
+Is there any reason why I shouldn't schedule a viewing of the apartment at this stage? | Có lý do nào khiến tôi không nên đặt lịch xem căn hộ ở giai đoạn này không?
+I'd rather schedule a viewing of the apartment now than deal with a misunderstanding later. | Tôi muốn đặt lịch xem căn hộ ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to schedule a viewing of the apartment properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn đặt lịch xem căn hộ cho đúng.
+Unless there is a better alternative, I plan to schedule a viewing of the apartment. | Trừ khi có phương án tốt hơn, tôi dự định đặt lịch xem căn hộ.
+The main reason I want to schedule a viewing of the apartment is to avoid unnecessary confusion. | Lý do chính tôi muốn đặt lịch xem căn hộ là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to schedule a viewing of the apartment, I'll be in a better position to respond. | Sau khi có dịp đặt lịch xem căn hộ, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to check whether pets are allowed. | Tôi muốn hỏi có được nuôi thú cưng không.
+I need to check whether pets are allowed. | Tôi cần hỏi có được nuôi thú cưng không.
+Can I check whether pets are allowed? | Tôi có thể hỏi có được nuôi thú cưng không không?
+Could you help me check whether pets are allowed? | Bạn giúp tôi hỏi có được nuôi thú cưng không được không?
+What would you recommend if I wanted to check whether pets are allowed? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi có được nuôi thú cưng không?
+I'm trying to check whether pets are allowed without overlooking any important details. | Tôi đang cố hỏi có được nuôi thú cưng không mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to check whether pets are allowed, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi có được nuôi thú cưng không thế nào, nên rất mong được hướng dẫn.
+Let me check whether pets are allowed first, and then we can discuss the next step. | Để tôi hỏi có được nuôi thú cưng không trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to check whether pets are allowed, but something unexpected came up. | Tôi định hỏi có được nuôi thú cưng không, nhưng có việc bất ngờ xảy ra.
+I haven't been able to check whether pets are allowed yet, despite making several attempts. | Tôi vẫn chưa thể hỏi có được nuôi thú cưng không, dù đã thử vài lần.
+Do you think it would be more effective for me to check whether pets are allowed in person? | Bạn nghĩ tôi hỏi có được nuôi thú cưng không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check whether pets are allowed before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi có được nuôi thú cưng không trước khi tiếp tục.
+I'll check whether pets are allowed as soon as I have the information I need. | Tôi sẽ hỏi có được nuôi thú cưng không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check whether pets are allowed. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi có được nuôi thú cưng không.
+Is there any reason why I shouldn't check whether pets are allowed at this stage? | Có lý do nào khiến tôi không nên hỏi có được nuôi thú cưng không ở giai đoạn này không?
+I'd rather check whether pets are allowed now than deal with a misunderstanding later. | Tôi muốn hỏi có được nuôi thú cưng không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to check whether pets are allowed properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi có được nuôi thú cưng không cho đúng.
+Unless there is a better alternative, I plan to check whether pets are allowed. | Trừ khi có phương án tốt hơn, tôi dự định hỏi có được nuôi thú cưng không.
+The main reason I want to check whether pets are allowed is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi có được nuôi thú cưng không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to check whether pets are allowed, I'll be in a better position to respond. | Sau khi có dịp hỏi có được nuôi thú cưng không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask about the security deposit. | Tôi muốn hỏi về tiền đặt cọc.
+I need to ask about the security deposit. | Tôi cần hỏi về tiền đặt cọc.
+Can I ask about the security deposit? | Tôi có thể hỏi về tiền đặt cọc không?
+Could you help me ask about the security deposit? | Bạn giúp tôi hỏi về tiền đặt cọc được không?
+What would you recommend if I wanted to ask about the security deposit? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi về tiền đặt cọc?
+I'm trying to ask about the security deposit without overlooking any important details. | Tôi đang cố hỏi về tiền đặt cọc mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask about the security deposit, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi về tiền đặt cọc thế nào, nên rất mong được hướng dẫn.
+Let me ask about the security deposit first, and then we can discuss the next step. | Để tôi hỏi về tiền đặt cọc trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask about the security deposit, but something unexpected came up. | Tôi định hỏi về tiền đặt cọc, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask about the security deposit yet, despite making several attempts. | Tôi vẫn chưa thể hỏi về tiền đặt cọc, dù đã thử vài lần.
+Do you think it would be more effective for me to ask about the security deposit in person? | Bạn nghĩ tôi hỏi về tiền đặt cọc trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask about the security deposit before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi về tiền đặt cọc trước khi tiếp tục.
+I'll ask about the security deposit as soon as I have the information I need. | Tôi sẽ hỏi về tiền đặt cọc ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask about the security deposit. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi về tiền đặt cọc.
+Is there any reason why I shouldn't ask about the security deposit at this stage? | Có lý do nào khiến tôi không nên hỏi về tiền đặt cọc ở giai đoạn này không?
+I'd rather ask about the security deposit now than deal with a misunderstanding later. | Tôi muốn hỏi về tiền đặt cọc ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask about the security deposit properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi về tiền đặt cọc cho đúng.
+Unless there is a better alternative, I plan to ask about the security deposit. | Trừ khi có phương án tốt hơn, tôi dự định hỏi về tiền đặt cọc.
+The main reason I want to ask about the security deposit is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi về tiền đặt cọc là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask about the security deposit, I'll be in a better position to respond. | Sau khi có dịp hỏi về tiền đặt cọc, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to compare the total monthly costs of two apartments. | Tôi muốn so sánh tổng chi phí hằng tháng của hai căn hộ.
+I need to compare the total monthly costs of two apartments. | Tôi cần so sánh tổng chi phí hằng tháng của hai căn hộ.
+Can I compare the total monthly costs of two apartments? | Tôi có thể so sánh tổng chi phí hằng tháng của hai căn hộ không?
+Could you help me compare the total monthly costs of two apartments? | Bạn giúp tôi so sánh tổng chi phí hằng tháng của hai căn hộ được không?
+What would you recommend if I wanted to compare the total monthly costs of two apartments? | Bạn sẽ gợi ý gì nếu tôi muốn so sánh tổng chi phí hằng tháng của hai căn hộ?
+I'm trying to compare the total monthly costs of two apartments without overlooking any important details. | Tôi đang cố so sánh tổng chi phí hằng tháng của hai căn hộ mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to compare the total monthly costs of two apartments, so I'd appreciate some guidance. | Tôi chưa chắc nên so sánh tổng chi phí hằng tháng của hai căn hộ thế nào, nên rất mong được hướng dẫn.
+Let me compare the total monthly costs of two apartments first, and then we can discuss the next step. | Để tôi so sánh tổng chi phí hằng tháng của hai căn hộ trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to compare the total monthly costs of two apartments, but something unexpected came up. | Tôi định so sánh tổng chi phí hằng tháng của hai căn hộ, nhưng có việc bất ngờ xảy ra.
+I haven't been able to compare the total monthly costs of two apartments yet, despite making several attempts. | Tôi vẫn chưa thể so sánh tổng chi phí hằng tháng của hai căn hộ, dù đã thử vài lần.
+Do you think it would be more effective for me to compare the total monthly costs of two apartments in person? | Bạn nghĩ tôi so sánh tổng chi phí hằng tháng của hai căn hộ trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd compare the total monthly costs of two apartments before moving forward. | Nếu ở vị trí của bạn, tôi sẽ so sánh tổng chi phí hằng tháng của hai căn hộ trước khi tiếp tục.
+I'll compare the total monthly costs of two apartments as soon as I have the information I need. | Tôi sẽ so sánh tổng chi phí hằng tháng của hai căn hộ ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to compare the total monthly costs of two apartments. | Nhìn lại, lẽ ra tôi nên dành thời gian để so sánh tổng chi phí hằng tháng của hai căn hộ.
+Is there any reason why I shouldn't compare the total monthly costs of two apartments at this stage? | Có lý do nào khiến tôi không nên so sánh tổng chi phí hằng tháng của hai căn hộ ở giai đoạn này không?
+I'd rather compare the total monthly costs of two apartments now than deal with a misunderstanding later. | Tôi muốn so sánh tổng chi phí hằng tháng của hai căn hộ ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to compare the total monthly costs of two apartments properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn so sánh tổng chi phí hằng tháng của hai căn hộ cho đúng.
+Unless there is a better alternative, I plan to compare the total monthly costs of two apartments. | Trừ khi có phương án tốt hơn, tôi dự định so sánh tổng chi phí hằng tháng của hai căn hộ.
+The main reason I want to compare the total monthly costs of two apartments is to avoid unnecessary confusion. | Lý do chính tôi muốn so sánh tổng chi phí hằng tháng của hai căn hộ là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to compare the total monthly costs of two apartments, I'll be in a better position to respond. | Sau khi có dịp so sánh tổng chi phí hằng tháng của hai căn hộ, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to clarify the terms of the lease. | Tôi muốn làm rõ các điều khoản hợp đồng thuê.
+I need to clarify the terms of the lease. | Tôi cần làm rõ các điều khoản hợp đồng thuê.
+Can I clarify the terms of the lease? | Tôi có thể làm rõ các điều khoản hợp đồng thuê không?
+Could you help me clarify the terms of the lease? | Bạn giúp tôi làm rõ các điều khoản hợp đồng thuê được không?
+What would you recommend if I wanted to clarify the terms of the lease? | Bạn sẽ gợi ý gì nếu tôi muốn làm rõ các điều khoản hợp đồng thuê?
+I'm trying to clarify the terms of the lease without overlooking any important details. | Tôi đang cố làm rõ các điều khoản hợp đồng thuê mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to clarify the terms of the lease, so I'd appreciate some guidance. | Tôi chưa chắc nên làm rõ các điều khoản hợp đồng thuê thế nào, nên rất mong được hướng dẫn.
+Let me clarify the terms of the lease first, and then we can discuss the next step. | Để tôi làm rõ các điều khoản hợp đồng thuê trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to clarify the terms of the lease, but something unexpected came up. | Tôi định làm rõ các điều khoản hợp đồng thuê, nhưng có việc bất ngờ xảy ra.
+I haven't been able to clarify the terms of the lease yet, despite making several attempts. | Tôi vẫn chưa thể làm rõ các điều khoản hợp đồng thuê, dù đã thử vài lần.
+Do you think it would be more effective for me to clarify the terms of the lease in person? | Bạn nghĩ tôi làm rõ các điều khoản hợp đồng thuê trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd clarify the terms of the lease before moving forward. | Nếu ở vị trí của bạn, tôi sẽ làm rõ các điều khoản hợp đồng thuê trước khi tiếp tục.
+I'll clarify the terms of the lease as soon as I have the information I need. | Tôi sẽ làm rõ các điều khoản hợp đồng thuê ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to clarify the terms of the lease. | Nhìn lại, lẽ ra tôi nên dành thời gian để làm rõ các điều khoản hợp đồng thuê.
+Is there any reason why I shouldn't clarify the terms of the lease at this stage? | Có lý do nào khiến tôi không nên làm rõ các điều khoản hợp đồng thuê ở giai đoạn này không?
+I'd rather clarify the terms of the lease now than deal with a misunderstanding later. | Tôi muốn làm rõ các điều khoản hợp đồng thuê ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to clarify the terms of the lease properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn làm rõ các điều khoản hợp đồng thuê cho đúng.
+Unless there is a better alternative, I plan to clarify the terms of the lease. | Trừ khi có phương án tốt hơn, tôi dự định làm rõ các điều khoản hợp đồng thuê.
+The main reason I want to clarify the terms of the lease is to avoid unnecessary confusion. | Lý do chính tôi muốn làm rõ các điều khoản hợp đồng thuê là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to clarify the terms of the lease, I'll be in a better position to respond. | Sau khi có dịp làm rõ các điều khoản hợp đồng thuê, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask who handles repairs in the building. | Tôi muốn hỏi ai phụ trách sửa chữa trong tòa nhà.
+I need to ask who handles repairs in the building. | Tôi cần hỏi ai phụ trách sửa chữa trong tòa nhà.
+Can I ask who handles repairs in the building? | Tôi có thể hỏi ai phụ trách sửa chữa trong tòa nhà không?
+Could you help me ask who handles repairs in the building? | Bạn giúp tôi hỏi ai phụ trách sửa chữa trong tòa nhà được không?
+What would you recommend if I wanted to ask who handles repairs in the building? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi ai phụ trách sửa chữa trong tòa nhà?
+I'm trying to ask who handles repairs in the building without overlooking any important details. | Tôi đang cố hỏi ai phụ trách sửa chữa trong tòa nhà mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask who handles repairs in the building, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi ai phụ trách sửa chữa trong tòa nhà thế nào, nên rất mong được hướng dẫn.
+Let me ask who handles repairs in the building first, and then we can discuss the next step. | Để tôi hỏi ai phụ trách sửa chữa trong tòa nhà trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask who handles repairs in the building, but something unexpected came up. | Tôi định hỏi ai phụ trách sửa chữa trong tòa nhà, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask who handles repairs in the building yet, despite making several attempts. | Tôi vẫn chưa thể hỏi ai phụ trách sửa chữa trong tòa nhà, dù đã thử vài lần.
+Do you think it would be more effective for me to ask who handles repairs in the building in person? | Bạn nghĩ tôi hỏi ai phụ trách sửa chữa trong tòa nhà trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask who handles repairs in the building before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi ai phụ trách sửa chữa trong tòa nhà trước khi tiếp tục.
+I'll ask who handles repairs in the building as soon as I have the information I need. | Tôi sẽ hỏi ai phụ trách sửa chữa trong tòa nhà ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask who handles repairs in the building. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi ai phụ trách sửa chữa trong tòa nhà.
+Is there any reason why I shouldn't ask who handles repairs in the building at this stage? | Có lý do nào khiến tôi không nên hỏi ai phụ trách sửa chữa trong tòa nhà ở giai đoạn này không?
+I'd rather ask who handles repairs in the building now than deal with a misunderstanding later. | Tôi muốn hỏi ai phụ trách sửa chữa trong tòa nhà ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask who handles repairs in the building properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi ai phụ trách sửa chữa trong tòa nhà cho đúng.
+Unless there is a better alternative, I plan to ask who handles repairs in the building. | Trừ khi có phương án tốt hơn, tôi dự định hỏi ai phụ trách sửa chữa trong tòa nhà.
+The main reason I want to ask who handles repairs in the building is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi ai phụ trách sửa chữa trong tòa nhà là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask who handles repairs in the building, I'll be in a better position to respond. | Sau khi có dịp hỏi ai phụ trách sửa chữa trong tòa nhà, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to document existing damage before moving in. | Tôi muốn ghi nhận những hư hỏng có sẵn trước khi chuyển vào.
+I need to document existing damage before moving in. | Tôi cần ghi nhận những hư hỏng có sẵn trước khi chuyển vào.
+Can I document existing damage before moving in? | Tôi có thể ghi nhận những hư hỏng có sẵn trước khi chuyển vào không?
+Could you help me document existing damage before moving in? | Bạn giúp tôi ghi nhận những hư hỏng có sẵn trước khi chuyển vào được không?
+What would you recommend if I wanted to document existing damage before moving in? | Bạn sẽ gợi ý gì nếu tôi muốn ghi nhận những hư hỏng có sẵn trước khi chuyển vào?
+I'm trying to document existing damage before moving in without overlooking any important details. | Tôi đang cố ghi nhận những hư hỏng có sẵn trước khi chuyển vào mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to document existing damage before moving in, so I'd appreciate some guidance. | Tôi chưa chắc nên ghi nhận những hư hỏng có sẵn trước khi chuyển vào thế nào, nên rất mong được hướng dẫn.
+Let me document existing damage before moving in first, and then we can discuss the next step. | Để tôi ghi nhận những hư hỏng có sẵn trước khi chuyển vào trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to document existing damage before moving in, but something unexpected came up. | Tôi định ghi nhận những hư hỏng có sẵn trước khi chuyển vào, nhưng có việc bất ngờ xảy ra.
+I haven't been able to document existing damage before moving in yet, despite making several attempts. | Tôi vẫn chưa thể ghi nhận những hư hỏng có sẵn trước khi chuyển vào, dù đã thử vài lần.
+Do you think it would be more effective for me to document existing damage before moving in in person? | Bạn nghĩ tôi ghi nhận những hư hỏng có sẵn trước khi chuyển vào trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd document existing damage before moving in before moving forward. | Nếu ở vị trí của bạn, tôi sẽ ghi nhận những hư hỏng có sẵn trước khi chuyển vào trước khi tiếp tục.
+I'll document existing damage before moving in as soon as I have the information I need. | Tôi sẽ ghi nhận những hư hỏng có sẵn trước khi chuyển vào ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to document existing damage before moving in. | Nhìn lại, lẽ ra tôi nên dành thời gian để ghi nhận những hư hỏng có sẵn trước khi chuyển vào.
+Is there any reason why I shouldn't document existing damage before moving in at this stage? | Có lý do nào khiến tôi không nên ghi nhận những hư hỏng có sẵn trước khi chuyển vào ở giai đoạn này không?
+I'd rather document existing damage before moving in now than deal with a misunderstanding later. | Tôi muốn ghi nhận những hư hỏng có sẵn trước khi chuyển vào ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to document existing damage before moving in properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn ghi nhận những hư hỏng có sẵn trước khi chuyển vào cho đúng.
+Unless there is a better alternative, I plan to document existing damage before moving in. | Trừ khi có phương án tốt hơn, tôi dự định ghi nhận những hư hỏng có sẵn trước khi chuyển vào.
+The main reason I want to document existing damage before moving in is to avoid unnecessary confusion. | Lý do chính tôi muốn ghi nhận những hư hỏng có sẵn trước khi chuyển vào là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to document existing damage before moving in, I'll be in a better position to respond. | Sau khi có dịp ghi nhận những hư hỏng có sẵn trước khi chuyển vào, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask whether I can renew the lease. | Tôi muốn hỏi tôi có thể gia hạn hợp đồng thuê không.
+I need to ask whether I can renew the lease. | Tôi cần hỏi tôi có thể gia hạn hợp đồng thuê không.
+Can I ask whether I can renew the lease? | Tôi có thể hỏi tôi có thể gia hạn hợp đồng thuê không không?
+Could you help me ask whether I can renew the lease? | Bạn giúp tôi hỏi tôi có thể gia hạn hợp đồng thuê không được không?
+What would you recommend if I wanted to ask whether I can renew the lease? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi tôi có thể gia hạn hợp đồng thuê không?
+I'm trying to ask whether I can renew the lease without overlooking any important details. | Tôi đang cố hỏi tôi có thể gia hạn hợp đồng thuê không mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask whether I can renew the lease, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi tôi có thể gia hạn hợp đồng thuê không thế nào, nên rất mong được hướng dẫn.
+Let me ask whether I can renew the lease first, and then we can discuss the next step. | Để tôi hỏi tôi có thể gia hạn hợp đồng thuê không trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask whether I can renew the lease, but something unexpected came up. | Tôi định hỏi tôi có thể gia hạn hợp đồng thuê không, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask whether I can renew the lease yet, despite making several attempts. | Tôi vẫn chưa thể hỏi tôi có thể gia hạn hợp đồng thuê không, dù đã thử vài lần.
+Do you think it would be more effective for me to ask whether I can renew the lease in person? | Bạn nghĩ tôi hỏi tôi có thể gia hạn hợp đồng thuê không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask whether I can renew the lease before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi tôi có thể gia hạn hợp đồng thuê không trước khi tiếp tục.
+I'll ask whether I can renew the lease as soon as I have the information I need. | Tôi sẽ hỏi tôi có thể gia hạn hợp đồng thuê không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask whether I can renew the lease. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi tôi có thể gia hạn hợp đồng thuê không.
+Is there any reason why I shouldn't ask whether I can renew the lease at this stage? | Có lý do nào khiến tôi không nên hỏi tôi có thể gia hạn hợp đồng thuê không ở giai đoạn này không?
+I'd rather ask whether I can renew the lease now than deal with a misunderstanding later. | Tôi muốn hỏi tôi có thể gia hạn hợp đồng thuê không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask whether I can renew the lease properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi tôi có thể gia hạn hợp đồng thuê không cho đúng.
+Unless there is a better alternative, I plan to ask whether I can renew the lease. | Trừ khi có phương án tốt hơn, tôi dự định hỏi tôi có thể gia hạn hợp đồng thuê không.
+The main reason I want to ask whether I can renew the lease is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi tôi có thể gia hạn hợp đồng thuê không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask whether I can renew the lease, I'll be in a better position to respond. | Sau khi có dịp hỏi tôi có thể gia hạn hợp đồng thuê không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to discuss the notice required before moving out. | Tôi muốn trao đổi về thời gian cần báo trước khi chuyển đi.
+I need to discuss the notice required before moving out. | Tôi cần trao đổi về thời gian cần báo trước khi chuyển đi.
+Can I discuss the notice required before moving out? | Tôi có thể trao đổi về thời gian cần báo trước khi chuyển đi không?
+Could you help me discuss the notice required before moving out? | Bạn giúp tôi trao đổi về thời gian cần báo trước khi chuyển đi được không?
+What would you recommend if I wanted to discuss the notice required before moving out? | Bạn sẽ gợi ý gì nếu tôi muốn trao đổi về thời gian cần báo trước khi chuyển đi?
+I'm trying to discuss the notice required before moving out without overlooking any important details. | Tôi đang cố trao đổi về thời gian cần báo trước khi chuyển đi mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to discuss the notice required before moving out, so I'd appreciate some guidance. | Tôi chưa chắc nên trao đổi về thời gian cần báo trước khi chuyển đi thế nào, nên rất mong được hướng dẫn.
+Let me discuss the notice required before moving out first, and then we can discuss the next step. | Để tôi trao đổi về thời gian cần báo trước khi chuyển đi trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to discuss the notice required before moving out, but something unexpected came up. | Tôi định trao đổi về thời gian cần báo trước khi chuyển đi, nhưng có việc bất ngờ xảy ra.
+I haven't been able to discuss the notice required before moving out yet, despite making several attempts. | Tôi vẫn chưa thể trao đổi về thời gian cần báo trước khi chuyển đi, dù đã thử vài lần.
+Do you think it would be more effective for me to discuss the notice required before moving out in person? | Bạn nghĩ tôi trao đổi về thời gian cần báo trước khi chuyển đi trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd discuss the notice required before moving out before moving forward. | Nếu ở vị trí của bạn, tôi sẽ trao đổi về thời gian cần báo trước khi chuyển đi trước khi tiếp tục.
+I'll discuss the notice required before moving out as soon as I have the information I need. | Tôi sẽ trao đổi về thời gian cần báo trước khi chuyển đi ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to discuss the notice required before moving out. | Nhìn lại, lẽ ra tôi nên dành thời gian để trao đổi về thời gian cần báo trước khi chuyển đi.
+Is there any reason why I shouldn't discuss the notice required before moving out at this stage? | Có lý do nào khiến tôi không nên trao đổi về thời gian cần báo trước khi chuyển đi ở giai đoạn này không?
+I'd rather discuss the notice required before moving out now than deal with a misunderstanding later. | Tôi muốn trao đổi về thời gian cần báo trước khi chuyển đi ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to discuss the notice required before moving out properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn trao đổi về thời gian cần báo trước khi chuyển đi cho đúng.
+Unless there is a better alternative, I plan to discuss the notice required before moving out. | Trừ khi có phương án tốt hơn, tôi dự định trao đổi về thời gian cần báo trước khi chuyển đi.
+The main reason I want to discuss the notice required before moving out is to avoid unnecessary confusion. | Lý do chính tôi muốn trao đổi về thời gian cần báo trước khi chuyển đi là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to discuss the notice required before moving out, I'll be in a better position to respond. | Sau khi có dịp trao đổi về thời gian cần báo trước khi chuyển đi, tôi sẽ có đủ cơ sở hơn để phản hồi.

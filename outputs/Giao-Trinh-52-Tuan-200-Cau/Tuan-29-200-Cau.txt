@@ -1,0 +1,200 @@
+﻿Is there a monthly fee? | Có phí hằng tháng không?
+I'd like to check a transaction. | Tôi muốn kiểm tra một giao dịch.
+I don't recognize this charge. | Tôi không nhận ra khoản thu này.
+Could you explain the fee? | Bạn giải thích khoản phí được không?
+I'm trying to stick to my budget. | Tôi đang cố chi tiêu trong ngân sách.
+I'm saving up for a trip. | Tôi đang dành dụm cho một chuyến đi.
+I'd like to ask about fees before opening an account. | Tôi muốn hỏi về phí trước khi mở tài khoản.
+I need to ask about fees before opening an account. | Tôi cần hỏi về phí trước khi mở tài khoản.
+Can I ask about fees before opening an account? | Tôi có thể hỏi về phí trước khi mở tài khoản không?
+Could you help me ask about fees before opening an account? | Bạn giúp tôi hỏi về phí trước khi mở tài khoản được không?
+What would you recommend if I wanted to ask about fees before opening an account? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi về phí trước khi mở tài khoản?
+I'm trying to ask about fees before opening an account without overlooking any important details. | Tôi đang cố hỏi về phí trước khi mở tài khoản mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask about fees before opening an account, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi về phí trước khi mở tài khoản thế nào, nên rất mong được hướng dẫn.
+Let me ask about fees before opening an account first, and then we can discuss the next step. | Để tôi hỏi về phí trước khi mở tài khoản trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask about fees before opening an account, but something unexpected came up. | Tôi định hỏi về phí trước khi mở tài khoản, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask about fees before opening an account yet, despite making several attempts. | Tôi vẫn chưa thể hỏi về phí trước khi mở tài khoản, dù đã thử vài lần.
+Do you think it would be more effective for me to ask about fees before opening an account in person? | Bạn nghĩ tôi hỏi về phí trước khi mở tài khoản trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask about fees before opening an account before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi về phí trước khi mở tài khoản trước khi tiếp tục.
+I'll ask about fees before opening an account as soon as I have the information I need. | Tôi sẽ hỏi về phí trước khi mở tài khoản ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask about fees before opening an account. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi về phí trước khi mở tài khoản.
+I'd like to explain that my card was declined. | Tôi muốn giải thích rằng thẻ của tôi bị từ chối.
+I need to explain that my card was declined. | Tôi cần giải thích rằng thẻ của tôi bị từ chối.
+Can I explain that my card was declined? | Tôi có thể giải thích rằng thẻ của tôi bị từ chối không?
+Could you help me explain that my card was declined? | Bạn giúp tôi giải thích rằng thẻ của tôi bị từ chối được không?
+What would you recommend if I wanted to explain that my card was declined? | Bạn sẽ gợi ý gì nếu tôi muốn giải thích rằng thẻ của tôi bị từ chối?
+I'm trying to explain that my card was declined without overlooking any important details. | Tôi đang cố giải thích rằng thẻ của tôi bị từ chối mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to explain that my card was declined, so I'd appreciate some guidance. | Tôi chưa chắc nên giải thích rằng thẻ của tôi bị từ chối thế nào, nên rất mong được hướng dẫn.
+Let me explain that my card was declined first, and then we can discuss the next step. | Để tôi giải thích rằng thẻ của tôi bị từ chối trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to explain that my card was declined, but something unexpected came up. | Tôi định giải thích rằng thẻ của tôi bị từ chối, nhưng có việc bất ngờ xảy ra.
+I haven't been able to explain that my card was declined yet, despite making several attempts. | Tôi vẫn chưa thể giải thích rằng thẻ của tôi bị từ chối, dù đã thử vài lần.
+Do you think it would be more effective for me to explain that my card was declined in person? | Bạn nghĩ tôi giải thích rằng thẻ của tôi bị từ chối trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd explain that my card was declined before moving forward. | Nếu ở vị trí của bạn, tôi sẽ giải thích rằng thẻ của tôi bị từ chối trước khi tiếp tục.
+I'll explain that my card was declined as soon as I have the information I need. | Tôi sẽ giải thích rằng thẻ của tôi bị từ chối ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to explain that my card was declined. | Nhìn lại, lẽ ra tôi nên dành thời gian để giải thích rằng thẻ của tôi bị từ chối.
+Is there any reason why I shouldn't explain that my card was declined at this stage? | Có lý do nào khiến tôi không nên giải thích rằng thẻ của tôi bị từ chối ở giai đoạn này không?
+I'd rather explain that my card was declined now than deal with a misunderstanding later. | Tôi muốn giải thích rằng thẻ của tôi bị từ chối ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to explain that my card was declined properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn giải thích rằng thẻ của tôi bị từ chối cho đúng.
+Unless there is a better alternative, I plan to explain that my card was declined. | Trừ khi có phương án tốt hơn, tôi dự định giải thích rằng thẻ của tôi bị từ chối.
+The main reason I want to explain that my card was declined is to avoid unnecessary confusion. | Lý do chính tôi muốn giải thích rằng thẻ của tôi bị từ chối là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to explain that my card was declined, I'll be in a better position to respond. | Sau khi có dịp giải thích rằng thẻ của tôi bị từ chối, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to check a transaction I do not recognize. | Tôi muốn kiểm tra một giao dịch tôi không nhận ra.
+I need to check a transaction I do not recognize. | Tôi cần kiểm tra một giao dịch tôi không nhận ra.
+Can I check a transaction I do not recognize? | Tôi có thể kiểm tra một giao dịch tôi không nhận ra không?
+Could you help me check a transaction I do not recognize? | Bạn giúp tôi kiểm tra một giao dịch tôi không nhận ra được không?
+What would you recommend if I wanted to check a transaction I do not recognize? | Bạn sẽ gợi ý gì nếu tôi muốn kiểm tra một giao dịch tôi không nhận ra?
+I'm trying to check a transaction I do not recognize without overlooking any important details. | Tôi đang cố kiểm tra một giao dịch tôi không nhận ra mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to check a transaction I do not recognize, so I'd appreciate some guidance. | Tôi chưa chắc nên kiểm tra một giao dịch tôi không nhận ra thế nào, nên rất mong được hướng dẫn.
+Let me check a transaction I do not recognize first, and then we can discuss the next step. | Để tôi kiểm tra một giao dịch tôi không nhận ra trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to check a transaction I do not recognize, but something unexpected came up. | Tôi định kiểm tra một giao dịch tôi không nhận ra, nhưng có việc bất ngờ xảy ra.
+I haven't been able to check a transaction I do not recognize yet, despite making several attempts. | Tôi vẫn chưa thể kiểm tra một giao dịch tôi không nhận ra, dù đã thử vài lần.
+Do you think it would be more effective for me to check a transaction I do not recognize in person? | Bạn nghĩ tôi kiểm tra một giao dịch tôi không nhận ra trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check a transaction I do not recognize before moving forward. | Nếu ở vị trí của bạn, tôi sẽ kiểm tra một giao dịch tôi không nhận ra trước khi tiếp tục.
+I'll check a transaction I do not recognize as soon as I have the information I need. | Tôi sẽ kiểm tra một giao dịch tôi không nhận ra ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check a transaction I do not recognize. | Nhìn lại, lẽ ra tôi nên dành thời gian để kiểm tra một giao dịch tôi không nhận ra.
+Is there any reason why I shouldn't check a transaction I do not recognize at this stage? | Có lý do nào khiến tôi không nên kiểm tra một giao dịch tôi không nhận ra ở giai đoạn này không?
+I'd rather check a transaction I do not recognize now than deal with a misunderstanding later. | Tôi muốn kiểm tra một giao dịch tôi không nhận ra ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to check a transaction I do not recognize properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn kiểm tra một giao dịch tôi không nhận ra cho đúng.
+Unless there is a better alternative, I plan to check a transaction I do not recognize. | Trừ khi có phương án tốt hơn, tôi dự định kiểm tra một giao dịch tôi không nhận ra.
+The main reason I want to check a transaction I do not recognize is to avoid unnecessary confusion. | Lý do chính tôi muốn kiểm tra một giao dịch tôi không nhận ra là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to check a transaction I do not recognize, I'll be in a better position to respond. | Sau khi có dịp kiểm tra một giao dịch tôi không nhận ra, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask how to transfer money between accounts. | Tôi muốn hỏi cách chuyển tiền giữa các tài khoản.
+I need to ask how to transfer money between accounts. | Tôi cần hỏi cách chuyển tiền giữa các tài khoản.
+Can I ask how to transfer money between accounts? | Tôi có thể hỏi cách chuyển tiền giữa các tài khoản không?
+Could you help me ask how to transfer money between accounts? | Bạn giúp tôi hỏi cách chuyển tiền giữa các tài khoản được không?
+What would you recommend if I wanted to ask how to transfer money between accounts? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi cách chuyển tiền giữa các tài khoản?
+I'm trying to ask how to transfer money between accounts without overlooking any important details. | Tôi đang cố hỏi cách chuyển tiền giữa các tài khoản mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask how to transfer money between accounts, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi cách chuyển tiền giữa các tài khoản thế nào, nên rất mong được hướng dẫn.
+Let me ask how to transfer money between accounts first, and then we can discuss the next step. | Để tôi hỏi cách chuyển tiền giữa các tài khoản trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask how to transfer money between accounts, but something unexpected came up. | Tôi định hỏi cách chuyển tiền giữa các tài khoản, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask how to transfer money between accounts yet, despite making several attempts. | Tôi vẫn chưa thể hỏi cách chuyển tiền giữa các tài khoản, dù đã thử vài lần.
+Do you think it would be more effective for me to ask how to transfer money between accounts in person? | Bạn nghĩ tôi hỏi cách chuyển tiền giữa các tài khoản trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask how to transfer money between accounts before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi cách chuyển tiền giữa các tài khoản trước khi tiếp tục.
+I'll ask how to transfer money between accounts as soon as I have the information I need. | Tôi sẽ hỏi cách chuyển tiền giữa các tài khoản ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask how to transfer money between accounts. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi cách chuyển tiền giữa các tài khoản.
+Is there any reason why I shouldn't ask how to transfer money between accounts at this stage? | Có lý do nào khiến tôi không nên hỏi cách chuyển tiền giữa các tài khoản ở giai đoạn này không?
+I'd rather ask how to transfer money between accounts now than deal with a misunderstanding later. | Tôi muốn hỏi cách chuyển tiền giữa các tài khoản ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask how to transfer money between accounts properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi cách chuyển tiền giữa các tài khoản cho đúng.
+Unless there is a better alternative, I plan to ask how to transfer money between accounts. | Trừ khi có phương án tốt hơn, tôi dự định hỏi cách chuyển tiền giữa các tài khoản.
+The main reason I want to ask how to transfer money between accounts is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi cách chuyển tiền giữa các tài khoản là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask how to transfer money between accounts, I'll be in a better position to respond. | Sau khi có dịp hỏi cách chuyển tiền giữa các tài khoản, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to report that my debit card is missing. | Tôi muốn báo thẻ ghi nợ của tôi bị mất.
+I need to report that my debit card is missing. | Tôi cần báo thẻ ghi nợ của tôi bị mất.
+Can I report that my debit card is missing? | Tôi có thể báo thẻ ghi nợ của tôi bị mất không?
+Could you help me report that my debit card is missing? | Bạn giúp tôi báo thẻ ghi nợ của tôi bị mất được không?
+What would you recommend if I wanted to report that my debit card is missing? | Bạn sẽ gợi ý gì nếu tôi muốn báo thẻ ghi nợ của tôi bị mất?
+I'm trying to report that my debit card is missing without overlooking any important details. | Tôi đang cố báo thẻ ghi nợ của tôi bị mất mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to report that my debit card is missing, so I'd appreciate some guidance. | Tôi chưa chắc nên báo thẻ ghi nợ của tôi bị mất thế nào, nên rất mong được hướng dẫn.
+Let me report that my debit card is missing first, and then we can discuss the next step. | Để tôi báo thẻ ghi nợ của tôi bị mất trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to report that my debit card is missing, but something unexpected came up. | Tôi định báo thẻ ghi nợ của tôi bị mất, nhưng có việc bất ngờ xảy ra.
+I haven't been able to report that my debit card is missing yet, despite making several attempts. | Tôi vẫn chưa thể báo thẻ ghi nợ của tôi bị mất, dù đã thử vài lần.
+Do you think it would be more effective for me to report that my debit card is missing in person? | Bạn nghĩ tôi báo thẻ ghi nợ của tôi bị mất trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd report that my debit card is missing before moving forward. | Nếu ở vị trí của bạn, tôi sẽ báo thẻ ghi nợ của tôi bị mất trước khi tiếp tục.
+I'll report that my debit card is missing as soon as I have the information I need. | Tôi sẽ báo thẻ ghi nợ của tôi bị mất ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to report that my debit card is missing. | Nhìn lại, lẽ ra tôi nên dành thời gian để báo thẻ ghi nợ của tôi bị mất.
+Is there any reason why I shouldn't report that my debit card is missing at this stage? | Có lý do nào khiến tôi không nên báo thẻ ghi nợ của tôi bị mất ở giai đoạn này không?
+I'd rather report that my debit card is missing now than deal with a misunderstanding later. | Tôi muốn báo thẻ ghi nợ của tôi bị mất ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to report that my debit card is missing properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn báo thẻ ghi nợ của tôi bị mất cho đúng.
+Unless there is a better alternative, I plan to report that my debit card is missing. | Trừ khi có phương án tốt hơn, tôi dự định báo thẻ ghi nợ của tôi bị mất.
+The main reason I want to report that my debit card is missing is to avoid unnecessary confusion. | Lý do chính tôi muốn báo thẻ ghi nợ của tôi bị mất là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to report that my debit card is missing, I'll be in a better position to respond. | Sau khi có dịp báo thẻ ghi nợ của tôi bị mất, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to set a monthly budget for everyday expenses. | Tôi muốn đặt ngân sách hằng tháng cho chi tiêu thường ngày.
+I need to set a monthly budget for everyday expenses. | Tôi cần đặt ngân sách hằng tháng cho chi tiêu thường ngày.
+Can I set a monthly budget for everyday expenses? | Tôi có thể đặt ngân sách hằng tháng cho chi tiêu thường ngày không?
+Could you help me set a monthly budget for everyday expenses? | Bạn giúp tôi đặt ngân sách hằng tháng cho chi tiêu thường ngày được không?
+What would you recommend if I wanted to set a monthly budget for everyday expenses? | Bạn sẽ gợi ý gì nếu tôi muốn đặt ngân sách hằng tháng cho chi tiêu thường ngày?
+I'm trying to set a monthly budget for everyday expenses without overlooking any important details. | Tôi đang cố đặt ngân sách hằng tháng cho chi tiêu thường ngày mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to set a monthly budget for everyday expenses, so I'd appreciate some guidance. | Tôi chưa chắc nên đặt ngân sách hằng tháng cho chi tiêu thường ngày thế nào, nên rất mong được hướng dẫn.
+Let me set a monthly budget for everyday expenses first, and then we can discuss the next step. | Để tôi đặt ngân sách hằng tháng cho chi tiêu thường ngày trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to set a monthly budget for everyday expenses, but something unexpected came up. | Tôi định đặt ngân sách hằng tháng cho chi tiêu thường ngày, nhưng có việc bất ngờ xảy ra.
+I haven't been able to set a monthly budget for everyday expenses yet, despite making several attempts. | Tôi vẫn chưa thể đặt ngân sách hằng tháng cho chi tiêu thường ngày, dù đã thử vài lần.
+Do you think it would be more effective for me to set a monthly budget for everyday expenses in person? | Bạn nghĩ tôi đặt ngân sách hằng tháng cho chi tiêu thường ngày trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd set a monthly budget for everyday expenses before moving forward. | Nếu ở vị trí của bạn, tôi sẽ đặt ngân sách hằng tháng cho chi tiêu thường ngày trước khi tiếp tục.
+I'll set a monthly budget for everyday expenses as soon as I have the information I need. | Tôi sẽ đặt ngân sách hằng tháng cho chi tiêu thường ngày ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to set a monthly budget for everyday expenses. | Nhìn lại, lẽ ra tôi nên dành thời gian để đặt ngân sách hằng tháng cho chi tiêu thường ngày.
+Is there any reason why I shouldn't set a monthly budget for everyday expenses at this stage? | Có lý do nào khiến tôi không nên đặt ngân sách hằng tháng cho chi tiêu thường ngày ở giai đoạn này không?
+I'd rather set a monthly budget for everyday expenses now than deal with a misunderstanding later. | Tôi muốn đặt ngân sách hằng tháng cho chi tiêu thường ngày ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to set a monthly budget for everyday expenses properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn đặt ngân sách hằng tháng cho chi tiêu thường ngày cho đúng.
+Unless there is a better alternative, I plan to set a monthly budget for everyday expenses. | Trừ khi có phương án tốt hơn, tôi dự định đặt ngân sách hằng tháng cho chi tiêu thường ngày.
+The main reason I want to set a monthly budget for everyday expenses is to avoid unnecessary confusion. | Lý do chính tôi muốn đặt ngân sách hằng tháng cho chi tiêu thường ngày là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to set a monthly budget for everyday expenses, I'll be in a better position to respond. | Sau khi có dịp đặt ngân sách hằng tháng cho chi tiêu thường ngày, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask when a deposited check will clear. | Tôi muốn hỏi khi nào tiền từ séc đã nộp có thể sử dụng.
+I need to ask when a deposited check will clear. | Tôi cần hỏi khi nào tiền từ séc đã nộp có thể sử dụng.
+Can I ask when a deposited check will clear? | Tôi có thể hỏi khi nào tiền từ séc đã nộp có thể sử dụng không?
+Could you help me ask when a deposited check will clear? | Bạn giúp tôi hỏi khi nào tiền từ séc đã nộp có thể sử dụng được không?
+What would you recommend if I wanted to ask when a deposited check will clear? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi khi nào tiền từ séc đã nộp có thể sử dụng?
+I'm trying to ask when a deposited check will clear without overlooking any important details. | Tôi đang cố hỏi khi nào tiền từ séc đã nộp có thể sử dụng mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask when a deposited check will clear, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi khi nào tiền từ séc đã nộp có thể sử dụng thế nào, nên rất mong được hướng dẫn.
+Let me ask when a deposited check will clear first, and then we can discuss the next step. | Để tôi hỏi khi nào tiền từ séc đã nộp có thể sử dụng trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask when a deposited check will clear, but something unexpected came up. | Tôi định hỏi khi nào tiền từ séc đã nộp có thể sử dụng, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask when a deposited check will clear yet, despite making several attempts. | Tôi vẫn chưa thể hỏi khi nào tiền từ séc đã nộp có thể sử dụng, dù đã thử vài lần.
+Do you think it would be more effective for me to ask when a deposited check will clear in person? | Bạn nghĩ tôi hỏi khi nào tiền từ séc đã nộp có thể sử dụng trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask when a deposited check will clear before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi khi nào tiền từ séc đã nộp có thể sử dụng trước khi tiếp tục.
+I'll ask when a deposited check will clear as soon as I have the information I need. | Tôi sẽ hỏi khi nào tiền từ séc đã nộp có thể sử dụng ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask when a deposited check will clear. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi khi nào tiền từ séc đã nộp có thể sử dụng.
+Is there any reason why I shouldn't ask when a deposited check will clear at this stage? | Có lý do nào khiến tôi không nên hỏi khi nào tiền từ séc đã nộp có thể sử dụng ở giai đoạn này không?
+I'd rather ask when a deposited check will clear now than deal with a misunderstanding later. | Tôi muốn hỏi khi nào tiền từ séc đã nộp có thể sử dụng ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask when a deposited check will clear properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi khi nào tiền từ séc đã nộp có thể sử dụng cho đúng.
+Unless there is a better alternative, I plan to ask when a deposited check will clear. | Trừ khi có phương án tốt hơn, tôi dự định hỏi khi nào tiền từ séc đã nộp có thể sử dụng.
+The main reason I want to ask when a deposited check will clear is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi khi nào tiền từ séc đã nộp có thể sử dụng là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask when a deposited check will clear, I'll be in a better position to respond. | Sau khi có dịp hỏi khi nào tiền từ séc đã nộp có thể sử dụng, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to clarify the exchange rate before a transfer. | Tôi muốn làm rõ tỷ giá trước khi chuyển tiền.
+I need to clarify the exchange rate before a transfer. | Tôi cần làm rõ tỷ giá trước khi chuyển tiền.
+Can I clarify the exchange rate before a transfer? | Tôi có thể làm rõ tỷ giá trước khi chuyển tiền không?
+Could you help me clarify the exchange rate before a transfer? | Bạn giúp tôi làm rõ tỷ giá trước khi chuyển tiền được không?
+What would you recommend if I wanted to clarify the exchange rate before a transfer? | Bạn sẽ gợi ý gì nếu tôi muốn làm rõ tỷ giá trước khi chuyển tiền?
+I'm trying to clarify the exchange rate before a transfer without overlooking any important details. | Tôi đang cố làm rõ tỷ giá trước khi chuyển tiền mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to clarify the exchange rate before a transfer, so I'd appreciate some guidance. | Tôi chưa chắc nên làm rõ tỷ giá trước khi chuyển tiền thế nào, nên rất mong được hướng dẫn.
+Let me clarify the exchange rate before a transfer first, and then we can discuss the next step. | Để tôi làm rõ tỷ giá trước khi chuyển tiền trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to clarify the exchange rate before a transfer, but something unexpected came up. | Tôi định làm rõ tỷ giá trước khi chuyển tiền, nhưng có việc bất ngờ xảy ra.
+I haven't been able to clarify the exchange rate before a transfer yet, despite making several attempts. | Tôi vẫn chưa thể làm rõ tỷ giá trước khi chuyển tiền, dù đã thử vài lần.
+Do you think it would be more effective for me to clarify the exchange rate before a transfer in person? | Bạn nghĩ tôi làm rõ tỷ giá trước khi chuyển tiền trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd clarify the exchange rate before a transfer before moving forward. | Nếu ở vị trí của bạn, tôi sẽ làm rõ tỷ giá trước khi chuyển tiền trước khi tiếp tục.
+I'll clarify the exchange rate before a transfer as soon as I have the information I need. | Tôi sẽ làm rõ tỷ giá trước khi chuyển tiền ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to clarify the exchange rate before a transfer. | Nhìn lại, lẽ ra tôi nên dành thời gian để làm rõ tỷ giá trước khi chuyển tiền.
+Is there any reason why I shouldn't clarify the exchange rate before a transfer at this stage? | Có lý do nào khiến tôi không nên làm rõ tỷ giá trước khi chuyển tiền ở giai đoạn này không?
+I'd rather clarify the exchange rate before a transfer now than deal with a misunderstanding later. | Tôi muốn làm rõ tỷ giá trước khi chuyển tiền ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to clarify the exchange rate before a transfer properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn làm rõ tỷ giá trước khi chuyển tiền cho đúng.
+Unless there is a better alternative, I plan to clarify the exchange rate before a transfer. | Trừ khi có phương án tốt hơn, tôi dự định làm rõ tỷ giá trước khi chuyển tiền.
+The main reason I want to clarify the exchange rate before a transfer is to avoid unnecessary confusion. | Lý do chính tôi muốn làm rõ tỷ giá trước khi chuyển tiền là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to clarify the exchange rate before a transfer, I'll be in a better position to respond. | Sau khi có dịp làm rõ tỷ giá trước khi chuyển tiền, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to check whether an automatic payment went through. | Tôi muốn kiểm tra thanh toán tự động đã thành công chưa.
+I need to check whether an automatic payment went through. | Tôi cần kiểm tra thanh toán tự động đã thành công chưa.
+Can I check whether an automatic payment went through? | Tôi có thể kiểm tra thanh toán tự động đã thành công chưa không?
+Could you help me check whether an automatic payment went through? | Bạn giúp tôi kiểm tra thanh toán tự động đã thành công chưa được không?
+What would you recommend if I wanted to check whether an automatic payment went through? | Bạn sẽ gợi ý gì nếu tôi muốn kiểm tra thanh toán tự động đã thành công chưa?
+I'm trying to check whether an automatic payment went through without overlooking any important details. | Tôi đang cố kiểm tra thanh toán tự động đã thành công chưa mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to check whether an automatic payment went through, so I'd appreciate some guidance. | Tôi chưa chắc nên kiểm tra thanh toán tự động đã thành công chưa thế nào, nên rất mong được hướng dẫn.
+Let me check whether an automatic payment went through first, and then we can discuss the next step. | Để tôi kiểm tra thanh toán tự động đã thành công chưa trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to check whether an automatic payment went through, but something unexpected came up. | Tôi định kiểm tra thanh toán tự động đã thành công chưa, nhưng có việc bất ngờ xảy ra.
+I haven't been able to check whether an automatic payment went through yet, despite making several attempts. | Tôi vẫn chưa thể kiểm tra thanh toán tự động đã thành công chưa, dù đã thử vài lần.
+Do you think it would be more effective for me to check whether an automatic payment went through in person? | Bạn nghĩ tôi kiểm tra thanh toán tự động đã thành công chưa trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check whether an automatic payment went through before moving forward. | Nếu ở vị trí của bạn, tôi sẽ kiểm tra thanh toán tự động đã thành công chưa trước khi tiếp tục.
+I'll check whether an automatic payment went through as soon as I have the information I need. | Tôi sẽ kiểm tra thanh toán tự động đã thành công chưa ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check whether an automatic payment went through. | Nhìn lại, lẽ ra tôi nên dành thời gian để kiểm tra thanh toán tự động đã thành công chưa.
+Is there any reason why I shouldn't check whether an automatic payment went through at this stage? | Có lý do nào khiến tôi không nên kiểm tra thanh toán tự động đã thành công chưa ở giai đoạn này không?
+I'd rather check whether an automatic payment went through now than deal with a misunderstanding later. | Tôi muốn kiểm tra thanh toán tự động đã thành công chưa ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to check whether an automatic payment went through properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn kiểm tra thanh toán tự động đã thành công chưa cho đúng.
+Unless there is a better alternative, I plan to check whether an automatic payment went through. | Trừ khi có phương án tốt hơn, tôi dự định kiểm tra thanh toán tự động đã thành công chưa.
+The main reason I want to check whether an automatic payment went through is to avoid unnecessary confusion. | Lý do chính tôi muốn kiểm tra thanh toán tự động đã thành công chưa là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to check whether an automatic payment went through, I'll be in a better position to respond. | Sau khi có dịp kiểm tra thanh toán tự động đã thành công chưa, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to request a copy of my bank statement. | Tôi muốn xin bản sao sao kê ngân hàng.
+I need to request a copy of my bank statement. | Tôi cần xin bản sao sao kê ngân hàng.
+Can I request a copy of my bank statement? | Tôi có thể xin bản sao sao kê ngân hàng không?
+Could you help me request a copy of my bank statement? | Bạn giúp tôi xin bản sao sao kê ngân hàng được không?
+What would you recommend if I wanted to request a copy of my bank statement? | Bạn sẽ gợi ý gì nếu tôi muốn xin bản sao sao kê ngân hàng?
+I'm trying to request a copy of my bank statement without overlooking any important details. | Tôi đang cố xin bản sao sao kê ngân hàng mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to request a copy of my bank statement, so I'd appreciate some guidance. | Tôi chưa chắc nên xin bản sao sao kê ngân hàng thế nào, nên rất mong được hướng dẫn.
+Let me request a copy of my bank statement first, and then we can discuss the next step. | Để tôi xin bản sao sao kê ngân hàng trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to request a copy of my bank statement, but something unexpected came up. | Tôi định xin bản sao sao kê ngân hàng, nhưng có việc bất ngờ xảy ra.
+I haven't been able to request a copy of my bank statement yet, despite making several attempts. | Tôi vẫn chưa thể xin bản sao sao kê ngân hàng, dù đã thử vài lần.
+Do you think it would be more effective for me to request a copy of my bank statement in person? | Bạn nghĩ tôi xin bản sao sao kê ngân hàng trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd request a copy of my bank statement before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xin bản sao sao kê ngân hàng trước khi tiếp tục.
+I'll request a copy of my bank statement as soon as I have the information I need. | Tôi sẽ xin bản sao sao kê ngân hàng ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to request a copy of my bank statement. | Nhìn lại, lẽ ra tôi nên dành thời gian để xin bản sao sao kê ngân hàng.
+Is there any reason why I shouldn't request a copy of my bank statement at this stage? | Có lý do nào khiến tôi không nên xin bản sao sao kê ngân hàng ở giai đoạn này không?
+I'd rather request a copy of my bank statement now than deal with a misunderstanding later. | Tôi muốn xin bản sao sao kê ngân hàng ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to request a copy of my bank statement properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xin bản sao sao kê ngân hàng cho đúng.
+Unless there is a better alternative, I plan to request a copy of my bank statement. | Trừ khi có phương án tốt hơn, tôi dự định xin bản sao sao kê ngân hàng.
+The main reason I want to request a copy of my bank statement is to avoid unnecessary confusion. | Lý do chính tôi muốn xin bản sao sao kê ngân hàng là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to request a copy of my bank statement, I'll be in a better position to respond. | Sau khi có dịp xin bản sao sao kê ngân hàng, tôi sẽ có đủ cơ sở hơn để phản hồi.

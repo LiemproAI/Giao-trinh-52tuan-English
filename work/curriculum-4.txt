@@ -1,0 +1,298 @@
+@@ 40|Telling stories and memories|Kể chuyện và kỷ niệm
+GOAL Kể một trải nghiệm 2–3 phút có mở đầu, trình tự, điểm bất ngờ và kết quả.
+GRAMMAR Past continuous làm nền; past simple kể sự kiện: I was walking when I saw ... . Dùng at first, then, eventually.
+SOUND Đuôi -ed có ba cách /t/, /d/, /ɪd/: walked, called, waited. Chỉ thêm âm tiết ở những từ cần /ɪd/.
+REGISTER Guess what happened? tạo tò mò trong chuyện thân mật. Kể ngắn trước, thêm chi tiết khi người nghe hỏi.
+P I'll never forget the time I got lost.|Tôi sẽ không quên lần mình bị lạc.
+P At first, I thought it was the right bus.|Lúc đầu, tôi nghĩ đó là đúng xe buýt.
+P I was looking at my phone when I missed my stop.|Tôi đang nhìn điện thoại thì đi quá trạm.
+P Guess what happened next.|Đoán xem chuyện gì xảy ra tiếp theo.
+P Luckily, someone helped me out.|May là có người giúp tôi.
+P Looking back, it was pretty funny.|Nhìn lại thì chuyện khá buồn cười.
+D I'll never forget my first day in the city.|Tôi sẽ không quên ngày đầu ở thành phố.
+D What happened?|Có chuyện gì vậy?
+D I was looking at my phone when I missed my bus stop.|Tôi đang nhìn điện thoại thì đi quá trạm xe buýt.
+D Oh no. How did you get back?|Ôi. Bạn quay lại bằng cách nào?
+D A passenger showed me where to change buses.|Một hành khách chỉ tôi chỗ đổi xe.
+D That was kind of them. At least you have a good story now.|Họ tử tế thật. Ít nhất giờ bạn có một câu chuyện hay.
+Q Why did the person miss the stop?|They were looking at their phone.
+Q Who helped the person?|A passenger.
+FIX I was look at my phone.|I was looking at my phone.
+TASK Kể kỷ niệm thật hoặc hư cấu 3 phút. Người nghe hỏi ba câu; bạn bổ sung chi tiết mà không đọc bài viết.
+TWIST Người nghe ngắt để hỏi điều chưa rõ. Trả lời rồi quay lại mạch chuyện bằng Anyway hoặc So, where was I?
+
+@@ 41|Opinions and recommendations|Nêu ý kiến và gợi ý
+GOAL Đưa ra lựa chọn có lý do, cân nhắc ưu nhược điểm và điều chỉnh gợi ý theo nhu cầu người nghe.
+GRAMMAR If you're looking for ... , I'd suggest ...; worth + V-ing; depends on + danh từ/câu hỏi.
+SOUND Nhấn đối lập: CHEAPER but FARTHER; QUIETER but SMALLER. Dùng khoảng dừng trước điểm đánh đổi.
+REGISTER I'd say và in my experience giúp tách nhận định cá nhân khỏi sự thật. Hỏi tiêu chí trước khi khuyên.
+P What matters most to you?|Điều gì quan trọng nhất với bạn?
+P I'd say this is the better option.|Tôi nghĩ đây là phương án tốt hơn.
+P It depends on your budget.|Còn tùy ngân sách của bạn.
+P One downside is the long commute.|Một nhược điểm là đường đi làm xa.
+P It's worth checking out.|Đáng tìm hiểu hoặc thử đấy.
+P I can see why you'd prefer the other one.|Tôi hiểu vì sao bạn thích lựa chọn kia hơn.
+D Which neighborhood would you recommend?|Bạn gợi ý khu nào?
+D What matters most to you: price or location?|Điều gì quan trọng hơn: giá hay vị trí?
+D Location. I'd like to walk to work.|Vị trí. Tôi muốn đi bộ đến chỗ làm.
+D Then I'd suggest Downtown. One downside is the higher rent.|Vậy tôi gợi ý Downtown. Một nhược điểm là tiền thuê cao hơn.
+D Is it noisy at night?|Ban đêm có ồn không?
+D Some streets are. It's worth visiting at different times.|Một số đường có. Bạn nên đến xem vào các thời điểm khác nhau.
+Q What matters most to the person?|Location.
+Q What downside is mentioned?|Higher rent.
+FIX It's worth to visit.|It's worth visiting.
+TASK So sánh hai nơi ở, hai khóa học hoặc hai sản phẩm trong 4 phút; hỏi tiêu chí trước khi gợi ý.
+TWIST Người nghe đổi ưu tiên giữa cuộc nói chuyện. Điều chỉnh gợi ý và giải thích phần thay đổi.
+
+@@ 42|News and checking information|Tin tức và kiểm tra thông tin
+GOAL Tóm tắt điều đã đọc, phân biệt điều biết với suy đoán và hỏi nguồn một cách lịch sự.
+GRAMMAR According to ... chỉ nguồn; reportedly biểu thị thông tin được đưa tin; may/might diễn tả khả năng, không khẳng định.
+SOUND Phân biệt can và can't bằng cả ngữ cảnh, trọng âm, âm cuối. Khi thông tin quan trọng, nhắc lại để xác nhận.
+REGISTER Headline là tiêu đề, source là nguồn, claim là nhận định cần kiểm chứng. Không mặc định nội dung lan truyền là đúng.
+P Where did you hear that?|Bạn nghe điều đó ở đâu?
+P What's the source?|Nguồn là gì?
+P I haven't verified it yet.|Tôi chưa kiểm chứng điều đó.
+P The headline doesn't tell the whole story.|Tiêu đề chưa nói hết câu chuyện.
+P Let's check the original report.|Mình kiểm tra báo cáo gốc nhé.
+P I may have misunderstood the details.|Có thể tôi đã hiểu nhầm chi tiết.
+D I heard the library is closing next month.|Tôi nghe thư viện sẽ đóng cửa tháng sau.
+D Where did you hear that?|Bạn nghe ở đâu?
+D I saw a headline online, but I haven't read the full article.|Tôi thấy tiêu đề trên mạng, nhưng chưa đọc cả bài.
+D Let's check the library's announcement.|Mình xem thông báo của thư viện nhé.
+D You're right. It says only one branch is closing for repairs.|Bạn đúng. Thông báo nói chỉ một chi nhánh đóng để sửa chữa.
+D Good catch. The headline didn't tell the whole story.|Bạn phát hiện tốt đấy. Tiêu đề chưa nói hết câu chuyện.
+Q What did the person initially read?|A headline online.
+Q Why is one branch closing?|For repairs.
+FIX I haven't verify it yet.|I haven't verified it yet.
+TASK Chọn một tin ngắn từ nguồn đáng tin, nói tóm tắt 90 giây và nêu nguồn, ngày, điều còn chưa biết.
+TWIST Bạn nhận ra mình kể sai một chi tiết. Sửa lại rõ ràng và giải thích thông tin nào đã được xác nhận.
+
+@@ 43|Education and lifelong learning|Học tập và phát triển kỹ năng
+GOAL Hỏi thông tin khóa học, trình bày mục tiêu và xin phản hồi để cải thiện.
+GRAMMAR need to và have to nêu yêu cầu; be able to nêu khả năng; by + mốc thời gian cho mục tiêu.
+SOUND Luyện course /kɔrs/ và cause /kɔz/ theo giọng đang nghe; giữ /r/ và /s/ ở course. Nhấn mục tiêu cụ thể.
+REGISTER Office hours là giờ giáo viên dành cho trao đổi; prerequisite là điều kiện học trước. Hỏi thay vì tự đoán trình độ cần thiết.
+P What are the prerequisites?|Điều kiện học trước là gì?
+P Is the course available online?|Khóa học có bản trực tuyến không?
+P How much time should I set aside each week?|Tôi nên dành bao nhiêu thời gian mỗi tuần?
+P I'd like feedback on my presentation.|Tôi muốn nhận góp ý về bài trình bày.
+P What should I focus on first?|Tôi nên tập trung vào điều gì trước?
+P My goal is to handle meetings in English.|Mục tiêu của tôi là tham gia cuộc họp bằng tiếng Anh.
+D I'm interested in the evening writing course.|Tôi quan tâm khóa viết buổi tối.
+D What would you like to improve?|Bạn muốn cải thiện điều gì?
+D I need to write clearer emails at work.|Tôi cần viết email công việc rõ hơn.
+D This course could help. You'll need about three hours a week.|Khóa này có thể giúp. Bạn cần khoảng ba giờ mỗi tuần.
+D Are there any prerequisites?|Có điều kiện học trước không?
+D Basic writing skills. We can look at a sample together.|Cần kỹ năng viết cơ bản. Mình có thể xem một bài mẫu cùng nhau.
+Q What does the person want to improve?|Writing clearer work emails.
+Q How much study time is needed?|About three hours a week.
+FIX I want improve my writing.|I want to improve my writing.
+TASK Hỏi tư vấn khóa học trong 4 phút rồi trình bày mục tiêu ba tháng với hành động và cách đo tiến bộ.
+TWIST Lịch học trùng giờ làm. Hỏi lựa chọn trực tuyến, lớp khác hoặc cách thay đổi lịch.
+
+@@ 44|Technology and digital life|Công nghệ và đời sống số
+GOAL Mô tả lỗi ứng dụng, xin hướng dẫn từng bước và hỏi quyền truy cập dữ liệu.
+GRAMMAR whenever + hiện tại nêu lỗi lặp lại; try + V-ing nêu cách thử; before + V-ing nêu trình tự.
+SOUND Luyện log in, log out và loading với /l/ đầu. Tách bước bằng first, next, finally thay vì đọc liền một đoạn.
+REGISTER Screenshot là ảnh màn hình; attachment là tệp đính kèm. Khi chia sẻ ảnh, che thông tin riêng; dùng tài khoản giả trong bài tập.
+P The app keeps freezing.|Ứng dụng cứ bị treo.
+P I can't log in to my account.|Tôi không đăng nhập vào tài khoản được.
+P Could you walk me through it?|Bạn hướng dẫn tôi từng bước được không?
+P What data does the app collect?|Ứng dụng thu thập dữ liệu gì?
+P How do I change the privacy settings?|Tôi đổi cài đặt riêng tư thế nào?
+P I'll send a screenshot without personal information.|Tôi sẽ gửi ảnh màn hình không có thông tin cá nhân.
+D The app keeps freezing when I open a document.|Ứng dụng cứ treo khi tôi mở tài liệu.
+D Does it happen with every document?|Tài liệu nào cũng bị vậy không?
+D No, just one large file.|Không, chỉ một tệp lớn.
+D Could you tell me the file type and the app version?|Bạn cho biết loại tệp và phiên bản ứng dụng được không?
+D It's a PDF. Where can I find the version number?|Đó là PDF. Tôi tìm số phiên bản ở đâu?
+D Open Settings, then About. I'll stay with you while you check.|Mở Cài đặt, rồi Giới thiệu. Tôi sẽ chờ trong lúc bạn kiểm tra.
+Q Does every file cause the problem?|No, just one large file.
+Q Where is the version number?|In Settings, then About.
+FIX The app keep freezing.|The app keeps freezing.
+TASK Đóng vai hỗ trợ 4 phút: lỗi, lúc xảy ra, phạm vi, thông tin phiên bản và xin giải thích từng bước.
+TWIST Người hỗ trợ nói quá nhanh. Ngắt lịch sự, nhờ từng bước và xác nhận trước khi tiếp tục.
+
+@@ 45|Customer service and subscriptions|Chăm sóc khách hàng và gói đăng ký
+GOAL Giải thích vấn đề, yêu cầu giải pháp cụ thể và xác nhận kết quả bằng văn bản.
+GRAMMAR I'd like to request ...; I was charged ... bị động; Could you confirm whether ...? hỏi xác nhận.
+SOUND Luyện charge /tʃɑrdʒ/ với âm đầu /tʃ/ và âm cuối /dʒ/. Đọc số tiền, ngày và mã đơn theo cụm.
+REGISTER Refund là hoàn tiền; cancellation là hủy; auto-renewal là gia hạn tự động. Chính sách khác nhau: hỏi, không khẳng định quyền lợi chưa biết.
+P I'd like to cancel my subscription.|Tôi muốn hủy gói đăng ký.
+P I was charged twice.|Tôi bị thu tiền hai lần.
+P Could you check the order status?|Bạn kiểm tra trạng thái đơn hàng được không?
+P I'd like to request a refund.|Tôi muốn yêu cầu hoàn tiền.
+P Could you send written confirmation?|Bạn gửi xác nhận bằng văn bản được không?
+P When should I expect an update?|Khi nào tôi sẽ nhận cập nhật?
+D I was charged twice for the same order.|Tôi bị thu tiền hai lần cho cùng một đơn.
+D I'm sorry about that. What's the order number?|Rất tiếc về việc đó. Mã đơn là gì?
+D It's A-one-four-eight. Both charges appeared yesterday.|Là A-một-bốn-tám. Cả hai khoản xuất hiện hôm qua.
+D I'll check whether one is a temporary authorization.|Tôi sẽ kiểm tra xem có khoản nào là tạm giữ tiền không.
+D Thanks. When should I expect an update?|Cảm ơn. Khi nào tôi nhận cập nhật?
+D By tomorrow afternoon. I'll email you a case number now.|Trước chiều mai. Tôi sẽ gửi mã hồ sơ qua email ngay.
+Q What is the order number?|A148.
+Q When is the update expected?|By tomorrow afternoon.
+FIX I was charge twice.|I was charged twice.
+TASK Diễn cuộc hỗ trợ 5 phút: sự việc, bằng chứng giả, giải pháp mong muốn, thời hạn và xác nhận.
+TWIST Chưa thể hoàn tiền ngay. Hỏi lý do, bước tiếp theo và mốc nhận trả lời; giữ lời nói bình tĩnh.
+
+@@ 46|Negotiating and reaching agreement|Thương lượng và thống nhất
+GOAL Đề xuất điều kiện, hỏi mức linh hoạt và xác nhận thỏa thuận không mơ hồ.
+GRAMMAR Would you be willing to ...?; If we ..., could you ...?; provided that ... nêu điều kiện cần.
+SOUND Nhấn IF và THEN khi nói điều kiện dài. Dừng trước số tiền và hạn cuối để người nghe dễ ghi lại.
+REGISTER Thương lượng giá không phù hợp mọi cửa hàng hoặc dịch vụ. Hỏi có linh hoạt không trước; chấp nhận câu trả lời.
+P Is there any flexibility on the price?|Mức giá có thể linh hoạt không?
+P What would be a reasonable alternative?|Phương án thay thế hợp lý là gì?
+P We could adjust the scope.|Chúng ta có thể điều chỉnh phạm vi.
+P Would you be willing to extend the deadline?|Bạn có sẵn lòng lùi hạn không?
+P That works, provided we agree on the details.|Được, với điều kiện mình thống nhất chi tiết.
+P Let's put the agreement in writing.|Mình ghi thỏa thuận thành văn bản nhé.
+D Your proposal is a little over our budget.|Đề xuất của bạn hơi vượt ngân sách của chúng tôi.
+D Is there a particular part you'd like to prioritize?|Có phần cụ thể nào bạn muốn ưu tiên không?
+D The website launch matters most.|Việc ra mắt website quan trọng nhất.
+D We could postpone the extra pages and reduce the cost.|Chúng ta có thể hoãn các trang bổ sung và giảm chi phí.
+D That works, provided the launch date stays the same.|Được, với điều kiện ngày ra mắt giữ nguyên.
+D Agreed. I'll send the revised scope and price.|Đồng ý. Tôi sẽ gửi phạm vi và giá đã điều chỉnh.
+Q What is the client's main priority?|The website launch.
+Q What could be postponed?|The extra pages.
+FIX Would you willing to extend it?|Would you be willing to extend it?
+TASK Thương lượng một dự án giả 5 phút gồm ngân sách, phạm vi, hạn và điều kiện; kết thúc bằng tóm tắt.
+TWIST Bạn không thể giảm giá thêm. Đề xuất thay đổi phạm vi hoặc lịch, nói rõ giới hạn.
+
+@@ 47|Networking and professional connections|Kết nối nghề nghiệp
+GOAL Giới thiệu bản thân ngắn gọn, tìm điểm chung và xin phép giữ liên lạc.
+GRAMMAR What brings you to ...? hỏi lý do tham dự; work in + lĩnh vực, work for + tổ chức, work on + dự án.
+SOUND Giữ /r/ ở career và từ work theo giọng Mỹ có /r/. Luyện giới thiệu 20 giây với khoảng dừng tự nhiên.
+REGISTER Elevator pitch là giới thiệu rất ngắn, không phải bài quảng cáo dài. Xin phép liên lạc; không ép chia sẻ thông tin.
+P What brings you to this event?|Điều gì đưa bạn đến sự kiện này?
+P I work in product design.|Tôi làm trong lĩnh vực thiết kế sản phẩm.
+P I'm currently working on a learning app.|Tôi đang làm một ứng dụng học tập.
+P How did you get started in your field?|Bạn bắt đầu trong lĩnh vực của mình như thế nào?
+P Would you be open to staying in touch?|Bạn có muốn giữ liên lạc không?
+P It was great talking with you.|Rất vui được trò chuyện với bạn.
+D What brings you to this event?|Điều gì đưa bạn đến sự kiện này?
+D I'm hoping to meet people who work in education technology.|Tôi muốn gặp người làm công nghệ giáo dục.
+D That's my field too. I'm working on a learning app.|Đó cũng là lĩnh vực của tôi. Tôi đang làm một ứng dụng học tập.
+D Interesting. Who is it designed for?|Thú vị đấy. Ứng dụng dành cho ai?
+D Adults learning English. Would you be open to staying in touch?|Người lớn học tiếng Anh. Bạn có muốn giữ liên lạc không?
+D Sure. You can send me a message on my professional profile.|Có. Bạn gửi tin qua hồ sơ nghề nghiệp của tôi được.
+Q What field are they interested in?|Education technology.
+Q Who is the app for?|Adults learning English.
+FIX I work on education technology.|I work in education technology.
+TASK Diễn hai lượt gặp người mới, mỗi lượt 3 phút: giới thiệu, hỏi tiếp nối, điểm chung và xin giữ liên lạc.
+TWIST Người kia đang vội. Rút giới thiệu còn 20 giây và kết thúc lịch sự, không giữ họ lại.
+
+@@ 48|Presentations and questions|Trình bày và trả lời câu hỏi
+GOAL Trình bày 4–5 phút có cấu trúc và xử lý câu hỏi chưa chuẩn bị.
+GRAMMAR First ..., next ..., finally ... tổ chức; What I mean is ... làm rõ; I don't have ... yet thừa nhận giới hạn.
+SOUND Chia câu dài thành nhóm ý. Hạ giọng ở điểm đã kết thúc, giữ nhịp dừng sau thông tin quan trọng.
+REGISTER Không cần giọng kịch tính. Nói kết luận rõ; nếu thiếu dữ liệu, hẹn kiểm tra thay vì đoán.
+P Today I'd like to walk you through our plan.|Hôm nay tôi muốn giới thiệu từng phần kế hoạch.
+P The main takeaway is this.|Điểm chính cần nhớ là đây.
+P Let me give you an example.|Để tôi đưa một ví dụ.
+P Could you clarify what you mean?|Bạn làm rõ ý của mình được không?
+P I don't have that figure with me.|Hiện tôi không có số liệu đó.
+P I'll check and follow up with you.|Tôi sẽ kiểm tra và trả lời lại.
+D The main takeaway is that we should test a smaller version first.|Điểm chính là nên thử một phiên bản nhỏ hơn trước.
+D How many users will be in the test?|Có bao nhiêu người tham gia thử?
+D We're planning for twenty, but that's not final.|Chúng tôi dự tính hai mươi, nhưng chưa chốt.
+D How much will the test cost?|Đợt thử tốn bao nhiêu?
+D I don't have the final figure with me. I'll check and follow up.|Tôi chưa có số cuối cùng. Tôi sẽ kiểm tra và trả lời lại.
+D Thanks. Please include the assumptions behind the estimate.|Cảm ơn. Hãy kèm các giả định của ước tính.
+Q What should be tested first?|A smaller version.
+Q Is the number of users final?|No, it is not final.
+FIX Let me giving you an example.|Let me give you an example.
+TASK Trình bày một đề xuất 5 phút, rồi nhận năm câu hỏi. Có ít nhất một câu bạn phải xin làm rõ hoặc hẹn kiểm tra.
+TWIST Người nghe hiểu sai kết luận. Giải thích lại bằng ví dụ khác và kiểm tra xem đã rõ chưa.
+
+@@ 49|Informal English and cultural cues|Tiếng Anh thân mật và tín hiệu văn hóa
+GOAL Hiểu vài cách nói thân mật thường gặp, hỏi lại hàm ý và chọn mức trang trọng phù hợp.
+GRAMMAR How's it going? là lời hỏi thăm thân mật; I'm going to thường nghe thành gonna trong lời nói, vẫn viết đầy đủ khi trang trọng.
+SOUND Nghe wanna/gonna như dạng rút gọn theo ngữ cảnh; không rút gọn mọi want to/going to máy móc. Luyện nguyên dạng trước.
+REGISTER Mỹ có nhiều vùng, cộng đồng và cách nói. Slang nhanh thay đổi; ưu tiên cách nói bạn hiểu và đúng quan hệ. Không bắt chước giọng để châm biếm.
+P How's it going?|Dạo này thế nào?
+P I'm pretty wiped out.|Tôi khá kiệt sức.
+P That works for me.|Phương án đó phù hợp với tôi.
+P I'm just kidding.|Tôi chỉ đùa thôi.
+P What do you mean by that?|Bạn nói vậy có ý gì?
+P Could you say that another way?|Bạn nói bằng cách khác được không?
+D How's it going?|Dạo này thế nào?
+D Pretty good, but I'm wiped out after that trip.|Khá ổn, nhưng tôi mệt rã rời sau chuyến đi.
+D Want to grab dinner, or would you rather call it a night?|Bạn muốn ăn tối hay kết thúc buổi tối để nghỉ?
+D What do you mean by call it a night?|Call it a night nghĩa là gì?
+D I mean stop for the evening and get some rest.|Ý tôi là dừng hoạt động tối nay và nghỉ ngơi.
+D In that case, let's get dinner another day.|Vậy mình ăn tối hôm khác nhé.
+Q Why is the person tired?|Because of the trip.
+Q What does call it a night mean here?|Stop for the evening and get some rest.
+FIX What you mean by that?|What do you mean by that?
+TASK Viết và nói hai phiên bản cùng lời nhắn: cho bạn thân và cho đồng nghiệp mới. Giải thích những chỗ đổi cách nói.
+TWIST Bạn không chắc người kia đùa hay nghiêm túc. Hỏi lại bình tĩnh thay vì đoán ý.
+
+@@ 50|Empathy and supportive conversations|Lắng nghe và trò chuyện hỗ trợ
+GOAL Thể hiện quan tâm, hỏi người kia cần gì và lắng nghe mà không vội đưa giải pháp.
+GRAMMAR That sounds + tính từ; Would it help if ...? đề nghị; You don't have to ... giảm áp lực.
+SOUND Dùng giọng đều, khoảng dừng để người kia nói tiếp. Tránh nhấn lời khuyên như mệnh lệnh.
+REGISTER Đây là kỹ năng giao tiếp, không thay hỗ trợ chuyên môn. Không nói I know exactly how you feel nếu bạn không biết; tránh ép họ kể.
+P That sounds really difficult.|Nghe có vẻ rất khó khăn.
+P I'm here if you want to talk.|Tôi ở đây nếu bạn muốn nói chuyện.
+P Would you like advice, or would you rather I just listen?|Bạn muốn lời khuyên, hay muốn tôi chỉ lắng nghe?
+P You don't have to explain everything.|Bạn không phải giải thích mọi chuyện.
+P Is there anything practical I can help with?|Có việc cụ thể nào tôi giúp được không?
+P Thanks for trusting me with that.|Cảm ơn bạn đã tin tưởng kể với tôi.
+D I've had a really hard week.|Tôi có một tuần rất khó khăn.
+D I'm sorry to hear that. Do you want to talk about it?|Tôi rất tiếc khi nghe vậy. Bạn muốn nói về chuyện đó không?
+D A little. I don't really need advice right now.|Một chút. Giờ tôi không thực sự cần lời khuyên.
+D Okay. I'm happy to listen.|Được. Tôi sẵn lòng nghe.
+D Thanks. I just need a few minutes to get it off my chest.|Cảm ơn. Tôi chỉ cần vài phút để nói ra cho nhẹ lòng.
+D Take your time. You don't have to explain everything.|Bạn cứ từ từ. Không cần giải thích mọi chuyện.
+Q Does the person want advice now?|No, they do not.
+Q What does the listener offer?|To listen without rushing.
+FIX You don't must explain everything.|You don't have to explain everything.
+TASK Đóng vai cuộc nói chuyện 4 phút về một tuần khó khăn giả định: hỏi nhu cầu, lắng nghe, phản hồi và đề nghị giúp cụ thể.
+TWIST Người kia muốn dừng chủ đề. Tôn trọng và chuyển sang điều nhẹ nhàng hơn.
+
+@@ 51|Thoughtful discussions and uncertainty|Thảo luận, bất đồng và sự chưa chắc chắn
+GOAL Trình bày quan điểm cân bằng, thừa nhận điểm hợp lý của ý khác và hỏi câu mở.
+GRAMMAR Although ... diễn đạt tương phản; on the one hand/on the other hand cân nhắc; might/could giữ mức chắc chắn đúng.
+SOUND Nhấn điểm khác biệt thay vì nhấn người đối diện. Luyện câu dài có hai vế và dừng tại ranh giới ý.
+REGISTER I disagree with that point có thể lịch sự hơn You're wrong. Nhận định cần nguồn nếu liên quan số liệu; không biến ví dụ thành sự thật.
+P I see your point, but I have a different concern.|Tôi hiểu ý bạn, nhưng có một điều lo khác.
+P There are trade-offs either way.|Cách nào cũng có điều phải đánh đổi.
+P What makes you think that?|Điều gì khiến bạn nghĩ vậy?
+P I don't have enough information to be sure.|Tôi chưa đủ thông tin để chắc chắn.
+P We may be looking at this differently.|Có thể chúng ta đang nhìn chuyện này khác nhau.
+P What evidence would change your mind?|Bằng chứng nào sẽ khiến bạn đổi ý?
+D Do you think our team should work remotely full-time?|Bạn nghĩ nhóm nên làm từ xa toàn thời gian không?
+D It could save commuting time, but I worry about training new staff.|Nó có thể giảm thời gian đi lại, nhưng tôi lo việc đào tạo người mới.
+D I see your point. Could a hybrid schedule help?|Tôi hiểu ý. Lịch kết hợp có giúp không?
+D Maybe. We don't have enough feedback from new employees yet.|Có thể. Mình chưa có đủ phản hồi từ nhân viên mới.
+D Let's ask them before we make a decision.|Mình hỏi họ trước khi quyết định nhé.
+D Agreed. There are trade-offs either way.|Đồng ý. Cách nào cũng có điều đánh đổi.
+Q What concern is mentioned?|Training new staff.
+Q Whose feedback is needed?|New employees' feedback.
+FIX Although it is flexible, but it has problems.|Although it is flexible, it has problems.
+TASK Thảo luận 6 phút về làm từ xa, giao thông hoặc học trực tuyến. Nêu hai mặt, hỏi căn cứ và tóm tắt điểm đồng thuận.
+TWIST Bạn được đưa một thông tin mới làm yếu lập luận cũ. Điều chỉnh quan điểm và nói rõ điều còn chưa chắc.
+
+@@ 52|Your final conversation challenge|Thử thách giao tiếp cuối năm
+GOAL Thực hiện cuộc trò chuyện tự phát 12–15 phút, chuyển chủ đề và tự sửa hiểu nhầm mà không đọc kịch bản.
+GRAMMAR Kết hợp các thì, câu hỏi làm rõ, so sánh và điều kiện theo ý cần nói. Độ đúng phục vụ thông điệp, không phải đọc lại quy tắc.
+SOUND So sánh bản thu tuần 1, 13, 26, 39 và 52. Đánh giá độ dễ hiểu, trọng âm, cụm ý và khả năng sửa hiểu nhầm, không chỉ tốc độ.
+REGISTER Không có một giọng duy nhất của người Mỹ. Mục tiêu là giao tiếp tự nhiên, linh hoạt và phù hợp hoàn cảnh; tiến bộ khác nhau ở từng người.
+P Let me start with a little background.|Để tôi bắt đầu bằng một chút thông tin nền.
+P That reminds me of something.|Điều đó làm tôi nhớ một chuyện.
+P Let me rephrase that.|Để tôi nói lại theo cách khác.
+P What would you do in that situation?|Bạn sẽ làm gì trong tình huống đó?
+P Before we wrap up, let's confirm the plan.|Trước khi kết thúc, mình xác nhận kế hoạch nhé.
+P Here's what I'd like to work on next.|Đây là điều tôi muốn luyện tiếp.
+D How has your year of learning English been?|Một năm học tiếng Anh của bạn thế nào?
+D I've become more comfortable asking questions and telling stories.|Tôi thoải mái hơn khi đặt câu hỏi và kể chuyện.
+D Which real-life situation was the most challenging?|Tình huống thực tế nào khó nhất?
+D A work call. I misunderstood a deadline, so I asked them to clarify.|Một cuộc gọi công việc. Tôi hiểu nhầm hạn nên nhờ họ làm rõ.
+D What would you like to work on next?|Bạn muốn luyện gì tiếp?
+D Understanding faster conversations and giving shorter, clearer answers.|Hiểu hội thoại nhanh hơn và trả lời ngắn gọn, rõ hơn.
+Q What did the learner misunderstand?|A deadline.
+Q What are the learner's next goals?|Understanding faster conversations and giving clearer answers.
+FIX I've become more comfortably speaking.|I've become more comfortable speaking.
+TASK Kiểm tra 12–15 phút: làm quen 2 phút; kể chuyện 3; giải quyết vấn đề 3; nêu ý kiến 3; xác nhận kế hoạch và tự nhận xét 2. Bạn học chọn đề ngẫu nhiên.
+TWIST Có ba lần đổi dữ kiện, một câu hỏi ngoài chuẩn bị và một hiểu nhầm. Hỏi lại, diễn đạt lại và tiếp tục bình tĩnh.

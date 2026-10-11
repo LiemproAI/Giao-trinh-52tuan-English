@@ -1,0 +1,200 @@
+﻿Where did you hear that? | Bạn nghe điều đó ở đâu?
+What's the source? | Nguồn là gì?
+I haven't verified it yet. | Tôi chưa kiểm chứng điều đó.
+The headline doesn't tell the whole story. | Tiêu đề chưa nói hết câu chuyện.
+Let's check the original report. | Mình kiểm tra báo cáo gốc nhé.
+I may have misunderstood the details. | Có thể tôi đã hiểu nhầm chi tiết.
+I'd like to check who published the article, provided that we have enough time. | Tôi muốn kiểm tra ai đã đăng bài viết, với điều kiện chúng ta có đủ thời gian.
+I need to check who published the article before making a final decision. | Tôi cần kiểm tra ai đã đăng bài viết trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me check who published the article? | Bạn có phiền giúp tôi kiểm tra ai đã đăng bài viết không?
+Could you explain the best way to check who published the article? | Bạn giải thích cách tốt nhất để kiểm tra ai đã đăng bài viết được không?
+What would you recommend if I wanted to check who published the article? | Bạn sẽ gợi ý gì nếu tôi muốn kiểm tra ai đã đăng bài viết?
+I'm trying to check who published the article without overlooking any important details. | Tôi đang cố kiểm tra ai đã đăng bài viết mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to check who published the article, so I'd appreciate some guidance. | Tôi chưa chắc nên kiểm tra ai đã đăng bài viết thế nào, nên rất mong được hướng dẫn.
+Let me check who published the article first, and then we can discuss the next step. | Để tôi kiểm tra ai đã đăng bài viết trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to check who published the article, but something unexpected came up. | Tôi định kiểm tra ai đã đăng bài viết, nhưng có việc bất ngờ xảy ra.
+I haven't been able to check who published the article yet, despite making several attempts. | Tôi vẫn chưa thể kiểm tra ai đã đăng bài viết, dù đã thử vài lần.
+Do you think it would be more effective for me to check who published the article in person? | Bạn nghĩ tôi kiểm tra ai đã đăng bài viết trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check who published the article before moving forward. | Nếu ở vị trí của bạn, tôi sẽ kiểm tra ai đã đăng bài viết trước khi tiếp tục.
+I'll check who published the article as soon as I have the information I need. | Tôi sẽ kiểm tra ai đã đăng bài viết ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check who published the article. | Nhìn lại, lẽ ra tôi nên dành thời gian để kiểm tra ai đã đăng bài viết.
+I'd like to look for the original source of a claim, provided that we have enough time. | Tôi muốn tìm nguồn gốc ban đầu của một nhận định, với điều kiện chúng ta có đủ thời gian.
+I need to look for the original source of a claim before making a final decision. | Tôi cần tìm nguồn gốc ban đầu của một nhận định trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me look for the original source of a claim? | Bạn có phiền giúp tôi tìm nguồn gốc ban đầu của một nhận định không?
+Could you explain the best way to look for the original source of a claim? | Bạn giải thích cách tốt nhất để tìm nguồn gốc ban đầu của một nhận định được không?
+What would you recommend if I wanted to look for the original source of a claim? | Bạn sẽ gợi ý gì nếu tôi muốn tìm nguồn gốc ban đầu của một nhận định?
+I'm trying to look for the original source of a claim without overlooking any important details. | Tôi đang cố tìm nguồn gốc ban đầu của một nhận định mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to look for the original source of a claim, so I'd appreciate some guidance. | Tôi chưa chắc nên tìm nguồn gốc ban đầu của một nhận định thế nào, nên rất mong được hướng dẫn.
+Let me look for the original source of a claim first, and then we can discuss the next step. | Để tôi tìm nguồn gốc ban đầu của một nhận định trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to look for the original source of a claim, but something unexpected came up. | Tôi định tìm nguồn gốc ban đầu của một nhận định, nhưng có việc bất ngờ xảy ra.
+I haven't been able to look for the original source of a claim yet, despite making several attempts. | Tôi vẫn chưa thể tìm nguồn gốc ban đầu của một nhận định, dù đã thử vài lần.
+Do you think it would be more effective for me to look for the original source of a claim in person? | Bạn nghĩ tôi tìm nguồn gốc ban đầu của một nhận định trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd look for the original source of a claim before moving forward. | Nếu ở vị trí của bạn, tôi sẽ tìm nguồn gốc ban đầu của một nhận định trước khi tiếp tục.
+I'll look for the original source of a claim as soon as I have the information I need. | Tôi sẽ tìm nguồn gốc ban đầu của một nhận định ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to look for the original source of a claim. | Nhìn lại, lẽ ra tôi nên dành thời gian để tìm nguồn gốc ban đầu của một nhận định.
+Is there any reason why I shouldn't look for the original source of a claim at this stage? | Có lý do nào khiến tôi không nên tìm nguồn gốc ban đầu của một nhận định ở giai đoạn này không?
+I'd rather look for the original source of a claim now than deal with a misunderstanding later. | Tôi muốn tìm nguồn gốc ban đầu của một nhận định ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to look for the original source of a claim properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn tìm nguồn gốc ban đầu của một nhận định cho đúng.
+Unless there is a better alternative, I plan to look for the original source of a claim. | Trừ khi có phương án tốt hơn, tôi dự định tìm nguồn gốc ban đầu của một nhận định.
+The main reason I want to look for the original source of a claim is to avoid unnecessary confusion. | Lý do chính tôi muốn tìm nguồn gốc ban đầu của một nhận định là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to look for the original source of a claim, I'll be in a better position to respond. | Sau khi có dịp tìm nguồn gốc ban đầu của một nhận định, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to compare how two outlets report the same event, provided that we have enough time. | Tôi muốn so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện, với điều kiện chúng ta có đủ thời gian.
+I need to compare how two outlets report the same event before making a final decision. | Tôi cần so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me compare how two outlets report the same event? | Bạn có phiền giúp tôi so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện không?
+Could you explain the best way to compare how two outlets report the same event? | Bạn giải thích cách tốt nhất để so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện được không?
+What would you recommend if I wanted to compare how two outlets report the same event? | Bạn sẽ gợi ý gì nếu tôi muốn so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện?
+I'm trying to compare how two outlets report the same event without overlooking any important details. | Tôi đang cố so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to compare how two outlets report the same event, so I'd appreciate some guidance. | Tôi chưa chắc nên so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện thế nào, nên rất mong được hướng dẫn.
+Let me compare how two outlets report the same event first, and then we can discuss the next step. | Để tôi so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to compare how two outlets report the same event, but something unexpected came up. | Tôi định so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện, nhưng có việc bất ngờ xảy ra.
+I haven't been able to compare how two outlets report the same event yet, despite making several attempts. | Tôi vẫn chưa thể so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện, dù đã thử vài lần.
+Do you think it would be more effective for me to compare how two outlets report the same event in person? | Bạn nghĩ tôi so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd compare how two outlets report the same event before moving forward. | Nếu ở vị trí của bạn, tôi sẽ so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện trước khi tiếp tục.
+I'll compare how two outlets report the same event as soon as I have the information I need. | Tôi sẽ so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to compare how two outlets report the same event. | Nhìn lại, lẽ ra tôi nên dành thời gian để so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện.
+Is there any reason why I shouldn't compare how two outlets report the same event at this stage? | Có lý do nào khiến tôi không nên so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện ở giai đoạn này không?
+I'd rather compare how two outlets report the same event now than deal with a misunderstanding later. | Tôi muốn so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to compare how two outlets report the same event properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện cho đúng.
+Unless there is a better alternative, I plan to compare how two outlets report the same event. | Trừ khi có phương án tốt hơn, tôi dự định so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện.
+The main reason I want to compare how two outlets report the same event is to avoid unnecessary confusion. | Lý do chính tôi muốn so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to compare how two outlets report the same event, I'll be in a better position to respond. | Sau khi có dịp so sánh cách hai cơ quan báo chí đưa tin về cùng một sự kiện, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to check when the information was last updated, provided that we have enough time. | Tôi muốn kiểm tra thông tin được cập nhật lần cuối khi nào, với điều kiện chúng ta có đủ thời gian.
+I need to check when the information was last updated before making a final decision. | Tôi cần kiểm tra thông tin được cập nhật lần cuối khi nào trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me check when the information was last updated? | Bạn có phiền giúp tôi kiểm tra thông tin được cập nhật lần cuối khi nào không?
+Could you explain the best way to check when the information was last updated? | Bạn giải thích cách tốt nhất để kiểm tra thông tin được cập nhật lần cuối khi nào được không?
+What would you recommend if I wanted to check when the information was last updated? | Bạn sẽ gợi ý gì nếu tôi muốn kiểm tra thông tin được cập nhật lần cuối khi nào?
+I'm trying to check when the information was last updated without overlooking any important details. | Tôi đang cố kiểm tra thông tin được cập nhật lần cuối khi nào mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to check when the information was last updated, so I'd appreciate some guidance. | Tôi chưa chắc nên kiểm tra thông tin được cập nhật lần cuối khi nào thế nào, nên rất mong được hướng dẫn.
+Let me check when the information was last updated first, and then we can discuss the next step. | Để tôi kiểm tra thông tin được cập nhật lần cuối khi nào trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to check when the information was last updated, but something unexpected came up. | Tôi định kiểm tra thông tin được cập nhật lần cuối khi nào, nhưng có việc bất ngờ xảy ra.
+I haven't been able to check when the information was last updated yet, despite making several attempts. | Tôi vẫn chưa thể kiểm tra thông tin được cập nhật lần cuối khi nào, dù đã thử vài lần.
+Do you think it would be more effective for me to check when the information was last updated in person? | Bạn nghĩ tôi kiểm tra thông tin được cập nhật lần cuối khi nào trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check when the information was last updated before moving forward. | Nếu ở vị trí của bạn, tôi sẽ kiểm tra thông tin được cập nhật lần cuối khi nào trước khi tiếp tục.
+I'll check when the information was last updated as soon as I have the information I need. | Tôi sẽ kiểm tra thông tin được cập nhật lần cuối khi nào ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check when the information was last updated. | Nhìn lại, lẽ ra tôi nên dành thời gian để kiểm tra thông tin được cập nhật lần cuối khi nào.
+Is there any reason why I shouldn't check when the information was last updated at this stage? | Có lý do nào khiến tôi không nên kiểm tra thông tin được cập nhật lần cuối khi nào ở giai đoạn này không?
+I'd rather check when the information was last updated now than deal with a misunderstanding later. | Tôi muốn kiểm tra thông tin được cập nhật lần cuối khi nào ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to check when the information was last updated properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn kiểm tra thông tin được cập nhật lần cuối khi nào cho đúng.
+Unless there is a better alternative, I plan to check when the information was last updated. | Trừ khi có phương án tốt hơn, tôi dự định kiểm tra thông tin được cập nhật lần cuối khi nào.
+The main reason I want to check when the information was last updated is to avoid unnecessary confusion. | Lý do chính tôi muốn kiểm tra thông tin được cập nhật lần cuối khi nào là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to check when the information was last updated, I'll be in a better position to respond. | Sau khi có dịp kiểm tra thông tin được cập nhật lần cuối khi nào, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to separate the headline from the evidence in the article, provided that we have enough time. | Tôi muốn phân biệt tiêu đề với bằng chứng trong bài viết, với điều kiện chúng ta có đủ thời gian.
+I need to separate the headline from the evidence in the article before making a final decision. | Tôi cần phân biệt tiêu đề với bằng chứng trong bài viết trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me separate the headline from the evidence in the article? | Bạn có phiền giúp tôi phân biệt tiêu đề với bằng chứng trong bài viết không?
+Could you explain the best way to separate the headline from the evidence in the article? | Bạn giải thích cách tốt nhất để phân biệt tiêu đề với bằng chứng trong bài viết được không?
+What would you recommend if I wanted to separate the headline from the evidence in the article? | Bạn sẽ gợi ý gì nếu tôi muốn phân biệt tiêu đề với bằng chứng trong bài viết?
+I'm trying to separate the headline from the evidence in the article without overlooking any important details. | Tôi đang cố phân biệt tiêu đề với bằng chứng trong bài viết mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to separate the headline from the evidence in the article, so I'd appreciate some guidance. | Tôi chưa chắc nên phân biệt tiêu đề với bằng chứng trong bài viết thế nào, nên rất mong được hướng dẫn.
+Let me separate the headline from the evidence in the article first, and then we can discuss the next step. | Để tôi phân biệt tiêu đề với bằng chứng trong bài viết trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to separate the headline from the evidence in the article, but something unexpected came up. | Tôi định phân biệt tiêu đề với bằng chứng trong bài viết, nhưng có việc bất ngờ xảy ra.
+I haven't been able to separate the headline from the evidence in the article yet, despite making several attempts. | Tôi vẫn chưa thể phân biệt tiêu đề với bằng chứng trong bài viết, dù đã thử vài lần.
+Do you think it would be more effective for me to separate the headline from the evidence in the article in person? | Bạn nghĩ tôi phân biệt tiêu đề với bằng chứng trong bài viết trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd separate the headline from the evidence in the article before moving forward. | Nếu ở vị trí của bạn, tôi sẽ phân biệt tiêu đề với bằng chứng trong bài viết trước khi tiếp tục.
+I'll separate the headline from the evidence in the article as soon as I have the information I need. | Tôi sẽ phân biệt tiêu đề với bằng chứng trong bài viết ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to separate the headline from the evidence in the article. | Nhìn lại, lẽ ra tôi nên dành thời gian để phân biệt tiêu đề với bằng chứng trong bài viết.
+Is there any reason why I shouldn't separate the headline from the evidence in the article at this stage? | Có lý do nào khiến tôi không nên phân biệt tiêu đề với bằng chứng trong bài viết ở giai đoạn này không?
+I'd rather separate the headline from the evidence in the article now than deal with a misunderstanding later. | Tôi muốn phân biệt tiêu đề với bằng chứng trong bài viết ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to separate the headline from the evidence in the article properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn phân biệt tiêu đề với bằng chứng trong bài viết cho đúng.
+Unless there is a better alternative, I plan to separate the headline from the evidence in the article. | Trừ khi có phương án tốt hơn, tôi dự định phân biệt tiêu đề với bằng chứng trong bài viết.
+The main reason I want to separate the headline from the evidence in the article is to avoid unnecessary confusion. | Lý do chính tôi muốn phân biệt tiêu đề với bằng chứng trong bài viết là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to separate the headline from the evidence in the article, I'll be in a better position to respond. | Sau khi có dịp phân biệt tiêu đề với bằng chứng trong bài viết, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask whether the photo is shown in its original context, provided that we have enough time. | Tôi muốn hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không, với điều kiện chúng ta có đủ thời gian.
+I need to ask whether the photo is shown in its original context before making a final decision. | Tôi cần hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me ask whether the photo is shown in its original context? | Bạn có phiền giúp tôi hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không không?
+Could you explain the best way to ask whether the photo is shown in its original context? | Bạn giải thích cách tốt nhất để hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không được không?
+What would you recommend if I wanted to ask whether the photo is shown in its original context? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không?
+I'm trying to ask whether the photo is shown in its original context without overlooking any important details. | Tôi đang cố hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask whether the photo is shown in its original context, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không thế nào, nên rất mong được hướng dẫn.
+Let me ask whether the photo is shown in its original context first, and then we can discuss the next step. | Để tôi hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask whether the photo is shown in its original context, but something unexpected came up. | Tôi định hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask whether the photo is shown in its original context yet, despite making several attempts. | Tôi vẫn chưa thể hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không, dù đã thử vài lần.
+Do you think it would be more effective for me to ask whether the photo is shown in its original context in person? | Bạn nghĩ tôi hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask whether the photo is shown in its original context before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không trước khi tiếp tục.
+I'll ask whether the photo is shown in its original context as soon as I have the information I need. | Tôi sẽ hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask whether the photo is shown in its original context. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không.
+Is there any reason why I shouldn't ask whether the photo is shown in its original context at this stage? | Có lý do nào khiến tôi không nên hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không ở giai đoạn này không?
+I'd rather ask whether the photo is shown in its original context now than deal with a misunderstanding later. | Tôi muốn hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask whether the photo is shown in its original context properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không cho đúng.
+Unless there is a better alternative, I plan to ask whether the photo is shown in its original context. | Trừ khi có phương án tốt hơn, tôi dự định hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không.
+The main reason I want to ask whether the photo is shown in its original context is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask whether the photo is shown in its original context, I'll be in a better position to respond. | Sau khi có dịp hỏi bức ảnh có được trình bày đúng bối cảnh ban đầu không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to explain why the claim needs further verification, provided that we have enough time. | Tôi muốn giải thích vì sao nhận định cần được kiểm chứng thêm, với điều kiện chúng ta có đủ thời gian.
+I need to explain why the claim needs further verification before making a final decision. | Tôi cần giải thích vì sao nhận định cần được kiểm chứng thêm trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me explain why the claim needs further verification? | Bạn có phiền giúp tôi giải thích vì sao nhận định cần được kiểm chứng thêm không?
+Could you explain the best way to explain why the claim needs further verification? | Bạn giải thích cách tốt nhất để giải thích vì sao nhận định cần được kiểm chứng thêm được không?
+What would you recommend if I wanted to explain why the claim needs further verification? | Bạn sẽ gợi ý gì nếu tôi muốn giải thích vì sao nhận định cần được kiểm chứng thêm?
+I'm trying to explain why the claim needs further verification without overlooking any important details. | Tôi đang cố giải thích vì sao nhận định cần được kiểm chứng thêm mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to explain why the claim needs further verification, so I'd appreciate some guidance. | Tôi chưa chắc nên giải thích vì sao nhận định cần được kiểm chứng thêm thế nào, nên rất mong được hướng dẫn.
+Let me explain why the claim needs further verification first, and then we can discuss the next step. | Để tôi giải thích vì sao nhận định cần được kiểm chứng thêm trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to explain why the claim needs further verification, but something unexpected came up. | Tôi định giải thích vì sao nhận định cần được kiểm chứng thêm, nhưng có việc bất ngờ xảy ra.
+I haven't been able to explain why the claim needs further verification yet, despite making several attempts. | Tôi vẫn chưa thể giải thích vì sao nhận định cần được kiểm chứng thêm, dù đã thử vài lần.
+Do you think it would be more effective for me to explain why the claim needs further verification in person? | Bạn nghĩ tôi giải thích vì sao nhận định cần được kiểm chứng thêm trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd explain why the claim needs further verification before moving forward. | Nếu ở vị trí của bạn, tôi sẽ giải thích vì sao nhận định cần được kiểm chứng thêm trước khi tiếp tục.
+I'll explain why the claim needs further verification as soon as I have the information I need. | Tôi sẽ giải thích vì sao nhận định cần được kiểm chứng thêm ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to explain why the claim needs further verification. | Nhìn lại, lẽ ra tôi nên dành thời gian để giải thích vì sao nhận định cần được kiểm chứng thêm.
+Is there any reason why I shouldn't explain why the claim needs further verification at this stage? | Có lý do nào khiến tôi không nên giải thích vì sao nhận định cần được kiểm chứng thêm ở giai đoạn này không?
+I'd rather explain why the claim needs further verification now than deal with a misunderstanding later. | Tôi muốn giải thích vì sao nhận định cần được kiểm chứng thêm ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to explain why the claim needs further verification properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn giải thích vì sao nhận định cần được kiểm chứng thêm cho đúng.
+Unless there is a better alternative, I plan to explain why the claim needs further verification. | Trừ khi có phương án tốt hơn, tôi dự định giải thích vì sao nhận định cần được kiểm chứng thêm.
+The main reason I want to explain why the claim needs further verification is to avoid unnecessary confusion. | Lý do chính tôi muốn giải thích vì sao nhận định cần được kiểm chứng thêm là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to explain why the claim needs further verification, I'll be in a better position to respond. | Sau khi có dịp giải thích vì sao nhận định cần được kiểm chứng thêm, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to correct a misleading statement I shared earlier, provided that we have enough time. | Tôi muốn đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ, với điều kiện chúng ta có đủ thời gian.
+I need to correct a misleading statement I shared earlier before making a final decision. | Tôi cần đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me correct a misleading statement I shared earlier? | Bạn có phiền giúp tôi đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ không?
+Could you explain the best way to correct a misleading statement I shared earlier? | Bạn giải thích cách tốt nhất để đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ được không?
+What would you recommend if I wanted to correct a misleading statement I shared earlier? | Bạn sẽ gợi ý gì nếu tôi muốn đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ?
+I'm trying to correct a misleading statement I shared earlier without overlooking any important details. | Tôi đang cố đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to correct a misleading statement I shared earlier, so I'd appreciate some guidance. | Tôi chưa chắc nên đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ thế nào, nên rất mong được hướng dẫn.
+Let me correct a misleading statement I shared earlier first, and then we can discuss the next step. | Để tôi đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to correct a misleading statement I shared earlier, but something unexpected came up. | Tôi định đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ, nhưng có việc bất ngờ xảy ra.
+I haven't been able to correct a misleading statement I shared earlier yet, despite making several attempts. | Tôi vẫn chưa thể đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ, dù đã thử vài lần.
+Do you think it would be more effective for me to correct a misleading statement I shared earlier in person? | Bạn nghĩ tôi đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd correct a misleading statement I shared earlier before moving forward. | Nếu ở vị trí của bạn, tôi sẽ đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ trước khi tiếp tục.
+I'll correct a misleading statement I shared earlier as soon as I have the information I need. | Tôi sẽ đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to correct a misleading statement I shared earlier. | Nhìn lại, lẽ ra tôi nên dành thời gian để đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ.
+Is there any reason why I shouldn't correct a misleading statement I shared earlier at this stage? | Có lý do nào khiến tôi không nên đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ ở giai đoạn này không?
+I'd rather correct a misleading statement I shared earlier now than deal with a misunderstanding later. | Tôi muốn đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to correct a misleading statement I shared earlier properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ cho đúng.
+Unless there is a better alternative, I plan to correct a misleading statement I shared earlier. | Trừ khi có phương án tốt hơn, tôi dự định đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ.
+The main reason I want to correct a misleading statement I shared earlier is to avoid unnecessary confusion. | Lý do chính tôi muốn đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to correct a misleading statement I shared earlier, I'll be in a better position to respond. | Sau khi có dịp đính chính một phát biểu gây hiểu nhầm tôi đã chia sẻ, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to discuss the uncertainty in a developing story, provided that we have enough time. | Tôi muốn bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến, với điều kiện chúng ta có đủ thời gian.
+I need to discuss the uncertainty in a developing story before making a final decision. | Tôi cần bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me discuss the uncertainty in a developing story? | Bạn có phiền giúp tôi bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến không?
+Could you explain the best way to discuss the uncertainty in a developing story? | Bạn giải thích cách tốt nhất để bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến được không?
+What would you recommend if I wanted to discuss the uncertainty in a developing story? | Bạn sẽ gợi ý gì nếu tôi muốn bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến?
+I'm trying to discuss the uncertainty in a developing story without overlooking any important details. | Tôi đang cố bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to discuss the uncertainty in a developing story, so I'd appreciate some guidance. | Tôi chưa chắc nên bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến thế nào, nên rất mong được hướng dẫn.
+Let me discuss the uncertainty in a developing story first, and then we can discuss the next step. | Để tôi bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to discuss the uncertainty in a developing story, but something unexpected came up. | Tôi định bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến, nhưng có việc bất ngờ xảy ra.
+I haven't been able to discuss the uncertainty in a developing story yet, despite making several attempts. | Tôi vẫn chưa thể bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến, dù đã thử vài lần.
+Do you think it would be more effective for me to discuss the uncertainty in a developing story in person? | Bạn nghĩ tôi bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd discuss the uncertainty in a developing story before moving forward. | Nếu ở vị trí của bạn, tôi sẽ bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến trước khi tiếp tục.
+I'll discuss the uncertainty in a developing story as soon as I have the information I need. | Tôi sẽ bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to discuss the uncertainty in a developing story. | Nhìn lại, lẽ ra tôi nên dành thời gian để bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến.
+Is there any reason why I shouldn't discuss the uncertainty in a developing story at this stage? | Có lý do nào khiến tôi không nên bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến ở giai đoạn này không?
+I'd rather discuss the uncertainty in a developing story now than deal with a misunderstanding later. | Tôi muốn bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to discuss the uncertainty in a developing story properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến cho đúng.
+Unless there is a better alternative, I plan to discuss the uncertainty in a developing story. | Trừ khi có phương án tốt hơn, tôi dự định bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến.
+The main reason I want to discuss the uncertainty in a developing story is to avoid unnecessary confusion. | Lý do chính tôi muốn bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to discuss the uncertainty in a developing story, I'll be in a better position to respond. | Sau khi có dịp bàn về những điều chưa chắc chắn trong một sự việc đang diễn biến, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to avoid sharing information before checking it, provided that we have enough time. | Tôi muốn tránh chia sẻ thông tin trước khi kiểm tra, với điều kiện chúng ta có đủ thời gian.
+I need to avoid sharing information before checking it before making a final decision. | Tôi cần tránh chia sẻ thông tin trước khi kiểm tra trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me avoid sharing information before checking it? | Bạn có phiền giúp tôi tránh chia sẻ thông tin trước khi kiểm tra không?
+Could you explain the best way to avoid sharing information before checking it? | Bạn giải thích cách tốt nhất để tránh chia sẻ thông tin trước khi kiểm tra được không?
+What would you recommend if I wanted to avoid sharing information before checking it? | Bạn sẽ gợi ý gì nếu tôi muốn tránh chia sẻ thông tin trước khi kiểm tra?
+I'm trying to avoid sharing information before checking it without overlooking any important details. | Tôi đang cố tránh chia sẻ thông tin trước khi kiểm tra mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to avoid sharing information before checking it, so I'd appreciate some guidance. | Tôi chưa chắc nên tránh chia sẻ thông tin trước khi kiểm tra thế nào, nên rất mong được hướng dẫn.
+Let me avoid sharing information before checking it first, and then we can discuss the next step. | Để tôi tránh chia sẻ thông tin trước khi kiểm tra trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to avoid sharing information before checking it, but something unexpected came up. | Tôi định tránh chia sẻ thông tin trước khi kiểm tra, nhưng có việc bất ngờ xảy ra.
+I haven't been able to avoid sharing information before checking it yet, despite making several attempts. | Tôi vẫn chưa thể tránh chia sẻ thông tin trước khi kiểm tra, dù đã thử vài lần.
+Do you think it would be more effective for me to avoid sharing information before checking it in person? | Bạn nghĩ tôi tránh chia sẻ thông tin trước khi kiểm tra trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd avoid sharing information before checking it before moving forward. | Nếu ở vị trí của bạn, tôi sẽ tránh chia sẻ thông tin trước khi kiểm tra trước khi tiếp tục.
+I'll avoid sharing information before checking it as soon as I have the information I need. | Tôi sẽ tránh chia sẻ thông tin trước khi kiểm tra ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to avoid sharing information before checking it. | Nhìn lại, lẽ ra tôi nên dành thời gian để tránh chia sẻ thông tin trước khi kiểm tra.
+Is there any reason why I shouldn't avoid sharing information before checking it at this stage? | Có lý do nào khiến tôi không nên tránh chia sẻ thông tin trước khi kiểm tra ở giai đoạn này không?
+I'd rather avoid sharing information before checking it now than deal with a misunderstanding later. | Tôi muốn tránh chia sẻ thông tin trước khi kiểm tra ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to avoid sharing information before checking it properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn tránh chia sẻ thông tin trước khi kiểm tra cho đúng.
+Unless there is a better alternative, I plan to avoid sharing information before checking it. | Trừ khi có phương án tốt hơn, tôi dự định tránh chia sẻ thông tin trước khi kiểm tra.
+The main reason I want to avoid sharing information before checking it is to avoid unnecessary confusion. | Lý do chính tôi muốn tránh chia sẻ thông tin trước khi kiểm tra là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to avoid sharing information before checking it, I'll be in a better position to respond. | Sau khi có dịp tránh chia sẻ thông tin trước khi kiểm tra, tôi sẽ có đủ cơ sở hơn để phản hồi.

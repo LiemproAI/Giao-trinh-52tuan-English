@@ -1,0 +1,200 @@
+﻿Do you have this in a larger size? | Bạn có mẫu này cỡ lớn hơn không?
+Where are the fitting rooms? | Phòng thử đồ ở đâu?
+It's a little too tight. | Nó hơi chật quá.
+What's your return policy? | Chính sách đổi trả của cửa hàng là gì?
+I'd like to exchange this for a different size. | Tôi muốn đổi sang cỡ khác.
+I have the receipt right here. | Tôi có hóa đơn ngay đây.
+I'd like to find this shirt in a different size. | Tôi muốn tìm chiếc áo này ở cỡ khác.
+I need to find this shirt in a different size. | Tôi cần tìm chiếc áo này ở cỡ khác.
+Can I find this shirt in a different size? | Tôi có thể tìm chiếc áo này ở cỡ khác không?
+Could you help me find this shirt in a different size? | Bạn giúp tôi tìm chiếc áo này ở cỡ khác được không?
+How can I find this shirt in a different size? | Tôi có thể tìm chiếc áo này ở cỡ khác bằng cách nào?
+I'm trying to find this shirt in a different size. | Tôi đang cố gắng tìm chiếc áo này ở cỡ khác.
+I don't know how to find this shirt in a different size. | Tôi không biết cách tìm chiếc áo này ở cỡ khác.
+Let me find this shirt in a different size first. | Để tôi tìm chiếc áo này ở cỡ khác trước đã.
+I was going to find this shirt in a different size, but I ran out of time. | Tôi định tìm chiếc áo này ở cỡ khác, nhưng không còn đủ thời gian.
+I haven't had a chance to find this shirt in a different size yet. | Tôi chưa có dịp tìm chiếc áo này ở cỡ khác.
+Do you think I should find this shirt in a different size? | Bạn nghĩ tôi có nên tìm chiếc áo này ở cỡ khác không?
+Is now a good time for me to find this shirt in a different size? | Bây giờ có phải lúc thích hợp để tôi tìm chiếc áo này ở cỡ khác không?
+I'll find this shirt in a different size before I leave. | Tôi sẽ tìm chiếc áo này ở cỡ khác trước khi rời đi.
+I forgot to find this shirt in a different size, so I'll do that now. | Tôi quên tìm chiếc áo này ở cỡ khác, nên bây giờ tôi sẽ làm việc đó.
+I'd like to ask whether I can try these shoes on. | Tôi muốn hỏi tôi có thể thử đôi giày này không.
+I need to ask whether I can try these shoes on. | Tôi cần hỏi tôi có thể thử đôi giày này không.
+Can I ask whether I can try these shoes on? | Tôi có thể hỏi tôi có thể thử đôi giày này không không?
+Could you help me ask whether I can try these shoes on? | Bạn giúp tôi hỏi tôi có thể thử đôi giày này không được không?
+How can I ask whether I can try these shoes on? | Tôi có thể hỏi tôi có thể thử đôi giày này không bằng cách nào?
+I'm trying to ask whether I can try these shoes on. | Tôi đang cố gắng hỏi tôi có thể thử đôi giày này không.
+I don't know how to ask whether I can try these shoes on. | Tôi không biết cách hỏi tôi có thể thử đôi giày này không.
+Let me ask whether I can try these shoes on first. | Để tôi hỏi tôi có thể thử đôi giày này không trước đã.
+I was going to ask whether I can try these shoes on, but I ran out of time. | Tôi định hỏi tôi có thể thử đôi giày này không, nhưng không còn đủ thời gian.
+I haven't had a chance to ask whether I can try these shoes on yet. | Tôi chưa có dịp hỏi tôi có thể thử đôi giày này không.
+Do you think I should ask whether I can try these shoes on? | Bạn nghĩ tôi có nên hỏi tôi có thể thử đôi giày này không không?
+Is now a good time for me to ask whether I can try these shoes on? | Bây giờ có phải lúc thích hợp để tôi hỏi tôi có thể thử đôi giày này không không?
+I'll ask whether I can try these shoes on before I leave. | Tôi sẽ hỏi tôi có thể thử đôi giày này không trước khi rời đi.
+I forgot to ask whether I can try these shoes on, so I'll do that now. | Tôi quên hỏi tôi có thể thử đôi giày này không, nên bây giờ tôi sẽ làm việc đó.
+Would it be possible for me to ask whether I can try these shoes on today? | Hôm nay tôi có thể hỏi tôi có thể thử đôi giày này không được không?
+I'd prefer to ask whether I can try these shoes on in person. | Tôi muốn hỏi tôi có thể thử đôi giày này không trực tiếp hơn.
+I wanted to ask whether I can try these shoes on, but I wasn't sure how. | Tôi muốn hỏi tôi có thể thử đôi giày này không, nhưng chưa biết làm thế nào.
+I can ask whether I can try these shoes on if you give me a few minutes. | Tôi có thể hỏi tôi có thể thử đôi giày này không nếu bạn cho tôi vài phút.
+Before I ask whether I can try these shoes on, could you explain what I should do? | Trước khi tôi hỏi tôi có thể thử đôi giày này không, bạn giải thích tôi cần làm gì được không?
+Thanks for helping me ask whether I can try these shoes on. | Cảm ơn bạn đã giúp tôi hỏi tôi có thể thử đôi giày này không.
+I'd like to check whether the sale price applies. | Tôi muốn hỏi xem giá khuyến mãi có được áp dụng không.
+I need to check whether the sale price applies. | Tôi cần hỏi xem giá khuyến mãi có được áp dụng không.
+Can I check whether the sale price applies? | Tôi có thể hỏi xem giá khuyến mãi có được áp dụng không không?
+Could you help me check whether the sale price applies? | Bạn giúp tôi hỏi xem giá khuyến mãi có được áp dụng không được không?
+How can I check whether the sale price applies? | Tôi có thể hỏi xem giá khuyến mãi có được áp dụng không bằng cách nào?
+I'm trying to check whether the sale price applies. | Tôi đang cố gắng hỏi xem giá khuyến mãi có được áp dụng không.
+I don't know how to check whether the sale price applies. | Tôi không biết cách hỏi xem giá khuyến mãi có được áp dụng không.
+Let me check whether the sale price applies first. | Để tôi hỏi xem giá khuyến mãi có được áp dụng không trước đã.
+I was going to check whether the sale price applies, but I ran out of time. | Tôi định hỏi xem giá khuyến mãi có được áp dụng không, nhưng không còn đủ thời gian.
+I haven't had a chance to check whether the sale price applies yet. | Tôi chưa có dịp hỏi xem giá khuyến mãi có được áp dụng không.
+Do you think I should check whether the sale price applies? | Bạn nghĩ tôi có nên hỏi xem giá khuyến mãi có được áp dụng không không?
+Is now a good time for me to check whether the sale price applies? | Bây giờ có phải lúc thích hợp để tôi hỏi xem giá khuyến mãi có được áp dụng không không?
+I'll check whether the sale price applies before I leave. | Tôi sẽ hỏi xem giá khuyến mãi có được áp dụng không trước khi rời đi.
+I forgot to check whether the sale price applies, so I'll do that now. | Tôi quên hỏi xem giá khuyến mãi có được áp dụng không, nên bây giờ tôi sẽ làm việc đó.
+Would it be possible for me to check whether the sale price applies today? | Hôm nay tôi có thể hỏi xem giá khuyến mãi có được áp dụng không được không?
+I'd prefer to check whether the sale price applies in person. | Tôi muốn hỏi xem giá khuyến mãi có được áp dụng không trực tiếp hơn.
+I wanted to check whether the sale price applies, but I wasn't sure how. | Tôi muốn hỏi xem giá khuyến mãi có được áp dụng không, nhưng chưa biết làm thế nào.
+I can check whether the sale price applies if you give me a few minutes. | Tôi có thể hỏi xem giá khuyến mãi có được áp dụng không nếu bạn cho tôi vài phút.
+Before I check whether the sale price applies, could you explain what I should do? | Trước khi tôi hỏi xem giá khuyến mãi có được áp dụng không, bạn giải thích tôi cần làm gì được không?
+Thanks for helping me check whether the sale price applies. | Cảm ơn bạn đã giúp tôi hỏi xem giá khuyến mãi có được áp dụng không.
+I'd like to compare two products before buying. | Tôi muốn so sánh hai sản phẩm trước khi mua.
+I need to compare two products before buying. | Tôi cần so sánh hai sản phẩm trước khi mua.
+Can I compare two products before buying? | Tôi có thể so sánh hai sản phẩm trước khi mua không?
+Could you help me compare two products before buying? | Bạn giúp tôi so sánh hai sản phẩm trước khi mua được không?
+How can I compare two products before buying? | Tôi có thể so sánh hai sản phẩm trước khi mua bằng cách nào?
+I'm trying to compare two products before buying. | Tôi đang cố gắng so sánh hai sản phẩm trước khi mua.
+I don't know how to compare two products before buying. | Tôi không biết cách so sánh hai sản phẩm trước khi mua.
+Let me compare two products before buying first. | Để tôi so sánh hai sản phẩm trước khi mua trước đã.
+I was going to compare two products before buying, but I ran out of time. | Tôi định so sánh hai sản phẩm trước khi mua, nhưng không còn đủ thời gian.
+I haven't had a chance to compare two products before buying yet. | Tôi chưa có dịp so sánh hai sản phẩm trước khi mua.
+Do you think I should compare two products before buying? | Bạn nghĩ tôi có nên so sánh hai sản phẩm trước khi mua không?
+Is now a good time for me to compare two products before buying? | Bây giờ có phải lúc thích hợp để tôi so sánh hai sản phẩm trước khi mua không?
+I'll compare two products before buying before I leave. | Tôi sẽ so sánh hai sản phẩm trước khi mua trước khi rời đi.
+I forgot to compare two products before buying, so I'll do that now. | Tôi quên so sánh hai sản phẩm trước khi mua, nên bây giờ tôi sẽ làm việc đó.
+Would it be possible for me to compare two products before buying today? | Hôm nay tôi có thể so sánh hai sản phẩm trước khi mua được không?
+I'd prefer to compare two products before buying in person. | Tôi muốn so sánh hai sản phẩm trước khi mua trực tiếp hơn.
+I wanted to compare two products before buying, but I wasn't sure how. | Tôi muốn so sánh hai sản phẩm trước khi mua, nhưng chưa biết làm thế nào.
+I can compare two products before buying if you give me a few minutes. | Tôi có thể so sánh hai sản phẩm trước khi mua nếu bạn cho tôi vài phút.
+Before I compare two products before buying, could you explain what I should do? | Trước khi tôi so sánh hai sản phẩm trước khi mua, bạn giải thích tôi cần làm gì được không?
+Thanks for helping me compare two products before buying. | Cảm ơn bạn đã giúp tôi so sánh hai sản phẩm trước khi mua.
+I'd like to ask about the return policy. | Tôi muốn hỏi về chính sách đổi trả.
+I need to ask about the return policy. | Tôi cần hỏi về chính sách đổi trả.
+Can I ask about the return policy? | Tôi có thể hỏi về chính sách đổi trả không?
+Could you help me ask about the return policy? | Bạn giúp tôi hỏi về chính sách đổi trả được không?
+How can I ask about the return policy? | Tôi có thể hỏi về chính sách đổi trả bằng cách nào?
+I'm trying to ask about the return policy. | Tôi đang cố gắng hỏi về chính sách đổi trả.
+I don't know how to ask about the return policy. | Tôi không biết cách hỏi về chính sách đổi trả.
+Let me ask about the return policy first. | Để tôi hỏi về chính sách đổi trả trước đã.
+I was going to ask about the return policy, but I ran out of time. | Tôi định hỏi về chính sách đổi trả, nhưng không còn đủ thời gian.
+I haven't had a chance to ask about the return policy yet. | Tôi chưa có dịp hỏi về chính sách đổi trả.
+Do you think I should ask about the return policy? | Bạn nghĩ tôi có nên hỏi về chính sách đổi trả không?
+Is now a good time for me to ask about the return policy? | Bây giờ có phải lúc thích hợp để tôi hỏi về chính sách đổi trả không?
+I'll ask about the return policy before I leave. | Tôi sẽ hỏi về chính sách đổi trả trước khi rời đi.
+I forgot to ask about the return policy, so I'll do that now. | Tôi quên hỏi về chính sách đổi trả, nên bây giờ tôi sẽ làm việc đó.
+Would it be possible for me to ask about the return policy today? | Hôm nay tôi có thể hỏi về chính sách đổi trả được không?
+I'd prefer to ask about the return policy in person. | Tôi muốn hỏi về chính sách đổi trả trực tiếp hơn.
+I wanted to ask about the return policy, but I wasn't sure how. | Tôi muốn hỏi về chính sách đổi trả, nhưng chưa biết làm thế nào.
+I can ask about the return policy if you give me a few minutes. | Tôi có thể hỏi về chính sách đổi trả nếu bạn cho tôi vài phút.
+Before I ask about the return policy, could you explain what I should do? | Trước khi tôi hỏi về chính sách đổi trả, bạn giải thích tôi cần làm gì được không?
+Thanks for helping me ask about the return policy. | Cảm ơn bạn đã giúp tôi hỏi về chính sách đổi trả.
+I'd like to return an item that does not fit. | Tôi muốn trả lại một món đồ không vừa.
+I need to return an item that does not fit. | Tôi cần trả lại một món đồ không vừa.
+Can I return an item that does not fit? | Tôi có thể trả lại một món đồ không vừa không?
+Could you help me return an item that does not fit? | Bạn giúp tôi trả lại một món đồ không vừa được không?
+How can I return an item that does not fit? | Tôi có thể trả lại một món đồ không vừa bằng cách nào?
+I'm trying to return an item that does not fit. | Tôi đang cố gắng trả lại một món đồ không vừa.
+I don't know how to return an item that does not fit. | Tôi không biết cách trả lại một món đồ không vừa.
+Let me return an item that does not fit first. | Để tôi trả lại một món đồ không vừa trước đã.
+I was going to return an item that does not fit, but I ran out of time. | Tôi định trả lại một món đồ không vừa, nhưng không còn đủ thời gian.
+I haven't had a chance to return an item that does not fit yet. | Tôi chưa có dịp trả lại một món đồ không vừa.
+Do you think I should return an item that does not fit? | Bạn nghĩ tôi có nên trả lại một món đồ không vừa không?
+Is now a good time for me to return an item that does not fit? | Bây giờ có phải lúc thích hợp để tôi trả lại một món đồ không vừa không?
+I'll return an item that does not fit before I leave. | Tôi sẽ trả lại một món đồ không vừa trước khi rời đi.
+I forgot to return an item that does not fit, so I'll do that now. | Tôi quên trả lại một món đồ không vừa, nên bây giờ tôi sẽ làm việc đó.
+Would it be possible for me to return an item that does not fit today? | Hôm nay tôi có thể trả lại một món đồ không vừa được không?
+I'd prefer to return an item that does not fit in person. | Tôi muốn trả lại một món đồ không vừa trực tiếp hơn.
+I wanted to return an item that does not fit, but I wasn't sure how. | Tôi muốn trả lại một món đồ không vừa, nhưng chưa biết làm thế nào.
+I can return an item that does not fit if you give me a few minutes. | Tôi có thể trả lại một món đồ không vừa nếu bạn cho tôi vài phút.
+Before I return an item that does not fit, could you explain what I should do? | Trước khi tôi trả lại một món đồ không vừa, bạn giải thích tôi cần làm gì được không?
+Thanks for helping me return an item that does not fit. | Cảm ơn bạn đã giúp tôi trả lại một món đồ không vừa.
+I'd like to exchange this jacket for a smaller one. | Tôi muốn đổi chiếc áo khoác này lấy cỡ nhỏ hơn.
+I need to exchange this jacket for a smaller one. | Tôi cần đổi chiếc áo khoác này lấy cỡ nhỏ hơn.
+Can I exchange this jacket for a smaller one? | Tôi có thể đổi chiếc áo khoác này lấy cỡ nhỏ hơn không?
+Could you help me exchange this jacket for a smaller one? | Bạn giúp tôi đổi chiếc áo khoác này lấy cỡ nhỏ hơn được không?
+How can I exchange this jacket for a smaller one? | Tôi có thể đổi chiếc áo khoác này lấy cỡ nhỏ hơn bằng cách nào?
+I'm trying to exchange this jacket for a smaller one. | Tôi đang cố gắng đổi chiếc áo khoác này lấy cỡ nhỏ hơn.
+I don't know how to exchange this jacket for a smaller one. | Tôi không biết cách đổi chiếc áo khoác này lấy cỡ nhỏ hơn.
+Let me exchange this jacket for a smaller one first. | Để tôi đổi chiếc áo khoác này lấy cỡ nhỏ hơn trước đã.
+I was going to exchange this jacket for a smaller one, but I ran out of time. | Tôi định đổi chiếc áo khoác này lấy cỡ nhỏ hơn, nhưng không còn đủ thời gian.
+I haven't had a chance to exchange this jacket for a smaller one yet. | Tôi chưa có dịp đổi chiếc áo khoác này lấy cỡ nhỏ hơn.
+Do you think I should exchange this jacket for a smaller one? | Bạn nghĩ tôi có nên đổi chiếc áo khoác này lấy cỡ nhỏ hơn không?
+Is now a good time for me to exchange this jacket for a smaller one? | Bây giờ có phải lúc thích hợp để tôi đổi chiếc áo khoác này lấy cỡ nhỏ hơn không?
+I'll exchange this jacket for a smaller one before I leave. | Tôi sẽ đổi chiếc áo khoác này lấy cỡ nhỏ hơn trước khi rời đi.
+I forgot to exchange this jacket for a smaller one, so I'll do that now. | Tôi quên đổi chiếc áo khoác này lấy cỡ nhỏ hơn, nên bây giờ tôi sẽ làm việc đó.
+Would it be possible for me to exchange this jacket for a smaller one today? | Hôm nay tôi có thể đổi chiếc áo khoác này lấy cỡ nhỏ hơn được không?
+I'd prefer to exchange this jacket for a smaller one in person. | Tôi muốn đổi chiếc áo khoác này lấy cỡ nhỏ hơn trực tiếp hơn.
+I wanted to exchange this jacket for a smaller one, but I wasn't sure how. | Tôi muốn đổi chiếc áo khoác này lấy cỡ nhỏ hơn, nhưng chưa biết làm thế nào.
+I can exchange this jacket for a smaller one if you give me a few minutes. | Tôi có thể đổi chiếc áo khoác này lấy cỡ nhỏ hơn nếu bạn cho tôi vài phút.
+Before I exchange this jacket for a smaller one, could you explain what I should do? | Trước khi tôi đổi chiếc áo khoác này lấy cỡ nhỏ hơn, bạn giải thích tôi cần làm gì được không?
+Thanks for helping me exchange this jacket for a smaller one. | Cảm ơn bạn đã giúp tôi đổi chiếc áo khoác này lấy cỡ nhỏ hơn.
+I'd like to show the cashier my digital receipt. | Tôi muốn cho nhân viên thu ngân xem hóa đơn điện tử.
+I need to show the cashier my digital receipt. | Tôi cần cho nhân viên thu ngân xem hóa đơn điện tử.
+Can I show the cashier my digital receipt? | Tôi có thể cho nhân viên thu ngân xem hóa đơn điện tử không?
+Could you help me show the cashier my digital receipt? | Bạn giúp tôi cho nhân viên thu ngân xem hóa đơn điện tử được không?
+How can I show the cashier my digital receipt? | Tôi có thể cho nhân viên thu ngân xem hóa đơn điện tử bằng cách nào?
+I'm trying to show the cashier my digital receipt. | Tôi đang cố gắng cho nhân viên thu ngân xem hóa đơn điện tử.
+I don't know how to show the cashier my digital receipt. | Tôi không biết cách cho nhân viên thu ngân xem hóa đơn điện tử.
+Let me show the cashier my digital receipt first. | Để tôi cho nhân viên thu ngân xem hóa đơn điện tử trước đã.
+I was going to show the cashier my digital receipt, but I ran out of time. | Tôi định cho nhân viên thu ngân xem hóa đơn điện tử, nhưng không còn đủ thời gian.
+I haven't had a chance to show the cashier my digital receipt yet. | Tôi chưa có dịp cho nhân viên thu ngân xem hóa đơn điện tử.
+Do you think I should show the cashier my digital receipt? | Bạn nghĩ tôi có nên cho nhân viên thu ngân xem hóa đơn điện tử không?
+Is now a good time for me to show the cashier my digital receipt? | Bây giờ có phải lúc thích hợp để tôi cho nhân viên thu ngân xem hóa đơn điện tử không?
+I'll show the cashier my digital receipt before I leave. | Tôi sẽ cho nhân viên thu ngân xem hóa đơn điện tử trước khi rời đi.
+I forgot to show the cashier my digital receipt, so I'll do that now. | Tôi quên cho nhân viên thu ngân xem hóa đơn điện tử, nên bây giờ tôi sẽ làm việc đó.
+Would it be possible for me to show the cashier my digital receipt today? | Hôm nay tôi có thể cho nhân viên thu ngân xem hóa đơn điện tử được không?
+I'd prefer to show the cashier my digital receipt in person. | Tôi muốn cho nhân viên thu ngân xem hóa đơn điện tử trực tiếp hơn.
+I wanted to show the cashier my digital receipt, but I wasn't sure how. | Tôi muốn cho nhân viên thu ngân xem hóa đơn điện tử, nhưng chưa biết làm thế nào.
+I can show the cashier my digital receipt if you give me a few minutes. | Tôi có thể cho nhân viên thu ngân xem hóa đơn điện tử nếu bạn cho tôi vài phút.
+Before I show the cashier my digital receipt, could you explain what I should do? | Trước khi tôi cho nhân viên thu ngân xem hóa đơn điện tử, bạn giải thích tôi cần làm gì được không?
+Thanks for helping me show the cashier my digital receipt. | Cảm ơn bạn đã giúp tôi cho nhân viên thu ngân xem hóa đơn điện tử.
+I'd like to ask whether the item is in stock. | Tôi muốn hỏi món hàng có sẵn không.
+I need to ask whether the item is in stock. | Tôi cần hỏi món hàng có sẵn không.
+Can I ask whether the item is in stock? | Tôi có thể hỏi món hàng có sẵn không không?
+Could you help me ask whether the item is in stock? | Bạn giúp tôi hỏi món hàng có sẵn không được không?
+How can I ask whether the item is in stock? | Tôi có thể hỏi món hàng có sẵn không bằng cách nào?
+I'm trying to ask whether the item is in stock. | Tôi đang cố gắng hỏi món hàng có sẵn không.
+I don't know how to ask whether the item is in stock. | Tôi không biết cách hỏi món hàng có sẵn không.
+Let me ask whether the item is in stock first. | Để tôi hỏi món hàng có sẵn không trước đã.
+I was going to ask whether the item is in stock, but I ran out of time. | Tôi định hỏi món hàng có sẵn không, nhưng không còn đủ thời gian.
+I haven't had a chance to ask whether the item is in stock yet. | Tôi chưa có dịp hỏi món hàng có sẵn không.
+Do you think I should ask whether the item is in stock? | Bạn nghĩ tôi có nên hỏi món hàng có sẵn không không?
+Is now a good time for me to ask whether the item is in stock? | Bây giờ có phải lúc thích hợp để tôi hỏi món hàng có sẵn không không?
+I'll ask whether the item is in stock before I leave. | Tôi sẽ hỏi món hàng có sẵn không trước khi rời đi.
+I forgot to ask whether the item is in stock, so I'll do that now. | Tôi quên hỏi món hàng có sẵn không, nên bây giờ tôi sẽ làm việc đó.
+Would it be possible for me to ask whether the item is in stock today? | Hôm nay tôi có thể hỏi món hàng có sẵn không được không?
+I'd prefer to ask whether the item is in stock in person. | Tôi muốn hỏi món hàng có sẵn không trực tiếp hơn.
+I wanted to ask whether the item is in stock, but I wasn't sure how. | Tôi muốn hỏi món hàng có sẵn không, nhưng chưa biết làm thế nào.
+I can ask whether the item is in stock if you give me a few minutes. | Tôi có thể hỏi món hàng có sẵn không nếu bạn cho tôi vài phút.
+Before I ask whether the item is in stock, could you explain what I should do? | Trước khi tôi hỏi món hàng có sẵn không, bạn giải thích tôi cần làm gì được không?
+Thanks for helping me ask whether the item is in stock. | Cảm ơn bạn đã giúp tôi hỏi món hàng có sẵn không.
+I'd like to explain that the product arrived damaged. | Tôi muốn giải thích rằng sản phẩm bị hỏng khi được giao đến.
+I need to explain that the product arrived damaged. | Tôi cần giải thích rằng sản phẩm bị hỏng khi được giao đến.
+Can I explain that the product arrived damaged? | Tôi có thể giải thích rằng sản phẩm bị hỏng khi được giao đến không?
+Could you help me explain that the product arrived damaged? | Bạn giúp tôi giải thích rằng sản phẩm bị hỏng khi được giao đến được không?
+How can I explain that the product arrived damaged? | Tôi có thể giải thích rằng sản phẩm bị hỏng khi được giao đến bằng cách nào?
+I'm trying to explain that the product arrived damaged. | Tôi đang cố gắng giải thích rằng sản phẩm bị hỏng khi được giao đến.
+I don't know how to explain that the product arrived damaged. | Tôi không biết cách giải thích rằng sản phẩm bị hỏng khi được giao đến.
+Let me explain that the product arrived damaged first. | Để tôi giải thích rằng sản phẩm bị hỏng khi được giao đến trước đã.
+I was going to explain that the product arrived damaged, but I ran out of time. | Tôi định giải thích rằng sản phẩm bị hỏng khi được giao đến, nhưng không còn đủ thời gian.
+I haven't had a chance to explain that the product arrived damaged yet. | Tôi chưa có dịp giải thích rằng sản phẩm bị hỏng khi được giao đến.
+Do you think I should explain that the product arrived damaged? | Bạn nghĩ tôi có nên giải thích rằng sản phẩm bị hỏng khi được giao đến không?
+Is now a good time for me to explain that the product arrived damaged? | Bây giờ có phải lúc thích hợp để tôi giải thích rằng sản phẩm bị hỏng khi được giao đến không?
+I'll explain that the product arrived damaged before I leave. | Tôi sẽ giải thích rằng sản phẩm bị hỏng khi được giao đến trước khi rời đi.
+I forgot to explain that the product arrived damaged, so I'll do that now. | Tôi quên giải thích rằng sản phẩm bị hỏng khi được giao đến, nên bây giờ tôi sẽ làm việc đó.
+Would it be possible for me to explain that the product arrived damaged today? | Hôm nay tôi có thể giải thích rằng sản phẩm bị hỏng khi được giao đến được không?
+I'd prefer to explain that the product arrived damaged in person. | Tôi muốn giải thích rằng sản phẩm bị hỏng khi được giao đến trực tiếp hơn.
+I wanted to explain that the product arrived damaged, but I wasn't sure how. | Tôi muốn giải thích rằng sản phẩm bị hỏng khi được giao đến, nhưng chưa biết làm thế nào.
+I can explain that the product arrived damaged if you give me a few minutes. | Tôi có thể giải thích rằng sản phẩm bị hỏng khi được giao đến nếu bạn cho tôi vài phút.
+Before I explain that the product arrived damaged, could you explain what I should do? | Trước khi tôi giải thích rằng sản phẩm bị hỏng khi được giao đến, bạn giải thích tôi cần làm gì được không?
+Thanks for helping me explain that the product arrived damaged. | Cảm ơn bạn đã giúp tôi giải thích rằng sản phẩm bị hỏng khi được giao đến.

@@ -1,0 +1,200 @@
+﻿I'd like to book an appointment. | Tôi muốn đặt một cuộc hẹn.
+Do you have any openings this Friday? | Thứ Sáu này còn khung giờ trống không?
+How long does it usually take? | Thông thường mất bao lâu?
+I need to reschedule my appointment. | Tôi cần đổi lịch hẹn.
+Is there a cancellation fee? | Có phí hủy lịch không?
+Could you send me a confirmation? | Bạn gửi xác nhận cho tôi được không?
+I'd like to book a haircut for Saturday. | Tôi muốn đặt lịch cắt tóc vào thứ Bảy.
+I need to book a haircut for Saturday. | Tôi cần đặt lịch cắt tóc vào thứ Bảy.
+Can I book a haircut for Saturday? | Tôi có thể đặt lịch cắt tóc vào thứ Bảy không?
+Could you help me book a haircut for Saturday? | Bạn giúp tôi đặt lịch cắt tóc vào thứ Bảy được không?
+How can I book a haircut for Saturday? | Tôi có thể đặt lịch cắt tóc vào thứ Bảy bằng cách nào?
+I'm trying to book a haircut for Saturday. | Tôi đang cố gắng đặt lịch cắt tóc vào thứ Bảy.
+I don't know how to book a haircut for Saturday. | Tôi không biết cách đặt lịch cắt tóc vào thứ Bảy.
+Let me book a haircut for Saturday first. | Để tôi đặt lịch cắt tóc vào thứ Bảy trước đã.
+I was going to book a haircut for Saturday, but I ran out of time. | Tôi định đặt lịch cắt tóc vào thứ Bảy, nhưng không còn đủ thời gian.
+I haven't had a chance to book a haircut for Saturday yet. | Tôi chưa có dịp đặt lịch cắt tóc vào thứ Bảy.
+Do you think it would be more effective for me to book a haircut for Saturday in person? | Bạn nghĩ tôi đặt lịch cắt tóc vào thứ Bảy trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd book a haircut for Saturday before moving forward. | Nếu ở vị trí của bạn, tôi sẽ đặt lịch cắt tóc vào thứ Bảy trước khi tiếp tục.
+I'll book a haircut for Saturday as soon as I have the information I need. | Tôi sẽ đặt lịch cắt tóc vào thứ Bảy ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to book a haircut for Saturday. | Nhìn lại, lẽ ra tôi nên dành thời gian để đặt lịch cắt tóc vào thứ Bảy.
+I'd like to ask how long the appointment will take. | Tôi muốn hỏi cuộc hẹn sẽ kéo dài bao lâu.
+I need to ask how long the appointment will take. | Tôi cần hỏi cuộc hẹn sẽ kéo dài bao lâu.
+Can I ask how long the appointment will take? | Tôi có thể hỏi cuộc hẹn sẽ kéo dài bao lâu không?
+Could you help me ask how long the appointment will take? | Bạn giúp tôi hỏi cuộc hẹn sẽ kéo dài bao lâu được không?
+How can I ask how long the appointment will take? | Tôi có thể hỏi cuộc hẹn sẽ kéo dài bao lâu bằng cách nào?
+I'm trying to ask how long the appointment will take. | Tôi đang cố gắng hỏi cuộc hẹn sẽ kéo dài bao lâu.
+I don't know how to ask how long the appointment will take. | Tôi không biết cách hỏi cuộc hẹn sẽ kéo dài bao lâu.
+Let me ask how long the appointment will take first. | Để tôi hỏi cuộc hẹn sẽ kéo dài bao lâu trước đã.
+I was going to ask how long the appointment will take, but I ran out of time. | Tôi định hỏi cuộc hẹn sẽ kéo dài bao lâu, nhưng không còn đủ thời gian.
+I haven't had a chance to ask how long the appointment will take yet. | Tôi chưa có dịp hỏi cuộc hẹn sẽ kéo dài bao lâu.
+Do you think it would be more effective for me to ask how long the appointment will take in person? | Bạn nghĩ tôi hỏi cuộc hẹn sẽ kéo dài bao lâu trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask how long the appointment will take before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi cuộc hẹn sẽ kéo dài bao lâu trước khi tiếp tục.
+I'll ask how long the appointment will take as soon as I have the information I need. | Tôi sẽ hỏi cuộc hẹn sẽ kéo dài bao lâu ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask how long the appointment will take. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi cuộc hẹn sẽ kéo dài bao lâu.
+Is there any reason why I shouldn't ask how long the appointment will take at this stage? | Có lý do nào khiến tôi không nên hỏi cuộc hẹn sẽ kéo dài bao lâu ở giai đoạn này không?
+I'd rather ask how long the appointment will take now than deal with a misunderstanding later. | Tôi muốn hỏi cuộc hẹn sẽ kéo dài bao lâu ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask how long the appointment will take properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi cuộc hẹn sẽ kéo dài bao lâu cho đúng.
+Unless there is a better alternative, I plan to ask how long the appointment will take. | Trừ khi có phương án tốt hơn, tôi dự định hỏi cuộc hẹn sẽ kéo dài bao lâu.
+The main reason I want to ask how long the appointment will take is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi cuộc hẹn sẽ kéo dài bao lâu là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask how long the appointment will take, I'll be in a better position to respond. | Sau khi có dịp hỏi cuộc hẹn sẽ kéo dài bao lâu, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to confirm the address of the office. | Tôi muốn xác nhận địa chỉ văn phòng.
+I need to confirm the address of the office. | Tôi cần xác nhận địa chỉ văn phòng.
+Can I confirm the address of the office? | Tôi có thể xác nhận địa chỉ văn phòng không?
+Could you help me confirm the address of the office? | Bạn giúp tôi xác nhận địa chỉ văn phòng được không?
+How can I confirm the address of the office? | Tôi có thể xác nhận địa chỉ văn phòng bằng cách nào?
+I'm trying to confirm the address of the office. | Tôi đang cố gắng xác nhận địa chỉ văn phòng.
+I don't know how to confirm the address of the office. | Tôi không biết cách xác nhận địa chỉ văn phòng.
+Let me confirm the address of the office first. | Để tôi xác nhận địa chỉ văn phòng trước đã.
+I was going to confirm the address of the office, but I ran out of time. | Tôi định xác nhận địa chỉ văn phòng, nhưng không còn đủ thời gian.
+I haven't had a chance to confirm the address of the office yet. | Tôi chưa có dịp xác nhận địa chỉ văn phòng.
+Do you think it would be more effective for me to confirm the address of the office in person? | Bạn nghĩ tôi xác nhận địa chỉ văn phòng trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd confirm the address of the office before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xác nhận địa chỉ văn phòng trước khi tiếp tục.
+I'll confirm the address of the office as soon as I have the information I need. | Tôi sẽ xác nhận địa chỉ văn phòng ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to confirm the address of the office. | Nhìn lại, lẽ ra tôi nên dành thời gian để xác nhận địa chỉ văn phòng.
+Is there any reason why I shouldn't confirm the address of the office at this stage? | Có lý do nào khiến tôi không nên xác nhận địa chỉ văn phòng ở giai đoạn này không?
+I'd rather confirm the address of the office now than deal with a misunderstanding later. | Tôi muốn xác nhận địa chỉ văn phòng ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to confirm the address of the office properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xác nhận địa chỉ văn phòng cho đúng.
+Unless there is a better alternative, I plan to confirm the address of the office. | Trừ khi có phương án tốt hơn, tôi dự định xác nhận địa chỉ văn phòng.
+The main reason I want to confirm the address of the office is to avoid unnecessary confusion. | Lý do chính tôi muốn xác nhận địa chỉ văn phòng là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to confirm the address of the office, I'll be in a better position to respond. | Sau khi có dịp xác nhận địa chỉ văn phòng, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask which documents I need to bring. | Tôi muốn hỏi tôi cần mang theo những giấy tờ nào.
+I need to ask which documents I need to bring. | Tôi cần hỏi tôi cần mang theo những giấy tờ nào.
+Can I ask which documents I need to bring? | Tôi có thể hỏi tôi cần mang theo những giấy tờ nào không?
+Could you help me ask which documents I need to bring? | Bạn giúp tôi hỏi tôi cần mang theo những giấy tờ nào được không?
+How can I ask which documents I need to bring? | Tôi có thể hỏi tôi cần mang theo những giấy tờ nào bằng cách nào?
+I'm trying to ask which documents I need to bring. | Tôi đang cố gắng hỏi tôi cần mang theo những giấy tờ nào.
+I don't know how to ask which documents I need to bring. | Tôi không biết cách hỏi tôi cần mang theo những giấy tờ nào.
+Let me ask which documents I need to bring first. | Để tôi hỏi tôi cần mang theo những giấy tờ nào trước đã.
+I was going to ask which documents I need to bring, but I ran out of time. | Tôi định hỏi tôi cần mang theo những giấy tờ nào, nhưng không còn đủ thời gian.
+I haven't had a chance to ask which documents I need to bring yet. | Tôi chưa có dịp hỏi tôi cần mang theo những giấy tờ nào.
+Do you think it would be more effective for me to ask which documents I need to bring in person? | Bạn nghĩ tôi hỏi tôi cần mang theo những giấy tờ nào trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask which documents I need to bring before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi tôi cần mang theo những giấy tờ nào trước khi tiếp tục.
+I'll ask which documents I need to bring as soon as I have the information I need. | Tôi sẽ hỏi tôi cần mang theo những giấy tờ nào ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask which documents I need to bring. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi tôi cần mang theo những giấy tờ nào.
+Is there any reason why I shouldn't ask which documents I need to bring at this stage? | Có lý do nào khiến tôi không nên hỏi tôi cần mang theo những giấy tờ nào ở giai đoạn này không?
+I'd rather ask which documents I need to bring now than deal with a misunderstanding later. | Tôi muốn hỏi tôi cần mang theo những giấy tờ nào ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask which documents I need to bring properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi tôi cần mang theo những giấy tờ nào cho đúng.
+Unless there is a better alternative, I plan to ask which documents I need to bring. | Trừ khi có phương án tốt hơn, tôi dự định hỏi tôi cần mang theo những giấy tờ nào.
+The main reason I want to ask which documents I need to bring is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi tôi cần mang theo những giấy tờ nào là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask which documents I need to bring, I'll be in a better position to respond. | Sau khi có dịp hỏi tôi cần mang theo những giấy tờ nào, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to reschedule my appointment for next week. | Tôi muốn đổi lịch hẹn sang tuần tới.
+I need to reschedule my appointment for next week. | Tôi cần đổi lịch hẹn sang tuần tới.
+Can I reschedule my appointment for next week? | Tôi có thể đổi lịch hẹn sang tuần tới không?
+Could you help me reschedule my appointment for next week? | Bạn giúp tôi đổi lịch hẹn sang tuần tới được không?
+How can I reschedule my appointment for next week? | Tôi có thể đổi lịch hẹn sang tuần tới bằng cách nào?
+I'm trying to reschedule my appointment for next week. | Tôi đang cố gắng đổi lịch hẹn sang tuần tới.
+I don't know how to reschedule my appointment for next week. | Tôi không biết cách đổi lịch hẹn sang tuần tới.
+Let me reschedule my appointment for next week first. | Để tôi đổi lịch hẹn sang tuần tới trước đã.
+I was going to reschedule my appointment for next week, but I ran out of time. | Tôi định đổi lịch hẹn sang tuần tới, nhưng không còn đủ thời gian.
+I haven't had a chance to reschedule my appointment for next week yet. | Tôi chưa có dịp đổi lịch hẹn sang tuần tới.
+Do you think it would be more effective for me to reschedule my appointment for next week in person? | Bạn nghĩ tôi đổi lịch hẹn sang tuần tới trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd reschedule my appointment for next week before moving forward. | Nếu ở vị trí của bạn, tôi sẽ đổi lịch hẹn sang tuần tới trước khi tiếp tục.
+I'll reschedule my appointment for next week as soon as I have the information I need. | Tôi sẽ đổi lịch hẹn sang tuần tới ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to reschedule my appointment for next week. | Nhìn lại, lẽ ra tôi nên dành thời gian để đổi lịch hẹn sang tuần tới.
+Is there any reason why I shouldn't reschedule my appointment for next week at this stage? | Có lý do nào khiến tôi không nên đổi lịch hẹn sang tuần tới ở giai đoạn này không?
+I'd rather reschedule my appointment for next week now than deal with a misunderstanding later. | Tôi muốn đổi lịch hẹn sang tuần tới ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to reschedule my appointment for next week properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn đổi lịch hẹn sang tuần tới cho đúng.
+Unless there is a better alternative, I plan to reschedule my appointment for next week. | Trừ khi có phương án tốt hơn, tôi dự định đổi lịch hẹn sang tuần tới.
+The main reason I want to reschedule my appointment for next week is to avoid unnecessary confusion. | Lý do chính tôi muốn đổi lịch hẹn sang tuần tới là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to reschedule my appointment for next week, I'll be in a better position to respond. | Sau khi có dịp đổi lịch hẹn sang tuần tới, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask whether there is a cancellation fee. | Tôi muốn hỏi có phí hủy lịch không.
+I need to ask whether there is a cancellation fee. | Tôi cần hỏi có phí hủy lịch không.
+Can I ask whether there is a cancellation fee? | Tôi có thể hỏi có phí hủy lịch không không?
+Could you help me ask whether there is a cancellation fee? | Bạn giúp tôi hỏi có phí hủy lịch không được không?
+How can I ask whether there is a cancellation fee? | Tôi có thể hỏi có phí hủy lịch không bằng cách nào?
+I'm trying to ask whether there is a cancellation fee. | Tôi đang cố gắng hỏi có phí hủy lịch không.
+I don't know how to ask whether there is a cancellation fee. | Tôi không biết cách hỏi có phí hủy lịch không.
+Let me ask whether there is a cancellation fee first. | Để tôi hỏi có phí hủy lịch không trước đã.
+I was going to ask whether there is a cancellation fee, but I ran out of time. | Tôi định hỏi có phí hủy lịch không, nhưng không còn đủ thời gian.
+I haven't had a chance to ask whether there is a cancellation fee yet. | Tôi chưa có dịp hỏi có phí hủy lịch không.
+Do you think it would be more effective for me to ask whether there is a cancellation fee in person? | Bạn nghĩ tôi hỏi có phí hủy lịch không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask whether there is a cancellation fee before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi có phí hủy lịch không trước khi tiếp tục.
+I'll ask whether there is a cancellation fee as soon as I have the information I need. | Tôi sẽ hỏi có phí hủy lịch không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask whether there is a cancellation fee. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi có phí hủy lịch không.
+Is there any reason why I shouldn't ask whether there is a cancellation fee at this stage? | Có lý do nào khiến tôi không nên hỏi có phí hủy lịch không ở giai đoạn này không?
+I'd rather ask whether there is a cancellation fee now than deal with a misunderstanding later. | Tôi muốn hỏi có phí hủy lịch không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask whether there is a cancellation fee properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi có phí hủy lịch không cho đúng.
+Unless there is a better alternative, I plan to ask whether there is a cancellation fee. | Trừ khi có phương án tốt hơn, tôi dự định hỏi có phí hủy lịch không.
+The main reason I want to ask whether there is a cancellation fee is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi có phí hủy lịch không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask whether there is a cancellation fee, I'll be in a better position to respond. | Sau khi có dịp hỏi có phí hủy lịch không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to explain that I need an earlier appointment. | Tôi muốn giải thích rằng tôi cần lịch hẹn sớm hơn.
+I need to explain that I need an earlier appointment. | Tôi cần giải thích rằng tôi cần lịch hẹn sớm hơn.
+Can I explain that I need an earlier appointment? | Tôi có thể giải thích rằng tôi cần lịch hẹn sớm hơn không?
+Could you help me explain that I need an earlier appointment? | Bạn giúp tôi giải thích rằng tôi cần lịch hẹn sớm hơn được không?
+How can I explain that I need an earlier appointment? | Tôi có thể giải thích rằng tôi cần lịch hẹn sớm hơn bằng cách nào?
+I'm trying to explain that I need an earlier appointment. | Tôi đang cố gắng giải thích rằng tôi cần lịch hẹn sớm hơn.
+I don't know how to explain that I need an earlier appointment. | Tôi không biết cách giải thích rằng tôi cần lịch hẹn sớm hơn.
+Let me explain that I need an earlier appointment first. | Để tôi giải thích rằng tôi cần lịch hẹn sớm hơn trước đã.
+I was going to explain that I need an earlier appointment, but I ran out of time. | Tôi định giải thích rằng tôi cần lịch hẹn sớm hơn, nhưng không còn đủ thời gian.
+I haven't had a chance to explain that I need an earlier appointment yet. | Tôi chưa có dịp giải thích rằng tôi cần lịch hẹn sớm hơn.
+Do you think it would be more effective for me to explain that I need an earlier appointment in person? | Bạn nghĩ tôi giải thích rằng tôi cần lịch hẹn sớm hơn trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd explain that I need an earlier appointment before moving forward. | Nếu ở vị trí của bạn, tôi sẽ giải thích rằng tôi cần lịch hẹn sớm hơn trước khi tiếp tục.
+I'll explain that I need an earlier appointment as soon as I have the information I need. | Tôi sẽ giải thích rằng tôi cần lịch hẹn sớm hơn ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to explain that I need an earlier appointment. | Nhìn lại, lẽ ra tôi nên dành thời gian để giải thích rằng tôi cần lịch hẹn sớm hơn.
+Is there any reason why I shouldn't explain that I need an earlier appointment at this stage? | Có lý do nào khiến tôi không nên giải thích rằng tôi cần lịch hẹn sớm hơn ở giai đoạn này không?
+I'd rather explain that I need an earlier appointment now than deal with a misunderstanding later. | Tôi muốn giải thích rằng tôi cần lịch hẹn sớm hơn ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to explain that I need an earlier appointment properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn giải thích rằng tôi cần lịch hẹn sớm hơn cho đúng.
+Unless there is a better alternative, I plan to explain that I need an earlier appointment. | Trừ khi có phương án tốt hơn, tôi dự định giải thích rằng tôi cần lịch hẹn sớm hơn.
+The main reason I want to explain that I need an earlier appointment is to avoid unnecessary confusion. | Lý do chính tôi muốn giải thích rằng tôi cần lịch hẹn sớm hơn là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to explain that I need an earlier appointment, I'll be in a better position to respond. | Sau khi có dịp giải thích rằng tôi cần lịch hẹn sớm hơn, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to check whether the service is included in the price. | Tôi muốn hỏi dịch vụ có nằm trong mức giá không.
+I need to check whether the service is included in the price. | Tôi cần hỏi dịch vụ có nằm trong mức giá không.
+Can I check whether the service is included in the price? | Tôi có thể hỏi dịch vụ có nằm trong mức giá không không?
+Could you help me check whether the service is included in the price? | Bạn giúp tôi hỏi dịch vụ có nằm trong mức giá không được không?
+How can I check whether the service is included in the price? | Tôi có thể hỏi dịch vụ có nằm trong mức giá không bằng cách nào?
+I'm trying to check whether the service is included in the price. | Tôi đang cố gắng hỏi dịch vụ có nằm trong mức giá không.
+I don't know how to check whether the service is included in the price. | Tôi không biết cách hỏi dịch vụ có nằm trong mức giá không.
+Let me check whether the service is included in the price first. | Để tôi hỏi dịch vụ có nằm trong mức giá không trước đã.
+I was going to check whether the service is included in the price, but I ran out of time. | Tôi định hỏi dịch vụ có nằm trong mức giá không, nhưng không còn đủ thời gian.
+I haven't had a chance to check whether the service is included in the price yet. | Tôi chưa có dịp hỏi dịch vụ có nằm trong mức giá không.
+Do you think it would be more effective for me to check whether the service is included in the price in person? | Bạn nghĩ tôi hỏi dịch vụ có nằm trong mức giá không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check whether the service is included in the price before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi dịch vụ có nằm trong mức giá không trước khi tiếp tục.
+I'll check whether the service is included in the price as soon as I have the information I need. | Tôi sẽ hỏi dịch vụ có nằm trong mức giá không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check whether the service is included in the price. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi dịch vụ có nằm trong mức giá không.
+Is there any reason why I shouldn't check whether the service is included in the price at this stage? | Có lý do nào khiến tôi không nên hỏi dịch vụ có nằm trong mức giá không ở giai đoạn này không?
+I'd rather check whether the service is included in the price now than deal with a misunderstanding later. | Tôi muốn hỏi dịch vụ có nằm trong mức giá không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to check whether the service is included in the price properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi dịch vụ có nằm trong mức giá không cho đúng.
+Unless there is a better alternative, I plan to check whether the service is included in the price. | Trừ khi có phương án tốt hơn, tôi dự định hỏi dịch vụ có nằm trong mức giá không.
+The main reason I want to check whether the service is included in the price is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi dịch vụ có nằm trong mức giá không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to check whether the service is included in the price, I'll be in a better position to respond. | Sau khi có dịp hỏi dịch vụ có nằm trong mức giá không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask for written confirmation of the booking. | Tôi muốn xin xác nhận đặt lịch bằng văn bản.
+I need to ask for written confirmation of the booking. | Tôi cần xin xác nhận đặt lịch bằng văn bản.
+Can I ask for written confirmation of the booking? | Tôi có thể xin xác nhận đặt lịch bằng văn bản không?
+Could you help me ask for written confirmation of the booking? | Bạn giúp tôi xin xác nhận đặt lịch bằng văn bản được không?
+How can I ask for written confirmation of the booking? | Tôi có thể xin xác nhận đặt lịch bằng văn bản bằng cách nào?
+I'm trying to ask for written confirmation of the booking. | Tôi đang cố gắng xin xác nhận đặt lịch bằng văn bản.
+I don't know how to ask for written confirmation of the booking. | Tôi không biết cách xin xác nhận đặt lịch bằng văn bản.
+Let me ask for written confirmation of the booking first. | Để tôi xin xác nhận đặt lịch bằng văn bản trước đã.
+I was going to ask for written confirmation of the booking, but I ran out of time. | Tôi định xin xác nhận đặt lịch bằng văn bản, nhưng không còn đủ thời gian.
+I haven't had a chance to ask for written confirmation of the booking yet. | Tôi chưa có dịp xin xác nhận đặt lịch bằng văn bản.
+Do you think it would be more effective for me to ask for written confirmation of the booking in person? | Bạn nghĩ tôi xin xác nhận đặt lịch bằng văn bản trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask for written confirmation of the booking before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xin xác nhận đặt lịch bằng văn bản trước khi tiếp tục.
+I'll ask for written confirmation of the booking as soon as I have the information I need. | Tôi sẽ xin xác nhận đặt lịch bằng văn bản ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask for written confirmation of the booking. | Nhìn lại, lẽ ra tôi nên dành thời gian để xin xác nhận đặt lịch bằng văn bản.
+Is there any reason why I shouldn't ask for written confirmation of the booking at this stage? | Có lý do nào khiến tôi không nên xin xác nhận đặt lịch bằng văn bản ở giai đoạn này không?
+I'd rather ask for written confirmation of the booking now than deal with a misunderstanding later. | Tôi muốn xin xác nhận đặt lịch bằng văn bản ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask for written confirmation of the booking properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xin xác nhận đặt lịch bằng văn bản cho đúng.
+Unless there is a better alternative, I plan to ask for written confirmation of the booking. | Trừ khi có phương án tốt hơn, tôi dự định xin xác nhận đặt lịch bằng văn bản.
+The main reason I want to ask for written confirmation of the booking is to avoid unnecessary confusion. | Lý do chính tôi muốn xin xác nhận đặt lịch bằng văn bản là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask for written confirmation of the booking, I'll be in a better position to respond. | Sau khi có dịp xin xác nhận đặt lịch bằng văn bản, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to find out whether walk-ins are accepted. | Tôi muốn tìm hiểu nơi này có nhận khách không đặt lịch không.
+I need to find out whether walk-ins are accepted. | Tôi cần tìm hiểu nơi này có nhận khách không đặt lịch không.
+Can I find out whether walk-ins are accepted? | Tôi có thể tìm hiểu nơi này có nhận khách không đặt lịch không không?
+Could you help me find out whether walk-ins are accepted? | Bạn giúp tôi tìm hiểu nơi này có nhận khách không đặt lịch không được không?
+How can I find out whether walk-ins are accepted? | Tôi có thể tìm hiểu nơi này có nhận khách không đặt lịch không bằng cách nào?
+I'm trying to find out whether walk-ins are accepted. | Tôi đang cố gắng tìm hiểu nơi này có nhận khách không đặt lịch không.
+I don't know how to find out whether walk-ins are accepted. | Tôi không biết cách tìm hiểu nơi này có nhận khách không đặt lịch không.
+Let me find out whether walk-ins are accepted first. | Để tôi tìm hiểu nơi này có nhận khách không đặt lịch không trước đã.
+I was going to find out whether walk-ins are accepted, but I ran out of time. | Tôi định tìm hiểu nơi này có nhận khách không đặt lịch không, nhưng không còn đủ thời gian.
+I haven't had a chance to find out whether walk-ins are accepted yet. | Tôi chưa có dịp tìm hiểu nơi này có nhận khách không đặt lịch không.
+Do you think it would be more effective for me to find out whether walk-ins are accepted in person? | Bạn nghĩ tôi tìm hiểu nơi này có nhận khách không đặt lịch không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd find out whether walk-ins are accepted before moving forward. | Nếu ở vị trí của bạn, tôi sẽ tìm hiểu nơi này có nhận khách không đặt lịch không trước khi tiếp tục.
+I'll find out whether walk-ins are accepted as soon as I have the information I need. | Tôi sẽ tìm hiểu nơi này có nhận khách không đặt lịch không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to find out whether walk-ins are accepted. | Nhìn lại, lẽ ra tôi nên dành thời gian để tìm hiểu nơi này có nhận khách không đặt lịch không.
+Is there any reason why I shouldn't find out whether walk-ins are accepted at this stage? | Có lý do nào khiến tôi không nên tìm hiểu nơi này có nhận khách không đặt lịch không ở giai đoạn này không?
+I'd rather find out whether walk-ins are accepted now than deal with a misunderstanding later. | Tôi muốn tìm hiểu nơi này có nhận khách không đặt lịch không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to find out whether walk-ins are accepted properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn tìm hiểu nơi này có nhận khách không đặt lịch không cho đúng.
+Unless there is a better alternative, I plan to find out whether walk-ins are accepted. | Trừ khi có phương án tốt hơn, tôi dự định tìm hiểu nơi này có nhận khách không đặt lịch không.
+The main reason I want to find out whether walk-ins are accepted is to avoid unnecessary confusion. | Lý do chính tôi muốn tìm hiểu nơi này có nhận khách không đặt lịch không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to find out whether walk-ins are accepted, I'll be in a better position to respond. | Sau khi có dịp tìm hiểu nơi này có nhận khách không đặt lịch không, tôi sẽ có đủ cơ sở hơn để phản hồi.

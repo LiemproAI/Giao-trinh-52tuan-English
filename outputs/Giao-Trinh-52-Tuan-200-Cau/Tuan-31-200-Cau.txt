@@ -1,0 +1,200 @@
+﻿I'm here to pick up a prescription. | Tôi đến lấy thuốc theo đơn.
+Is it ready for pickup? | Thuốc đã sẵn để nhận chưa?
+Could you go over the instructions with me? | Bạn giải thích lại hướng dẫn cho tôi được không?
+What does this warning mean? | Cảnh báo này có nghĩa gì?
+Should I ask my doctor about that? | Tôi có nên hỏi bác sĩ về việc đó không?
+Could you write that down for me? | Bạn viết điều đó ra giúp tôi được không?
+I'd like to ask the pharmacist to explain the label. | Tôi muốn nhờ dược sĩ giải thích thông tin trên nhãn.
+I need to ask the pharmacist to explain the label. | Tôi cần nhờ dược sĩ giải thích thông tin trên nhãn.
+Can I ask the pharmacist to explain the label? | Tôi có thể nhờ dược sĩ giải thích thông tin trên nhãn không?
+Could you help me ask the pharmacist to explain the label? | Bạn giúp tôi nhờ dược sĩ giải thích thông tin trên nhãn được không?
+What would you recommend if I wanted to ask the pharmacist to explain the label? | Bạn sẽ gợi ý gì nếu tôi muốn nhờ dược sĩ giải thích thông tin trên nhãn?
+I'm trying to ask the pharmacist to explain the label without overlooking any important details. | Tôi đang cố nhờ dược sĩ giải thích thông tin trên nhãn mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask the pharmacist to explain the label, so I'd appreciate some guidance. | Tôi chưa chắc nên nhờ dược sĩ giải thích thông tin trên nhãn thế nào, nên rất mong được hướng dẫn.
+Let me ask the pharmacist to explain the label first, and then we can discuss the next step. | Để tôi nhờ dược sĩ giải thích thông tin trên nhãn trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask the pharmacist to explain the label, but something unexpected came up. | Tôi định nhờ dược sĩ giải thích thông tin trên nhãn, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask the pharmacist to explain the label yet, despite making several attempts. | Tôi vẫn chưa thể nhờ dược sĩ giải thích thông tin trên nhãn, dù đã thử vài lần.
+Do you think it would be more effective for me to ask the pharmacist to explain the label in person? | Bạn nghĩ tôi nhờ dược sĩ giải thích thông tin trên nhãn trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask the pharmacist to explain the label before moving forward. | Nếu ở vị trí của bạn, tôi sẽ nhờ dược sĩ giải thích thông tin trên nhãn trước khi tiếp tục.
+I'll ask the pharmacist to explain the label as soon as I have the information I need. | Tôi sẽ nhờ dược sĩ giải thích thông tin trên nhãn ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask the pharmacist to explain the label. | Nhìn lại, lẽ ra tôi nên dành thời gian để nhờ dược sĩ giải thích thông tin trên nhãn.
+I'd like to check when my prescription will be ready. | Tôi muốn hỏi khi nào đơn thuốc của tôi được chuẩn bị xong.
+I need to check when my prescription will be ready. | Tôi cần hỏi khi nào đơn thuốc của tôi được chuẩn bị xong.
+Can I check when my prescription will be ready? | Tôi có thể hỏi khi nào đơn thuốc của tôi được chuẩn bị xong không?
+Could you help me check when my prescription will be ready? | Bạn giúp tôi hỏi khi nào đơn thuốc của tôi được chuẩn bị xong được không?
+What would you recommend if I wanted to check when my prescription will be ready? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi khi nào đơn thuốc của tôi được chuẩn bị xong?
+I'm trying to check when my prescription will be ready without overlooking any important details. | Tôi đang cố hỏi khi nào đơn thuốc của tôi được chuẩn bị xong mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to check when my prescription will be ready, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi khi nào đơn thuốc của tôi được chuẩn bị xong thế nào, nên rất mong được hướng dẫn.
+Let me check when my prescription will be ready first, and then we can discuss the next step. | Để tôi hỏi khi nào đơn thuốc của tôi được chuẩn bị xong trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to check when my prescription will be ready, but something unexpected came up. | Tôi định hỏi khi nào đơn thuốc của tôi được chuẩn bị xong, nhưng có việc bất ngờ xảy ra.
+I haven't been able to check when my prescription will be ready yet, despite making several attempts. | Tôi vẫn chưa thể hỏi khi nào đơn thuốc của tôi được chuẩn bị xong, dù đã thử vài lần.
+Do you think it would be more effective for me to check when my prescription will be ready in person? | Bạn nghĩ tôi hỏi khi nào đơn thuốc của tôi được chuẩn bị xong trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check when my prescription will be ready before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi khi nào đơn thuốc của tôi được chuẩn bị xong trước khi tiếp tục.
+I'll check when my prescription will be ready as soon as I have the information I need. | Tôi sẽ hỏi khi nào đơn thuốc của tôi được chuẩn bị xong ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check when my prescription will be ready. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi khi nào đơn thuốc của tôi được chuẩn bị xong.
+Is there any reason why I shouldn't check when my prescription will be ready at this stage? | Có lý do nào khiến tôi không nên hỏi khi nào đơn thuốc của tôi được chuẩn bị xong ở giai đoạn này không?
+I'd rather check when my prescription will be ready now than deal with a misunderstanding later. | Tôi muốn hỏi khi nào đơn thuốc của tôi được chuẩn bị xong ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to check when my prescription will be ready properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi khi nào đơn thuốc của tôi được chuẩn bị xong cho đúng.
+Unless there is a better alternative, I plan to check when my prescription will be ready. | Trừ khi có phương án tốt hơn, tôi dự định hỏi khi nào đơn thuốc của tôi được chuẩn bị xong.
+The main reason I want to check when my prescription will be ready is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi khi nào đơn thuốc của tôi được chuẩn bị xong là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to check when my prescription will be ready, I'll be in a better position to respond. | Sau khi có dịp hỏi khi nào đơn thuốc của tôi được chuẩn bị xong, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask whether I should take this medicine with food. | Tôi muốn hỏi tôi có nên dùng thuốc này cùng thức ăn không.
+I need to ask whether I should take this medicine with food. | Tôi cần hỏi tôi có nên dùng thuốc này cùng thức ăn không.
+Can I ask whether I should take this medicine with food? | Tôi có thể hỏi tôi có nên dùng thuốc này cùng thức ăn không không?
+Could you help me ask whether I should take this medicine with food? | Bạn giúp tôi hỏi tôi có nên dùng thuốc này cùng thức ăn không được không?
+What would you recommend if I wanted to ask whether I should take this medicine with food? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi tôi có nên dùng thuốc này cùng thức ăn không?
+I'm trying to ask whether I should take this medicine with food without overlooking any important details. | Tôi đang cố hỏi tôi có nên dùng thuốc này cùng thức ăn không mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask whether I should take this medicine with food, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi tôi có nên dùng thuốc này cùng thức ăn không thế nào, nên rất mong được hướng dẫn.
+Let me ask whether I should take this medicine with food first, and then we can discuss the next step. | Để tôi hỏi tôi có nên dùng thuốc này cùng thức ăn không trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask whether I should take this medicine with food, but something unexpected came up. | Tôi định hỏi tôi có nên dùng thuốc này cùng thức ăn không, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask whether I should take this medicine with food yet, despite making several attempts. | Tôi vẫn chưa thể hỏi tôi có nên dùng thuốc này cùng thức ăn không, dù đã thử vài lần.
+Do you think it would be more effective for me to ask whether I should take this medicine with food in person? | Bạn nghĩ tôi hỏi tôi có nên dùng thuốc này cùng thức ăn không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask whether I should take this medicine with food before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi tôi có nên dùng thuốc này cùng thức ăn không trước khi tiếp tục.
+I'll ask whether I should take this medicine with food as soon as I have the information I need. | Tôi sẽ hỏi tôi có nên dùng thuốc này cùng thức ăn không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask whether I should take this medicine with food. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi tôi có nên dùng thuốc này cùng thức ăn không.
+Is there any reason why I shouldn't ask whether I should take this medicine with food at this stage? | Có lý do nào khiến tôi không nên hỏi tôi có nên dùng thuốc này cùng thức ăn không ở giai đoạn này không?
+I'd rather ask whether I should take this medicine with food now than deal with a misunderstanding later. | Tôi muốn hỏi tôi có nên dùng thuốc này cùng thức ăn không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask whether I should take this medicine with food properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi tôi có nên dùng thuốc này cùng thức ăn không cho đúng.
+Unless there is a better alternative, I plan to ask whether I should take this medicine with food. | Trừ khi có phương án tốt hơn, tôi dự định hỏi tôi có nên dùng thuốc này cùng thức ăn không.
+The main reason I want to ask whether I should take this medicine with food is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi tôi có nên dùng thuốc này cùng thức ăn không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask whether I should take this medicine with food, I'll be in a better position to respond. | Sau khi có dịp hỏi tôi có nên dùng thuốc này cùng thức ăn không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to tell the pharmacist about my other medications. | Tôi muốn báo cho dược sĩ biết về những thuốc khác tôi đang dùng.
+I need to tell the pharmacist about my other medications. | Tôi cần báo cho dược sĩ biết về những thuốc khác tôi đang dùng.
+Can I tell the pharmacist about my other medications? | Tôi có thể báo cho dược sĩ biết về những thuốc khác tôi đang dùng không?
+Could you help me tell the pharmacist about my other medications? | Bạn giúp tôi báo cho dược sĩ biết về những thuốc khác tôi đang dùng được không?
+What would you recommend if I wanted to tell the pharmacist about my other medications? | Bạn sẽ gợi ý gì nếu tôi muốn báo cho dược sĩ biết về những thuốc khác tôi đang dùng?
+I'm trying to tell the pharmacist about my other medications without overlooking any important details. | Tôi đang cố báo cho dược sĩ biết về những thuốc khác tôi đang dùng mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to tell the pharmacist about my other medications, so I'd appreciate some guidance. | Tôi chưa chắc nên báo cho dược sĩ biết về những thuốc khác tôi đang dùng thế nào, nên rất mong được hướng dẫn.
+Let me tell the pharmacist about my other medications first, and then we can discuss the next step. | Để tôi báo cho dược sĩ biết về những thuốc khác tôi đang dùng trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to tell the pharmacist about my other medications, but something unexpected came up. | Tôi định báo cho dược sĩ biết về những thuốc khác tôi đang dùng, nhưng có việc bất ngờ xảy ra.
+I haven't been able to tell the pharmacist about my other medications yet, despite making several attempts. | Tôi vẫn chưa thể báo cho dược sĩ biết về những thuốc khác tôi đang dùng, dù đã thử vài lần.
+Do you think it would be more effective for me to tell the pharmacist about my other medications in person? | Bạn nghĩ tôi báo cho dược sĩ biết về những thuốc khác tôi đang dùng trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd tell the pharmacist about my other medications before moving forward. | Nếu ở vị trí của bạn, tôi sẽ báo cho dược sĩ biết về những thuốc khác tôi đang dùng trước khi tiếp tục.
+I'll tell the pharmacist about my other medications as soon as I have the information I need. | Tôi sẽ báo cho dược sĩ biết về những thuốc khác tôi đang dùng ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to tell the pharmacist about my other medications. | Nhìn lại, lẽ ra tôi nên dành thời gian để báo cho dược sĩ biết về những thuốc khác tôi đang dùng.
+Is there any reason why I shouldn't tell the pharmacist about my other medications at this stage? | Có lý do nào khiến tôi không nên báo cho dược sĩ biết về những thuốc khác tôi đang dùng ở giai đoạn này không?
+I'd rather tell the pharmacist about my other medications now than deal with a misunderstanding later. | Tôi muốn báo cho dược sĩ biết về những thuốc khác tôi đang dùng ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to tell the pharmacist about my other medications properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn báo cho dược sĩ biết về những thuốc khác tôi đang dùng cho đúng.
+Unless there is a better alternative, I plan to tell the pharmacist about my other medications. | Trừ khi có phương án tốt hơn, tôi dự định báo cho dược sĩ biết về những thuốc khác tôi đang dùng.
+The main reason I want to tell the pharmacist about my other medications is to avoid unnecessary confusion. | Lý do chính tôi muốn báo cho dược sĩ biết về những thuốc khác tôi đang dùng là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to tell the pharmacist about my other medications, I'll be in a better position to respond. | Sau khi có dịp báo cho dược sĩ biết về những thuốc khác tôi đang dùng, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask what to do if I miss a dose. | Tôi muốn hỏi cần làm gì nếu quên một liều.
+I need to ask what to do if I miss a dose. | Tôi cần hỏi cần làm gì nếu quên một liều.
+Can I ask what to do if I miss a dose? | Tôi có thể hỏi cần làm gì nếu quên một liều không?
+Could you help me ask what to do if I miss a dose? | Bạn giúp tôi hỏi cần làm gì nếu quên một liều được không?
+What would you recommend if I wanted to ask what to do if I miss a dose? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi cần làm gì nếu quên một liều?
+I'm trying to ask what to do if I miss a dose without overlooking any important details. | Tôi đang cố hỏi cần làm gì nếu quên một liều mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask what to do if I miss a dose, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi cần làm gì nếu quên một liều thế nào, nên rất mong được hướng dẫn.
+Let me ask what to do if I miss a dose first, and then we can discuss the next step. | Để tôi hỏi cần làm gì nếu quên một liều trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask what to do if I miss a dose, but something unexpected came up. | Tôi định hỏi cần làm gì nếu quên một liều, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask what to do if I miss a dose yet, despite making several attempts. | Tôi vẫn chưa thể hỏi cần làm gì nếu quên một liều, dù đã thử vài lần.
+Do you think it would be more effective for me to ask what to do if I miss a dose in person? | Bạn nghĩ tôi hỏi cần làm gì nếu quên một liều trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask what to do if I miss a dose before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi cần làm gì nếu quên một liều trước khi tiếp tục.
+I'll ask what to do if I miss a dose as soon as I have the information I need. | Tôi sẽ hỏi cần làm gì nếu quên một liều ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask what to do if I miss a dose. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi cần làm gì nếu quên một liều.
+Is there any reason why I shouldn't ask what to do if I miss a dose at this stage? | Có lý do nào khiến tôi không nên hỏi cần làm gì nếu quên một liều ở giai đoạn này không?
+I'd rather ask what to do if I miss a dose now than deal with a misunderstanding later. | Tôi muốn hỏi cần làm gì nếu quên một liều ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask what to do if I miss a dose properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi cần làm gì nếu quên một liều cho đúng.
+Unless there is a better alternative, I plan to ask what to do if I miss a dose. | Trừ khi có phương án tốt hơn, tôi dự định hỏi cần làm gì nếu quên một liều.
+The main reason I want to ask what to do if I miss a dose is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi cần làm gì nếu quên một liều là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask what to do if I miss a dose, I'll be in a better position to respond. | Sau khi có dịp hỏi cần làm gì nếu quên một liều, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask about possible side effects. | Tôi muốn hỏi về những tác dụng phụ có thể xảy ra.
+I need to ask about possible side effects. | Tôi cần hỏi về những tác dụng phụ có thể xảy ra.
+Can I ask about possible side effects? | Tôi có thể hỏi về những tác dụng phụ có thể xảy ra không?
+Could you help me ask about possible side effects? | Bạn giúp tôi hỏi về những tác dụng phụ có thể xảy ra được không?
+What would you recommend if I wanted to ask about possible side effects? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi về những tác dụng phụ có thể xảy ra?
+I'm trying to ask about possible side effects without overlooking any important details. | Tôi đang cố hỏi về những tác dụng phụ có thể xảy ra mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask about possible side effects, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi về những tác dụng phụ có thể xảy ra thế nào, nên rất mong được hướng dẫn.
+Let me ask about possible side effects first, and then we can discuss the next step. | Để tôi hỏi về những tác dụng phụ có thể xảy ra trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask about possible side effects, but something unexpected came up. | Tôi định hỏi về những tác dụng phụ có thể xảy ra, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask about possible side effects yet, despite making several attempts. | Tôi vẫn chưa thể hỏi về những tác dụng phụ có thể xảy ra, dù đã thử vài lần.
+Do you think it would be more effective for me to ask about possible side effects in person? | Bạn nghĩ tôi hỏi về những tác dụng phụ có thể xảy ra trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask about possible side effects before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi về những tác dụng phụ có thể xảy ra trước khi tiếp tục.
+I'll ask about possible side effects as soon as I have the information I need. | Tôi sẽ hỏi về những tác dụng phụ có thể xảy ra ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask about possible side effects. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi về những tác dụng phụ có thể xảy ra.
+Is there any reason why I shouldn't ask about possible side effects at this stage? | Có lý do nào khiến tôi không nên hỏi về những tác dụng phụ có thể xảy ra ở giai đoạn này không?
+I'd rather ask about possible side effects now than deal with a misunderstanding later. | Tôi muốn hỏi về những tác dụng phụ có thể xảy ra ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask about possible side effects properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi về những tác dụng phụ có thể xảy ra cho đúng.
+Unless there is a better alternative, I plan to ask about possible side effects. | Trừ khi có phương án tốt hơn, tôi dự định hỏi về những tác dụng phụ có thể xảy ra.
+The main reason I want to ask about possible side effects is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi về những tác dụng phụ có thể xảy ra là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask about possible side effects, I'll be in a better position to respond. | Sau khi có dịp hỏi về những tác dụng phụ có thể xảy ra, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to check whether my insurance covers the prescription. | Tôi muốn hỏi bảo hiểm của tôi có chi trả đơn thuốc không.
+I need to check whether my insurance covers the prescription. | Tôi cần hỏi bảo hiểm của tôi có chi trả đơn thuốc không.
+Can I check whether my insurance covers the prescription? | Tôi có thể hỏi bảo hiểm của tôi có chi trả đơn thuốc không không?
+Could you help me check whether my insurance covers the prescription? | Bạn giúp tôi hỏi bảo hiểm của tôi có chi trả đơn thuốc không được không?
+What would you recommend if I wanted to check whether my insurance covers the prescription? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi bảo hiểm của tôi có chi trả đơn thuốc không?
+I'm trying to check whether my insurance covers the prescription without overlooking any important details. | Tôi đang cố hỏi bảo hiểm của tôi có chi trả đơn thuốc không mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to check whether my insurance covers the prescription, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi bảo hiểm của tôi có chi trả đơn thuốc không thế nào, nên rất mong được hướng dẫn.
+Let me check whether my insurance covers the prescription first, and then we can discuss the next step. | Để tôi hỏi bảo hiểm của tôi có chi trả đơn thuốc không trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to check whether my insurance covers the prescription, but something unexpected came up. | Tôi định hỏi bảo hiểm của tôi có chi trả đơn thuốc không, nhưng có việc bất ngờ xảy ra.
+I haven't been able to check whether my insurance covers the prescription yet, despite making several attempts. | Tôi vẫn chưa thể hỏi bảo hiểm của tôi có chi trả đơn thuốc không, dù đã thử vài lần.
+Do you think it would be more effective for me to check whether my insurance covers the prescription in person? | Bạn nghĩ tôi hỏi bảo hiểm của tôi có chi trả đơn thuốc không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd check whether my insurance covers the prescription before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi bảo hiểm của tôi có chi trả đơn thuốc không trước khi tiếp tục.
+I'll check whether my insurance covers the prescription as soon as I have the information I need. | Tôi sẽ hỏi bảo hiểm của tôi có chi trả đơn thuốc không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to check whether my insurance covers the prescription. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi bảo hiểm của tôi có chi trả đơn thuốc không.
+Is there any reason why I shouldn't check whether my insurance covers the prescription at this stage? | Có lý do nào khiến tôi không nên hỏi bảo hiểm của tôi có chi trả đơn thuốc không ở giai đoạn này không?
+I'd rather check whether my insurance covers the prescription now than deal with a misunderstanding later. | Tôi muốn hỏi bảo hiểm của tôi có chi trả đơn thuốc không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to check whether my insurance covers the prescription properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi bảo hiểm của tôi có chi trả đơn thuốc không cho đúng.
+Unless there is a better alternative, I plan to check whether my insurance covers the prescription. | Trừ khi có phương án tốt hơn, tôi dự định hỏi bảo hiểm của tôi có chi trả đơn thuốc không.
+The main reason I want to check whether my insurance covers the prescription is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi bảo hiểm của tôi có chi trả đơn thuốc không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to check whether my insurance covers the prescription, I'll be in a better position to respond. | Sau khi có dịp hỏi bảo hiểm của tôi có chi trả đơn thuốc không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to request instructions in writing. | Tôi muốn xin hướng dẫn bằng văn bản.
+I need to request instructions in writing. | Tôi cần xin hướng dẫn bằng văn bản.
+Can I request instructions in writing? | Tôi có thể xin hướng dẫn bằng văn bản không?
+Could you help me request instructions in writing? | Bạn giúp tôi xin hướng dẫn bằng văn bản được không?
+What would you recommend if I wanted to request instructions in writing? | Bạn sẽ gợi ý gì nếu tôi muốn xin hướng dẫn bằng văn bản?
+I'm trying to request instructions in writing without overlooking any important details. | Tôi đang cố xin hướng dẫn bằng văn bản mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to request instructions in writing, so I'd appreciate some guidance. | Tôi chưa chắc nên xin hướng dẫn bằng văn bản thế nào, nên rất mong được hướng dẫn.
+Let me request instructions in writing first, and then we can discuss the next step. | Để tôi xin hướng dẫn bằng văn bản trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to request instructions in writing, but something unexpected came up. | Tôi định xin hướng dẫn bằng văn bản, nhưng có việc bất ngờ xảy ra.
+I haven't been able to request instructions in writing yet, despite making several attempts. | Tôi vẫn chưa thể xin hướng dẫn bằng văn bản, dù đã thử vài lần.
+Do you think it would be more effective for me to request instructions in writing in person? | Bạn nghĩ tôi xin hướng dẫn bằng văn bản trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd request instructions in writing before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xin hướng dẫn bằng văn bản trước khi tiếp tục.
+I'll request instructions in writing as soon as I have the information I need. | Tôi sẽ xin hướng dẫn bằng văn bản ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to request instructions in writing. | Nhìn lại, lẽ ra tôi nên dành thời gian để xin hướng dẫn bằng văn bản.
+Is there any reason why I shouldn't request instructions in writing at this stage? | Có lý do nào khiến tôi không nên xin hướng dẫn bằng văn bản ở giai đoạn này không?
+I'd rather request instructions in writing now than deal with a misunderstanding later. | Tôi muốn xin hướng dẫn bằng văn bản ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to request instructions in writing properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xin hướng dẫn bằng văn bản cho đúng.
+Unless there is a better alternative, I plan to request instructions in writing. | Trừ khi có phương án tốt hơn, tôi dự định xin hướng dẫn bằng văn bản.
+The main reason I want to request instructions in writing is to avoid unnecessary confusion. | Lý do chính tôi muốn xin hướng dẫn bằng văn bản là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to request instructions in writing, I'll be in a better position to respond. | Sau khi có dịp xin hướng dẫn bằng văn bản, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask how the medicine should be stored. | Tôi muốn hỏi thuốc cần được bảo quản thế nào.
+I need to ask how the medicine should be stored. | Tôi cần hỏi thuốc cần được bảo quản thế nào.
+Can I ask how the medicine should be stored? | Tôi có thể hỏi thuốc cần được bảo quản thế nào không?
+Could you help me ask how the medicine should be stored? | Bạn giúp tôi hỏi thuốc cần được bảo quản thế nào được không?
+What would you recommend if I wanted to ask how the medicine should be stored? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi thuốc cần được bảo quản thế nào?
+I'm trying to ask how the medicine should be stored without overlooking any important details. | Tôi đang cố hỏi thuốc cần được bảo quản thế nào mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask how the medicine should be stored, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi thuốc cần được bảo quản thế nào thế nào, nên rất mong được hướng dẫn.
+Let me ask how the medicine should be stored first, and then we can discuss the next step. | Để tôi hỏi thuốc cần được bảo quản thế nào trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask how the medicine should be stored, but something unexpected came up. | Tôi định hỏi thuốc cần được bảo quản thế nào, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask how the medicine should be stored yet, despite making several attempts. | Tôi vẫn chưa thể hỏi thuốc cần được bảo quản thế nào, dù đã thử vài lần.
+Do you think it would be more effective for me to ask how the medicine should be stored in person? | Bạn nghĩ tôi hỏi thuốc cần được bảo quản thế nào trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask how the medicine should be stored before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi thuốc cần được bảo quản thế nào trước khi tiếp tục.
+I'll ask how the medicine should be stored as soon as I have the information I need. | Tôi sẽ hỏi thuốc cần được bảo quản thế nào ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask how the medicine should be stored. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi thuốc cần được bảo quản thế nào.
+Is there any reason why I shouldn't ask how the medicine should be stored at this stage? | Có lý do nào khiến tôi không nên hỏi thuốc cần được bảo quản thế nào ở giai đoạn này không?
+I'd rather ask how the medicine should be stored now than deal with a misunderstanding later. | Tôi muốn hỏi thuốc cần được bảo quản thế nào ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask how the medicine should be stored properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi thuốc cần được bảo quản thế nào cho đúng.
+Unless there is a better alternative, I plan to ask how the medicine should be stored. | Trừ khi có phương án tốt hơn, tôi dự định hỏi thuốc cần được bảo quản thế nào.
+The main reason I want to ask how the medicine should be stored is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi thuốc cần được bảo quản thế nào là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask how the medicine should be stored, I'll be in a better position to respond. | Sau khi có dịp hỏi thuốc cần được bảo quản thế nào, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to contact the pharmacy about a refill. | Tôi muốn liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn.
+I need to contact the pharmacy about a refill. | Tôi cần liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn.
+Can I contact the pharmacy about a refill? | Tôi có thể liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn không?
+Could you help me contact the pharmacy about a refill? | Bạn giúp tôi liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn được không?
+What would you recommend if I wanted to contact the pharmacy about a refill? | Bạn sẽ gợi ý gì nếu tôi muốn liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn?
+I'm trying to contact the pharmacy about a refill without overlooking any important details. | Tôi đang cố liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to contact the pharmacy about a refill, so I'd appreciate some guidance. | Tôi chưa chắc nên liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn thế nào, nên rất mong được hướng dẫn.
+Let me contact the pharmacy about a refill first, and then we can discuss the next step. | Để tôi liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to contact the pharmacy about a refill, but something unexpected came up. | Tôi định liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn, nhưng có việc bất ngờ xảy ra.
+I haven't been able to contact the pharmacy about a refill yet, despite making several attempts. | Tôi vẫn chưa thể liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn, dù đã thử vài lần.
+Do you think it would be more effective for me to contact the pharmacy about a refill in person? | Bạn nghĩ tôi liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd contact the pharmacy about a refill before moving forward. | Nếu ở vị trí của bạn, tôi sẽ liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn trước khi tiếp tục.
+I'll contact the pharmacy about a refill as soon as I have the information I need. | Tôi sẽ liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to contact the pharmacy about a refill. | Nhìn lại, lẽ ra tôi nên dành thời gian để liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn.
+Is there any reason why I shouldn't contact the pharmacy about a refill at this stage? | Có lý do nào khiến tôi không nên liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn ở giai đoạn này không?
+I'd rather contact the pharmacy about a refill now than deal with a misunderstanding later. | Tôi muốn liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to contact the pharmacy about a refill properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn cho đúng.
+Unless there is a better alternative, I plan to contact the pharmacy about a refill. | Trừ khi có phương án tốt hơn, tôi dự định liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn.
+The main reason I want to contact the pharmacy about a refill is to avoid unnecessary confusion. | Lý do chính tôi muốn liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to contact the pharmacy about a refill, I'll be in a better position to respond. | Sau khi có dịp liên hệ nhà thuốc về việc lấy thêm thuốc theo đơn, tôi sẽ có đủ cơ sở hơn để phản hồi.

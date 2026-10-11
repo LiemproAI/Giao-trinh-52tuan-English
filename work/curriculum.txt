@@ -1,0 +1,286 @@
+@@ 1|Meeting people|Chào hỏi và làm quen
+GOAL Giới thiệu tên, quê quán, công việc và duy trì cuộc nói chuyện hai phút.
+GRAMMAR Dùng I'm cho tên và trạng thái; dùng I work as a để nói nghề. Hỏi What do you do thay vì What are you doing khi muốn hỏi nghề.
+SOUND Nhấn NAME, FROM, WORK. Đọc I'm thành một cụm; không thêm âm ơ sau phụ âm cuối trong name và work.
+REGISTER Nice to meet you dùng lần gặp đầu; Good to see you dùng khi đã quen. How's it going thân mật hơn How are you.
+P I'm originally from Vietnam.|Tôi vốn đến từ Việt Nam.
+P I work as a designer.|Tôi làm thiết kế.
+P What do you do for work?|Bạn làm công việc gì?
+P I'm still getting used to the city.|Tôi vẫn đang làm quen với thành phố.
+P How do you know Alex?|Bạn quen Alex như thế nào?
+P It was nice talking with you.|Rất vui được trò chuyện với bạn.
+D Hey, I'm Maya. I don't think we've met.|Chào, tôi là Maya. Hình như mình chưa gặp nhau.
+D I'm Linh. Nice to meet you.|Tôi là Linh. Rất vui được gặp bạn.
+D Nice to meet you too. How do you know Alex?|Tôi cũng vậy. Bạn quen Alex như thế nào?
+D We work together. I joined the team last month.|Chúng tôi làm cùng nhau. Tôi vào nhóm tháng trước.
+D Oh, cool. How are you liking it so far?|Hay đấy. Đến giờ bạn thấy thế nào?
+D I like it. Everyone's been really helpful.|Tôi thích lắm. Mọi người đều rất nhiệt tình giúp đỡ.
+Q How does Linh know Alex?|They work together.
+Q When did Linh join the team?|Last month.
+FIX I am work as a designer.|I work as a designer.
+TASK Bạn đến buổi gặp mặt mới. Giới thiệu bản thân, hỏi nghề, tìm một điểm chung rồi kết thúc lịch sự.
+TWIST Người kia trả lời rất ngắn. Dùng hai câu hỏi nối tiếp nhưng tránh hỏi thu nhập hoặc tuổi.
+@@ 2|Family and personal background|Gia đình và thông tin cá nhân
+GOAL Kể về gia đình và hỏi thông tin cá nhân mà không khiến người khác khó xử.
+GRAMMAR Have đi với số lượng; one sister nhưng two sisters. Live with chỉ người ở cùng, live in chỉ nơi sống.
+SOUND Giữ phụ âm cuối trong lives và parents. Đọc sister có trọng âm âm tiết đầu; không nhấn đều mọi âm tiết.
+REGISTER Không mặc định người đối diện đã kết hôn hoặc có con. Nếu họ không muốn chia sẻ, chuyển sang sở thích.
+P I grew up in a small town.|Tôi lớn lên ở một thị trấn nhỏ.
+P I have an older sister.|Tôi có một chị gái.
+P My parents still live there.|Bố mẹ tôi vẫn sống ở đó.
+P We're pretty close.|Gia đình chúng tôi khá gắn bó.
+P Do you have any siblings?|Bạn có anh chị em không?
+P Only if you're comfortable sharing.|Chỉ khi bạn thấy thoải mái chia sẻ thôi.
+D Did you grow up around here?|Bạn lớn lên gần đây à?
+D No, I grew up in Da Nang.|Không, tôi lớn lên ở Đà Nẵng.
+D Is your family still there?|Gia đình bạn vẫn ở đó chứ?
+D My parents are. My sister lives in Seattle.|Bố mẹ tôi vẫn ở đó. Chị tôi sống ở Seattle.
+D Do you get to see them often?|Bạn có thường gặp họ không?
+D Not as often as I'd like, but we call every week.|Không thường xuyên như tôi muốn, nhưng chúng tôi gọi mỗi tuần.
+Q Where did the speaker grow up?|In Da Nang.
+Q How often does the family call?|Every week.
+FIX I have two sister.|I have two sisters.
+TASK Giới thiệu gia đình trong 90 giây, nêu hai người và một việc gia đình thường làm.
+TWIST Người nghe nói họ không muốn bàn chuyện gia đình. Chấp nhận và đổi sang chủ đề quê quán.
+@@ 3|Daily routines|Sinh hoạt hằng ngày
+GOAL Mô tả ngày thường và so sánh với cuối tuần.
+GRAMMAR Hiện tại đơn nói thói quen. Dùng usually, sometimes trước động từ thường; sau be. He gets nhưng I get.
+SOUND Phân biệt âm cuối gets và get. Trong get up, nối t với nguyên âm sau; ưu tiên nghe rõ hơn là bắt chước tốc độ.
+REGISTER I usually dùng khi thói quen không tuyệt đối. Không dùng always nếu bạn chỉ muốn nói thường xuyên.
+P I usually get up around seven.|Tôi thường dậy khoảng bảy giờ.
+P I work from home twice a week.|Tôi làm ở nhà hai lần một tuần.
+P I grab breakfast on the way.|Tôi ăn sáng nhanh trên đường đi.
+P My commute takes about thirty minutes.|Tôi đi làm mất khoảng ba mươi phút.
+P I try to wind down before bed.|Tôi cố thư giãn trước khi ngủ.
+P My weekends are a little more flexible.|Cuối tuần của tôi linh hoạt hơn một chút.
+D What does a typical weekday look like for you?|Một ngày thường của bạn như thế nào?
+D I get up at seven and take the bus to work.|Tôi dậy lúc bảy giờ và đi xe buýt đến chỗ làm.
+D Do you eat breakfast at home?|Bạn ăn sáng ở nhà không?
+D Usually. But I grab something on the way if I'm running late.|Thường là vậy. Nhưng nếu muộn, tôi mua gì đó trên đường.
+D What do you do after work?|Sau giờ làm bạn làm gì?
+D I cook dinner, take a walk, and call it a night.|Tôi nấu bữa tối, đi dạo rồi nghỉ ngơi để kết thúc ngày.
+Q How does the speaker get to work?|By bus.
+Q What happens when the speaker is running late?|They grab breakfast on the way.
+FIX He usually go to work by bus.|He usually goes to work by bus.
+TASK Kể ngày làm việc theo thứ tự, dùng ít nhất ba trạng từ tần suất.
+TWIST Đổi lịch sang ca tối và giải thích ba điều phải thay đổi.
+@@ 4|Small talk and weather|Trò chuyện xã giao và thời tiết
+GOAL Mở lời, phản hồi và nối tiếp chuyện ngắn về thời tiết hoặc cuối tuần.
+GRAMMAR Hiện tại tiếp diễn nói thời tiết đang diễn ra; quá khứ đơn kể cuối tuần vừa qua. Hỏi Did you do anything fun.
+SOUND Nghe Did you có thể được nối thành một cụm nhanh. Nhấn HOT và TODAY; không bỏ âm cuối cold.
+REGISTER Small talk thường ngắn và có qua có lại. How are you không luôn là lời mời kể chi tiết vấn đề riêng tư.
+P It's been really warm lately.|Dạo này trời khá nóng.
+P I wasn't expecting this much rain.|Tôi không ngờ lại mưa nhiều thế này.
+P Did you do anything fun over the weekend?|Cuối tuần bạn có làm gì vui không?
+P I mostly stayed in.|Tôi chủ yếu ở nhà.
+P That sounds like a nice break.|Nghe có vẻ là dịp nghỉ ngơi dễ chịu.
+P Anyway, I'd better get going.|Thôi, tôi nên đi đây.
+D Pretty nice out today, huh?|Hôm nay ngoài trời đẹp nhỉ?
+D Yeah, much better than yesterday.|Đúng vậy, đẹp hơn hôm qua nhiều.
+D Any plans for the weekend?|Cuối tuần bạn có kế hoạch gì không?
+D I'm thinking of checking out the farmers market.|Tôi đang tính ghé chợ nông sản.
+D I've heard good things about it.|Tôi nghe nhiều lời khen về chỗ đó.
+D Maybe I'll see you there.|Biết đâu tôi sẽ gặp bạn ở đó.
+Q What is the speaker thinking of visiting?|The farmers market.
+Q Is today's weather better or worse than yesterday's?|Better.
+FIX Did you went out last weekend?|Did you go out last weekend?
+TASK Ghi ba đoạn small talk dài 45 giây: thang máy, hàng chờ và trước cuộc họp. Ôn tuần 1 đến 3.
+TWIST Đối tác không biết trả lời. Đưa một thông tin về bạn thay vì hỏi dồn.
+@@ 5|Home and neighborhood|Nhà ở và khu phố
+GOAL Mô tả nơi ở, tiện ích và điều bạn thích ở khu vực mình sống.
+GRAMMAR There is dùng với một vật; there are dùng với nhiều vật. Near chỉ gần; next to chỉ ngay bên cạnh.
+SOUND Phân biệt live với leave bằng độ dài và chất lượng nguyên âm. Nhấn NEAR khi sửa thông tin vị trí.
+REGISTER Apartment, elevator và sidewalk là các từ thông dụng trong tiếng Anh Mỹ.
+P I live in a two-bedroom apartment.|Tôi sống trong căn hộ hai phòng ngủ.
+P There's a park across the street.|Có công viên phía bên kia đường.
+P The grocery store is within walking distance.|Cửa hàng thực phẩm nằm trong khoảng đi bộ được.
+P It's a pretty quiet neighborhood.|Đó là khu phố khá yên tĩnh.
+P The rent is a little high.|Tiền thuê hơi cao.
+P What do you like about living there?|Bạn thích điều gì khi sống ở đó?
+D How do you like your new place?|Bạn thấy chỗ ở mới thế nào?
+D I like it. It's small, but it gets a lot of light.|Tôi thích. Nó nhỏ nhưng có nhiều ánh sáng.
+D Is it close to work?|Nó gần chỗ làm không?
+D About a fifteen-minute walk.|Đi bộ khoảng mười lăm phút.
+D That's convenient. Is there a park nearby?|Tiện nhỉ. Có công viên gần đó không?
+D Yeah, there's one right across the street.|Có, ngay bên kia đường.
+Q How long is the walk to work?|About fifteen minutes.
+Q Where is the park?|Across the street.
+FIX There is two parks near my house.|There are two parks near my house.
+TASK Mô tả nhà và khu phố bằng tám câu; vẽ sơ đồ đơn giản rồi hướng dẫn người nghe tưởng tượng.
+TWIST Bạn muốn chuyển nhà. So sánh khu hiện tại và khu mới bằng ba tiêu chí.
+@@ 6|Time and schedules|Thời gian và sắp lịch
+GOAL Hẹn giờ rõ ràng, đổi lịch và xác nhận lại thời gian.
+GRAMMAR At đi với giờ, on với ngày, in với tháng. From nine to five chỉ khoảng thời gian; by five chỉ hạn cuối.
+SOUND Phân biệt thirteen và thirty bằng trọng âm. Đọc lại con số khi đặt lịch để tránh nghe nhầm.
+REGISTER Nói rõ a.m., p.m. hoặc múi giờ khi cần. Khi nghe nhầm, xác nhận giờ bằng một câu đầy đủ.
+P What time works best for you?|Giờ nào tiện nhất cho bạn?
+P I'm free after three.|Tôi rảnh sau ba giờ.
+P Could we move it to Thursday?|Chúng ta chuyển sang thứ Năm được không?
+P I have a conflict at that time.|Tôi có lịch trùng vào giờ đó.
+P Let's aim for three thirty.|Mình dự tính ba giờ rưỡi nhé.
+P Just to confirm, that's three thirty p.m., right?|Để xác nhận, là ba giờ rưỡi chiều đúng không?
+D Are you available on Wednesday afternoon?|Bạn rảnh chiều thứ Tư không?
+D I have a meeting at two, but I'm free after three.|Tôi có cuộc họp lúc hai giờ, nhưng rảnh sau ba giờ.
+D Would three thirty work?|Ba giờ rưỡi được không?
+D Yes. Where should we meet?|Được. Mình gặp ở đâu?
+D At the coffee shop next to the library.|Ở quán cà phê cạnh thư viện.
+D Great. I'll see you there Wednesday at three thirty.|Tốt. Hẹn gặp bạn ở đó thứ Tư lúc ba giờ rưỡi.
+Q What time is the meeting at the coffee shop?|Three thirty on Wednesday.
+Q Where is the coffee shop?|Next to the library.
+FIX Let's meet in Thursday.|Let's meet on Thursday.
+TASK Sắp ba cuộc hẹn khác nhau; mỗi cuộc phải xác nhận ngày, giờ và địa điểm.
+TWIST Một người ở múi giờ khác. Hỏi múi giờ, đọc lại giờ và gửi xác nhận bằng lời.
+@@ 7|Ordering coffee|Gọi đồ uống tại quán cà phê
+GOAL Gọi đồ uống, tùy chỉnh món và xử lý món bị nhầm.
+GRAMMAR I'd like và Could I get dùng để gọi món. Dùng with cho thành phần thêm, without cho thành phần bỏ.
+SOUND Nhấn ICED và HOT khi phân biệt món. Could I có thể nối âm nhưng đừng bỏ mất từ chỉ loại đồ uống.
+REGISTER To go chỉ mang đi; for here chỉ dùng tại chỗ. Could I get nghe tự nhiên trong tình huống dịch vụ ở Mỹ.
+P Could I get a medium iced coffee?|Cho tôi cà phê đá cỡ vừa được không?
+P With oat milk, please.|Cho thêm sữa yến mạch nhé.
+P No added sugar, please.|Không thêm đường nhé.
+P Is this drink available decaf?|Đồ uống này có loại giảm caffeine không?
+P I'll have it to go.|Tôi lấy mang đi.
+P I think this might be the wrong order.|Tôi nghĩ đây có thể là món bị nhầm.
+D What can I get started for you?|Bạn muốn gọi gì?
+D A small latte with oat milk, please.|Cho tôi latte nhỏ với sữa yến mạch.
+D Hot or iced?|Nóng hay đá?
+D Iced, please. And no added sugar.|Đá nhé. Và không thêm đường.
+D Sure. For here or to go?|Được. Dùng tại đây hay mang đi?
+D To go, please.|Mang đi nhé.
+Q What kind of milk does the customer want?|Oat milk.
+Q Is the order for here or to go?|To go.
+FIX I'd like coffee without sugars.|I'd like coffee without sugar.
+TASK Gọi ba đồ uống với kích cỡ, nhiệt độ và một tùy chỉnh khác nhau.
+TWIST Nhân viên hết loại sữa bạn muốn. Hỏi lựa chọn thay thế và xác nhận đơn mới.
+@@ 8|Eating at a restaurant|Ăn tại nhà hàng
+GOAL Đặt bàn, hỏi món, nêu dị ứng và yêu cầu tính tiền.
+GRAMMAR A table for two nói số khách. Does this contain hỏi thành phần. Could we get dùng cho yêu cầu lịch sự.
+SOUND Phát âm rõ âm cuối trong nuts và check. Nhấn từ chỉ chất gây dị ứng; không rút gọn thông tin quan trọng.
+REGISTER Check thường chỉ hóa đơn tại nhà hàng Mỹ. Nêu dị ứng trực tiếp thay vì nói đơn giản rằng bạn không thích món đó.
+P A table for two, please.|Cho chúng tôi bàn hai người.
+P Do you have any vegetarian options?|Có lựa chọn món chay không?
+P I'm allergic to peanuts.|Tôi bị dị ứng với đậu phộng.
+P Does this dish contain nuts?|Món này có chứa các loại hạt không?
+P Could we get the check, please?|Cho chúng tôi hóa đơn được không?
+P Could you split the check?|Bạn tách hóa đơn giúp chúng tôi được không?
+D Are you ready to order?|Bạn sẵn sàng gọi món chưa?
+D Almost. Does the pasta have any nuts in it?|Gần xong rồi. Mì pasta có loại hạt nào không?
+D Let me check with the kitchen.|Để tôi hỏi lại bếp.
+D Thank you. I have a peanut allergy.|Cảm ơn. Tôi bị dị ứng đậu phộng.
+D The sauce contains peanuts. We can offer a different dish.|Sốt có đậu phộng. Chúng tôi có thể đề xuất món khác.
+D I'll choose something else, then.|Vậy tôi sẽ chọn món khác.
+Q What allergy does the customer mention?|A peanut allergy.
+Q Why does the customer choose another dish?|The sauce contains peanuts.
+FIX Does this dish contains nuts?|Does this dish contain nuts?
+TASK Diễn hội thoại từ vào nhà hàng đến thanh toán. Ôn gọi đồ uống và sắp lịch ở tuần 6 đến 7.
+TWIST Món bạn gọi chưa tới và bạn phải đi trong mười phút. Hỏi thời gian chờ rồi đề nghị giải pháp.
+@@ 9|Groceries and cooking|Mua thực phẩm và nấu ăn
+GOAL Hỏi vị trí hàng, số lượng và giải thích công thức đơn giản.
+GRAMMAR Some dùng trong câu khẳng định và lời mời; any thường dùng trong câu hỏi. A little cho không đếm được, a few cho đếm được.
+SOUND Đọc recipe nhấn âm đầu, ba âm tiết. Luyện /v/ trong vegetables; răng trên chạm nhẹ môi dưới.
+REGISTER Cart là xe đẩy, produce là khu rau củ, checkout là quầy thanh toán. Giá và số lượng trong bài là ví dụ luyện tập.
+P Where can I find the eggs?|Tôi tìm trứng ở đâu?
+P Are these peaches ripe?|Những quả đào này chín chưa?
+P I only need a few onions.|Tôi chỉ cần vài củ hành.
+P Could I get half a pound of cheese?|Cho tôi nửa pound phô mai được không?
+P We ran out of olive oil.|Chúng tôi hết dầu ô liu rồi.
+P Let it simmer for about ten minutes.|Để nó sôi nhẹ khoảng mười phút.
+D Do we have everything for dinner?|Mình có đủ mọi thứ cho bữa tối chưa?
+D We need onions, rice, and some vegetables.|Mình cần hành, gạo và một ít rau.
+D What about chicken?|Còn thịt gà thì sao?
+D We already have some in the freezer.|Mình đã có trong ngăn đông rồi.
+D Great. I'll grab the onions.|Tốt. Tôi sẽ lấy hành.
+D I'll meet you at the checkout.|Tôi sẽ gặp bạn ở quầy thanh toán.
+Q What protein is already at home?|Chicken.
+Q Where will the speakers meet?|At the checkout.
+FIX I need a few rice.|I need a little rice.
+TASK Lập thực đơn, hỏi ba món trong siêu thị rồi giải thích cách nấu một món bằng năm bước.
+TWIST Thiếu một nguyên liệu. Hỏi người bán và đề xuất một món thay thế.
+@@ 10|Shopping and returns|Mua sắm và đổi trả
+GOAL Hỏi kích cỡ, so sánh lựa chọn và giải thích lý do đổi trả.
+GRAMMAR Comparative với -er hoặc more dùng so sánh. Too small nói quá nhỏ; a little smaller nói nhỏ hơn một chút.
+SOUND Phân biệt fit với feet. Đọc rõ /s/ trong size và /z/ cuối trong sizes.
+REGISTER Fitting room là phòng thử đồ. Hỏi chính sách đổi trả trước; không mặc định cửa hàng nào cũng có cùng quy định.
+P Do you have this in a larger size?|Bạn có mẫu này cỡ lớn hơn không?
+P Where are the fitting rooms?|Phòng thử đồ ở đâu?
+P It's a little too tight.|Nó hơi chật quá.
+P What's your return policy?|Chính sách đổi trả của cửa hàng là gì?
+P I'd like to exchange this for a different size.|Tôi muốn đổi sang cỡ khác.
+P I have the receipt right here.|Tôi có hóa đơn ngay đây.
+D Can I help you find anything?|Tôi giúp bạn tìm gì được không?
+D Do you have this jacket in a medium?|Bạn có áo khoác này cỡ vừa không?
+D We do. Would you like to try it on?|Có. Bạn muốn thử không?
+D Yes, please. Where's the fitting room?|Có, cảm ơn. Phòng thử đồ ở đâu?
+D In the back, on your left.|Ở phía cuối, bên trái bạn.
+D Thanks. I'll compare it with the large.|Cảm ơn. Tôi sẽ so sánh với cỡ lớn.
+Q What item is the customer looking for?|A jacket.
+Q Which sizes will the customer compare?|Medium and large.
+FIX This jacket is more cheaper.|This jacket is cheaper.
+TASK Mua một món đồ theo ngân sách tự đặt, rồi diễn tình huống quay lại đổi cỡ.
+TWIST Không còn cỡ bạn muốn. Hỏi màu khác hoặc yêu cầu kiểm tra chi nhánh khác.
+@@ 11|Asking for directions|Hỏi đường và chỉ đường
+GOAL Hỏi vị trí, hiểu mốc đường và xác nhận hướng đi.
+GRAMMAR Dùng mệnh lệnh Go, Turn, Keep khi chỉ đường. At the corner khác on the corner: điểm rẽ và vị trí ở góc phố.
+SOUND Nhấn LEFT, RIGHT và SECOND. Đọc rõ street với cụm /str/; không thêm nguyên âm giữa s và t.
+REGISTER Block là đoạn phố giữa các giao lộ. Hỏi lại khi chưa rõ thay vì đoán hướng.
+P How do I get to the library?|Tôi đến thư viện bằng cách nào?
+P Go straight for two blocks.|Đi thẳng hai đoạn phố.
+P Turn left at the second light.|Rẽ trái ở đèn giao thông thứ hai.
+P It'll be on your right.|Nó sẽ nằm bên phải bạn.
+P Is it within walking distance?|Có thể đi bộ đến đó không?
+P So I turn left after the bank, right?|Vậy tôi rẽ trái sau ngân hàng, đúng không?
+D Excuse me, is there a pharmacy nearby?|Xin lỗi, có hiệu thuốc gần đây không?
+D Yes. Go straight for one block, then turn right.|Có. Đi thẳng một đoạn phố rồi rẽ phải.
+D At the traffic light?|Ở đèn giao thông à?
+D Right. It's next to the bank.|Đúng. Nó cạnh ngân hàng.
+D Is it on the same side of the street?|Nó ở cùng phía đường này không?
+D No, you'll need to cross at the light.|Không, bạn cần qua đường ở đèn giao thông.
+Q What place is the visitor looking for?|A pharmacy.
+Q What is next to the pharmacy?|A bank.
+FIX Turn to left at the light.|Turn left at the light.
+TASK Dùng bản đồ tự vẽ chỉ ba lộ trình, mỗi lộ trình có ít nhất hai mốc.
+TWIST Một đoạn đường đóng. Đưa lộ trình thay thế và xác nhận người nghe đã hiểu.
+@@ 12|Getting around town|Xe buýt tàu và xe công nghệ
+GOAL Hỏi tuyến, mua vé và xử lý đi nhầm xe hoặc điểm đón.
+GRAMMAR Does this bus go hỏi tuyến. Get on và get off dùng với xe buýt hoặc tàu; get in và get out of dùng với ô tô.
+SOUND Phân biệt fifteen và fifty khi nghe tiền hoặc thời gian. Luyện /r/ trong route và ride, không rung đầu lưỡi.
+REGISTER Round-trip là khứ hồi; one-way là một chiều. Trong tiếng Anh Mỹ dùng subway khi nói tàu điện ngầm.
+P Does this bus go downtown?|Xe buýt này có vào trung tâm không?
+P Where should I get off?|Tôi nên xuống ở đâu?
+P I'd like a one-way ticket.|Tôi muốn vé một chiều.
+P How often does the train run?|Bao lâu có một chuyến tàu?
+P I think I'm at the wrong pickup spot.|Tôi nghĩ mình đang ở sai điểm đón.
+P Could you drop me off at the main entrance?|Bạn cho tôi xuống ở cửa chính được không?
+D Does the number twelve bus stop at the museum?|Xe buýt số mười hai có dừng ở bảo tàng không?
+D Yes, but you'll need to get off at Oak Street.|Có, nhưng bạn cần xuống ở phố Oak.
+D How far is the museum from there?|Từ đó đến bảo tàng bao xa?
+D About a five-minute walk.|Đi bộ khoảng năm phút.
+D Do I need exact change?|Tôi có cần tiền lẻ đúng số không?
+D You can pay with the transit app.|Bạn có thể trả bằng ứng dụng giao thông.
+Q Which stop should the visitor use?|Oak Street.
+Q How can the visitor pay?|With the transit app.
+FIX I get in the bus at eight.|I get on the bus at eight.
+TASK Diễn chuyến đi bằng hai phương tiện. Ôn chỉ đường, giờ và số tiền ở tuần 6 đến 11.
+TWIST Bạn lỡ điểm xuống. Hỏi cách quay lại mà không cần kể quá dài.
+@@ 13|A day in an American city|Ôn tập giao tiếp trong thành phố
+GOAL Kết hợp làm quen, gọi món, mua sắm, chỉ đường và đi xe trong một nhiệm vụ liên tục.
+GRAMMAR Kết hợp hiện tại đơn, câu hỏi với do và yêu cầu với could. Tự sửa lỗi bằng Let me rephrase that.
+SOUND Luyện trọng âm tương phản: I said TWO tickets, not THREE. Dừng giữa cụm nghĩa, không dừng sau từng từ.
+REGISTER Khi không hiểu, xin nhắc lại hoặc diễn đạt khác. Nói chậm và rõ hiệu quả hơn nói nhanh nhưng mất thông tin.
+P Could you say that a little more slowly?|Bạn nói chậm hơn một chút được không?
+P I didn't catch the last part.|Tôi chưa nghe rõ phần cuối.
+P Let me make sure I understood.|Để tôi chắc rằng mình hiểu đúng.
+P Is there another way to get there?|Có cách khác để đến đó không?
+P That works for me.|Như vậy phù hợp với tôi.
+P Thanks for walking me through it.|Cảm ơn đã hướng dẫn tôi từng bước.
+D I'd like to visit the museum, but I'm not sure how to get there.|Tôi muốn đến bảo tàng nhưng chưa biết đi thế nào.
+D Take the twelve bus and get off at Oak Street.|Đi xe buýt số mười hai và xuống ở phố Oak.
+D Sorry, did you say twelve or twenty?|Xin lỗi, bạn nói mười hai hay hai mươi?
+D Twelve. Then walk one block east.|Mười hai. Sau đó đi bộ một đoạn phố về phía đông.
+D Got it. Is there a coffee shop near the stop?|Hiểu rồi. Có quán cà phê gần điểm dừng không?
+D Yes, right across from it.|Có, ngay đối diện.
+Q Which bus does the visitor need?|The number twelve bus.
+Q Where is the coffee shop?|Across from the stop.
+FIX Could you to speak slowly?|Could you speak slowly?
+TASK Bài kiểm tra chặng 1: diễn 8 phút gồm tự giới thiệu, hẹn giờ, gọi đồ uống, hỏi đường và mua vé; xem bảng đánh giá cuối sách.
+TWIST Người đối thoại cố ý đổi một số, một giờ và một món. Phát hiện rồi xác nhận lại cả ba.

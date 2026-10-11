@@ -1,0 +1,200 @@
+﻿I'd like to cancel my subscription. | Tôi muốn hủy gói đăng ký.
+I was charged twice. | Tôi bị thu tiền hai lần.
+Could you check the order status? | Bạn kiểm tra trạng thái đơn hàng được không?
+I'd like to request a refund. | Tôi muốn yêu cầu hoàn tiền.
+Could you send written confirmation? | Bạn gửi xác nhận bằng văn bản được không?
+When should I expect an update? | Khi nào tôi sẽ nhận cập nhật?
+I'd like to explain why I want to cancel my subscription, provided that we have enough time. | Tôi muốn giải thích vì sao tôi muốn hủy đăng ký, với điều kiện chúng ta có đủ thời gian.
+I need to explain why I want to cancel my subscription before making a final decision. | Tôi cần giải thích vì sao tôi muốn hủy đăng ký trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me explain why I want to cancel my subscription? | Bạn có phiền giúp tôi giải thích vì sao tôi muốn hủy đăng ký không?
+Could you explain the best way to explain why I want to cancel my subscription? | Bạn giải thích cách tốt nhất để giải thích vì sao tôi muốn hủy đăng ký được không?
+What would you recommend if I wanted to explain why I want to cancel my subscription? | Bạn sẽ gợi ý gì nếu tôi muốn giải thích vì sao tôi muốn hủy đăng ký?
+I'm trying to explain why I want to cancel my subscription without overlooking any important details. | Tôi đang cố giải thích vì sao tôi muốn hủy đăng ký mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to explain why I want to cancel my subscription, so I'd appreciate some guidance. | Tôi chưa chắc nên giải thích vì sao tôi muốn hủy đăng ký thế nào, nên rất mong được hướng dẫn.
+Let me explain why I want to cancel my subscription first, and then we can discuss the next step. | Để tôi giải thích vì sao tôi muốn hủy đăng ký trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to explain why I want to cancel my subscription, but something unexpected came up. | Tôi định giải thích vì sao tôi muốn hủy đăng ký, nhưng có việc bất ngờ xảy ra.
+I haven't been able to explain why I want to cancel my subscription yet, despite making several attempts. | Tôi vẫn chưa thể giải thích vì sao tôi muốn hủy đăng ký, dù đã thử vài lần.
+Do you think it would be more effective for me to explain why I want to cancel my subscription in person? | Bạn nghĩ tôi giải thích vì sao tôi muốn hủy đăng ký trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd explain why I want to cancel my subscription before moving forward. | Nếu ở vị trí của bạn, tôi sẽ giải thích vì sao tôi muốn hủy đăng ký trước khi tiếp tục.
+I'll explain why I want to cancel my subscription as soon as I have the information I need. | Tôi sẽ giải thích vì sao tôi muốn hủy đăng ký ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to explain why I want to cancel my subscription. | Nhìn lại, lẽ ra tôi nên dành thời gian để giải thích vì sao tôi muốn hủy đăng ký.
+I'd like to ask whether the plan renews automatically, provided that we have enough time. | Tôi muốn hỏi gói dịch vụ có tự động gia hạn không, với điều kiện chúng ta có đủ thời gian.
+I need to ask whether the plan renews automatically before making a final decision. | Tôi cần hỏi gói dịch vụ có tự động gia hạn không trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me ask whether the plan renews automatically? | Bạn có phiền giúp tôi hỏi gói dịch vụ có tự động gia hạn không không?
+Could you explain the best way to ask whether the plan renews automatically? | Bạn giải thích cách tốt nhất để hỏi gói dịch vụ có tự động gia hạn không được không?
+What would you recommend if I wanted to ask whether the plan renews automatically? | Bạn sẽ gợi ý gì nếu tôi muốn hỏi gói dịch vụ có tự động gia hạn không?
+I'm trying to ask whether the plan renews automatically without overlooking any important details. | Tôi đang cố hỏi gói dịch vụ có tự động gia hạn không mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask whether the plan renews automatically, so I'd appreciate some guidance. | Tôi chưa chắc nên hỏi gói dịch vụ có tự động gia hạn không thế nào, nên rất mong được hướng dẫn.
+Let me ask whether the plan renews automatically first, and then we can discuss the next step. | Để tôi hỏi gói dịch vụ có tự động gia hạn không trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask whether the plan renews automatically, but something unexpected came up. | Tôi định hỏi gói dịch vụ có tự động gia hạn không, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask whether the plan renews automatically yet, despite making several attempts. | Tôi vẫn chưa thể hỏi gói dịch vụ có tự động gia hạn không, dù đã thử vài lần.
+Do you think it would be more effective for me to ask whether the plan renews automatically in person? | Bạn nghĩ tôi hỏi gói dịch vụ có tự động gia hạn không trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask whether the plan renews automatically before moving forward. | Nếu ở vị trí của bạn, tôi sẽ hỏi gói dịch vụ có tự động gia hạn không trước khi tiếp tục.
+I'll ask whether the plan renews automatically as soon as I have the information I need. | Tôi sẽ hỏi gói dịch vụ có tự động gia hạn không ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask whether the plan renews automatically. | Nhìn lại, lẽ ra tôi nên dành thời gian để hỏi gói dịch vụ có tự động gia hạn không.
+Is there any reason why I shouldn't ask whether the plan renews automatically at this stage? | Có lý do nào khiến tôi không nên hỏi gói dịch vụ có tự động gia hạn không ở giai đoạn này không?
+I'd rather ask whether the plan renews automatically now than deal with a misunderstanding later. | Tôi muốn hỏi gói dịch vụ có tự động gia hạn không ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask whether the plan renews automatically properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn hỏi gói dịch vụ có tự động gia hạn không cho đúng.
+Unless there is a better alternative, I plan to ask whether the plan renews automatically. | Trừ khi có phương án tốt hơn, tôi dự định hỏi gói dịch vụ có tự động gia hạn không.
+The main reason I want to ask whether the plan renews automatically is to avoid unnecessary confusion. | Lý do chính tôi muốn hỏi gói dịch vụ có tự động gia hạn không là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask whether the plan renews automatically, I'll be in a better position to respond. | Sau khi có dịp hỏi gói dịch vụ có tự động gia hạn không, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to dispute a charge for a service I canceled, provided that we have enough time. | Tôi muốn khiếu nại khoản phí cho dịch vụ tôi đã hủy, với điều kiện chúng ta có đủ thời gian.
+I need to dispute a charge for a service I canceled before making a final decision. | Tôi cần khiếu nại khoản phí cho dịch vụ tôi đã hủy trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me dispute a charge for a service I canceled? | Bạn có phiền giúp tôi khiếu nại khoản phí cho dịch vụ tôi đã hủy không?
+Could you explain the best way to dispute a charge for a service I canceled? | Bạn giải thích cách tốt nhất để khiếu nại khoản phí cho dịch vụ tôi đã hủy được không?
+What would you recommend if I wanted to dispute a charge for a service I canceled? | Bạn sẽ gợi ý gì nếu tôi muốn khiếu nại khoản phí cho dịch vụ tôi đã hủy?
+I'm trying to dispute a charge for a service I canceled without overlooking any important details. | Tôi đang cố khiếu nại khoản phí cho dịch vụ tôi đã hủy mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to dispute a charge for a service I canceled, so I'd appreciate some guidance. | Tôi chưa chắc nên khiếu nại khoản phí cho dịch vụ tôi đã hủy thế nào, nên rất mong được hướng dẫn.
+Let me dispute a charge for a service I canceled first, and then we can discuss the next step. | Để tôi khiếu nại khoản phí cho dịch vụ tôi đã hủy trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to dispute a charge for a service I canceled, but something unexpected came up. | Tôi định khiếu nại khoản phí cho dịch vụ tôi đã hủy, nhưng có việc bất ngờ xảy ra.
+I haven't been able to dispute a charge for a service I canceled yet, despite making several attempts. | Tôi vẫn chưa thể khiếu nại khoản phí cho dịch vụ tôi đã hủy, dù đã thử vài lần.
+Do you think it would be more effective for me to dispute a charge for a service I canceled in person? | Bạn nghĩ tôi khiếu nại khoản phí cho dịch vụ tôi đã hủy trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd dispute a charge for a service I canceled before moving forward. | Nếu ở vị trí của bạn, tôi sẽ khiếu nại khoản phí cho dịch vụ tôi đã hủy trước khi tiếp tục.
+I'll dispute a charge for a service I canceled as soon as I have the information I need. | Tôi sẽ khiếu nại khoản phí cho dịch vụ tôi đã hủy ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to dispute a charge for a service I canceled. | Nhìn lại, lẽ ra tôi nên dành thời gian để khiếu nại khoản phí cho dịch vụ tôi đã hủy.
+Is there any reason why I shouldn't dispute a charge for a service I canceled at this stage? | Có lý do nào khiến tôi không nên khiếu nại khoản phí cho dịch vụ tôi đã hủy ở giai đoạn này không?
+I'd rather dispute a charge for a service I canceled now than deal with a misunderstanding later. | Tôi muốn khiếu nại khoản phí cho dịch vụ tôi đã hủy ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to dispute a charge for a service I canceled properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn khiếu nại khoản phí cho dịch vụ tôi đã hủy cho đúng.
+Unless there is a better alternative, I plan to dispute a charge for a service I canceled. | Trừ khi có phương án tốt hơn, tôi dự định khiếu nại khoản phí cho dịch vụ tôi đã hủy.
+The main reason I want to dispute a charge for a service I canceled is to avoid unnecessary confusion. | Lý do chính tôi muốn khiếu nại khoản phí cho dịch vụ tôi đã hủy là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to dispute a charge for a service I canceled, I'll be in a better position to respond. | Sau khi có dịp khiếu nại khoản phí cho dịch vụ tôi đã hủy, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to request a refund for a duplicate payment, provided that we have enough time. | Tôi muốn yêu cầu hoàn tiền cho khoản thanh toán bị trùng, với điều kiện chúng ta có đủ thời gian.
+I need to request a refund for a duplicate payment before making a final decision. | Tôi cần yêu cầu hoàn tiền cho khoản thanh toán bị trùng trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me request a refund for a duplicate payment? | Bạn có phiền giúp tôi yêu cầu hoàn tiền cho khoản thanh toán bị trùng không?
+Could you explain the best way to request a refund for a duplicate payment? | Bạn giải thích cách tốt nhất để yêu cầu hoàn tiền cho khoản thanh toán bị trùng được không?
+What would you recommend if I wanted to request a refund for a duplicate payment? | Bạn sẽ gợi ý gì nếu tôi muốn yêu cầu hoàn tiền cho khoản thanh toán bị trùng?
+I'm trying to request a refund for a duplicate payment without overlooking any important details. | Tôi đang cố yêu cầu hoàn tiền cho khoản thanh toán bị trùng mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to request a refund for a duplicate payment, so I'd appreciate some guidance. | Tôi chưa chắc nên yêu cầu hoàn tiền cho khoản thanh toán bị trùng thế nào, nên rất mong được hướng dẫn.
+Let me request a refund for a duplicate payment first, and then we can discuss the next step. | Để tôi yêu cầu hoàn tiền cho khoản thanh toán bị trùng trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to request a refund for a duplicate payment, but something unexpected came up. | Tôi định yêu cầu hoàn tiền cho khoản thanh toán bị trùng, nhưng có việc bất ngờ xảy ra.
+I haven't been able to request a refund for a duplicate payment yet, despite making several attempts. | Tôi vẫn chưa thể yêu cầu hoàn tiền cho khoản thanh toán bị trùng, dù đã thử vài lần.
+Do you think it would be more effective for me to request a refund for a duplicate payment in person? | Bạn nghĩ tôi yêu cầu hoàn tiền cho khoản thanh toán bị trùng trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd request a refund for a duplicate payment before moving forward. | Nếu ở vị trí của bạn, tôi sẽ yêu cầu hoàn tiền cho khoản thanh toán bị trùng trước khi tiếp tục.
+I'll request a refund for a duplicate payment as soon as I have the information I need. | Tôi sẽ yêu cầu hoàn tiền cho khoản thanh toán bị trùng ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to request a refund for a duplicate payment. | Nhìn lại, lẽ ra tôi nên dành thời gian để yêu cầu hoàn tiền cho khoản thanh toán bị trùng.
+Is there any reason why I shouldn't request a refund for a duplicate payment at this stage? | Có lý do nào khiến tôi không nên yêu cầu hoàn tiền cho khoản thanh toán bị trùng ở giai đoạn này không?
+I'd rather request a refund for a duplicate payment now than deal with a misunderstanding later. | Tôi muốn yêu cầu hoàn tiền cho khoản thanh toán bị trùng ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to request a refund for a duplicate payment properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn yêu cầu hoàn tiền cho khoản thanh toán bị trùng cho đúng.
+Unless there is a better alternative, I plan to request a refund for a duplicate payment. | Trừ khi có phương án tốt hơn, tôi dự định yêu cầu hoàn tiền cho khoản thanh toán bị trùng.
+The main reason I want to request a refund for a duplicate payment is to avoid unnecessary confusion. | Lý do chính tôi muốn yêu cầu hoàn tiền cho khoản thanh toán bị trùng là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to request a refund for a duplicate payment, I'll be in a better position to respond. | Sau khi có dịp yêu cầu hoàn tiền cho khoản thanh toán bị trùng, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask the agent to explain the cancellation policy, provided that we have enough time. | Tôi muốn nhờ nhân viên giải thích chính sách hủy, với điều kiện chúng ta có đủ thời gian.
+I need to ask the agent to explain the cancellation policy before making a final decision. | Tôi cần nhờ nhân viên giải thích chính sách hủy trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me ask the agent to explain the cancellation policy? | Bạn có phiền giúp tôi nhờ nhân viên giải thích chính sách hủy không?
+Could you explain the best way to ask the agent to explain the cancellation policy? | Bạn giải thích cách tốt nhất để nhờ nhân viên giải thích chính sách hủy được không?
+What would you recommend if I wanted to ask the agent to explain the cancellation policy? | Bạn sẽ gợi ý gì nếu tôi muốn nhờ nhân viên giải thích chính sách hủy?
+I'm trying to ask the agent to explain the cancellation policy without overlooking any important details. | Tôi đang cố nhờ nhân viên giải thích chính sách hủy mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask the agent to explain the cancellation policy, so I'd appreciate some guidance. | Tôi chưa chắc nên nhờ nhân viên giải thích chính sách hủy thế nào, nên rất mong được hướng dẫn.
+Let me ask the agent to explain the cancellation policy first, and then we can discuss the next step. | Để tôi nhờ nhân viên giải thích chính sách hủy trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask the agent to explain the cancellation policy, but something unexpected came up. | Tôi định nhờ nhân viên giải thích chính sách hủy, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask the agent to explain the cancellation policy yet, despite making several attempts. | Tôi vẫn chưa thể nhờ nhân viên giải thích chính sách hủy, dù đã thử vài lần.
+Do you think it would be more effective for me to ask the agent to explain the cancellation policy in person? | Bạn nghĩ tôi nhờ nhân viên giải thích chính sách hủy trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask the agent to explain the cancellation policy before moving forward. | Nếu ở vị trí của bạn, tôi sẽ nhờ nhân viên giải thích chính sách hủy trước khi tiếp tục.
+I'll ask the agent to explain the cancellation policy as soon as I have the information I need. | Tôi sẽ nhờ nhân viên giải thích chính sách hủy ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask the agent to explain the cancellation policy. | Nhìn lại, lẽ ra tôi nên dành thời gian để nhờ nhân viên giải thích chính sách hủy.
+Is there any reason why I shouldn't ask the agent to explain the cancellation policy at this stage? | Có lý do nào khiến tôi không nên nhờ nhân viên giải thích chính sách hủy ở giai đoạn này không?
+I'd rather ask the agent to explain the cancellation policy now than deal with a misunderstanding later. | Tôi muốn nhờ nhân viên giải thích chính sách hủy ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask the agent to explain the cancellation policy properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn nhờ nhân viên giải thích chính sách hủy cho đúng.
+Unless there is a better alternative, I plan to ask the agent to explain the cancellation policy. | Trừ khi có phương án tốt hơn, tôi dự định nhờ nhân viên giải thích chính sách hủy.
+The main reason I want to ask the agent to explain the cancellation policy is to avoid unnecessary confusion. | Lý do chính tôi muốn nhờ nhân viên giải thích chính sách hủy là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask the agent to explain the cancellation policy, I'll be in a better position to respond. | Sau khi có dịp nhờ nhân viên giải thích chính sách hủy, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to provide the order number for a missing delivery, provided that we have enough time. | Tôi muốn cung cấp mã đơn hàng chưa được giao, với điều kiện chúng ta có đủ thời gian.
+I need to provide the order number for a missing delivery before making a final decision. | Tôi cần cung cấp mã đơn hàng chưa được giao trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me provide the order number for a missing delivery? | Bạn có phiền giúp tôi cung cấp mã đơn hàng chưa được giao không?
+Could you explain the best way to provide the order number for a missing delivery? | Bạn giải thích cách tốt nhất để cung cấp mã đơn hàng chưa được giao được không?
+What would you recommend if I wanted to provide the order number for a missing delivery? | Bạn sẽ gợi ý gì nếu tôi muốn cung cấp mã đơn hàng chưa được giao?
+I'm trying to provide the order number for a missing delivery without overlooking any important details. | Tôi đang cố cung cấp mã đơn hàng chưa được giao mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to provide the order number for a missing delivery, so I'd appreciate some guidance. | Tôi chưa chắc nên cung cấp mã đơn hàng chưa được giao thế nào, nên rất mong được hướng dẫn.
+Let me provide the order number for a missing delivery first, and then we can discuss the next step. | Để tôi cung cấp mã đơn hàng chưa được giao trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to provide the order number for a missing delivery, but something unexpected came up. | Tôi định cung cấp mã đơn hàng chưa được giao, nhưng có việc bất ngờ xảy ra.
+I haven't been able to provide the order number for a missing delivery yet, despite making several attempts. | Tôi vẫn chưa thể cung cấp mã đơn hàng chưa được giao, dù đã thử vài lần.
+Do you think it would be more effective for me to provide the order number for a missing delivery in person? | Bạn nghĩ tôi cung cấp mã đơn hàng chưa được giao trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd provide the order number for a missing delivery before moving forward. | Nếu ở vị trí của bạn, tôi sẽ cung cấp mã đơn hàng chưa được giao trước khi tiếp tục.
+I'll provide the order number for a missing delivery as soon as I have the information I need. | Tôi sẽ cung cấp mã đơn hàng chưa được giao ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to provide the order number for a missing delivery. | Nhìn lại, lẽ ra tôi nên dành thời gian để cung cấp mã đơn hàng chưa được giao.
+Is there any reason why I shouldn't provide the order number for a missing delivery at this stage? | Có lý do nào khiến tôi không nên cung cấp mã đơn hàng chưa được giao ở giai đoạn này không?
+I'd rather provide the order number for a missing delivery now than deal with a misunderstanding later. | Tôi muốn cung cấp mã đơn hàng chưa được giao ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to provide the order number for a missing delivery properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn cung cấp mã đơn hàng chưa được giao cho đúng.
+Unless there is a better alternative, I plan to provide the order number for a missing delivery. | Trừ khi có phương án tốt hơn, tôi dự định cung cấp mã đơn hàng chưa được giao.
+The main reason I want to provide the order number for a missing delivery is to avoid unnecessary confusion. | Lý do chính tôi muốn cung cấp mã đơn hàng chưa được giao là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to provide the order number for a missing delivery, I'll be in a better position to respond. | Sau khi có dịp cung cấp mã đơn hàng chưa được giao, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to ask for a realistic timeline for resolving the issue, provided that we have enough time. | Tôi muốn xin thời hạn thực tế để giải quyết vấn đề, với điều kiện chúng ta có đủ thời gian.
+I need to ask for a realistic timeline for resolving the issue before making a final decision. | Tôi cần xin thời hạn thực tế để giải quyết vấn đề trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me ask for a realistic timeline for resolving the issue? | Bạn có phiền giúp tôi xin thời hạn thực tế để giải quyết vấn đề không?
+Could you explain the best way to ask for a realistic timeline for resolving the issue? | Bạn giải thích cách tốt nhất để xin thời hạn thực tế để giải quyết vấn đề được không?
+What would you recommend if I wanted to ask for a realistic timeline for resolving the issue? | Bạn sẽ gợi ý gì nếu tôi muốn xin thời hạn thực tế để giải quyết vấn đề?
+I'm trying to ask for a realistic timeline for resolving the issue without overlooking any important details. | Tôi đang cố xin thời hạn thực tế để giải quyết vấn đề mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to ask for a realistic timeline for resolving the issue, so I'd appreciate some guidance. | Tôi chưa chắc nên xin thời hạn thực tế để giải quyết vấn đề thế nào, nên rất mong được hướng dẫn.
+Let me ask for a realistic timeline for resolving the issue first, and then we can discuss the next step. | Để tôi xin thời hạn thực tế để giải quyết vấn đề trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to ask for a realistic timeline for resolving the issue, but something unexpected came up. | Tôi định xin thời hạn thực tế để giải quyết vấn đề, nhưng có việc bất ngờ xảy ra.
+I haven't been able to ask for a realistic timeline for resolving the issue yet, despite making several attempts. | Tôi vẫn chưa thể xin thời hạn thực tế để giải quyết vấn đề, dù đã thử vài lần.
+Do you think it would be more effective for me to ask for a realistic timeline for resolving the issue in person? | Bạn nghĩ tôi xin thời hạn thực tế để giải quyết vấn đề trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd ask for a realistic timeline for resolving the issue before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xin thời hạn thực tế để giải quyết vấn đề trước khi tiếp tục.
+I'll ask for a realistic timeline for resolving the issue as soon as I have the information I need. | Tôi sẽ xin thời hạn thực tế để giải quyết vấn đề ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to ask for a realistic timeline for resolving the issue. | Nhìn lại, lẽ ra tôi nên dành thời gian để xin thời hạn thực tế để giải quyết vấn đề.
+Is there any reason why I shouldn't ask for a realistic timeline for resolving the issue at this stage? | Có lý do nào khiến tôi không nên xin thời hạn thực tế để giải quyết vấn đề ở giai đoạn này không?
+I'd rather ask for a realistic timeline for resolving the issue now than deal with a misunderstanding later. | Tôi muốn xin thời hạn thực tế để giải quyết vấn đề ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to ask for a realistic timeline for resolving the issue properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xin thời hạn thực tế để giải quyết vấn đề cho đúng.
+Unless there is a better alternative, I plan to ask for a realistic timeline for resolving the issue. | Trừ khi có phương án tốt hơn, tôi dự định xin thời hạn thực tế để giải quyết vấn đề.
+The main reason I want to ask for a realistic timeline for resolving the issue is to avoid unnecessary confusion. | Lý do chính tôi muốn xin thời hạn thực tế để giải quyết vấn đề là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to ask for a realistic timeline for resolving the issue, I'll be in a better position to respond. | Sau khi có dịp xin thời hạn thực tế để giải quyết vấn đề, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to request that the case be escalated to a supervisor, provided that we have enough time. | Tôi muốn yêu cầu chuyển vụ việc lên người phụ trách, với điều kiện chúng ta có đủ thời gian.
+I need to request that the case be escalated to a supervisor before making a final decision. | Tôi cần yêu cầu chuyển vụ việc lên người phụ trách trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me request that the case be escalated to a supervisor? | Bạn có phiền giúp tôi yêu cầu chuyển vụ việc lên người phụ trách không?
+Could you explain the best way to request that the case be escalated to a supervisor? | Bạn giải thích cách tốt nhất để yêu cầu chuyển vụ việc lên người phụ trách được không?
+What would you recommend if I wanted to request that the case be escalated to a supervisor? | Bạn sẽ gợi ý gì nếu tôi muốn yêu cầu chuyển vụ việc lên người phụ trách?
+I'm trying to request that the case be escalated to a supervisor without overlooking any important details. | Tôi đang cố yêu cầu chuyển vụ việc lên người phụ trách mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to request that the case be escalated to a supervisor, so I'd appreciate some guidance. | Tôi chưa chắc nên yêu cầu chuyển vụ việc lên người phụ trách thế nào, nên rất mong được hướng dẫn.
+Let me request that the case be escalated to a supervisor first, and then we can discuss the next step. | Để tôi yêu cầu chuyển vụ việc lên người phụ trách trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to request that the case be escalated to a supervisor, but something unexpected came up. | Tôi định yêu cầu chuyển vụ việc lên người phụ trách, nhưng có việc bất ngờ xảy ra.
+I haven't been able to request that the case be escalated to a supervisor yet, despite making several attempts. | Tôi vẫn chưa thể yêu cầu chuyển vụ việc lên người phụ trách, dù đã thử vài lần.
+Do you think it would be more effective for me to request that the case be escalated to a supervisor in person? | Bạn nghĩ tôi yêu cầu chuyển vụ việc lên người phụ trách trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd request that the case be escalated to a supervisor before moving forward. | Nếu ở vị trí của bạn, tôi sẽ yêu cầu chuyển vụ việc lên người phụ trách trước khi tiếp tục.
+I'll request that the case be escalated to a supervisor as soon as I have the information I need. | Tôi sẽ yêu cầu chuyển vụ việc lên người phụ trách ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to request that the case be escalated to a supervisor. | Nhìn lại, lẽ ra tôi nên dành thời gian để yêu cầu chuyển vụ việc lên người phụ trách.
+Is there any reason why I shouldn't request that the case be escalated to a supervisor at this stage? | Có lý do nào khiến tôi không nên yêu cầu chuyển vụ việc lên người phụ trách ở giai đoạn này không?
+I'd rather request that the case be escalated to a supervisor now than deal with a misunderstanding later. | Tôi muốn yêu cầu chuyển vụ việc lên người phụ trách ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to request that the case be escalated to a supervisor properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn yêu cầu chuyển vụ việc lên người phụ trách cho đúng.
+Unless there is a better alternative, I plan to request that the case be escalated to a supervisor. | Trừ khi có phương án tốt hơn, tôi dự định yêu cầu chuyển vụ việc lên người phụ trách.
+The main reason I want to request that the case be escalated to a supervisor is to avoid unnecessary confusion. | Lý do chính tôi muốn yêu cầu chuyển vụ việc lên người phụ trách là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to request that the case be escalated to a supervisor, I'll be in a better position to respond. | Sau khi có dịp yêu cầu chuyển vụ việc lên người phụ trách, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to confirm the agreement in writing, provided that we have enough time. | Tôi muốn xác nhận thỏa thuận bằng văn bản, với điều kiện chúng ta có đủ thời gian.
+I need to confirm the agreement in writing before making a final decision. | Tôi cần xác nhận thỏa thuận bằng văn bản trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me confirm the agreement in writing? | Bạn có phiền giúp tôi xác nhận thỏa thuận bằng văn bản không?
+Could you explain the best way to confirm the agreement in writing? | Bạn giải thích cách tốt nhất để xác nhận thỏa thuận bằng văn bản được không?
+What would you recommend if I wanted to confirm the agreement in writing? | Bạn sẽ gợi ý gì nếu tôi muốn xác nhận thỏa thuận bằng văn bản?
+I'm trying to confirm the agreement in writing without overlooking any important details. | Tôi đang cố xác nhận thỏa thuận bằng văn bản mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to confirm the agreement in writing, so I'd appreciate some guidance. | Tôi chưa chắc nên xác nhận thỏa thuận bằng văn bản thế nào, nên rất mong được hướng dẫn.
+Let me confirm the agreement in writing first, and then we can discuss the next step. | Để tôi xác nhận thỏa thuận bằng văn bản trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to confirm the agreement in writing, but something unexpected came up. | Tôi định xác nhận thỏa thuận bằng văn bản, nhưng có việc bất ngờ xảy ra.
+I haven't been able to confirm the agreement in writing yet, despite making several attempts. | Tôi vẫn chưa thể xác nhận thỏa thuận bằng văn bản, dù đã thử vài lần.
+Do you think it would be more effective for me to confirm the agreement in writing in person? | Bạn nghĩ tôi xác nhận thỏa thuận bằng văn bản trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd confirm the agreement in writing before moving forward. | Nếu ở vị trí của bạn, tôi sẽ xác nhận thỏa thuận bằng văn bản trước khi tiếp tục.
+I'll confirm the agreement in writing as soon as I have the information I need. | Tôi sẽ xác nhận thỏa thuận bằng văn bản ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to confirm the agreement in writing. | Nhìn lại, lẽ ra tôi nên dành thời gian để xác nhận thỏa thuận bằng văn bản.
+Is there any reason why I shouldn't confirm the agreement in writing at this stage? | Có lý do nào khiến tôi không nên xác nhận thỏa thuận bằng văn bản ở giai đoạn này không?
+I'd rather confirm the agreement in writing now than deal with a misunderstanding later. | Tôi muốn xác nhận thỏa thuận bằng văn bản ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to confirm the agreement in writing properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn xác nhận thỏa thuận bằng văn bản cho đúng.
+Unless there is a better alternative, I plan to confirm the agreement in writing. | Trừ khi có phương án tốt hơn, tôi dự định xác nhận thỏa thuận bằng văn bản.
+The main reason I want to confirm the agreement in writing is to avoid unnecessary confusion. | Lý do chính tôi muốn xác nhận thỏa thuận bằng văn bản là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to confirm the agreement in writing, I'll be in a better position to respond. | Sau khi có dịp xác nhận thỏa thuận bằng văn bản, tôi sẽ có đủ cơ sở hơn để phản hồi.
+I'd like to keep the complaint focused on the specific problem, provided that we have enough time. | Tôi muốn tập trung khiếu nại vào vấn đề cụ thể, với điều kiện chúng ta có đủ thời gian.
+I need to keep the complaint focused on the specific problem before making a final decision. | Tôi cần tập trung khiếu nại vào vấn đề cụ thể trước khi đưa ra quyết định cuối cùng.
+Would you mind helping me keep the complaint focused on the specific problem? | Bạn có phiền giúp tôi tập trung khiếu nại vào vấn đề cụ thể không?
+Could you explain the best way to keep the complaint focused on the specific problem? | Bạn giải thích cách tốt nhất để tập trung khiếu nại vào vấn đề cụ thể được không?
+What would you recommend if I wanted to keep the complaint focused on the specific problem? | Bạn sẽ gợi ý gì nếu tôi muốn tập trung khiếu nại vào vấn đề cụ thể?
+I'm trying to keep the complaint focused on the specific problem without overlooking any important details. | Tôi đang cố tập trung khiếu nại vào vấn đề cụ thể mà không bỏ sót chi tiết quan trọng nào.
+I'm not sure how to keep the complaint focused on the specific problem, so I'd appreciate some guidance. | Tôi chưa chắc nên tập trung khiếu nại vào vấn đề cụ thể thế nào, nên rất mong được hướng dẫn.
+Let me keep the complaint focused on the specific problem first, and then we can discuss the next step. | Để tôi tập trung khiếu nại vào vấn đề cụ thể trước, rồi chúng ta có thể trao đổi bước tiếp theo.
+I intended to keep the complaint focused on the specific problem, but something unexpected came up. | Tôi định tập trung khiếu nại vào vấn đề cụ thể, nhưng có việc bất ngờ xảy ra.
+I haven't been able to keep the complaint focused on the specific problem yet, despite making several attempts. | Tôi vẫn chưa thể tập trung khiếu nại vào vấn đề cụ thể, dù đã thử vài lần.
+Do you think it would be more effective for me to keep the complaint focused on the specific problem in person? | Bạn nghĩ tôi tập trung khiếu nại vào vấn đề cụ thể trực tiếp thì có hiệu quả hơn không?
+If I were in your position, I'd keep the complaint focused on the specific problem before moving forward. | Nếu ở vị trí của bạn, tôi sẽ tập trung khiếu nại vào vấn đề cụ thể trước khi tiếp tục.
+I'll keep the complaint focused on the specific problem as soon as I have the information I need. | Tôi sẽ tập trung khiếu nại vào vấn đề cụ thể ngay khi có thông tin cần thiết.
+Looking back, I should have taken the time to keep the complaint focused on the specific problem. | Nhìn lại, lẽ ra tôi nên dành thời gian để tập trung khiếu nại vào vấn đề cụ thể.
+Is there any reason why I shouldn't keep the complaint focused on the specific problem at this stage? | Có lý do nào khiến tôi không nên tập trung khiếu nại vào vấn đề cụ thể ở giai đoạn này không?
+I'd rather keep the complaint focused on the specific problem now than deal with a misunderstanding later. | Tôi muốn tập trung khiếu nại vào vấn đề cụ thể ngay hơn là phải xử lý hiểu nhầm sau này.
+Although it may take longer, I'd still prefer to keep the complaint focused on the specific problem properly. | Dù có thể mất thêm thời gian, tôi vẫn muốn tập trung khiếu nại vào vấn đề cụ thể cho đúng.
+Unless there is a better alternative, I plan to keep the complaint focused on the specific problem. | Trừ khi có phương án tốt hơn, tôi dự định tập trung khiếu nại vào vấn đề cụ thể.
+The main reason I want to keep the complaint focused on the specific problem is to avoid unnecessary confusion. | Lý do chính tôi muốn tập trung khiếu nại vào vấn đề cụ thể là để tránh những nhầm lẫn không cần thiết.
+Once I've had a chance to keep the complaint focused on the specific problem, I'll be in a better position to respond. | Sau khi có dịp tập trung khiếu nại vào vấn đề cụ thể, tôi sẽ có đủ cơ sở hơn để phản hồi.

@@ -1,0 +1,28 @@
+﻿GIÁO TRÌNH 52 TUẦN × 200 CÂU — HƯỚNG TỚI B2
+10.400 câu Anh–Việt. Mỗi tuần: 10 nhóm, mỗi nhóm 20 câu.
+Giữ sáu câu gốc ở đầu nhóm 1. Các câu mới là bài tập chuyển mẫu giao tiếp sang 10 hành động thực tế; có sự lặp lại cấu trúc giữa các nhóm và tuần. Đây không phải 10.400 mẫu ngữ pháp độc lập.
+Tuần 1–13: nền tảng A1–A2; 14–26: A2–B1; 27–39: B1; 40–52: B1–B2.
+Các nhãn trên là mục tiêu thiết kế, không phải chứng nhận độ khó hay bảo đảm đầu ra.
+Học 40 câu/ngày trong 5 ngày; ngày 6 thực hành, ngày 7 ôn và kiểm tra. Chọn 10–20 câu chủ lực, còn lại dùng để luyện thay đổi tình huống. Dành 60–90 phút/ngày và nhiều buổi trò chuyện có phản hồi.
+Nghe nhại: nghe câu ở 0.9×, rồi 1.0×; lặp lại trọng âm, không đọc từng từ rời.
+Nghe thật: mỗi tuần nghe ít nhất hai đoạn hội thoại/phỏng vấn mới; nghe ý chính rồi chi tiết, cuối cùng kiểm tra bản chép. Âm thanh TTS không thay thế hoàn toàn người nói thật.
+Đọc thật: mỗi tuần đọc hai bài mới (email, hướng dẫn, tin tức, bài ý kiến); tóm tắt và phân biệt sự kiện với quan điểm. Tuần cuối tăng lên 400–700 từ/bài.
+Nói: đóng vai, hỏi thêm và đổi điều kiện. Viết: tin nhắn/email rồi đoạn lập luận; nhờ người có năng lực sửa.
+Các ví dụ về sức khỏe, tiền bạc và hợp đồng chỉ luyện ngôn ngữ, không đưa phác đồ điều trị, lời khuyên đầu tư hay kết luận pháp lý.
+
+KIỂM TRA TUẦN 13 / 26 / 39 / 52
+Không dùng câu đã luyện làm toàn bộ đề thi. Nhờ giáo viên chọn tài liệu mới tương đương chặng.
+Tuần 13: nghe hội thoại chậm về đời sống, đọc 150 từ, đóng vai 3 phút, viết 60–80 từ.
+Tuần 26: nghe hội thoại 2–3 phút, đọc 250 từ, xử lý vấn đề khi đi lại/công việc, viết 100–140 từ.
+Tuần 39: nghe hội thoại 4 phút, đọc 350–450 từ, trao đổi có giải pháp và hỏi tiếp, viết 140–180 từ.
+Tuần 52: nghe 5–7 phút ở tốc độ tự nhiên, đọc 500–700 từ về chủ đề cụ thể hoặc trừu tượng, trình bày 4–5 phút và trao đổi 12–15 phút, viết 180–220 từ nêu hai phía và kết luận.
+Yêu cầu nói cuối khóa: nêu quan điểm, có lý do và ví dụ; trả lời phản biện; làm rõ điều chưa hiểu; nối ý mạch lạc; lỗi không làm người nghe khó hiểu kéo dài.
+Nhờ giáo viên đánh giá phạm vi ngôn ngữ, độ chính xác, độ trôi chảy, tương tác và mạch lạc theo CEFR. Theo dõi riêng nghe/đọc/viết, không dùng điểm điền từ để kết luận B2.
+Đây là kế hoạch hướng tới B2. Đạt B2 cần năng lực thực tế và đánh giá độc lập; app không thể hứa rằng chỉ học hết 200 câu mỗi tuần là đạt.
+Nguồn tiêu chí: https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
+https://www.coe.int/en/web/common-european-framework-reference-languages/table-3-cefr-3.3-common-reference-levels-qualitative-aspects-of-spoken-language-use
+
+CÁCH DÙNG
+App đã chứa nội dung: tải lại trang, vào bài học, chọn nhóm 20 câu.
+CSV/TXT dùng để học ngoài app hoặc nhập vào Kho từ vựng/Bài học mới; không cần nhập lại nếu app đã cập nhật.
+Các sửa đổi, tiến độ và bài cá nhân cũ được giữ. Dấu hoàn thành cũ không đồng nghĩa bạn đã luyện hết 200 câu mới.

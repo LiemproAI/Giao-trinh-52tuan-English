@@ -1,0 +1,4734 @@
+[
+  {
+    "n": 1,
+    "en": "Meeting people",
+    "vi": "Chào hỏi và làm quen",
+    "P": [
+      [
+        "I'm originally from Vietnam.",
+        "Tôi vốn đến từ Việt Nam."
+      ],
+      [
+        "I work as a designer.",
+        "Tôi làm thiết kế."
+      ],
+      [
+        "What do you do for work?",
+        "Bạn làm công việc gì?"
+      ],
+      [
+        "I'm still getting used to the city.",
+        "Tôi vẫn đang làm quen với thành phố."
+      ],
+      [
+        "How do you know Alex?",
+        "Bạn quen Alex như thế nào?"
+      ],
+      [
+        "It was nice talking with you.",
+        "Rất vui được trò chuyện với bạn."
+      ]
+    ],
+    "D": [
+      [
+        "Hey, I'm Maya. I don't think we've met.",
+        "Chào, tôi là Maya. Hình như mình chưa gặp nhau."
+      ],
+      [
+        "I'm Linh. Nice to meet you.",
+        "Tôi là Linh. Rất vui được gặp bạn."
+      ],
+      [
+        "Nice to meet you too. How do you know Alex?",
+        "Tôi cũng vậy. Bạn quen Alex như thế nào?"
+      ],
+      [
+        "We work together. I joined the team last month.",
+        "Chúng tôi làm cùng nhau. Tôi vào nhóm tháng trước."
+      ],
+      [
+        "Oh, cool. How are you liking it so far?",
+        "Hay đấy. Đến giờ bạn thấy thế nào?"
+      ],
+      [
+        "I like it. Everyone's been really helpful.",
+        "Tôi thích lắm. Mọi người đều rất nhiệt tình giúp đỡ."
+      ]
+    ],
+    "Q": [
+      [
+        "How does Linh know Alex?",
+        "They work together."
+      ],
+      [
+        "When did Linh join the team?",
+        "Last month."
+      ]
+    ],
+    "GOAL": "Giới thiệu tên, quê quán, công việc và duy trì cuộc nói chuyện hai phút.",
+    "GRAMMAR": "Dùng I'm cho tên và trạng thái; dùng I work as a để nói nghề. Hỏi What do you do thay vì What are you doing khi muốn hỏi nghề.",
+    "SOUND": "Nhấn NAME, FROM, WORK. Đọc I'm thành một cụm; không thêm âm ơ sau phụ âm cuối trong name và work.",
+    "REGISTER": "Nice to meet you dùng lần gặp đầu; Good to see you dùng khi đã quen. How's it going thân mật hơn How are you.",
+    "FIX": [
+      "I am work as a designer.",
+      "I work as a designer."
+    ],
+    "TASK": "Bạn đến buổi gặp mặt mới. Giới thiệu bản thân, hỏi nghề, tìm một điểm chung rồi kết thúc lịch sự.",
+    "TWIST": "Người kia trả lời rất ngắn. Dùng hai câu hỏi nối tiếp nhưng tránh hỏi thu nhập hoặc tuổi.",
+    "ex": [
+      [
+        "I'm originally from ______.",
+        "Vietnam"
+      ],
+      [
+        "I work as a ______.",
+        "designer"
+      ],
+      [
+        "What do you do for ______?",
+        "work"
+      ]
+    ]
+  },
+  {
+    "n": 2,
+    "en": "Family and personal background",
+    "vi": "Gia đình và thông tin cá nhân",
+    "P": [
+      [
+        "I grew up in a small town.",
+        "Tôi lớn lên ở một thị trấn nhỏ."
+      ],
+      [
+        "I have an older sister.",
+        "Tôi có một chị gái."
+      ],
+      [
+        "My parents still live there.",
+        "Bố mẹ tôi vẫn sống ở đó."
+      ],
+      [
+        "We're pretty close.",
+        "Gia đình chúng tôi khá gắn bó."
+      ],
+      [
+        "Do you have any siblings?",
+        "Bạn có anh chị em không?"
+      ],
+      [
+        "Only if you're comfortable sharing.",
+        "Chỉ khi bạn thấy thoải mái chia sẻ thôi."
+      ]
+    ],
+    "D": [
+      [
+        "Did you grow up around here?",
+        "Bạn lớn lên gần đây à?"
+      ],
+      [
+        "No, I grew up in Da Nang.",
+        "Không, tôi lớn lên ở Đà Nẵng."
+      ],
+      [
+        "Is your family still there?",
+        "Gia đình bạn vẫn ở đó chứ?"
+      ],
+      [
+        "My parents are. My sister lives in Seattle.",
+        "Bố mẹ tôi vẫn ở đó. Chị tôi sống ở Seattle."
+      ],
+      [
+        "Do you get to see them often?",
+        "Bạn có thường gặp họ không?"
+      ],
+      [
+        "Not as often as I'd like, but we call every week.",
+        "Không thường xuyên như tôi muốn, nhưng chúng tôi gọi mỗi tuần."
+      ]
+    ],
+    "Q": [
+      [
+        "Where did the speaker grow up?",
+        "In Da Nang."
+      ],
+      [
+        "How often does the family call?",
+        "Every week."
+      ]
+    ],
+    "GOAL": "Kể về gia đình và hỏi thông tin cá nhân mà không khiến người khác khó xử.",
+    "GRAMMAR": "Have đi với số lượng; one sister nhưng two sisters. Live with chỉ người ở cùng, live in chỉ nơi sống.",
+    "SOUND": "Giữ phụ âm cuối trong lives và parents. Đọc sister có trọng âm âm tiết đầu; không nhấn đều mọi âm tiết.",
+    "REGISTER": "Không mặc định người đối diện đã kết hôn hoặc có con. Nếu họ không muốn chia sẻ, chuyển sang sở thích.",
+    "FIX": [
+      "I have two sister.",
+      "I have two sisters."
+    ],
+    "TASK": "Giới thiệu gia đình trong 90 giây, nêu hai người và một việc gia đình thường làm.",
+    "TWIST": "Người nghe nói họ không muốn bàn chuyện gia đình. Chấp nhận và đổi sang chủ đề quê quán.",
+    "ex": [
+      [
+        "I grew up in a small ______.",
+        "town"
+      ],
+      [
+        "I have an older ______.",
+        "sister"
+      ],
+      [
+        "My parents still live ______.",
+        "there"
+      ]
+    ]
+  },
+  {
+    "n": 3,
+    "en": "Daily routines",
+    "vi": "Sinh hoạt hằng ngày",
+    "P": [
+      [
+        "I usually get up around seven.",
+        "Tôi thường dậy khoảng bảy giờ."
+      ],
+      [
+        "I work from home twice a week.",
+        "Tôi làm ở nhà hai lần một tuần."
+      ],
+      [
+        "I grab breakfast on the way.",
+        "Tôi ăn sáng nhanh trên đường đi."
+      ],
+      [
+        "My commute takes about thirty minutes.",
+        "Tôi đi làm mất khoảng ba mươi phút."
+      ],
+      [
+        "I try to wind down before bed.",
+        "Tôi cố thư giãn trước khi ngủ."
+      ],
+      [
+        "My weekends are a little more flexible.",
+        "Cuối tuần của tôi linh hoạt hơn một chút."
+      ]
+    ],
+    "D": [
+      [
+        "What does a typical weekday look like for you?",
+        "Một ngày thường của bạn như thế nào?"
+      ],
+      [
+        "I get up at seven and take the bus to work.",
+        "Tôi dậy lúc bảy giờ và đi xe buýt đến chỗ làm."
+      ],
+      [
+        "Do you eat breakfast at home?",
+        "Bạn ăn sáng ở nhà không?"
+      ],
+      [
+        "Usually. But I grab something on the way if I'm running late.",
+        "Thường là vậy. Nhưng nếu muộn, tôi mua gì đó trên đường."
+      ],
+      [
+        "What do you do after work?",
+        "Sau giờ làm bạn làm gì?"
+      ],
+      [
+        "I cook dinner, take a walk, and call it a night.",
+        "Tôi nấu bữa tối, đi dạo rồi nghỉ ngơi để kết thúc ngày."
+      ]
+    ],
+    "Q": [
+      [
+        "How does the speaker get to work?",
+        "By bus."
+      ],
+      [
+        "What happens when the speaker is running late?",
+        "They grab breakfast on the way."
+      ]
+    ],
+    "GOAL": "Mô tả ngày thường và so sánh với cuối tuần.",
+    "GRAMMAR": "Hiện tại đơn nói thói quen. Dùng usually, sometimes trước động từ thường; sau be. He gets nhưng I get.",
+    "SOUND": "Phân biệt âm cuối gets và get. Trong get up, nối t với nguyên âm sau; ưu tiên nghe rõ hơn là bắt chước tốc độ.",
+    "REGISTER": "I usually dùng khi thói quen không tuyệt đối. Không dùng always nếu bạn chỉ muốn nói thường xuyên.",
+    "FIX": [
+      "He usually go to work by bus.",
+      "He usually goes to work by bus."
+    ],
+    "TASK": "Kể ngày làm việc theo thứ tự, dùng ít nhất ba trạng từ tần suất.",
+    "TWIST": "Đổi lịch sang ca tối và giải thích ba điều phải thay đổi.",
+    "ex": [
+      [
+        "I usually get up around ______.",
+        "seven"
+      ],
+      [
+        "I work from home twice a ______.",
+        "week"
+      ],
+      [
+        "I grab ______ on the way.",
+        "breakfast"
+      ]
+    ]
+  },
+  {
+    "n": 4,
+    "en": "Small talk and weather",
+    "vi": "Trò chuyện xã giao và thời tiết",
+    "P": [
+      [
+        "It's been really warm lately.",
+        "Dạo này trời khá nóng."
+      ],
+      [
+        "I wasn't expecting this much rain.",
+        "Tôi không ngờ lại mưa nhiều thế này."
+      ],
+      [
+        "Did you do anything fun over the weekend?",
+        "Cuối tuần bạn có làm gì vui không?"
+      ],
+      [
+        "I mostly stayed in.",
+        "Tôi chủ yếu ở nhà."
+      ],
+      [
+        "That sounds like a nice break.",
+        "Nghe có vẻ là dịp nghỉ ngơi dễ chịu."
+      ],
+      [
+        "Anyway, I'd better get going.",
+        "Thôi, tôi nên đi đây."
+      ]
+    ],
+    "D": [
+      [
+        "Pretty nice out today, huh?",
+        "Hôm nay ngoài trời đẹp nhỉ?"
+      ],
+      [
+        "Yeah, much better than yesterday.",
+        "Đúng vậy, đẹp hơn hôm qua nhiều."
+      ],
+      [
+        "Any plans for the weekend?",
+        "Cuối tuần bạn có kế hoạch gì không?"
+      ],
+      [
+        "I'm thinking of checking out the farmers market.",
+        "Tôi đang tính ghé chợ nông sản."
+      ],
+      [
+        "I've heard good things about it.",
+        "Tôi nghe nhiều lời khen về chỗ đó."
+      ],
+      [
+        "Maybe I'll see you there.",
+        "Biết đâu tôi sẽ gặp bạn ở đó."
+      ]
+    ],
+    "Q": [
+      [
+        "What is the speaker thinking of visiting?",
+        "The farmers market."
+      ],
+      [
+        "Is today's weather better or worse than yesterday's?",
+        "Better."
+      ]
+    ],
+    "GOAL": "Mở lời, phản hồi và nối tiếp chuyện ngắn về thời tiết hoặc cuối tuần.",
+    "GRAMMAR": "Hiện tại tiếp diễn nói thời tiết đang diễn ra; quá khứ đơn kể cuối tuần vừa qua. Hỏi Did you do anything fun.",
+    "SOUND": "Nghe Did you có thể được nối thành một cụm nhanh. Nhấn HOT và TODAY; không bỏ âm cuối cold.",
+    "REGISTER": "Small talk thường ngắn và có qua có lại. How are you không luôn là lời mời kể chi tiết vấn đề riêng tư.",
+    "FIX": [
+      "Did you went out last weekend?",
+      "Did you go out last weekend?"
+    ],
+    "TASK": "Ghi ba đoạn small talk dài 45 giây: thang máy, hàng chờ và trước cuộc họp. Ôn tuần 1 đến 3.",
+    "TWIST": "Đối tác không biết trả lời. Đưa một thông tin về bạn thay vì hỏi dồn.",
+    "ex": [
+      [
+        "It's been really warm ______.",
+        "lately"
+      ],
+      [
+        "I wasn't expecting this much ______.",
+        "rain"
+      ],
+      [
+        "Did you do anything fun over the ______?",
+        "weekend"
+      ]
+    ]
+  },
+  {
+    "n": 5,
+    "en": "Home and neighborhood",
+    "vi": "Nhà ở và khu phố",
+    "P": [
+      [
+        "I live in a two-bedroom apartment.",
+        "Tôi sống trong căn hộ hai phòng ngủ."
+      ],
+      [
+        "There's a park across the street.",
+        "Có công viên phía bên kia đường."
+      ],
+      [
+        "The grocery store is within walking distance.",
+        "Cửa hàng thực phẩm nằm trong khoảng đi bộ được."
+      ],
+      [
+        "It's a pretty quiet neighborhood.",
+        "Đó là khu phố khá yên tĩnh."
+      ],
+      [
+        "The rent is a little high.",
+        "Tiền thuê hơi cao."
+      ],
+      [
+        "What do you like about living there?",
+        "Bạn thích điều gì khi sống ở đó?"
+      ]
+    ],
+    "D": [
+      [
+        "How do you like your new place?",
+        "Bạn thấy chỗ ở mới thế nào?"
+      ],
+      [
+        "I like it. It's small, but it gets a lot of light.",
+        "Tôi thích. Nó nhỏ nhưng có nhiều ánh sáng."
+      ],
+      [
+        "Is it close to work?",
+        "Nó gần chỗ làm không?"
+      ],
+      [
+        "About a fifteen-minute walk.",
+        "Đi bộ khoảng mười lăm phút."
+      ],
+      [
+        "That's convenient. Is there a park nearby?",
+        "Tiện nhỉ. Có công viên gần đó không?"
+      ],
+      [
+        "Yeah, there's one right across the street.",
+        "Có, ngay bên kia đường."
+      ]
+    ],
+    "Q": [
+      [
+        "How long is the walk to work?",
+        "About fifteen minutes."
+      ],
+      [
+        "Where is the park?",
+        "Across the street."
+      ]
+    ],
+    "GOAL": "Mô tả nơi ở, tiện ích và điều bạn thích ở khu vực mình sống.",
+    "GRAMMAR": "There is dùng với một vật; there are dùng với nhiều vật. Near chỉ gần; next to chỉ ngay bên cạnh.",
+    "SOUND": "Phân biệt live với leave bằng độ dài và chất lượng nguyên âm. Nhấn NEAR khi sửa thông tin vị trí.",
+    "REGISTER": "Apartment, elevator và sidewalk là các từ thông dụng trong tiếng Anh Mỹ.",
+    "FIX": [
+      "There is two parks near my house.",
+      "There are two parks near my house."
+    ],
+    "TASK": "Mô tả nhà và khu phố bằng tám câu; vẽ sơ đồ đơn giản rồi hướng dẫn người nghe tưởng tượng.",
+    "TWIST": "Bạn muốn chuyển nhà. So sánh khu hiện tại và khu mới bằng ba tiêu chí.",
+    "ex": [
+      [
+        "I live in a two-bedroom ______.",
+        "apartment"
+      ],
+      [
+        "There's a park across the ______.",
+        "street"
+      ],
+      [
+        "The grocery store is within walking ______.",
+        "distance"
+      ]
+    ]
+  },
+  {
+    "n": 6,
+    "en": "Time and schedules",
+    "vi": "Thời gian và sắp lịch",
+    "P": [
+      [
+        "What time works best for you?",
+        "Giờ nào tiện nhất cho bạn?"
+      ],
+      [
+        "I'm free after three.",
+        "Tôi rảnh sau ba giờ."
+      ],
+      [
+        "Could we move it to Thursday?",
+        "Chúng ta chuyển sang thứ Năm được không?"
+      ],
+      [
+        "I have a conflict at that time.",
+        "Tôi có lịch trùng vào giờ đó."
+      ],
+      [
+        "Let's aim for three thirty.",
+        "Mình dự tính ba giờ rưỡi nhé."
+      ],
+      [
+        "Just to confirm, that's three thirty p.m., right?",
+        "Để xác nhận, là ba giờ rưỡi chiều đúng không?"
+      ]
+    ],
+    "D": [
+      [
+        "Are you available on Wednesday afternoon?",
+        "Bạn rảnh chiều thứ Tư không?"
+      ],
+      [
+        "I have a meeting at two, but I'm free after three.",
+        "Tôi có cuộc họp lúc hai giờ, nhưng rảnh sau ba giờ."
+      ],
+      [
+        "Would three thirty work?",
+        "Ba giờ rưỡi được không?"
+      ],
+      [
+        "Yes. Where should we meet?",
+        "Được. Mình gặp ở đâu?"
+      ],
+      [
+        "At the coffee shop next to the library.",
+        "Ở quán cà phê cạnh thư viện."
+      ],
+      [
+        "Great. I'll see you there Wednesday at three thirty.",
+        "Tốt. Hẹn gặp bạn ở đó thứ Tư lúc ba giờ rưỡi."
+      ]
+    ],
+    "Q": [
+      [
+        "What time is the meeting at the coffee shop?",
+        "Three thirty on Wednesday."
+      ],
+      [
+        "Where is the coffee shop?",
+        "Next to the library."
+      ]
+    ],
+    "GOAL": "Hẹn giờ rõ ràng, đổi lịch và xác nhận lại thời gian.",
+    "GRAMMAR": "At đi với giờ, on với ngày, in với tháng. From nine to five chỉ khoảng thời gian; by five chỉ hạn cuối.",
+    "SOUND": "Phân biệt thirteen và thirty bằng trọng âm. Đọc lại con số khi đặt lịch để tránh nghe nhầm.",
+    "REGISTER": "Nói rõ a.m., p.m. hoặc múi giờ khi cần. Khi nghe nhầm, xác nhận giờ bằng một câu đầy đủ.",
+    "FIX": [
+      "Let's meet in Thursday.",
+      "Let's meet on Thursday."
+    ],
+    "TASK": "Sắp ba cuộc hẹn khác nhau; mỗi cuộc phải xác nhận ngày, giờ và địa điểm.",
+    "TWIST": "Một người ở múi giờ khác. Hỏi múi giờ, đọc lại giờ và gửi xác nhận bằng lời.",
+    "ex": [
+      [
+        "What time works ______ for you?",
+        "best"
+      ],
+      [
+        "I'm free after ______.",
+        "three"
+      ],
+      [
+        "Could we move it to ______?",
+        "Thursday"
+      ]
+    ]
+  },
+  {
+    "n": 7,
+    "en": "Ordering coffee",
+    "vi": "Gọi đồ uống tại quán cà phê",
+    "P": [
+      [
+        "Could I get a medium iced coffee?",
+        "Cho tôi cà phê đá cỡ vừa được không?"
+      ],
+      [
+        "With oat milk, please.",
+        "Cho thêm sữa yến mạch nhé."
+      ],
+      [
+        "No added sugar, please.",
+        "Không thêm đường nhé."
+      ],
+      [
+        "Is this drink available decaf?",
+        "Đồ uống này có loại giảm caffeine không?"
+      ],
+      [
+        "I'll have it to go.",
+        "Tôi lấy mang đi."
+      ],
+      [
+        "I think this might be the wrong order.",
+        "Tôi nghĩ đây có thể là món bị nhầm."
+      ]
+    ],
+    "D": [
+      [
+        "What can I get started for you?",
+        "Bạn muốn gọi gì?"
+      ],
+      [
+        "A small latte with oat milk, please.",
+        "Cho tôi latte nhỏ với sữa yến mạch."
+      ],
+      [
+        "Hot or iced?",
+        "Nóng hay đá?"
+      ],
+      [
+        "Iced, please. And no added sugar.",
+        "Đá nhé. Và không thêm đường."
+      ],
+      [
+        "Sure. For here or to go?",
+        "Được. Dùng tại đây hay mang đi?"
+      ],
+      [
+        "To go, please.",
+        "Mang đi nhé."
+      ]
+    ],
+    "Q": [
+      [
+        "What kind of milk does the customer want?",
+        "Oat milk."
+      ],
+      [
+        "Is the order for here or to go?",
+        "To go."
+      ]
+    ],
+    "GOAL": "Gọi đồ uống, tùy chỉnh món và xử lý món bị nhầm.",
+    "GRAMMAR": "I'd like và Could I get dùng để gọi món. Dùng with cho thành phần thêm, without cho thành phần bỏ.",
+    "SOUND": "Nhấn ICED và HOT khi phân biệt món. Could I có thể nối âm nhưng đừng bỏ mất từ chỉ loại đồ uống.",
+    "REGISTER": "To go chỉ mang đi; for here chỉ dùng tại chỗ. Could I get nghe tự nhiên trong tình huống dịch vụ ở Mỹ.",
+    "FIX": [
+      "I'd like coffee without sugars.",
+      "I'd like coffee without sugar."
+    ],
+    "TASK": "Gọi ba đồ uống với kích cỡ, nhiệt độ và một tùy chỉnh khác nhau.",
+    "TWIST": "Nhân viên hết loại sữa bạn muốn. Hỏi lựa chọn thay thế và xác nhận đơn mới.",
+    "ex": [
+      [
+        "Could I get a medium iced ______?",
+        "coffee"
+      ],
+      [
+        "With oat milk, ______.",
+        "please"
+      ],
+      [
+        "No added sugar, ______.",
+        "please"
+      ]
+    ]
+  },
+  {
+    "n": 8,
+    "en": "Eating at a restaurant",
+    "vi": "Ăn tại nhà hàng",
+    "P": [
+      [
+        "A table for two, please.",
+        "Cho chúng tôi bàn hai người."
+      ],
+      [
+        "Do you have any vegetarian options?",
+        "Có lựa chọn món chay không?"
+      ],
+      [
+        "I'm allergic to peanuts.",
+        "Tôi bị dị ứng với đậu phộng."
+      ],
+      [
+        "Does this dish contain nuts?",
+        "Món này có chứa các loại hạt không?"
+      ],
+      [
+        "Could we get the check, please?",
+        "Cho chúng tôi hóa đơn được không?"
+      ],
+      [
+        "Could you split the check?",
+        "Bạn tách hóa đơn giúp chúng tôi được không?"
+      ]
+    ],
+    "D": [
+      [
+        "Are you ready to order?",
+        "Bạn sẵn sàng gọi món chưa?"
+      ],
+      [
+        "Almost. Does the pasta have any nuts in it?",
+        "Gần xong rồi. Mì pasta có loại hạt nào không?"
+      ],
+      [
+        "Let me check with the kitchen.",
+        "Để tôi hỏi lại bếp."
+      ],
+      [
+        "Thank you. I have a peanut allergy.",
+        "Cảm ơn. Tôi bị dị ứng đậu phộng."
+      ],
+      [
+        "The sauce contains peanuts. We can offer a different dish.",
+        "Sốt có đậu phộng. Chúng tôi có thể đề xuất món khác."
+      ],
+      [
+        "I'll choose something else, then.",
+        "Vậy tôi sẽ chọn món khác."
+      ]
+    ],
+    "Q": [
+      [
+        "What allergy does the customer mention?",
+        "A peanut allergy."
+      ],
+      [
+        "Why does the customer choose another dish?",
+        "The sauce contains peanuts."
+      ]
+    ],
+    "GOAL": "Đặt bàn, hỏi món, nêu dị ứng và yêu cầu tính tiền.",
+    "GRAMMAR": "A table for two nói số khách. Does this contain hỏi thành phần. Could we get dùng cho yêu cầu lịch sự.",
+    "SOUND": "Phát âm rõ âm cuối trong nuts và check. Nhấn từ chỉ chất gây dị ứng; không rút gọn thông tin quan trọng.",
+    "REGISTER": "Check thường chỉ hóa đơn tại nhà hàng Mỹ. Nêu dị ứng trực tiếp thay vì nói đơn giản rằng bạn không thích món đó.",
+    "FIX": [
+      "Does this dish contains nuts?",
+      "Does this dish contain nuts?"
+    ],
+    "TASK": "Diễn hội thoại từ vào nhà hàng đến thanh toán. Ôn gọi đồ uống và sắp lịch ở tuần 6 đến 7.",
+    "TWIST": "Món bạn gọi chưa tới và bạn phải đi trong mười phút. Hỏi thời gian chờ rồi đề nghị giải pháp.",
+    "ex": [
+      [
+        "A table for two, ______.",
+        "please"
+      ],
+      [
+        "Do you have any vegetarian ______?",
+        "options"
+      ],
+      [
+        "I'm allergic to ______.",
+        "peanuts"
+      ]
+    ]
+  },
+  {
+    "n": 9,
+    "en": "Groceries and cooking",
+    "vi": "Mua thực phẩm và nấu ăn",
+    "P": [
+      [
+        "Where can I find the eggs?",
+        "Tôi tìm trứng ở đâu?"
+      ],
+      [
+        "Are these peaches ripe?",
+        "Những quả đào này chín chưa?"
+      ],
+      [
+        "I only need a few onions.",
+        "Tôi chỉ cần vài củ hành."
+      ],
+      [
+        "Could I get half a pound of cheese?",
+        "Cho tôi nửa pound phô mai được không?"
+      ],
+      [
+        "We ran out of olive oil.",
+        "Chúng tôi hết dầu ô liu rồi."
+      ],
+      [
+        "Let it simmer for about ten minutes.",
+        "Để nó sôi nhẹ khoảng mười phút."
+      ]
+    ],
+    "D": [
+      [
+        "Do we have everything for dinner?",
+        "Mình có đủ mọi thứ cho bữa tối chưa?"
+      ],
+      [
+        "We need onions, rice, and some vegetables.",
+        "Mình cần hành, gạo và một ít rau."
+      ],
+      [
+        "What about chicken?",
+        "Còn thịt gà thì sao?"
+      ],
+      [
+        "We already have some in the freezer.",
+        "Mình đã có trong ngăn đông rồi."
+      ],
+      [
+        "Great. I'll grab the onions.",
+        "Tốt. Tôi sẽ lấy hành."
+      ],
+      [
+        "I'll meet you at the checkout.",
+        "Tôi sẽ gặp bạn ở quầy thanh toán."
+      ]
+    ],
+    "Q": [
+      [
+        "What protein is already at home?",
+        "Chicken."
+      ],
+      [
+        "Where will the speakers meet?",
+        "At the checkout."
+      ]
+    ],
+    "GOAL": "Hỏi vị trí hàng, số lượng và giải thích công thức đơn giản.",
+    "GRAMMAR": "Some dùng trong câu khẳng định và lời mời; any thường dùng trong câu hỏi. A little cho không đếm được, a few cho đếm được.",
+    "SOUND": "Đọc recipe nhấn âm đầu, ba âm tiết. Luyện /v/ trong vegetables; răng trên chạm nhẹ môi dưới.",
+    "REGISTER": "Cart là xe đẩy, produce là khu rau củ, checkout là quầy thanh toán. Giá và số lượng trong bài là ví dụ luyện tập.",
+    "FIX": [
+      "I need a few rice.",
+      "I need a little rice."
+    ],
+    "TASK": "Lập thực đơn, hỏi ba món trong siêu thị rồi giải thích cách nấu một món bằng năm bước.",
+    "TWIST": "Thiếu một nguyên liệu. Hỏi người bán và đề xuất một món thay thế.",
+    "ex": [
+      [
+        "Where can I find the ______?",
+        "eggs"
+      ],
+      [
+        "Are these peaches ______?",
+        "ripe"
+      ],
+      [
+        "I only need a few ______.",
+        "onions"
+      ]
+    ]
+  },
+  {
+    "n": 10,
+    "en": "Shopping and returns",
+    "vi": "Mua sắm và đổi trả",
+    "P": [
+      [
+        "Do you have this in a larger size?",
+        "Bạn có mẫu này cỡ lớn hơn không?"
+      ],
+      [
+        "Where are the fitting rooms?",
+        "Phòng thử đồ ở đâu?"
+      ],
+      [
+        "It's a little too tight.",
+        "Nó hơi chật quá."
+      ],
+      [
+        "What's your return policy?",
+        "Chính sách đổi trả của cửa hàng là gì?"
+      ],
+      [
+        "I'd like to exchange this for a different size.",
+        "Tôi muốn đổi sang cỡ khác."
+      ],
+      [
+        "I have the receipt right here.",
+        "Tôi có hóa đơn ngay đây."
+      ]
+    ],
+    "D": [
+      [
+        "Can I help you find anything?",
+        "Tôi giúp bạn tìm gì được không?"
+      ],
+      [
+        "Do you have this jacket in a medium?",
+        "Bạn có áo khoác này cỡ vừa không?"
+      ],
+      [
+        "We do. Would you like to try it on?",
+        "Có. Bạn muốn thử không?"
+      ],
+      [
+        "Yes, please. Where's the fitting room?",
+        "Có, cảm ơn. Phòng thử đồ ở đâu?"
+      ],
+      [
+        "In the back, on your left.",
+        "Ở phía cuối, bên trái bạn."
+      ],
+      [
+        "Thanks. I'll compare it with the large.",
+        "Cảm ơn. Tôi sẽ so sánh với cỡ lớn."
+      ]
+    ],
+    "Q": [
+      [
+        "What item is the customer looking for?",
+        "A jacket."
+      ],
+      [
+        "Which sizes will the customer compare?",
+        "Medium and large."
+      ]
+    ],
+    "GOAL": "Hỏi kích cỡ, so sánh lựa chọn và giải thích lý do đổi trả.",
+    "GRAMMAR": "Comparative với -er hoặc more dùng so sánh. Too small nói quá nhỏ; a little smaller nói nhỏ hơn một chút.",
+    "SOUND": "Phân biệt fit với feet. Đọc rõ /s/ trong size và /z/ cuối trong sizes.",
+    "REGISTER": "Fitting room là phòng thử đồ. Hỏi chính sách đổi trả trước; không mặc định cửa hàng nào cũng có cùng quy định.",
+    "FIX": [
+      "This jacket is more cheaper.",
+      "This jacket is cheaper."
+    ],
+    "TASK": "Mua một món đồ theo ngân sách tự đặt, rồi diễn tình huống quay lại đổi cỡ.",
+    "TWIST": "Không còn cỡ bạn muốn. Hỏi màu khác hoặc yêu cầu kiểm tra chi nhánh khác.",
+    "ex": [
+      [
+        "Do you have this in a larger ______?",
+        "size"
+      ],
+      [
+        "Where are the fitting ______?",
+        "rooms"
+      ],
+      [
+        "It's a little too ______.",
+        "tight"
+      ]
+    ]
+  },
+  {
+    "n": 11,
+    "en": "Asking for directions",
+    "vi": "Hỏi đường và chỉ đường",
+    "P": [
+      [
+        "How do I get to the library?",
+        "Tôi đến thư viện bằng cách nào?"
+      ],
+      [
+        "Go straight for two blocks.",
+        "Đi thẳng hai đoạn phố."
+      ],
+      [
+        "Turn left at the second light.",
+        "Rẽ trái ở đèn giao thông thứ hai."
+      ],
+      [
+        "It'll be on your right.",
+        "Nó sẽ nằm bên phải bạn."
+      ],
+      [
+        "Is it within walking distance?",
+        "Có thể đi bộ đến đó không?"
+      ],
+      [
+        "So I turn left after the bank, right?",
+        "Vậy tôi rẽ trái sau ngân hàng, đúng không?"
+      ]
+    ],
+    "D": [
+      [
+        "Excuse me, is there a pharmacy nearby?",
+        "Xin lỗi, có hiệu thuốc gần đây không?"
+      ],
+      [
+        "Yes. Go straight for one block, then turn right.",
+        "Có. Đi thẳng một đoạn phố rồi rẽ phải."
+      ],
+      [
+        "At the traffic light?",
+        "Ở đèn giao thông à?"
+      ],
+      [
+        "Right. It's next to the bank.",
+        "Đúng. Nó cạnh ngân hàng."
+      ],
+      [
+        "Is it on the same side of the street?",
+        "Nó ở cùng phía đường này không?"
+      ],
+      [
+        "No, you'll need to cross at the light.",
+        "Không, bạn cần qua đường ở đèn giao thông."
+      ]
+    ],
+    "Q": [
+      [
+        "What place is the visitor looking for?",
+        "A pharmacy."
+      ],
+      [
+        "What is next to the pharmacy?",
+        "A bank."
+      ]
+    ],
+    "GOAL": "Hỏi vị trí, hiểu mốc đường và xác nhận hướng đi.",
+    "GRAMMAR": "Dùng mệnh lệnh Go, Turn, Keep khi chỉ đường. At the corner khác on the corner: điểm rẽ và vị trí ở góc phố.",
+    "SOUND": "Nhấn LEFT, RIGHT và SECOND. Đọc rõ street với cụm /str/; không thêm nguyên âm giữa s và t.",
+    "REGISTER": "Block là đoạn phố giữa các giao lộ. Hỏi lại khi chưa rõ thay vì đoán hướng.",
+    "FIX": [
+      "Turn to left at the light.",
+      "Turn left at the light."
+    ],
+    "TASK": "Dùng bản đồ tự vẽ chỉ ba lộ trình, mỗi lộ trình có ít nhất hai mốc.",
+    "TWIST": "Một đoạn đường đóng. Đưa lộ trình thay thế và xác nhận người nghe đã hiểu.",
+    "ex": [
+      [
+        "How do I get to the ______?",
+        "library"
+      ],
+      [
+        "Go straight for two ______.",
+        "blocks"
+      ],
+      [
+        "Turn left at the second ______.",
+        "light"
+      ]
+    ]
+  },
+  {
+    "n": 12,
+    "en": "Getting around town",
+    "vi": "Xe buýt tàu và xe công nghệ",
+    "P": [
+      [
+        "Does this bus go downtown?",
+        "Xe buýt này có vào trung tâm không?"
+      ],
+      [
+        "Where should I get off?",
+        "Tôi nên xuống ở đâu?"
+      ],
+      [
+        "I'd like a one-way ticket.",
+        "Tôi muốn vé một chiều."
+      ],
+      [
+        "How often does the train run?",
+        "Bao lâu có một chuyến tàu?"
+      ],
+      [
+        "I think I'm at the wrong pickup spot.",
+        "Tôi nghĩ mình đang ở sai điểm đón."
+      ],
+      [
+        "Could you drop me off at the main entrance?",
+        "Bạn cho tôi xuống ở cửa chính được không?"
+      ]
+    ],
+    "D": [
+      [
+        "Does the number twelve bus stop at the museum?",
+        "Xe buýt số mười hai có dừng ở bảo tàng không?"
+      ],
+      [
+        "Yes, but you'll need to get off at Oak Street.",
+        "Có, nhưng bạn cần xuống ở phố Oak."
+      ],
+      [
+        "How far is the museum from there?",
+        "Từ đó đến bảo tàng bao xa?"
+      ],
+      [
+        "About a five-minute walk.",
+        "Đi bộ khoảng năm phút."
+      ],
+      [
+        "Do I need exact change?",
+        "Tôi có cần tiền lẻ đúng số không?"
+      ],
+      [
+        "You can pay with the transit app.",
+        "Bạn có thể trả bằng ứng dụng giao thông."
+      ]
+    ],
+    "Q": [
+      [
+        "Which stop should the visitor use?",
+        "Oak Street."
+      ],
+      [
+        "How can the visitor pay?",
+        "With the transit app."
+      ]
+    ],
+    "GOAL": "Hỏi tuyến, mua vé và xử lý đi nhầm xe hoặc điểm đón.",
+    "GRAMMAR": "Does this bus go hỏi tuyến. Get on và get off dùng với xe buýt hoặc tàu; get in và get out of dùng với ô tô.",
+    "SOUND": "Phân biệt fifteen và fifty khi nghe tiền hoặc thời gian. Luyện /r/ trong route và ride, không rung đầu lưỡi.",
+    "REGISTER": "Round-trip là khứ hồi; one-way là một chiều. Trong tiếng Anh Mỹ dùng subway khi nói tàu điện ngầm.",
+    "FIX": [
+      "I get in the bus at eight.",
+      "I get on the bus at eight."
+    ],
+    "TASK": "Diễn chuyến đi bằng hai phương tiện. Ôn chỉ đường, giờ và số tiền ở tuần 6 đến 11.",
+    "TWIST": "Bạn lỡ điểm xuống. Hỏi cách quay lại mà không cần kể quá dài.",
+    "ex": [
+      [
+        "Does this bus go ______?",
+        "downtown"
+      ],
+      [
+        "Where ______ I get off?",
+        "should"
+      ],
+      [
+        "I'd like a one-way ______.",
+        "ticket"
+      ]
+    ]
+  },
+  {
+    "n": 13,
+    "en": "A day in an American city",
+    "vi": "Ôn tập giao tiếp trong thành phố",
+    "P": [
+      [
+        "Could you say that a little more slowly?",
+        "Bạn nói chậm hơn một chút được không?"
+      ],
+      [
+        "I didn't catch the last part.",
+        "Tôi chưa nghe rõ phần cuối."
+      ],
+      [
+        "Let me make sure I understood.",
+        "Để tôi chắc rằng mình hiểu đúng."
+      ],
+      [
+        "Is there another way to get there?",
+        "Có cách khác để đến đó không?"
+      ],
+      [
+        "That works for me.",
+        "Như vậy phù hợp với tôi."
+      ],
+      [
+        "Thanks for walking me through it.",
+        "Cảm ơn đã hướng dẫn tôi từng bước."
+      ]
+    ],
+    "D": [
+      [
+        "I'd like to visit the museum, but I'm not sure how to get there.",
+        "Tôi muốn đến bảo tàng nhưng chưa biết đi thế nào."
+      ],
+      [
+        "Take the twelve bus and get off at Oak Street.",
+        "Đi xe buýt số mười hai và xuống ở phố Oak."
+      ],
+      [
+        "Sorry, did you say twelve or twenty?",
+        "Xin lỗi, bạn nói mười hai hay hai mươi?"
+      ],
+      [
+        "Twelve. Then walk one block east.",
+        "Mười hai. Sau đó đi bộ một đoạn phố về phía đông."
+      ],
+      [
+        "Got it. Is there a coffee shop near the stop?",
+        "Hiểu rồi. Có quán cà phê gần điểm dừng không?"
+      ],
+      [
+        "Yes, right across from it.",
+        "Có, ngay đối diện."
+      ]
+    ],
+    "Q": [
+      [
+        "Which bus does the visitor need?",
+        "The number twelve bus."
+      ],
+      [
+        "Where is the coffee shop?",
+        "Across from the stop."
+      ]
+    ],
+    "GOAL": "Kết hợp làm quen, gọi món, mua sắm, chỉ đường và đi xe trong một nhiệm vụ liên tục.",
+    "GRAMMAR": "Kết hợp hiện tại đơn, câu hỏi với do và yêu cầu với could. Tự sửa lỗi bằng Let me rephrase that.",
+    "SOUND": "Luyện trọng âm tương phản: I said TWO tickets, not THREE. Dừng giữa cụm nghĩa, không dừng sau từng từ.",
+    "REGISTER": "Khi không hiểu, xin nhắc lại hoặc diễn đạt khác. Nói chậm và rõ hiệu quả hơn nói nhanh nhưng mất thông tin.",
+    "FIX": [
+      "Could you to speak slowly?",
+      "Could you speak slowly?"
+    ],
+    "TASK": "Bài kiểm tra chặng 1: diễn 8 phút gồm tự giới thiệu, hẹn giờ, gọi đồ uống, hỏi đường và mua vé; xem bảng đánh giá cuối sách.",
+    "TWIST": "Người đối thoại cố ý đổi một số, một giờ và một món. Phát hiện rồi xác nhận lại cả ba.",
+    "ex": [
+      [
+        "Could you say that a little more ______?",
+        "slowly"
+      ],
+      [
+        "I didn't catch the last ______.",
+        "part"
+      ],
+      [
+        "Let me make sure I ______.",
+        "understood"
+      ]
+    ]
+  },
+  {
+    "n": 14,
+    "en": "Phone calls and voicemail",
+    "vi": "Gọi điện và để lại lời nhắn",
+    "P": [
+      [
+        "Hi, this is Linh calling.",
+        "Chào, tôi là Linh đang gọi."
+      ],
+      [
+        "May I speak to Jordan?",
+        "Tôi nói chuyện với Jordan được không?"
+      ],
+      [
+        "Is now a good time to talk?",
+        "Bây giờ nói chuyện có tiện không?"
+      ],
+      [
+        "Could you ask her to call me back?",
+        "Bạn nhờ cô ấy gọi lại cho tôi được không?"
+      ],
+      [
+        "Let me read that number back to you.",
+        "Để tôi đọc lại số đó cho bạn."
+      ],
+      [
+        "I'll leave a brief message.",
+        "Tôi sẽ để lại lời nhắn ngắn."
+      ]
+    ],
+    "D": [
+      [
+        "Thanks for calling. How can I help you?",
+        "Cảm ơn đã gọi. Tôi giúp gì được?"
+      ],
+      [
+        "Hi, this is Linh. May I speak to Jordan?",
+        "Chào, tôi là Linh. Tôi nói chuyện với Jordan được không?"
+      ],
+      [
+        "She's in a meeting. Would you like to leave a message?",
+        "Cô ấy đang họp. Bạn muốn để lại lời nhắn không?"
+      ],
+      [
+        "Yes. Please tell her the appointment time has changed.",
+        "Có. Xin nói với cô ấy là giờ hẹn đã thay đổi."
+      ],
+      [
+        "Sure. What's the new time?",
+        "Được. Giờ mới là mấy giờ?"
+      ],
+      [
+        "Thursday at ten. I'll send an email too.",
+        "Thứ Năm lúc mười giờ. Tôi cũng sẽ gửi email."
+      ]
+    ],
+    "Q": [
+      [
+        "Why is Jordan unavailable?",
+        "She's in a meeting."
+      ],
+      [
+        "What is the new appointment time?",
+        "Thursday at ten."
+      ]
+    ],
+    "GOAL": "Mở cuộc gọi, xác nhận người nhận và để lại lời nhắn đủ thông tin.",
+    "GRAMMAR": "May I speak to dùng để xin gặp người qua điện thoại. Could you ask her to call me back dùng ask someone to do something.",
+    "SOUND": "Đọc số điện thoại theo nhóm, từng chữ số. Phân biệt tên bắt đầu bằng B và P; khi cần nói B as in Boston.",
+    "REGISTER": "Nêu tên trước khi nói mục đích. Voicemail cần tên, lý do, số liên lạc và yêu cầu gọi lại; không đọc một đoạn dài.",
+    "FIX": [
+      "Ask her call me back.",
+      "Ask her to call me back."
+    ],
+    "TASK": "Ghi hai voicemail dài 30 giây: đổi lịch và hỏi thông tin; dùng số điện thoại giả để luyện.",
+    "TWIST": "Đường truyền nhiễu. Xác nhận lại tên, số và thời gian bằng các nhóm ngắn.",
+    "ex": [
+      [
+        "Hi, this is Linh ______.",
+        "calling"
+      ],
+      [
+        "May I speak to ______?",
+        "Jordan"
+      ],
+      [
+        "Is now a good time to ______?",
+        "talk"
+      ]
+    ]
+  },
+  {
+    "n": 15,
+    "en": "Appointments and services",
+    "vi": "Đặt hẹn và sử dụng dịch vụ",
+    "P": [
+      [
+        "I'd like to book an appointment.",
+        "Tôi muốn đặt một cuộc hẹn."
+      ],
+      [
+        "Do you have any openings this Friday?",
+        "Thứ Sáu này còn khung giờ trống không?"
+      ],
+      [
+        "How long does it usually take?",
+        "Thông thường mất bao lâu?"
+      ],
+      [
+        "I need to reschedule my appointment.",
+        "Tôi cần đổi lịch hẹn."
+      ],
+      [
+        "Is there a cancellation fee?",
+        "Có phí hủy lịch không?"
+      ],
+      [
+        "Could you send me a confirmation?",
+        "Bạn gửi xác nhận cho tôi được không?"
+      ]
+    ],
+    "D": [
+      [
+        "I'd like to schedule a haircut.",
+        "Tôi muốn đặt lịch cắt tóc."
+      ],
+      [
+        "We have an opening Friday at four.",
+        "Chúng tôi có giờ trống thứ Sáu lúc bốn giờ."
+      ],
+      [
+        "Is there anything earlier?",
+        "Có giờ nào sớm hơn không?"
+      ],
+      [
+        "We could do ten thirty on Saturday.",
+        "Chúng tôi có thể xếp mười giờ rưỡi sáng thứ Bảy."
+      ],
+      [
+        "That works. How long should I plan for?",
+        "Được. Tôi nên dành bao lâu?"
+      ],
+      [
+        "About forty-five minutes.",
+        "Khoảng bốn mươi lăm phút."
+      ]
+    ],
+    "Q": [
+      [
+        "Which appointment does the customer choose?",
+        "Saturday at ten thirty."
+      ],
+      [
+        "How long will the haircut take?",
+        "About forty-five minutes."
+      ]
+    ],
+    "GOAL": "Đặt lịch cắt tóc hoặc sửa xe, hỏi thời gian chờ và hủy lịch lịch sự.",
+    "GRAMMAR": "I'd like to book theo sau bằng danh từ. Do you have any openings hỏi lịch trống. Need to đi với động từ nguyên mẫu.",
+    "SOUND": "Nhấn ngày và giờ; khi nói fifteen minutes giữ trọng âm của fifteen để phân biệt fifty.",
+    "REGISTER": "Opening ở đây là khung lịch còn trống, không phải cửa ra vào. Báo sớm nếu phải hủy và hỏi có cần đặt lại không.",
+    "FIX": [
+      "I need reschedule my appointment.",
+      "I need to reschedule my appointment."
+    ],
+    "TASK": "Đặt hẹn, hỏi thời lượng và xác nhận. Sau đó diễn cuộc gọi đổi lịch.",
+    "TWIST": "Khung giờ bạn muốn không còn. Đưa hai lựa chọn ngày khác và hỏi danh sách chờ.",
+    "ex": [
+      [
+        "I'd like to book an ______.",
+        "appointment"
+      ],
+      [
+        "Do you have any openings this ______?",
+        "Friday"
+      ],
+      [
+        "How long does it usually ______?",
+        "take"
+      ]
+    ]
+  },
+  {
+    "n": 16,
+    "en": "Planning a trip",
+    "vi": "Lên kế hoạch du lịch",
+    "P": [
+      [
+        "I'm thinking about taking a short trip.",
+        "Tôi đang nghĩ đến chuyến đi ngắn."
+      ],
+      [
+        "What's your budget for the weekend?",
+        "Ngân sách cuối tuần của bạn là bao nhiêu?"
+      ],
+      [
+        "I'd rather stay somewhere quiet.",
+        "Tôi thích ở nơi yên tĩnh hơn."
+      ],
+      [
+        "We could split the cost.",
+        "Chúng ta có thể chia chi phí."
+      ],
+      [
+        "Let's leave some room in the schedule.",
+        "Hãy để lịch trình có chút thời gian linh hoạt."
+      ],
+      [
+        "What should we book in advance?",
+        "Chúng ta nên đặt trước những gì?"
+      ]
+    ],
+    "D": [
+      [
+        "Do you want to get away next weekend?",
+        "Bạn muốn đi chơi xa cuối tuần tới không?"
+      ],
+      [
+        "Maybe. I don't want to spend too much.",
+        "Có thể. Tôi không muốn tiêu quá nhiều."
+      ],
+      [
+        "We could drive to the coast and stay one night.",
+        "Mình có thể lái xe ra biển và ở lại một đêm."
+      ],
+      [
+        "I'd rather leave early Saturday.",
+        "Tôi thích đi sớm thứ Bảy hơn."
+      ],
+      [
+        "Works for me. I'll look for a place with free parking.",
+        "Tôi cũng thấy được. Tôi sẽ tìm nơi có chỗ đỗ xe miễn phí."
+      ],
+      [
+        "Great. Let's compare options tonight.",
+        "Tốt. Tối nay mình so sánh các lựa chọn nhé."
+      ]
+    ],
+    "Q": [
+      [
+        "How many nights are the speakers considering?",
+        "One night."
+      ],
+      [
+        "When would the second speaker rather leave?",
+        "Early Saturday."
+      ]
+    ],
+    "GOAL": "Thảo luận lịch trình, ngân sách và lựa chọn phù hợp với cả nhóm.",
+    "GRAMMAR": "Be going to nói dự định; might nói khả năng chưa chắc. Would rather theo sau động từ nguyên mẫu không có to.",
+    "SOUND": "Luyện nhịp trong going to visit, nhấn VISIT. Gonna có thể nghe trong lời nói thân mật; ưu tiên viết going to.",
+    "REGISTER": "Không mặc định everyone can afford it. Hỏi What budget are you comfortable with để thảo luận lịch sự.",
+    "FIX": [
+      "I'd rather to leave early.",
+      "I'd rather leave early."
+    ],
+    "TASK": "Thống nhất chuyến đi hai ngày với ngân sách giả định. Ôn tiền, lịch và phương tiện ở tuần 6 đến 12.",
+    "TWIST": "Một người không có xe. Sửa kế hoạch để cả nhóm vẫn tham gia được.",
+    "ex": [
+      [
+        "I'm thinking about taking a short ______.",
+        "trip"
+      ],
+      [
+        "What's your budget for the ______?",
+        "weekend"
+      ],
+      [
+        "I'd rather stay somewhere ______.",
+        "quiet"
+      ]
+    ]
+  },
+  {
+    "n": 17,
+    "en": "At the airport",
+    "vi": "Làm thủ tục tại sân bay",
+    "P": [
+      [
+        "I'd like to check in for my flight.",
+        "Tôi muốn làm thủ tục cho chuyến bay."
+      ],
+      [
+        "I have one bag to check.",
+        "Tôi có một kiện cần ký gửi."
+      ],
+      [
+        "Is this small bag allowed as a personal item?",
+        "Túi nhỏ này được tính là đồ cá nhân không?"
+      ],
+      [
+        "Where can I find my gate?",
+        "Tôi tìm cửa ra máy bay ở đâu?"
+      ],
+      [
+        "Has the gate changed?",
+        "Cửa ra máy bay đã thay đổi chưa?"
+      ],
+      [
+        "What time does boarding start?",
+        "Mấy giờ bắt đầu lên máy bay?"
+      ]
+    ],
+    "D": [
+      [
+        "Are you checking any bags today?",
+        "Hôm nay bạn có ký gửi hành lý không?"
+      ],
+      [
+        "Just one. Is there a fee?",
+        "Chỉ một kiện. Có phí không?"
+      ],
+      [
+        "Your ticket includes one checked bag.",
+        "Vé của bạn gồm một kiện ký gửi."
+      ],
+      [
+        "Great. Which gate should I go to?",
+        "Tốt. Tôi cần đến cửa nào?"
+      ],
+      [
+        "B twelve. Boarding starts at nine twenty.",
+        "B mười hai. Bắt đầu lên máy bay lúc chín giờ hai mươi."
+      ],
+      [
+        "B twelve at nine twenty. Thank you.",
+        "B mười hai lúc chín giờ hai mươi. Cảm ơn."
+      ]
+    ],
+    "Q": [
+      [
+        "How many bags will the traveler check?",
+        "One bag."
+      ],
+      [
+        "What time does boarding start?",
+        "Nine twenty."
+      ]
+    ],
+    "GOAL": "Làm thủ tục, hỏi hành lý, tìm cửa ra máy bay và xử lý đổi cửa.",
+    "GRAMMAR": "Have to nói yêu cầu phải làm. Can I bring hỏi được phép mang. Where do I hỏi địa điểm thực hiện thủ tục.",
+    "SOUND": "Phân biệt gate eight và gate A bằng cách xác nhận cả chữ và số. Giữ âm cuối trong bags và flight.",
+    "REGISTER": "Carry-on là hành lý xách tay; checked bag là hành lý ký gửi. Điều kiện hành lý thay đổi theo hãng, nên hỏi trực tiếp.",
+    "FIX": [
+      "Where I can find my gate?",
+      "Where can I find my gate?"
+    ],
+    "TASK": "Diễn từ quầy làm thủ tục đến hỏi cửa ra máy bay, xác nhận ba thông tin quan trọng.",
+    "TWIST": "Cửa B12 đổi sang C18. Hỏi vị trí cửa mới và thời gian đi bộ.",
+    "ex": [
+      [
+        "I'd like to check in for my ______.",
+        "flight"
+      ],
+      [
+        "I have one bag to ______.",
+        "check"
+      ],
+      [
+        "Is this small bag allowed as a personal ______?",
+        "item"
+      ]
+    ]
+  },
+  {
+    "n": 18,
+    "en": "Hotels and accommodation",
+    "vi": "Khách sạn và nơi lưu trú",
+    "P": [
+      [
+        "I have a reservation under Linh Tran.",
+        "Tôi có đặt phòng dưới tên Linh Trần."
+      ],
+      [
+        "Is breakfast included?",
+        "Bữa sáng đã bao gồm chưa?"
+      ],
+      [
+        "What time is checkout?",
+        "Mấy giờ phải trả phòng?"
+      ],
+      [
+        "Could I get a quiet room?",
+        "Tôi có thể có phòng yên tĩnh không?"
+      ],
+      [
+        "The air conditioning isn't working.",
+        "Máy điều hòa không hoạt động."
+      ],
+      [
+        "Could someone take a look at it?",
+        "Có người kiểm tra giúp được không?"
+      ]
+    ],
+    "D": [
+      [
+        "Welcome. Do you have a reservation?",
+        "Chào mừng. Bạn đã đặt phòng chưa?"
+      ],
+      [
+        "Yes, under Linh Tran, for two nights.",
+        "Rồi, dưới tên Linh Trần, hai đêm."
+      ],
+      [
+        "I found it. You're in room four eighteen.",
+        "Tôi tìm thấy rồi. Bạn ở phòng bốn một tám."
+      ],
+      [
+        "Is breakfast included?",
+        "Bữa sáng đã bao gồm chưa?"
+      ],
+      [
+        "Yes, from seven to ten in the lobby.",
+        "Có, từ bảy đến mười giờ ở sảnh."
+      ],
+      [
+        "Thanks. Could you also tell me the checkout time?",
+        "Cảm ơn. Bạn cho tôi biết giờ trả phòng nữa được không?"
+      ]
+    ],
+    "Q": [
+      [
+        "How long is the stay?",
+        "Two nights."
+      ],
+      [
+        "Where is breakfast served?",
+        "In the lobby."
+      ]
+    ],
+    "GOAL": "Nhận phòng, hỏi tiện ích và báo vấn đề trong phòng.",
+    "GRAMMAR": "A reservation under theo sau tên người đặt. Could you have someone check dùng have someone do something.",
+    "SOUND": "Nhấn tên trong under the name Linh Tran. Phân biệt room và rooms bằng phụ âm cuối; nói chậm khi đọc số phòng.",
+    "REGISTER": "Check in là nhận phòng; check out là trả phòng. Deposit và charge khác nhau; hỏi lại khoản tiền được giữ hoặc tính.",
+    "FIX": [
+      "I have reservation for two nights.",
+      "I have a reservation for two nights."
+    ],
+    "TASK": "Nhận phòng và hỏi bốn thông tin; sau đó gọi lễ tân báo một lỗi trong phòng.",
+    "TWIST": "Khách sạn chưa có phòng sẵn. Hỏi giữ hành lý và thời gian nhận phòng dự kiến.",
+    "ex": [
+      [
+        "I have a reservation under Linh ______.",
+        "Tran"
+      ],
+      [
+        "Is breakfast ______?",
+        "included"
+      ],
+      [
+        "What time is ______?",
+        "checkout"
+      ]
+    ]
+  },
+  {
+    "n": 19,
+    "en": "Travel problems",
+    "vi": "Xử lý sự cố khi đi du lịch",
+    "P": [
+      [
+        "My bag hasn't arrived.",
+        "Hành lý của tôi chưa tới."
+      ],
+      [
+        "Here's my baggage claim tag.",
+        "Đây là thẻ hành lý của tôi."
+      ],
+      [
+        "It's a black suitcase with a red strap.",
+        "Đó là va li đen có dây đỏ."
+      ],
+      [
+        "What happens next?",
+        "Bước tiếp theo là gì?"
+      ],
+      [
+        "Could you give me a reference number?",
+        "Bạn cho tôi mã hồ sơ được không?"
+      ],
+      [
+        "Who should I contact for updates?",
+        "Tôi liên hệ ai để biết cập nhật?"
+      ]
+    ],
+    "D": [
+      [
+        "My suitcase wasn't on the carousel.",
+        "Va li của tôi không có trên băng chuyền."
+      ],
+      [
+        "I'm sorry. May I see your baggage tag?",
+        "Tôi rất tiếc. Cho tôi xem thẻ hành lý được không?"
+      ],
+      [
+        "Here it is. The bag is black with a red strap.",
+        "Đây. Va li đen có dây đỏ."
+      ],
+      [
+        "We'll check its location. Where are you staying?",
+        "Chúng tôi sẽ kiểm tra vị trí. Bạn đang ở đâu?"
+      ],
+      [
+        "At the Harbor Hotel. Can you deliver it there?",
+        "Ở khách sạn Harbor. Bạn có thể giao đến đó không?"
+      ],
+      [
+        "Let me check the delivery options for your case.",
+        "Để tôi kiểm tra lựa chọn giao cho trường hợp của bạn."
+      ]
+    ],
+    "Q": [
+      [
+        "What does the suitcase look like?",
+        "It's black with a red strap."
+      ],
+      [
+        "Where is the traveler staying?",
+        "At the Harbor Hotel."
+      ]
+    ],
+    "GOAL": "Mô tả sự cố, cung cấp thông tin và hỏi bước tiếp theo.",
+    "GRAMMAR": "Hiện tại hoàn thành nói vấn đề vừa xảy ra: My bag hasn't arrived. Quá khứ đơn nêu thời điểm cụ thể: I checked it in this morning.",
+    "SOUND": "Phân biệt lost và last. Nhấn NOT khi cần sửa thông tin: It has NOT arrived. Giữ giọng bình tĩnh.",
+    "REGISTER": "Baggage claim chỉ khu lấy hành lý ở sân bay Mỹ. Mô tả sự thật trước, rồi yêu cầu phương án xử lý.",
+    "FIX": [
+      "My bag didn't arrived.",
+      "My bag didn't arrive."
+    ],
+    "TASK": "Báo thất lạc một món đồ, mô tả năm đặc điểm và hỏi mã hồ sơ cùng kênh theo dõi.",
+    "TWIST": "Nhân viên tìm được món gần giống nhưng sai màu. Giải thích khác biệt và đề nghị kiểm tra tiếp.",
+    "ex": [
+      [
+        "My bag hasn't ______.",
+        "arrived"
+      ],
+      [
+        "Here's my baggage ______ tag.",
+        "claim"
+      ],
+      [
+        "It's a black suitcase with a red ______.",
+        "strap"
+      ]
+    ]
+  },
+  {
+    "n": 20,
+    "en": "Introducing yourself at work",
+    "vi": "Giới thiệu tại nơi làm việc",
+    "P": [
+      [
+        "I recently joined the support team.",
+        "Tôi vừa gia nhập nhóm hỗ trợ."
+      ],
+      [
+        "I'm responsible for handling customer requests.",
+        "Tôi phụ trách xử lý yêu cầu khách hàng."
+      ],
+      [
+        "Who should I go to with questions?",
+        "Tôi nên hỏi ai khi có thắc mắc?"
+      ],
+      [
+        "I'm still learning the ropes.",
+        "Tôi vẫn đang học cách làm việc ở đây."
+      ],
+      [
+        "I'd love to learn more about your role.",
+        "Tôi muốn hiểu thêm về vai trò của bạn."
+      ],
+      [
+        "Thanks for helping me get settled in.",
+        "Cảm ơn đã giúp tôi ổn định khi mới vào."
+      ]
+    ],
+    "D": [
+      [
+        "Welcome aboard. What will you be working on?",
+        "Chào mừng. Bạn sẽ làm việc gì?"
+      ],
+      [
+        "I'll be handling customer requests for the mobile app.",
+        "Tôi sẽ xử lý yêu cầu khách hàng của ứng dụng di động."
+      ],
+      [
+        "Nice. I'm on the product team.",
+        "Hay đấy. Tôi thuộc nhóm sản phẩm."
+      ],
+      [
+        "Great. Who should I contact about technical issues?",
+        "Tốt. Tôi nên liên hệ ai về lỗi kỹ thuật?"
+      ],
+      [
+        "Start with Sam. He coordinates with engineering.",
+        "Bắt đầu với Sam. Anh ấy phối hợp với nhóm kỹ thuật."
+      ],
+      [
+        "Thanks. I'll introduce myself to him this afternoon.",
+        "Cảm ơn. Chiều nay tôi sẽ giới thiệu bản thân với anh ấy."
+      ]
+    ],
+    "Q": [
+      [
+        "What will the new colleague handle?",
+        "Customer requests for the mobile app."
+      ],
+      [
+        "Who coordinates with engineering?",
+        "Sam."
+      ]
+    ],
+    "GOAL": "Giới thiệu vai trò, trách nhiệm và hỏi cách phối hợp với đồng nghiệp.",
+    "GRAMMAR": "Be responsible for theo sau danh từ hoặc V-ing. Work on chỉ dự án; work with chỉ người hoặc công cụ.",
+    "SOUND": "Luyện trọng âm trong responsible và project. Ngắt theo cụm: I work on / customer support / for the mobile app.",
+    "REGISTER": "Job title không luôn giải thích đủ vai trò. Thêm một câu đơn giản về việc bạn giúp nhóm làm gì.",
+    "FIX": [
+      "I'm responsible to handle requests.",
+      "I'm responsible for handling requests."
+    ],
+    "TASK": "Giới thiệu vai trò trong 60 giây, hỏi hai đồng nghiệp cách phối hợp. Ôn tuần 1 và 14.",
+    "TWIST": "Đồng nghiệp không hiểu chức danh của bạn. Giải thích bằng một ví dụ công việc cụ thể.",
+    "ex": [
+      [
+        "I recently joined the support ______.",
+        "team"
+      ],
+      [
+        "I'm responsible for handling customer ______.",
+        "requests"
+      ],
+      [
+        "Who should I go to with ______?",
+        "questions"
+      ]
+    ]
+  },
+  {
+    "n": 21,
+    "en": "Meetings and updates",
+    "vi": "Họp và báo cáo tiến độ",
+    "P": [
+      [
+        "Here's a quick update.",
+        "Đây là cập nhật ngắn."
+      ],
+      [
+        "We've finished the first draft.",
+        "Chúng tôi đã hoàn thành bản nháp đầu."
+      ],
+      [
+        "We're still waiting on approval.",
+        "Chúng tôi vẫn đang đợi phê duyệt."
+      ],
+      [
+        "Could you clarify what you mean by that?",
+        "Bạn làm rõ ý đó được không?"
+      ],
+      [
+        "What are the next steps?",
+        "Các bước tiếp theo là gì?"
+      ],
+      [
+        "I'll send a recap after the meeting.",
+        "Tôi sẽ gửi tóm tắt sau cuộc họp."
+      ]
+    ],
+    "D": [
+      [
+        "How's the new page coming along?",
+        "Trang mới tiến triển thế nào?"
+      ],
+      [
+        "The draft is ready. We're waiting on the final images.",
+        "Bản nháp đã xong. Chúng tôi đang đợi hình cuối."
+      ],
+      [
+        "When do you expect to have them?",
+        "Bạn dự kiến khi nào có?"
+      ],
+      [
+        "By Thursday afternoon, if the design team has no changes.",
+        "Trước chiều thứ Năm, nếu nhóm thiết kế không có chỉnh sửa."
+      ],
+      [
+        "Okay. Please flag any delays early.",
+        "Được. Hãy báo sớm nếu có chậm trễ."
+      ],
+      [
+        "Will do. I'll send a recap with the action items.",
+        "Tôi sẽ làm. Tôi sẽ gửi tóm tắt kèm các việc cần làm."
+      ]
+    ],
+    "Q": [
+      [
+        "What is the team waiting for?",
+        "The final images."
+      ],
+      [
+        "What should happen if there are delays?",
+        "The team should flag them early."
+      ]
+    ],
+    "GOAL": "Cập nhật tiến độ ngắn, xin làm rõ và xác nhận việc cần làm sau họp.",
+    "GRAMMAR": "Have finished chỉ việc đã hoàn thành; are working on chỉ việc đang làm. Need someone to do chỉ người được giao nhiệm vụ.",
+    "SOUND": "Nhấn DONE, NEXT và BLOCKED để phân biệt ba phần cập nhật. Dừng ngắn trước yêu cầu hỗ trợ.",
+    "REGISTER": "Không cần mở đầu dài. Nêu kết quả, việc tiếp theo và vướng mắc. Action item là việc cần thực hiện sau cuộc họp.",
+    "FIX": [
+      "We've finish the first draft.",
+      "We've finished the first draft."
+    ],
+    "TASK": "Cập nhật dự án trong 90 giây, gồm kết quả, kế hoạch và một yêu cầu hỗ trợ.",
+    "TWIST": "Có hai người hiểu thời hạn khác nhau. Làm rõ và chốt lại bằng câu xác nhận.",
+    "ex": [
+      [
+        "Here's a quick ______.",
+        "update"
+      ],
+      [
+        "We've finished the first ______.",
+        "draft"
+      ],
+      [
+        "We're still waiting on ______.",
+        "approval"
+      ]
+    ]
+  },
+  {
+    "n": 22,
+    "en": "Emails and work messages",
+    "vi": "Email và tin nhắn công việc",
+    "P": [
+      [
+        "I'm reaching out about the schedule.",
+        "Tôi liên hệ về lịch trình."
+      ],
+      [
+        "Could you review the attached file?",
+        "Bạn xem giúp tệp đính kèm được không?"
+      ],
+      [
+        "Please let me know by Friday.",
+        "Vui lòng cho tôi biết trước hoặc trong thứ Sáu."
+      ],
+      [
+        "I'm following up on my earlier message.",
+        "Tôi hỏi tiếp về tin nhắn trước của mình."
+      ],
+      [
+        "No rush if you're tied up today.",
+        "Không gấp nếu hôm nay bạn đang bận."
+      ],
+      [
+        "Thanks for getting back to me.",
+        "Cảm ơn đã phản hồi tôi."
+      ]
+    ],
+    "D": [
+      [
+        "Did you see my email about the draft?",
+        "Bạn đã xem email của tôi về bản nháp chưa?"
+      ],
+      [
+        "I did. When do you need my feedback?",
+        "Rồi. Khi nào bạn cần góp ý của tôi?"
+      ],
+      [
+        "By Friday afternoon, if possible.",
+        "Trước chiều thứ Sáu, nếu được."
+      ],
+      [
+        "I can review it tomorrow morning.",
+        "Sáng mai tôi có thể xem."
+      ],
+      [
+        "Perfect. Please focus on the introduction.",
+        "Tốt. Bạn tập trung vào phần mở đầu nhé."
+      ],
+      [
+        "Sure. I'll send a few comments.",
+        "Được. Tôi sẽ gửi vài nhận xét."
+      ]
+    ],
+    "Q": [
+      [
+        "When is the feedback needed?",
+        "By Friday afternoon."
+      ],
+      [
+        "Which section should receive special attention?",
+        "The introduction."
+      ]
+    ],
+    "GOAL": "Viết và nói lại yêu cầu rõ ràng với mục đích, thời hạn và phản hồi mong muốn.",
+    "GRAMMAR": "Could you review dùng động từ nguyên mẫu. By Friday là hạn chót; until Friday là kéo dài đến thứ Sáu.",
+    "SOUND": "Đọc địa chỉ email bằng at và dot. Khi đọc thời hạn, nhấn BY để người nghe biết đó là mốc cuối.",
+    "REGISTER": "Email thường cần chủ đề rõ, lời chào và một yêu cầu cụ thể. Just checking in lịch sự nhưng không thay thế thông tin cần thiết.",
+    "FIX": [
+      "Please reply until Friday.",
+      "Please reply by Friday."
+    ],
+    "TASK": "Soạn email 80 từ rồi diễn cuộc nói chuyện theo dõi tiến độ, không đọc nguyên email.",
+    "TWIST": "Người nhận chưa thấy tệp đính kèm. Xin lỗi, gửi lại và nhắc thời hạn.",
+    "ex": [
+      [
+        "I'm reaching out about the ______.",
+        "schedule"
+      ],
+      [
+        "Could you review the attached ______?",
+        "file"
+      ],
+      [
+        "Please let me know by ______.",
+        "Friday"
+      ]
+    ]
+  },
+  {
+    "n": 23,
+    "en": "Requests and deadlines",
+    "vi": "Nhờ hỗ trợ và thương lượng thời hạn",
+    "P": [
+      [
+        "Could you give me a hand with this?",
+        "Bạn giúp tôi việc này được không?"
+      ],
+      [
+        "Would you mind taking a look?",
+        "Bạn xem giúp được không?"
+      ],
+      [
+        "How urgent is this?",
+        "Việc này gấp đến mức nào?"
+      ],
+      [
+        "I can do it, but not by today.",
+        "Tôi làm được, nhưng không kịp hôm nay."
+      ],
+      [
+        "Could we push the deadline back a day?",
+        "Chúng ta lùi hạn một ngày được không?"
+      ],
+      [
+        "Which task should I prioritize?",
+        "Tôi nên ưu tiên việc nào?"
+      ]
+    ],
+    "D": [
+      [
+        "Could you help me check these numbers?",
+        "Bạn giúp tôi kiểm tra các số này được không?"
+      ],
+      [
+        "Sure. When do you need it done?",
+        "Được. Bạn cần xong khi nào?"
+      ],
+      [
+        "By the end of the day.",
+        "Trước cuối ngày."
+      ],
+      [
+        "I have a deadline this afternoon. Would tomorrow morning work?",
+        "Chiều nay tôi có hạn chót. Sáng mai có được không?"
+      ],
+      [
+        "Yes, as long as it's before ten.",
+        "Được, miễn là trước mười giờ."
+      ],
+      [
+        "Great. I'll put it first on my list tomorrow.",
+        "Tốt. Ngày mai tôi sẽ ưu tiên nó đầu tiên."
+      ]
+    ],
+    "Q": [
+      [
+        "Why can't the colleague help immediately?",
+        "They have a deadline that afternoon."
+      ],
+      [
+        "What time is the revised deadline?",
+        "Before ten tomorrow morning."
+      ]
+    ],
+    "GOAL": "Đưa yêu cầu cụ thể, từ chối khéo và thống nhất thời hạn khả thi.",
+    "GRAMMAR": "Would you mind theo sau V-ing. Could you theo sau động từ nguyên mẫu. If I finish this first diễn đạt điều kiện thực tế.",
+    "SOUND": "Nhấn phần việc chính và thời hạn. Would you có thể nối nhanh nhưng giữ giọng và độ rõ phù hợp tình huống.",
+    "REGISTER": "Nhờ hỗ trợ cần nói rõ việc, thời lượng và mức ưu tiên. No khi trả lời Would you mind có nghĩa là không phiền, nên dùng câu đầy đủ để rõ ý.",
+    "FIX": [
+      "Would you mind to check this?",
+      "Would you mind checking this?"
+    ],
+    "TASK": "Nhờ hỗ trợ ba việc với mức gấp khác nhau; luyện cả vai người nhờ và người nhận.",
+    "TWIST": "Hai yêu cầu cùng khẩn cấp. Hỏi người phụ trách chốt mức ưu tiên thay vì hứa cả hai.",
+    "ex": [
+      [
+        "Could you give me a hand with ______?",
+        "this"
+      ],
+      [
+        "Would you mind taking a ______?",
+        "look"
+      ],
+      [
+        "How urgent is ______?",
+        "this"
+      ]
+    ]
+  },
+  {
+    "n": 24,
+    "en": "Giving and receiving feedback",
+    "vi": "Góp ý và tiếp nhận góp ý",
+    "P": [
+      [
+        "I liked how clearly you explained the problem.",
+        "Tôi thích cách bạn giải thích vấn đề rõ ràng."
+      ],
+      [
+        "One thing we could improve is the timing.",
+        "Một điều mình có thể cải thiện là thời gian."
+      ],
+      [
+        "Could you give me a specific example?",
+        "Bạn cho tôi ví dụ cụ thể được không?"
+      ],
+      [
+        "I see what you mean.",
+        "Tôi hiểu ý bạn."
+      ],
+      [
+        "I'll keep that in mind next time.",
+        "Lần sau tôi sẽ lưu ý điều đó."
+      ],
+      [
+        "Let's agree on one change to try.",
+        "Mình thống nhất một thay đổi để thử nhé."
+      ]
+    ],
+    "D": [
+      [
+        "Your presentation was clear. Could we talk about the ending?",
+        "Bài trình bày của bạn rõ. Mình nói về phần kết được không?"
+      ],
+      [
+        "Of course. What would you change?",
+        "Được chứ. Bạn muốn đổi điều gì?"
+      ],
+      [
+        "The conclusion felt rushed. A short summary might help.",
+        "Phần kết hơi vội. Tóm tắt ngắn có thể giúp."
+      ],
+      [
+        "That makes sense. I used too much time on the examples.",
+        "Hợp lý. Tôi đã dành quá nhiều thời gian cho ví dụ."
+      ],
+      [
+        "Maybe cut one example and leave a minute for the summary.",
+        "Có thể bỏ một ví dụ và dành một phút cho tóm tắt."
+      ],
+      [
+        "I'll try that in the next session.",
+        "Buổi sau tôi sẽ thử."
+      ]
+    ],
+    "Q": [
+      [
+        "Which part felt rushed?",
+        "The conclusion."
+      ],
+      [
+        "What change is proposed?",
+        "Cut one example and leave a minute for a summary."
+      ]
+    ],
+    "GOAL": "Góp ý cụ thể, hỏi ví dụ và thống nhất một hành động cải thiện.",
+    "GRAMMAR": "Could have theo sau quá khứ phân từ khi nói điều có thể đã làm khác. Suggest theo sau V-ing, không dùng suggest someone to.",
+    "SOUND": "Đặt trọng âm vào hành vi và ví dụ, tránh nhấn YOU theo kiểu trách móc. Dừng để người nghe trả lời.",
+    "REGISTER": "Mô tả việc quan sát được và tác động thay vì đánh giá con người. Could you give me an example giúp tránh hiểu mơ hồ.",
+    "FIX": [
+      "I suggest you to shorten it.",
+      "I suggest that you shorten it."
+    ],
+    "TASK": "Góp ý một bài nói đã ghi âm; nêu hai điểm cụ thể và một thay đổi. Ôn họp và yêu cầu ở tuần 21 đến 23.",
+    "TWIST": "Người nghe không đồng ý. Hỏi lý do, tóm tắt quan điểm của họ và tìm một thử nghiệm nhỏ.",
+    "ex": [
+      [
+        "I liked how clearly you explained the ______.",
+        "problem"
+      ],
+      [
+        "One thing we could improve is the ______.",
+        "timing"
+      ],
+      [
+        "Could you give me a specific ______?",
+        "example"
+      ]
+    ]
+  },
+  {
+    "n": 25,
+    "en": "Job interviews",
+    "vi": "Phỏng vấn việc làm",
+    "P": [
+      [
+        "I have three years of experience in customer support.",
+        "Tôi có ba năm kinh nghiệm hỗ trợ khách hàng."
+      ],
+      [
+        "In my previous role, I handled customer complaints.",
+        "Ở vị trí trước, tôi xử lý khiếu nại khách hàng."
+      ],
+      [
+        "Let me give you a specific example.",
+        "Để tôi đưa một ví dụ cụ thể."
+      ],
+      [
+        "I haven't used that tool yet, but I'm willing to learn.",
+        "Tôi chưa dùng công cụ đó nhưng sẵn sàng học."
+      ],
+      [
+        "What would success look like in the first three months?",
+        "Trong ba tháng đầu, thành công ở vị trí này được đánh giá thế nào?"
+      ],
+      [
+        "Could you tell me more about the team?",
+        "Bạn nói thêm về nhóm được không?"
+      ]
+    ],
+    "D": [
+      [
+        "Tell me about a difficult situation you handled.",
+        "Hãy kể một tình huống khó bạn đã xử lý."
+      ],
+      [
+        "A customer received the wrong item and was upset.",
+        "Một khách nhận sai hàng và không hài lòng."
+      ],
+      [
+        "What did you do?",
+        "Bạn đã làm gì?"
+      ],
+      [
+        "I listened, confirmed the order, and arranged a replacement.",
+        "Tôi lắng nghe, xác nhận đơn và sắp xếp đổi hàng."
+      ],
+      [
+        "What was the outcome?",
+        "Kết quả thế nào?"
+      ],
+      [
+        "The customer received the correct item and thanked our team.",
+        "Khách nhận đúng hàng và cảm ơn nhóm chúng tôi."
+      ]
+    ],
+    "Q": [
+      [
+        "What was wrong with the customer's order?",
+        "They received the wrong item."
+      ],
+      [
+        "What action followed confirming the order?",
+        "Arranging a replacement."
+      ]
+    ],
+    "GOAL": "Giới thiệu kinh nghiệm, kể một ví dụ theo tình huống hành động kết quả và hỏi về vai trò.",
+    "GRAMMAR": "Quá khứ đơn kể việc đã làm; hiện tại hoàn thành tóm tắt kinh nghiệm. Have experience in theo sau danh từ hoặc V-ing.",
+    "SOUND": "Ngắt theo ba cụm khi kể ví dụ. Nhấn hành động của bạn và kết quả; không cố đọc tất cả ở cùng tốc độ.",
+    "REGISTER": "Trả lời bằng kinh nghiệm thật. Nếu chưa có kinh nghiệm trực tiếp, nói rõ và liên hệ kỹ năng có thể chuyển đổi.",
+    "FIX": [
+      "I have experience to handle complaints.",
+      "I have experience in handling complaints."
+    ],
+    "TASK": "Chuẩn bị phần giới thiệu 90 giây và hai ví dụ thật; nói lại không học thuộc từng chữ.",
+    "TWIST": "Bạn được hỏi kỹ năng chưa có. Nói rõ giới hạn, nêu kinh nghiệm liên quan và cách sẽ học.",
+    "ex": [
+      [
+        "I have three years of experience in customer ______.",
+        "support"
+      ],
+      [
+        "In my previous role, I handled customer ______.",
+        "complaints"
+      ],
+      [
+        "Let me give you a specific ______.",
+        "example"
+      ]
+    ]
+  },
+  {
+    "n": 26,
+    "en": "Travel and work challenge",
+    "vi": "Ôn tập du lịch và công việc",
+    "P": [
+      [
+        "My flight has been delayed.",
+        "Chuyến bay của tôi bị hoãn."
+      ],
+      [
+        "I may arrive later than expected.",
+        "Tôi có thể đến muộn hơn dự kiến."
+      ],
+      [
+        "Could we move the meeting online?",
+        "Chúng ta chuyển cuộc họp sang trực tuyến được không?"
+      ],
+      [
+        "I'll send the materials ahead of time.",
+        "Tôi sẽ gửi tài liệu trước."
+      ],
+      [
+        "Let me confirm the revised plan.",
+        "Để tôi xác nhận kế hoạch đã điều chỉnh."
+      ],
+      [
+        "Thanks for being flexible.",
+        "Cảm ơn bạn đã linh hoạt."
+      ]
+    ],
+    "D": [
+      [
+        "My flight has been delayed by two hours.",
+        "Chuyến bay của tôi bị hoãn hai giờ."
+      ],
+      [
+        "Will you still make the afternoon meeting?",
+        "Bạn còn kịp cuộc họp chiều không?"
+      ],
+      [
+        "Probably not. Could I join online?",
+        "Có lẽ không. Tôi tham gia trực tuyến được không?"
+      ],
+      [
+        "Yes. Please send the slides before noon.",
+        "Được. Hãy gửi slide trước trưa."
+      ],
+      [
+        "I'll send them now and test the connection at the hotel.",
+        "Tôi sẽ gửi ngay rồi kiểm tra kết nối ở khách sạn."
+      ],
+      [
+        "Sounds good. Let us know if anything changes.",
+        "Được. Nếu có thay đổi, báo cho chúng tôi nhé."
+      ]
+    ],
+    "Q": [
+      [
+        "How long is the flight delay?",
+        "Two hours."
+      ],
+      [
+        "When should the slides be sent?",
+        "Before noon."
+      ]
+    ],
+    "GOAL": "Xử lý chuỗi tình huống chuyến công tác với thay đổi bất ngờ và trao đổi công việc.",
+    "GRAMMAR": "Ôn hiện tại hoàn thành, quá khứ đơn, yêu cầu lịch sự và by cho hạn chót. Sửa câu ngay khi phát hiện lỗi.",
+    "SOUND": "Luyện số, ngày, giờ và địa chỉ email trong tiếng nói liên tục. Nghe không rõ thì đọc lại toàn bộ thông tin quan trọng.",
+    "REGISTER": "Báo vấn đề kèm tác động và phương án. I'm running late cần thêm thời gian dự kiến thay vì chỉ xin lỗi.",
+    "FIX": [
+      "My flight has delay.",
+      "My flight has been delayed."
+    ],
+    "TASK": "Bài kiểm tra chặng 2: diễn 10 phút gồm hoãn chuyến bay, nhận phòng, đổi lịch họp, báo tiến độ và nhờ hỗ trợ.",
+    "TWIST": "Kết nối ở khách sạn không ổn. Đề xuất hai cách tiếp tục cuộc họp mà vẫn rõ trách nhiệm.",
+    "ex": [
+      [
+        "My flight has been ______.",
+        "delayed"
+      ],
+      [
+        "I may arrive later than ______.",
+        "expected"
+      ],
+      [
+        "Could we move the meeting ______?",
+        "online"
+      ]
+    ]
+  },
+  {
+    "n": 27,
+    "en": "Finding a place to live",
+    "vi": "Tìm và thuê nhà",
+    "P": [
+      [
+        "Is the apartment still available?",
+        "Căn hộ còn cho thuê không?"
+      ],
+      [
+        "Are utilities included in the rent?",
+        "Tiền thuê đã bao gồm điện, nước và các tiện ích chưa?"
+      ],
+      [
+        "How much is the security deposit?",
+        "Tiền đặt cọc là bao nhiêu?"
+      ],
+      [
+        "Could I schedule a viewing?",
+        "Tôi hẹn xem nhà được không?"
+      ],
+      [
+        "How long is the lease?",
+        "Thời hạn hợp đồng thuê là bao lâu?"
+      ],
+      [
+        "I'd like to review the lease first.",
+        "Tôi muốn xem kỹ hợp đồng trước."
+      ]
+    ],
+    "D": [
+      [
+        "Is the one-bedroom apartment still available?",
+        "Căn hộ một phòng ngủ còn không?"
+      ],
+      [
+        "Yes. Would you like to see it on Saturday?",
+        "Còn. Bạn muốn xem vào thứ Bảy không?"
+      ],
+      [
+        "Yes. Are utilities included in the rent?",
+        "Có. Tiền thuê đã gồm các tiện ích chưa?"
+      ],
+      [
+        "Water is included, but electricity isn't.",
+        "Có tiền nước, nhưng chưa có tiền điện."
+      ],
+      [
+        "Thanks. How long is the lease?",
+        "Cảm ơn. Hợp đồng thuê bao lâu?"
+      ],
+      [
+        "Twelve months. I'll send you the details before the viewing.",
+        "Mười hai tháng. Tôi sẽ gửi thông tin trước buổi xem nhà."
+      ]
+    ],
+    "Q": [
+      [
+        "Which utility is included?",
+        "Water is included."
+      ],
+      [
+        "How long is the lease?",
+        "Twelve months."
+      ]
+    ],
+    "GOAL": "Hỏi thông tin thuê nhà, so sánh hai lựa chọn và xác nhận điều kiện trước khi quyết định.",
+    "GRAMMAR": "Is ... included? hỏi khoản đã bao gồm; How much is ...? hỏi chi phí. So sánh: quieter than, closer to, more expensive than.",
+    "SOUND": "Phân biệt rent /rɛnt/ và rented; giữ âm /t/ cuối đủ rõ. Nhấn RENT, UTILITIES, DEPOSIT khi xác nhận tiền.",
+    "REGISTER": "Lease là hợp đồng thuê; security deposit là tiền đặt cọc. Điều kiện tùy nơi: luôn hỏi, không mặc định tiện ích đã bao gồm.",
+    "FIX": [
+      "This apartment is more cheaper.",
+      "This apartment is cheaper."
+    ],
+    "TASK": "Đóng vai cuộc gọi hỏi thuê nhà trong 3 phút: giá, cọc, tiện ích, thời hạn và lịch xem. So sánh với căn thứ hai.",
+    "TWIST": "Căn gần chỗ làm có giá cao hơn; giải thích ưu tiên của bạn và hỏi thêm một khoản phí chưa rõ.",
+    "ex": [
+      [
+        "Is the apartment still ______?",
+        "available"
+      ],
+      [
+        "Are utilities included in the ______?",
+        "rent"
+      ],
+      [
+        "How much is the security ______?",
+        "deposit"
+      ]
+    ]
+  },
+  {
+    "n": 28,
+    "en": "Repairs and maintenance",
+    "vi": "Báo hỏng và sửa chữa",
+    "P": [
+      [
+        "The kitchen sink is leaking.",
+        "Bồn rửa bếp đang rò nước."
+      ],
+      [
+        "The heater isn't working.",
+        "Máy sưởi không hoạt động."
+      ],
+      [
+        "It's been making a strange noise.",
+        "Nó đang phát ra tiếng động lạ."
+      ],
+      [
+        "Could someone take a look at it?",
+        "Có ai đến kiểm tra được không?"
+      ],
+      [
+        "When can the technician come?",
+        "Khi nào kỹ thuật viên đến được?"
+      ],
+      [
+        "I'll be home after four.",
+        "Tôi ở nhà sau bốn giờ."
+      ]
+    ],
+    "D": [
+      [
+        "Hi, I'd like to report a problem with the kitchen sink.",
+        "Chào bạn, tôi muốn báo sự cố ở bồn rửa bếp."
+      ],
+      [
+        "What's happening?",
+        "Đang xảy ra chuyện gì?"
+      ],
+      [
+        "Water is leaking under the cabinet. It started last night.",
+        "Nước rò dưới tủ. Nó bắt đầu tối qua."
+      ],
+      [
+        "Can our technician come tomorrow morning?",
+        "Kỹ thuật viên đến sáng mai được không?"
+      ],
+      [
+        "I'm at work then. Is anything available after four?",
+        "Lúc đó tôi đi làm. Có lịch sau bốn giờ không?"
+      ],
+      [
+        "We have a five o'clock slot. I'll confirm it by email.",
+        "Có lịch lúc năm giờ. Tôi sẽ xác nhận qua email."
+      ]
+    ],
+    "Q": [
+      [
+        "Where is the water leaking?",
+        "Under the cabinet."
+      ],
+      [
+        "What time will the technician come?",
+        "At five o'clock."
+      ]
+    ],
+    "GOAL": "Mô tả sự cố cụ thể, thời điểm bắt đầu và sắp xếp người đến kiểm tra.",
+    "GRAMMAR": "Present perfect với since: It's been leaking since yesterday. Câu lịch sự: Could someone take a look at ...?",
+    "SOUND": "Luyện leaking và clicking: /iː/ dài khác /ɪ/ ngắn. Nhấn thời gian và vị trí để người nghe nhận đúng vấn đề.",
+    "REGISTER": "Maintenance request là yêu cầu bảo trì. Mô tả điều quan sát được thay vì đoán nguyên nhân kỹ thuật.",
+    "FIX": [
+      "It leaking since yesterday.",
+      "It's been leaking since yesterday."
+    ],
+    "TASK": "Gửi tin nhắn báo hỏng trong 60–80 từ rồi diễn cuộc gọi 3 phút để hẹn kiểm tra.",
+    "TWIST": "Nhân viên đến sớm hơn dự kiến khi bạn chưa về. Thương lượng lại lịch và xác nhận cách liên lạc.",
+    "ex": [
+      [
+        "The kitchen sink is ______.",
+        "leaking"
+      ],
+      [
+        "The heater isn't ______.",
+        "working"
+      ],
+      [
+        "It's been making a strange ______.",
+        "noise"
+      ]
+    ]
+  },
+  {
+    "n": 29,
+    "en": "Money and everyday banking",
+    "vi": "Tiền bạc và giao dịch ngân hàng",
+    "P": [
+      [
+        "Is there a monthly fee?",
+        "Có phí hằng tháng không?"
+      ],
+      [
+        "I'd like to check a transaction.",
+        "Tôi muốn kiểm tra một giao dịch."
+      ],
+      [
+        "I don't recognize this charge.",
+        "Tôi không nhận ra khoản thu này."
+      ],
+      [
+        "Could you explain the fee?",
+        "Bạn giải thích khoản phí được không?"
+      ],
+      [
+        "I'm trying to stick to my budget.",
+        "Tôi đang cố chi tiêu trong ngân sách."
+      ],
+      [
+        "I'm saving up for a trip.",
+        "Tôi đang dành dụm cho một chuyến đi."
+      ]
+    ],
+    "D": [
+      [
+        "I'd like to ask about your checking account.",
+        "Tôi muốn hỏi về tài khoản giao dịch của ngân hàng."
+      ],
+      [
+        "Sure. What would you like to know?",
+        "Được. Bạn muốn biết gì?"
+      ],
+      [
+        "Is there a monthly fee?",
+        "Có phí hằng tháng không?"
+      ],
+      [
+        "This account has a five-dollar monthly fee.",
+        "Tài khoản này có phí năm đô mỗi tháng."
+      ],
+      [
+        "Are there any other fees I should know about?",
+        "Có khoản phí nào khác tôi cần biết không?"
+      ],
+      [
+        "I'll show you the fee schedule so you can review it.",
+        "Tôi sẽ cho bạn xem bảng phí để xem kỹ."
+      ]
+    ],
+    "Q": [
+      [
+        "What is the monthly fee?",
+        "Five dollars."
+      ],
+      [
+        "What will the customer review?",
+        "The fee schedule."
+      ]
+    ],
+    "GOAL": "Hỏi về phí, xem giao dịch và giải thích lựa chọn chi tiêu bằng ngôn ngữ rõ ràng.",
+    "GRAMMAR": "How much do you charge for ...?; spend money on ...; save up for ... . Phân biệt fee là phí và fine là tiền phạt.",
+    "SOUND": "Luyện fifteen và fifty, thirteen và thirty: nhấn đuôi -TEEN, nhấn đầu ở số -ty. Đọc lại số tiền để xác nhận.",
+    "REGISTER": "Checking account là tài khoản giao dịch phổ biến ở Mỹ. Không chia sẻ mã PIN hay mã xác thực trong bài tập; dùng số giả.",
+    "FIX": [
+      "I spend too much money for coffee.",
+      "I spend too much money on coffee."
+    ],
+    "TASK": "Giải thích ngân sách tháng với số giả trong 2 phút và hỏi nhân viên ngân hàng ba câu về phí.",
+    "TWIST": "Bạn thấy một giao dịch không nhận ra. Nêu ngày, số tiền giả và hỏi bước xử lý tiếp theo.",
+    "ex": [
+      [
+        "Is there a ______ fee?",
+        "monthly"
+      ],
+      [
+        "I'd like to check a ______.",
+        "transaction"
+      ],
+      [
+        "I don't recognize this ______.",
+        "charge"
+      ]
+    ]
+  },
+  {
+    "n": 30,
+    "en": "At a doctor's appointment",
+    "vi": "Giao tiếp khi khám bệnh",
+    "P": [
+      [
+        "I've had a sore throat for two days.",
+        "Tôi đau họng hai ngày rồi."
+      ],
+      [
+        "The pain comes and goes.",
+        "Cơn đau lúc có lúc không."
+      ],
+      [
+        "It hurts when I swallow.",
+        "Tôi thấy đau khi nuốt."
+      ],
+      [
+        "I'm allergic to penicillin.",
+        "Tôi dị ứng với penicillin."
+      ],
+      [
+        "Could you explain that in simpler terms?",
+        "Bạn giải thích bằng từ dễ hiểu hơn được không?"
+      ],
+      [
+        "Let me make sure I understood.",
+        "Để tôi chắc rằng mình hiểu đúng."
+      ]
+    ],
+    "D": [
+      [
+        "What brings you in today?",
+        "Hôm nay bạn đến khám vì vấn đề gì?"
+      ],
+      [
+        "I've had a sore throat for two days.",
+        "Tôi đau họng hai ngày rồi."
+      ],
+      [
+        "Does it hurt all the time?",
+        "Có đau liên tục không?"
+      ],
+      [
+        "Mostly when I swallow. I'm also feeling tired.",
+        "Chủ yếu khi nuốt. Tôi cũng thấy mệt."
+      ],
+      [
+        "Thanks for explaining. I'll ask a few more questions.",
+        "Cảm ơn bạn đã mô tả. Tôi sẽ hỏi thêm vài câu."
+      ],
+      [
+        "Okay. Please let me know if you need me to clarify anything.",
+        "Được. Nếu cần tôi nói rõ thêm điều gì, xin cho tôi biết."
+      ]
+    ],
+    "Q": [
+      [
+        "How long has the person had a sore throat?",
+        "For two days."
+      ],
+      [
+        "When does it mostly hurt?",
+        "When the person swallows."
+      ]
+    ],
+    "GOAL": "Mô tả triệu chứng, thời gian và mức độ; hỏi lại hướng dẫn bằng lời của mình.",
+    "GRAMMAR": "I've had ... for ... nêu thời gian kéo dài. It hurts when ... mô tả tình huống. Dùng can/could để xin giải thích.",
+    "SOUND": "Phân biệt throat /θroʊt/ và thought /θɔt/ theo giọng đang nghe; luyện /θ/ trong throat bằng luồng hơi nhẹ.",
+    "REGISTER": "Đây là luyện ngôn ngữ, không phải chẩn đoán. Nói chính xác điều bạn biết; yêu cầu interpreter nếu cần hỗ trợ ngôn ngữ.",
+    "FIX": [
+      "I have a sore throat since two days.",
+      "I've had a sore throat for two days."
+    ],
+    "TASK": "Diễn buổi khám giả định 4 phút: vấn đề, lúc bắt đầu, mức độ, dị ứng nếu có và một câu hỏi lại.",
+    "TWIST": "Bạn không hiểu một thuật ngữ. Xin giải thích đơn giản và nhắc lại điều mình hiểu; không tự đoán hướng dẫn.",
+    "ex": [
+      [
+        "I've had a sore throat for two ______.",
+        "days"
+      ],
+      [
+        "The pain comes and ______.",
+        "goes"
+      ],
+      [
+        "It hurts when I ______.",
+        "swallow"
+      ]
+    ]
+  },
+  {
+    "n": 31,
+    "en": "At the pharmacy",
+    "vi": "Hỏi tại nhà thuốc",
+    "P": [
+      [
+        "I'm here to pick up a prescription.",
+        "Tôi đến lấy thuốc theo đơn."
+      ],
+      [
+        "Is it ready for pickup?",
+        "Thuốc đã sẵn để nhận chưa?"
+      ],
+      [
+        "Could you go over the instructions with me?",
+        "Bạn giải thích lại hướng dẫn cho tôi được không?"
+      ],
+      [
+        "What does this warning mean?",
+        "Cảnh báo này có nghĩa gì?"
+      ],
+      [
+        "Should I ask my doctor about that?",
+        "Tôi có nên hỏi bác sĩ về việc đó không?"
+      ],
+      [
+        "Could you write that down for me?",
+        "Bạn viết điều đó ra giúp tôi được không?"
+      ]
+    ],
+    "D": [
+      [
+        "I'm here to pick up a prescription for Alex Nguyen.",
+        "Tôi đến lấy thuốc theo đơn của Alex Nguyen."
+      ],
+      [
+        "Let me check. It's ready.",
+        "Để tôi kiểm tra. Thuốc đã sẵn rồi."
+      ],
+      [
+        "Could I speak to the pharmacist about the label?",
+        "Tôi nói với dược sĩ về nhãn thuốc được không?"
+      ],
+      [
+        "Of course. What would you like to clarify?",
+        "Được chứ. Bạn muốn làm rõ điều gì?"
+      ],
+      [
+        "I'm not sure what this warning means.",
+        "Tôi chưa rõ cảnh báo này nghĩa gì."
+      ],
+      [
+        "The pharmacist can go over it with you.",
+        "Dược sĩ có thể giải thích cho bạn."
+      ]
+    ],
+    "Q": [
+      [
+        "Whose prescription is being collected?",
+        "Alex Nguyen's prescription."
+      ],
+      [
+        "Who can explain the warning?",
+        "The pharmacist."
+      ]
+    ],
+    "GOAL": "Nhận thuốc theo đơn, hỏi dược sĩ để làm rõ nhãn và xác nhận thông tin còn thiếu.",
+    "GRAMMAR": "Is this the same as ...? hỏi sự tương đương; Does it need to ...? hỏi yêu cầu; How often ...? hỏi tần suất.",
+    "SOUND": "Luyện prescription theo cụm pre-SCRIP-tion; đừng bỏ cụm /skr/. Nói chậm khi đọc tên riêng hoặc tên thuốc.",
+    "REGISTER": "Pharmacist là dược sĩ; prescription là đơn thuốc; refill là cấp thêm theo đơn. Hỏi người chuyên môn, không tự suy ra liều từ ví dụ.",
+    "FIX": [
+      "Could you explain me the label?",
+      "Could you explain the label to me?"
+    ],
+    "TASK": "Luyện cuộc trao đổi 3 phút với nhãn giả: xin gặp dược sĩ, hỏi từ không hiểu, xin ghi lại và xác nhận.",
+    "TWIST": "Tên trên túi khác tên bạn. Báo ngay sự khác biệt và nhờ kiểm tra trước khi nhận.",
+    "ex": [
+      [
+        "I'm here to pick up a ______.",
+        "prescription"
+      ],
+      [
+        "Is it ready for ______?",
+        "pickup"
+      ],
+      [
+        "Could you go over the instructions ______ me?",
+        "with"
+      ]
+    ]
+  },
+  {
+    "n": 32,
+    "en": "Getting help in an urgent situation",
+    "vi": "Nhờ giúp đỡ khi có sự cố khẩn cấp",
+    "P": [
+      [
+        "I need help right away.",
+        "Tôi cần giúp đỡ ngay."
+      ],
+      [
+        "There's been an accident.",
+        "Đã xảy ra một vụ tai nạn."
+      ],
+      [
+        "We're at the corner of Oak and Third.",
+        "Chúng tôi ở góc đường Oak và Third."
+      ],
+      [
+        "Someone is injured.",
+        "Có người bị thương."
+      ],
+      [
+        "I don't know the exact address.",
+        "Tôi không biết địa chỉ chính xác."
+      ],
+      [
+        "Could you repeat the question?",
+        "Bạn nhắc lại câu hỏi được không?"
+      ]
+    ],
+    "D": [
+      [
+        "What's the location of the incident?",
+        "Sự việc xảy ra ở đâu?"
+      ],
+      [
+        "We're at the corner of Oak and Third, outside a grocery store.",
+        "Chúng tôi ở góc Oak và Third, ngoài một cửa hàng thực phẩm."
+      ],
+      [
+        "Tell me what's happening.",
+        "Hãy nói chuyện gì đang xảy ra."
+      ],
+      [
+        "Two bikes collided, and someone is injured.",
+        "Hai xe đạp va vào nhau và có người bị thương."
+      ],
+      [
+        "Is the person able to speak?",
+        "Người đó nói được không?"
+      ],
+      [
+        "Yes. I'm staying on the line and listening to your instructions.",
+        "Có. Tôi đang giữ máy và nghe hướng dẫn của bạn."
+      ]
+    ],
+    "Q": [
+      [
+        "Where did the incident happen?",
+        "At the corner of Oak and Third."
+      ],
+      [
+        "What collided?",
+        "Two bikes."
+      ]
+    ],
+    "GOAL": "Nói vị trí, chuyện đang xảy ra và thông tin chắc chắn một cách ngắn gọn.",
+    "GRAMMAR": "There is/There are để báo tình huống; someone is ... để mô tả hiện tại. I don't know khi không chắc.",
+    "SOUND": "Chia địa chỉ thành cụm: số nhà / tên đường / thành phố; đọc từng chữ nếu được hỏi. Ưu tiên rõ hơn nhanh.",
+    "REGISTER": "Luyện đóng vai, không gọi số thật. Trong tình huống thật, làm theo hướng dẫn của người điều phối và nói rõ điều chưa biết.",
+    "FIX": [
+      "There have an accident.",
+      "There's been an accident."
+    ],
+    "TASK": "Với bạn học, đóng vai cuộc báo sự cố 90 giây: vị trí giả, sự việc, điều biết và điều chưa biết.",
+    "TWIST": "Bạn không biết số nhà. Dùng giao lộ và dấu mốc dễ thấy; trả lời từng câu hỏi, không bịa thông tin.",
+    "ex": [
+      [
+        "I need help right ______.",
+        "away"
+      ],
+      [
+        "There's been an ______.",
+        "accident"
+      ],
+      [
+        "We're at the corner of Oak and ______.",
+        "Third"
+      ]
+    ]
+  },
+  {
+    "n": 33,
+    "en": "Fitness and sports",
+    "vi": "Vận động và thể thao",
+    "P": [
+      [
+        "How often do you work out?",
+        "Bạn tập thể dục bao lâu một lần?"
+      ],
+      [
+        "I'm looking for a beginner-friendly class.",
+        "Tôi tìm một lớp phù hợp người mới."
+      ],
+      [
+        "I'd rather go for a walk.",
+        "Tôi thích đi bộ hơn."
+      ],
+      [
+        "Is any equipment provided?",
+        "Có cung cấp dụng cụ không?"
+      ],
+      [
+        "Let's take it at our own pace.",
+        "Mình cứ theo nhịp phù hợp với bản thân."
+      ],
+      [
+        "I'm not very competitive.",
+        "Tôi không thích cạnh tranh lắm."
+      ]
+    ],
+    "D": [
+      [
+        "Want to play basketball on Saturday?",
+        "Thứ Bảy bạn muốn chơi bóng rổ không?"
+      ],
+      [
+        "I'd like to, but I'm a beginner.",
+        "Tôi muốn, nhưng tôi mới tập."
+      ],
+      [
+        "That's fine. It's just a casual game.",
+        "Không sao. Chỉ là trận chơi vui thôi."
+      ],
+      [
+        "Do I need to bring anything?",
+        "Tôi cần mang gì không?"
+      ],
+      [
+        "Just comfortable shoes and some water.",
+        "Chỉ cần giày thoải mái và ít nước."
+      ],
+      [
+        "Great. Let's take it at our own pace.",
+        "Tuyệt. Mình cứ chơi theo nhịp phù hợp nhé."
+      ]
+    ],
+    "Q": [
+      [
+        "Is the game competitive or casual?",
+        "It's casual."
+      ],
+      [
+        "What should the beginner bring?",
+        "Comfortable shoes and water."
+      ]
+    ],
+    "GOAL": "Hỏi về lớp tập, nói sở thích vận động và cùng bạn chọn một hoạt động phù hợp.",
+    "GRAMMAR": "I'd rather + động từ nguyên mẫu; prefer ... to ...; How often do you ...? hỏi tần suất.",
+    "SOUND": "Luyện work out và walk: giữ /r/ trong work ở giọng Mỹ có /r/. Nhấn hoạt động và tần suất.",
+    "REGISTER": "Work out là tập thể dục; warm up là khởi động; pick-up game là trận chơi tự phát. Không mặc định ai cũng thích thi đấu.",
+    "FIX": [
+      "I prefer walking than running.",
+      "I prefer walking to running."
+    ],
+    "TASK": "So sánh đi bộ, bơi và một lớp tập trong 3 phút; chọn hoạt động cùng bạn và hỏi điều cần chuẩn bị.",
+    "TWIST": "Bạn không thích thi đấu còn người kia thích. Đề xuất cách cả hai vẫn tham gia vui vẻ.",
+    "ex": [
+      [
+        "How often do you ______ out?",
+        "work"
+      ],
+      [
+        "I'm looking for a beginner-friendly ______.",
+        "class"
+      ],
+      [
+        "I'd rather go for a ______.",
+        "walk"
+      ]
+    ]
+  },
+  {
+    "n": 34,
+    "en": "Hobbies, movies, and friendships",
+    "vi": "Sở thích, phim và kết bạn",
+    "P": [
+      [
+        "What do you do for fun?",
+        "Bạn thường làm gì để giải trí?"
+      ],
+      [
+        "I'm really into photography.",
+        "Tôi rất thích nhiếp ảnh."
+      ],
+      [
+        "How did you get into that?",
+        "Bạn bắt đầu thích việc đó như thế nào?"
+      ],
+      [
+        "What kind of movies do you like?",
+        "Bạn thích loại phim nào?"
+      ],
+      [
+        "I'd recommend this one.",
+        "Tôi gợi ý bộ này."
+      ],
+      [
+        "I won't spoil the ending.",
+        "Tôi sẽ không tiết lộ kết thúc."
+      ]
+    ],
+    "D": [
+      [
+        "What do you do for fun?",
+        "Bạn làm gì để giải trí?"
+      ],
+      [
+        "I'm really into photography, especially street photography.",
+        "Tôi rất thích nhiếp ảnh, nhất là chụp đường phố."
+      ],
+      [
+        "How did you get into that?",
+        "Bạn bắt đầu thích nó như thế nào?"
+      ],
+      [
+        "A friend lent me a camera last year. How about you?",
+        "Một người bạn cho tôi mượn máy ảnh năm ngoái. Còn bạn?"
+      ],
+      [
+        "I watch movies. Have you seen any good ones lately?",
+        "Tôi xem phim. Gần đây bạn xem phim nào hay không?"
+      ],
+      [
+        "Yes. I can recommend one, and I won't spoil the ending.",
+        "Có. Tôi giới thiệu một bộ được, và sẽ không kể kết thúc."
+      ]
+    ],
+    "Q": [
+      [
+        "When did the friend lend the camera?",
+        "Last year."
+      ],
+      [
+        "What does the other person enjoy?",
+        "Watching movies."
+      ]
+    ],
+    "GOAL": "Mở rộng chuyện trò về sở thích bằng câu hỏi tiếp nối và một lời giới thiệu có lý do.",
+    "GRAMMAR": "What kind of ...? hỏi loại; be into + danh từ/V-ing diễn tả thích; recommend + danh từ/V-ing.",
+    "SOUND": "Trong What are you into?, nghe các từ nhỏ nối nhau nhưng luyện chậm trước. Nhấn WHAT và INTO theo ý hỏi.",
+    "REGISTER": "I'm into ... thân mật; I'm interested in ... trung tính. Khi nói phim, hỏi có muốn nghe nội dung trước khi tiết lộ kết thúc.",
+    "FIX": [
+      "I recommend you to watch this movie.",
+      "I recommend watching this movie."
+    ],
+    "TASK": "Nói chuyện sở thích 4 phút; mỗi người hỏi ít nhất ba câu tiếp nối rồi gợi ý một hoạt động có lý do.",
+    "TWIST": "Bạn chưa từng nghe về sở thích của người kia. Nhờ họ giải thích và tìm một điểm chung.",
+    "ex": [
+      [
+        "______ do you do for fun?",
+        "What"
+      ],
+      [
+        "I'm really into ______.",
+        "photography"
+      ],
+      [
+        "How did you get into ______?",
+        "that"
+      ]
+    ]
+  },
+  {
+    "n": 35,
+    "en": "Invitations and polite refusals",
+    "vi": "Mời, nhận lời và từ chối lịch sự",
+    "P": [
+      [
+        "Would you like to join us?",
+        "Bạn muốn tham gia cùng chúng tôi không?"
+      ],
+      [
+        "Thanks for inviting me.",
+        "Cảm ơn bạn đã mời tôi."
+      ],
+      [
+        "I'd love to, but I already have plans.",
+        "Tôi rất muốn, nhưng đã có kế hoạch rồi."
+      ],
+      [
+        "Could we do another day?",
+        "Mình chọn hôm khác được không?"
+      ],
+      [
+        "How about next weekend?",
+        "Cuối tuần sau thì sao?"
+      ],
+      [
+        "I can stay for about an hour.",
+        "Tôi ở lại khoảng một giờ được."
+      ]
+    ],
+    "D": [
+      [
+        "We're having dinner on Friday. Would you like to join us?",
+        "Tối thứ Sáu chúng tôi ăn tối cùng nhau. Bạn tham gia không?"
+      ],
+      [
+        "Thanks for inviting me. I'd love to, but I already have plans.",
+        "Cảm ơn đã mời. Tôi rất muốn nhưng đã có kế hoạch rồi."
+      ],
+      [
+        "No problem. Maybe another time?",
+        "Không sao. Để dịp khác nhé?"
+      ],
+      [
+        "How about next weekend?",
+        "Cuối tuần sau thì sao?"
+      ],
+      [
+        "Saturday works for me.",
+        "Thứ Bảy tôi được."
+      ],
+      [
+        "Great. Let's check with everyone else.",
+        "Tuyệt. Mình hỏi mọi người còn lại nhé."
+      ]
+    ],
+    "Q": [
+      [
+        "Why can't the person come on Friday?",
+        "They already have plans."
+      ],
+      [
+        "Which day works for the other person?",
+        "Saturday."
+      ]
+    ],
+    "GOAL": "Nhận hoặc từ chối lời mời rõ ràng; đề xuất dịp khác mà không phải giải thích quá nhiều.",
+    "GRAMMAR": "Would you like to ...?; I'd love to, but ...; How about + V-ing/danh từ để gợi ý phương án.",
+    "SOUND": "I'd love to thường có to nhẹ; giữ LOVE rõ. Ngữ điệu ấm ở lời cảm ơn, dứt khoát ở giới hạn thời gian.",
+    "REGISTER": "Rain check dùng thân mật khi muốn hẹn dịp khác. Nếu không muốn hẹn, chỉ cảm ơn và từ chối lịch sự, tránh hứa giả.",
+    "FIX": [
+      "How about to meet next weekend?",
+      "How about meeting next weekend?"
+    ],
+    "TASK": "Luyện ba phiên bản: nhận lời, từ chối có hẹn lại, từ chối không hẹn lại. Mỗi phiên bản khoảng một phút.",
+    "TWIST": "Người kia mời thêm lần nữa sau khi bạn đã từ chối. Nhắc lại quyết định thân thiện và rõ ràng.",
+    "ex": [
+      [
+        "Would you like to ______ us?",
+        "join"
+      ],
+      [
+        "Thanks for ______ me.",
+        "inviting"
+      ],
+      [
+        "I'd love to, but I already have ______.",
+        "plans"
+      ]
+    ]
+  },
+  {
+    "n": 36,
+    "en": "Hosting and celebrations",
+    "vi": "Đón khách và các dịp gặp mặt",
+    "P": [
+      [
+        "Make yourself at home.",
+        "Bạn cứ tự nhiên nhé."
+      ],
+      [
+        "Can I bring anything?",
+        "Tôi mang gì đến được không?"
+      ],
+      [
+        "Do you have any dietary restrictions?",
+        "Bạn có yêu cầu hoặc hạn chế ăn uống nào không?"
+      ],
+      [
+        "Would you like some more?",
+        "Bạn muốn thêm một ít không?"
+      ],
+      [
+        "Let me help with the dishes.",
+        "Để tôi giúp rửa bát."
+      ],
+      [
+        "Thanks for having me.",
+        "Cảm ơn bạn đã đón tôi."
+      ]
+    ],
+    "D": [
+      [
+        "Thanks for having me. Can I put this dessert in the kitchen?",
+        "Cảm ơn đã đón tôi. Tôi để món tráng miệng này trong bếp nhé?"
+      ],
+      [
+        "Of course. Make yourself at home.",
+        "Được chứ. Bạn cứ tự nhiên."
+      ],
+      [
+        "It smells great. Do you need any help?",
+        "Thơm quá. Bạn cần giúp gì không?"
+      ],
+      [
+        "Could you set the table? The plates are over there.",
+        "Bạn dọn bàn được không? Đĩa ở đằng kia."
+      ],
+      [
+        "Sure. Just so you know, I don't eat meat.",
+        "Được. Tôi báo trước là tôi không ăn thịt."
+      ],
+      [
+        "Thanks for letting me know. We have a vegetable dish too.",
+        "Cảm ơn bạn đã nói. Chúng tôi cũng có món rau."
+      ]
+    ],
+    "Q": [
+      [
+        "What did the guest bring?",
+        "Dessert."
+      ],
+      [
+        "What help does the host request?",
+        "Setting the table."
+      ]
+    ],
+    "GOAL": "Đón khách, hỏi nhu cầu ăn uống và đề nghị giúp đỡ trong một buổi gặp mặt.",
+    "GRAMMAR": "Would you like some ...? mời đồ; Do you need any ...? hỏi nhu cầu; help with + danh từ.",
+    "SOUND": "Luyện help /hɛlp/ và host /hoʊst/; không bỏ /h/. Nhấn SOME khi mời thêm, dùng ngữ điệu nhẹ nhàng.",
+    "REGISTER": "Potluck là buổi mọi người mang món ăn chia sẻ. RSVP là phản hồi có tham dự; hỏi chủ nhà nếu chưa rõ kỳ vọng.",
+    "FIX": [
+      "Thanks for have me.",
+      "Thanks for having me."
+    ],
+    "TASK": "Đóng vai buổi gặp mặt 4 phút: chào, mang món, hỏi nhu cầu, mời thêm và chào về.",
+    "TWIST": "Một món không phù hợp chế độ ăn của bạn. Từ chối nhẹ nhàng và hỏi lựa chọn khác.",
+    "ex": [
+      [
+        "Make yourself at ______.",
+        "home"
+      ],
+      [
+        "Can I bring ______?",
+        "anything"
+      ],
+      [
+        "Do you have any dietary ______?",
+        "restrictions"
+      ]
+    ]
+  },
+  {
+    "n": 37,
+    "en": "Dating and personal boundaries",
+    "vi": "Hẹn hò và giới hạn cá nhân",
+    "P": [
+      [
+        "Would you like to grab coffee sometime?",
+        "Bạn muốn đi uống cà phê lúc nào đó không?"
+      ],
+      [
+        "I'd like to get to know you better.",
+        "Tôi muốn hiểu bạn hơn."
+      ],
+      [
+        "I'd rather meet in a public place.",
+        "Tôi muốn gặp ở nơi công cộng hơn."
+      ],
+      [
+        "I'm not comfortable with that.",
+        "Tôi không thoải mái với việc đó."
+      ],
+      [
+        "No pressure. It's completely up to you.",
+        "Không có áp lực gì. Bạn hoàn toàn tự quyết định."
+      ],
+      [
+        "Thanks for being honest with me.",
+        "Cảm ơn bạn đã nói thật với tôi."
+      ]
+    ],
+    "D": [
+      [
+        "Would you like to grab coffee sometime?",
+        "Bạn muốn đi uống cà phê lúc nào đó không?"
+      ],
+      [
+        "That sounds nice. I'd rather meet during the day.",
+        "Nghe hay đó. Tôi muốn gặp vào ban ngày hơn."
+      ],
+      [
+        "Sure. How about the café near the library on Saturday?",
+        "Được. Quán gần thư viện vào thứ Bảy nhé?"
+      ],
+      [
+        "That works. I can stay for about an hour.",
+        "Được. Tôi ở khoảng một giờ được."
+      ],
+      [
+        "No problem. Does eleven work for you?",
+        "Không sao. Mười một giờ bạn được không?"
+      ],
+      [
+        "Yes. Thanks for checking.",
+        "Được. Cảm ơn bạn đã hỏi."
+      ]
+    ],
+    "Q": [
+      [
+        "When would the person rather meet?",
+        "During the day."
+      ],
+      [
+        "How long can the person stay?",
+        "About an hour."
+      ]
+    ],
+    "GOAL": "Đề xuất một cuộc hẹn, nói mong muốn và tôn trọng câu trả lời của người kia.",
+    "GRAMMAR": "I'd like to ... nói mong muốn; I'm not comfortable with ... đặt giới hạn; would rather + động từ nêu lựa chọn.",
+    "SOUND": "Luyện comfortable theo giọng Mỹ thường nghe, khoảng ba âm tiết; đừng ép âm theo từng chữ. Nhấn NOT khi nêu giới hạn.",
+    "REGISTER": "Giữ câu trực tiếp, lịch sự. No và I'm not interested cần được tôn trọng; không dùng lời nài ép làm bài luyện.",
+    "FIX": [
+      "It's up for you.",
+      "It's up to you."
+    ],
+    "TASK": "Luyện đề xuất hẹn hai phút rồi luyện từ chối hoặc nêu giới hạn. Người nghe xác nhận và tôn trọng quyết định.",
+    "TWIST": "Bạn đổi ý về thời gian hoặc hoạt động. Nói rõ mong muốn mới, cho người kia quyền từ chối.",
+    "ex": [
+      [
+        "Would you like to grab coffee ______?",
+        "sometime"
+      ],
+      [
+        "I'd like to get to know you ______.",
+        "better"
+      ],
+      [
+        "I'd rather meet in a public ______.",
+        "place"
+      ]
+    ]
+  },
+  {
+    "n": 38,
+    "en": "Resolving everyday disagreements",
+    "vi": "Giải quyết bất đồng hằng ngày",
+    "P": [
+      [
+        "Could we talk about something?",
+        "Mình nói về một chuyện được không?"
+      ],
+      [
+        "The noise has been keeping me awake.",
+        "Tiếng ồn đang làm tôi không ngủ được."
+      ],
+      [
+        "I see where you're coming from.",
+        "Tôi hiểu cách bạn nhìn nhận chuyện đó."
+      ],
+      [
+        "Could we agree on a quiet time?",
+        "Mình thống nhất giờ yên tĩnh được không?"
+      ],
+      [
+        "What would work for both of us?",
+        "Phương án nào phù hợp cả hai?"
+      ],
+      [
+        "Let's try that and check in next week.",
+        "Mình thử cách đó rồi trao đổi lại tuần sau."
+      ]
+    ],
+    "D": [
+      [
+        "Could we talk about the music at night?",
+        "Mình nói về nhạc buổi tối được không?"
+      ],
+      [
+        "Sure. Has it been bothering you?",
+        "Được. Nó có làm bạn khó chịu không?"
+      ],
+      [
+        "Yes. I get up early, and the noise keeps me awake.",
+        "Có. Tôi dậy sớm, và tiếng ồn làm tôi không ngủ được."
+      ],
+      [
+        "I didn't realize. Would turning it down after nine help?",
+        "Tôi không biết. Giảm âm lượng sau chín giờ có giúp không?"
+      ],
+      [
+        "Yes, thanks. Could you use headphones after ten?",
+        "Có, cảm ơn. Sau mười giờ bạn dùng tai nghe được không?"
+      ],
+      [
+        "That sounds fair. Let's try it this week.",
+        "Hợp lý đó. Mình thử tuần này nhé."
+      ]
+    ],
+    "Q": [
+      [
+        "Why does the noise cause a problem?",
+        "The person gets up early and cannot sleep."
+      ],
+      [
+        "What is suggested after ten?",
+        "Using headphones."
+      ]
+    ],
+    "GOAL": "Nêu vấn đề không công kích, lắng nghe cách nhìn khác và thống nhất một thay đổi cụ thể.",
+    "GRAMMAR": "When ... , I ... mô tả tác động; Could we agree on ...? đề xuất; avoid always/never nếu không có căn cứ.",
+    "SOUND": "Dùng khoảng dừng sau câu nêu vấn đề. Nhấn hành vi và thời gian, tránh nhấn YOU liên tục làm giọng buộc tội.",
+    "REGISTER": "I statements tập trung trải nghiệm của mình. Clear boundaries và compromise không có nghĩa phải đồng ý mọi yêu cầu.",
+    "FIX": [
+      "The noise keeps me to wake.",
+      "The noise keeps me awake."
+    ],
+    "TASK": "Diễn một bất đồng 5 phút về tiếng ồn hoặc việc nhà: sự việc, tác động, lắng nghe, đề xuất và xác nhận.",
+    "TWIST": "Người kia thấy đề xuất quá khó. Tìm phương án khác nhưng giữ giới hạn quan trọng của bạn.",
+    "ex": [
+      [
+        "Could we talk about ______?",
+        "something"
+      ],
+      [
+        "The noise has been keeping me ______.",
+        "awake"
+      ],
+      [
+        "I see where you're coming ______.",
+        "from"
+      ]
+    ]
+  },
+  {
+    "n": 39,
+    "en": "Everyday life challenge",
+    "vi": "Ôn chặng 3: tự lập trong đời sống",
+    "P": [
+      [
+        "I've been dealing with a few things this week.",
+        "Tuần này tôi đang phải xử lý vài việc."
+      ],
+      [
+        "Let me explain what happened.",
+        "Để tôi kể chuyện đã xảy ra."
+      ],
+      [
+        "Could we look at a couple of options?",
+        "Mình xem vài phương án được không?"
+      ],
+      [
+        "My main concern is the timing.",
+        "Điều tôi lo nhất là thời gian."
+      ],
+      [
+        "If that doesn't work, I'll try another option.",
+        "Nếu cách đó không được, tôi sẽ thử phương án khác."
+      ],
+      [
+        "Let me summarize what we've agreed on.",
+        "Để tôi tóm tắt điều mình đã thống nhất."
+      ]
+    ],
+    "D": [
+      [
+        "How's the new apartment working out?",
+        "Căn hộ mới thế nào rồi?"
+      ],
+      [
+        "It's good, but the heater hasn't worked since Monday.",
+        "Ổn, nhưng máy sưởi không hoạt động từ thứ Hai."
+      ],
+      [
+        "Have you contacted maintenance?",
+        "Bạn liên hệ bảo trì chưa?"
+      ],
+      [
+        "Yes. They can come Friday, but I have an appointment then.",
+        "Rồi. Họ đến thứ Sáu được, nhưng lúc đó tôi có hẹn."
+      ],
+      [
+        "Could you ask for an afternoon visit?",
+        "Bạn nhờ họ đến buổi chiều được không?"
+      ],
+      [
+        "I'll try. If that doesn't work, I'll reschedule the appointment.",
+        "Tôi sẽ thử. Nếu không được, tôi sẽ đổi lịch hẹn."
+      ]
+    ],
+    "Q": [
+      [
+        "Since when has the heater not worked?",
+        "Since Monday."
+      ],
+      [
+        "What is the first alternative?",
+        "Asking for an afternoon visit."
+      ]
+    ],
+    "GOAL": "Kết hợp nhà ở, tiền bạc, sức khỏe và giao tiếp xã hội trong cuộc trò chuyện có đổi tình huống.",
+    "GRAMMAR": "Ôn present perfect với for/since; câu hỏi làm rõ; I'd rather; điều kiện if + hiện tại, will + động từ.",
+    "SOUND": "Thu âm rồi đánh dấu chỗ thiếu âm cuối, số chưa rõ và câu quá dài. Luyện lại theo cụm, không tăng tốc bằng mọi giá.",
+    "REGISTER": "Thay vì nhớ kịch bản cố định, chuẩn bị mục tiêu và thông tin. Dùng Let me think để giữ lượt khi cần suy nghĩ.",
+    "FIX": [
+      "It hasn't worked from Monday.",
+      "It hasn't worked since Monday."
+    ],
+    "TASK": "Bài kiểm tra chặng 3: nói 10 phút qua bốn cảnh — báo hỏng, hỏi phí, hỏi lại hướng dẫn và đổi một lời mời.",
+    "TWIST": "Người nghe thêm hai chi tiết bất ngờ. Hỏi làm rõ, chọn phương án và tóm tắt cam kết cuối mỗi cảnh.",
+    "ex": [
+      [
+        "I've been dealing with a few things this ______.",
+        "week"
+      ],
+      [
+        "Let me explain what ______.",
+        "happened"
+      ],
+      [
+        "Could we look at a couple of ______?",
+        "options"
+      ]
+    ]
+  },
+  {
+    "n": 40,
+    "en": "Telling stories and memories",
+    "vi": "Kể chuyện và kỷ niệm",
+    "P": [
+      [
+        "I'll never forget the time I got lost.",
+        "Tôi sẽ không quên lần mình bị lạc."
+      ],
+      [
+        "At first, I thought it was the right bus.",
+        "Lúc đầu, tôi nghĩ đó là đúng xe buýt."
+      ],
+      [
+        "I was looking at my phone when I missed my stop.",
+        "Tôi đang nhìn điện thoại thì đi quá trạm."
+      ],
+      [
+        "Guess what happened next.",
+        "Đoán xem chuyện gì xảy ra tiếp theo."
+      ],
+      [
+        "Luckily, someone helped me out.",
+        "May là có người giúp tôi."
+      ],
+      [
+        "Looking back, it was pretty funny.",
+        "Nhìn lại thì chuyện khá buồn cười."
+      ]
+    ],
+    "D": [
+      [
+        "I'll never forget my first day in the city.",
+        "Tôi sẽ không quên ngày đầu ở thành phố."
+      ],
+      [
+        "What happened?",
+        "Có chuyện gì vậy?"
+      ],
+      [
+        "I was looking at my phone when I missed my bus stop.",
+        "Tôi đang nhìn điện thoại thì đi quá trạm xe buýt."
+      ],
+      [
+        "Oh no. How did you get back?",
+        "Ôi. Bạn quay lại bằng cách nào?"
+      ],
+      [
+        "A passenger showed me where to change buses.",
+        "Một hành khách chỉ tôi chỗ đổi xe."
+      ],
+      [
+        "That was kind of them. At least you have a good story now.",
+        "Họ tử tế thật. Ít nhất giờ bạn có một câu chuyện hay."
+      ]
+    ],
+    "Q": [
+      [
+        "Why did the person miss the stop?",
+        "They were looking at their phone."
+      ],
+      [
+        "Who helped the person?",
+        "A passenger."
+      ]
+    ],
+    "GOAL": "Kể một trải nghiệm 2–3 phút có mở đầu, trình tự, điểm bất ngờ và kết quả.",
+    "GRAMMAR": "Past continuous làm nền; past simple kể sự kiện: I was walking when I saw ... . Dùng at first, then, eventually.",
+    "SOUND": "Đuôi -ed có ba cách /t/, /d/, /ɪd/: walked, called, waited. Chỉ thêm âm tiết ở những từ cần /ɪd/.",
+    "REGISTER": "Guess what happened? tạo tò mò trong chuyện thân mật. Kể ngắn trước, thêm chi tiết khi người nghe hỏi.",
+    "FIX": [
+      "I was look at my phone.",
+      "I was looking at my phone."
+    ],
+    "TASK": "Kể kỷ niệm thật hoặc hư cấu 3 phút. Người nghe hỏi ba câu; bạn bổ sung chi tiết mà không đọc bài viết.",
+    "TWIST": "Người nghe ngắt để hỏi điều chưa rõ. Trả lời rồi quay lại mạch chuyện bằng Anyway hoặc So, where was I?",
+    "ex": [
+      [
+        "I'll never forget the time I got ______.",
+        "lost"
+      ],
+      [
+        "At first, I thought it was the ______ bus.",
+        "right"
+      ],
+      [
+        "I was looking at my phone when I missed my ______.",
+        "stop"
+      ]
+    ]
+  },
+  {
+    "n": 41,
+    "en": "Opinions and recommendations",
+    "vi": "Nêu ý kiến và gợi ý",
+    "P": [
+      [
+        "What matters most to you?",
+        "Điều gì quan trọng nhất với bạn?"
+      ],
+      [
+        "I'd say this is the better option.",
+        "Tôi nghĩ đây là phương án tốt hơn."
+      ],
+      [
+        "It depends on your budget.",
+        "Còn tùy ngân sách của bạn."
+      ],
+      [
+        "One downside is the long commute.",
+        "Một nhược điểm là đường đi làm xa."
+      ],
+      [
+        "It's worth checking out.",
+        "Đáng tìm hiểu hoặc thử đấy."
+      ],
+      [
+        "I can see why you'd prefer the other one.",
+        "Tôi hiểu vì sao bạn thích lựa chọn kia hơn."
+      ]
+    ],
+    "D": [
+      [
+        "Which neighborhood would you recommend?",
+        "Bạn gợi ý khu nào?"
+      ],
+      [
+        "What matters most to you: price or location?",
+        "Điều gì quan trọng hơn: giá hay vị trí?"
+      ],
+      [
+        "Location. I'd like to walk to work.",
+        "Vị trí. Tôi muốn đi bộ đến chỗ làm."
+      ],
+      [
+        "Then I'd suggest Downtown. One downside is the higher rent.",
+        "Vậy tôi gợi ý Downtown. Một nhược điểm là tiền thuê cao hơn."
+      ],
+      [
+        "Is it noisy at night?",
+        "Ban đêm có ồn không?"
+      ],
+      [
+        "Some streets are. It's worth visiting at different times.",
+        "Một số đường có. Bạn nên đến xem vào các thời điểm khác nhau."
+      ]
+    ],
+    "Q": [
+      [
+        "What matters most to the person?",
+        "Location."
+      ],
+      [
+        "What downside is mentioned?",
+        "Higher rent."
+      ]
+    ],
+    "GOAL": "Đưa ra lựa chọn có lý do, cân nhắc ưu nhược điểm và điều chỉnh gợi ý theo nhu cầu người nghe.",
+    "GRAMMAR": "If you're looking for ... , I'd suggest ...; worth + V-ing; depends on + danh từ/câu hỏi.",
+    "SOUND": "Nhấn đối lập: CHEAPER but FARTHER; QUIETER but SMALLER. Dùng khoảng dừng trước điểm đánh đổi.",
+    "REGISTER": "I'd say và in my experience giúp tách nhận định cá nhân khỏi sự thật. Hỏi tiêu chí trước khi khuyên.",
+    "FIX": [
+      "It's worth to visit.",
+      "It's worth visiting."
+    ],
+    "TASK": "So sánh hai nơi ở, hai khóa học hoặc hai sản phẩm trong 4 phút; hỏi tiêu chí trước khi gợi ý.",
+    "TWIST": "Người nghe đổi ưu tiên giữa cuộc nói chuyện. Điều chỉnh gợi ý và giải thích phần thay đổi.",
+    "ex": [
+      [
+        "What matters ______ to you?",
+        "most"
+      ],
+      [
+        "I'd say this is the better ______.",
+        "option"
+      ],
+      [
+        "It depends on your ______.",
+        "budget"
+      ]
+    ]
+  },
+  {
+    "n": 42,
+    "en": "News and checking information",
+    "vi": "Tin tức và kiểm tra thông tin",
+    "P": [
+      [
+        "Where did you hear that?",
+        "Bạn nghe điều đó ở đâu?"
+      ],
+      [
+        "What's the source?",
+        "Nguồn là gì?"
+      ],
+      [
+        "I haven't verified it yet.",
+        "Tôi chưa kiểm chứng điều đó."
+      ],
+      [
+        "The headline doesn't tell the whole story.",
+        "Tiêu đề chưa nói hết câu chuyện."
+      ],
+      [
+        "Let's check the original report.",
+        "Mình kiểm tra báo cáo gốc nhé."
+      ],
+      [
+        "I may have misunderstood the details.",
+        "Có thể tôi đã hiểu nhầm chi tiết."
+      ]
+    ],
+    "D": [
+      [
+        "I heard the library is closing next month.",
+        "Tôi nghe thư viện sẽ đóng cửa tháng sau."
+      ],
+      [
+        "Where did you hear that?",
+        "Bạn nghe ở đâu?"
+      ],
+      [
+        "I saw a headline online, but I haven't read the full article.",
+        "Tôi thấy tiêu đề trên mạng, nhưng chưa đọc cả bài."
+      ],
+      [
+        "Let's check the library's announcement.",
+        "Mình xem thông báo của thư viện nhé."
+      ],
+      [
+        "You're right. It says only one branch is closing for repairs.",
+        "Bạn đúng. Thông báo nói chỉ một chi nhánh đóng để sửa chữa."
+      ],
+      [
+        "Good catch. The headline didn't tell the whole story.",
+        "Bạn phát hiện tốt đấy. Tiêu đề chưa nói hết câu chuyện."
+      ]
+    ],
+    "Q": [
+      [
+        "What did the person initially read?",
+        "A headline online."
+      ],
+      [
+        "Why is one branch closing?",
+        "For repairs."
+      ]
+    ],
+    "GOAL": "Tóm tắt điều đã đọc, phân biệt điều biết với suy đoán và hỏi nguồn một cách lịch sự.",
+    "GRAMMAR": "According to ... chỉ nguồn; reportedly biểu thị thông tin được đưa tin; may/might diễn tả khả năng, không khẳng định.",
+    "SOUND": "Phân biệt can và can't bằng cả ngữ cảnh, trọng âm, âm cuối. Khi thông tin quan trọng, nhắc lại để xác nhận.",
+    "REGISTER": "Headline là tiêu đề, source là nguồn, claim là nhận định cần kiểm chứng. Không mặc định nội dung lan truyền là đúng.",
+    "FIX": [
+      "I haven't verify it yet.",
+      "I haven't verified it yet."
+    ],
+    "TASK": "Chọn một tin ngắn từ nguồn đáng tin, nói tóm tắt 90 giây và nêu nguồn, ngày, điều còn chưa biết.",
+    "TWIST": "Bạn nhận ra mình kể sai một chi tiết. Sửa lại rõ ràng và giải thích thông tin nào đã được xác nhận.",
+    "ex": [
+      [
+        "Where did you hear ______?",
+        "that"
+      ],
+      [
+        "What's the ______?",
+        "source"
+      ],
+      [
+        "I haven't ______ it yet.",
+        "verified"
+      ]
+    ]
+  },
+  {
+    "n": 43,
+    "en": "Education and lifelong learning",
+    "vi": "Học tập và phát triển kỹ năng",
+    "P": [
+      [
+        "What are the prerequisites?",
+        "Điều kiện học trước là gì?"
+      ],
+      [
+        "Is the course available online?",
+        "Khóa học có bản trực tuyến không?"
+      ],
+      [
+        "How much time should I set aside each week?",
+        "Tôi nên dành bao nhiêu thời gian mỗi tuần?"
+      ],
+      [
+        "I'd like feedback on my presentation.",
+        "Tôi muốn nhận góp ý về bài trình bày."
+      ],
+      [
+        "What should I focus on first?",
+        "Tôi nên tập trung vào điều gì trước?"
+      ],
+      [
+        "My goal is to handle meetings in English.",
+        "Mục tiêu của tôi là tham gia cuộc họp bằng tiếng Anh."
+      ]
+    ],
+    "D": [
+      [
+        "I'm interested in the evening writing course.",
+        "Tôi quan tâm khóa viết buổi tối."
+      ],
+      [
+        "What would you like to improve?",
+        "Bạn muốn cải thiện điều gì?"
+      ],
+      [
+        "I need to write clearer emails at work.",
+        "Tôi cần viết email công việc rõ hơn."
+      ],
+      [
+        "This course could help. You'll need about three hours a week.",
+        "Khóa này có thể giúp. Bạn cần khoảng ba giờ mỗi tuần."
+      ],
+      [
+        "Are there any prerequisites?",
+        "Có điều kiện học trước không?"
+      ],
+      [
+        "Basic writing skills. We can look at a sample together.",
+        "Cần kỹ năng viết cơ bản. Mình có thể xem một bài mẫu cùng nhau."
+      ]
+    ],
+    "Q": [
+      [
+        "What does the person want to improve?",
+        "Writing clearer work emails."
+      ],
+      [
+        "How much study time is needed?",
+        "About three hours a week."
+      ]
+    ],
+    "GOAL": "Hỏi thông tin khóa học, trình bày mục tiêu và xin phản hồi để cải thiện.",
+    "GRAMMAR": "need to và have to nêu yêu cầu; be able to nêu khả năng; by + mốc thời gian cho mục tiêu.",
+    "SOUND": "Luyện course /kɔrs/ và cause /kɔz/ theo giọng đang nghe; giữ /r/ và /s/ ở course. Nhấn mục tiêu cụ thể.",
+    "REGISTER": "Office hours là giờ giáo viên dành cho trao đổi; prerequisite là điều kiện học trước. Hỏi thay vì tự đoán trình độ cần thiết.",
+    "FIX": [
+      "I want improve my writing.",
+      "I want to improve my writing."
+    ],
+    "TASK": "Hỏi tư vấn khóa học trong 4 phút rồi trình bày mục tiêu ba tháng với hành động và cách đo tiến bộ.",
+    "TWIST": "Lịch học trùng giờ làm. Hỏi lựa chọn trực tuyến, lớp khác hoặc cách thay đổi lịch.",
+    "ex": [
+      [
+        "What are the ______?",
+        "prerequisites"
+      ],
+      [
+        "Is the course available ______?",
+        "online"
+      ],
+      [
+        "How much time should I set aside each ______?",
+        "week"
+      ]
+    ]
+  },
+  {
+    "n": 44,
+    "en": "Technology and digital life",
+    "vi": "Công nghệ và đời sống số",
+    "P": [
+      [
+        "The app keeps freezing.",
+        "Ứng dụng cứ bị treo."
+      ],
+      [
+        "I can't log in to my account.",
+        "Tôi không đăng nhập vào tài khoản được."
+      ],
+      [
+        "Could you walk me through it?",
+        "Bạn hướng dẫn tôi từng bước được không?"
+      ],
+      [
+        "What data does the app collect?",
+        "Ứng dụng thu thập dữ liệu gì?"
+      ],
+      [
+        "How do I change the privacy settings?",
+        "Tôi đổi cài đặt riêng tư thế nào?"
+      ],
+      [
+        "I'll send a screenshot without personal information.",
+        "Tôi sẽ gửi ảnh màn hình không có thông tin cá nhân."
+      ]
+    ],
+    "D": [
+      [
+        "The app keeps freezing when I open a document.",
+        "Ứng dụng cứ treo khi tôi mở tài liệu."
+      ],
+      [
+        "Does it happen with every document?",
+        "Tài liệu nào cũng bị vậy không?"
+      ],
+      [
+        "No, just one large file.",
+        "Không, chỉ một tệp lớn."
+      ],
+      [
+        "Could you tell me the file type and the app version?",
+        "Bạn cho biết loại tệp và phiên bản ứng dụng được không?"
+      ],
+      [
+        "It's a PDF. Where can I find the version number?",
+        "Đó là PDF. Tôi tìm số phiên bản ở đâu?"
+      ],
+      [
+        "Open Settings, then About. I'll stay with you while you check.",
+        "Mở Cài đặt, rồi Giới thiệu. Tôi sẽ chờ trong lúc bạn kiểm tra."
+      ]
+    ],
+    "Q": [
+      [
+        "Does every file cause the problem?",
+        "No, just one large file."
+      ],
+      [
+        "Where is the version number?",
+        "In Settings, then About."
+      ]
+    ],
+    "GOAL": "Mô tả lỗi ứng dụng, xin hướng dẫn từng bước và hỏi quyền truy cập dữ liệu.",
+    "GRAMMAR": "whenever + hiện tại nêu lỗi lặp lại; try + V-ing nêu cách thử; before + V-ing nêu trình tự.",
+    "SOUND": "Luyện log in, log out và loading với /l/ đầu. Tách bước bằng first, next, finally thay vì đọc liền một đoạn.",
+    "REGISTER": "Screenshot là ảnh màn hình; attachment là tệp đính kèm. Khi chia sẻ ảnh, che thông tin riêng; dùng tài khoản giả trong bài tập.",
+    "FIX": [
+      "The app keep freezing.",
+      "The app keeps freezing."
+    ],
+    "TASK": "Đóng vai hỗ trợ 4 phút: lỗi, lúc xảy ra, phạm vi, thông tin phiên bản và xin giải thích từng bước.",
+    "TWIST": "Người hỗ trợ nói quá nhanh. Ngắt lịch sự, nhờ từng bước và xác nhận trước khi tiếp tục.",
+    "ex": [
+      [
+        "The app keeps ______.",
+        "freezing"
+      ],
+      [
+        "I can't log in to my ______.",
+        "account"
+      ],
+      [
+        "Could you walk me ______ it?",
+        "through"
+      ]
+    ]
+  },
+  {
+    "n": 45,
+    "en": "Customer service and subscriptions",
+    "vi": "Chăm sóc khách hàng và gói đăng ký",
+    "P": [
+      [
+        "I'd like to cancel my subscription.",
+        "Tôi muốn hủy gói đăng ký."
+      ],
+      [
+        "I was charged twice.",
+        "Tôi bị thu tiền hai lần."
+      ],
+      [
+        "Could you check the order status?",
+        "Bạn kiểm tra trạng thái đơn hàng được không?"
+      ],
+      [
+        "I'd like to request a refund.",
+        "Tôi muốn yêu cầu hoàn tiền."
+      ],
+      [
+        "Could you send written confirmation?",
+        "Bạn gửi xác nhận bằng văn bản được không?"
+      ],
+      [
+        "When should I expect an update?",
+        "Khi nào tôi sẽ nhận cập nhật?"
+      ]
+    ],
+    "D": [
+      [
+        "I was charged twice for the same order.",
+        "Tôi bị thu tiền hai lần cho cùng một đơn."
+      ],
+      [
+        "I'm sorry about that. What's the order number?",
+        "Rất tiếc về việc đó. Mã đơn là gì?"
+      ],
+      [
+        "It's A-one-four-eight. Both charges appeared yesterday.",
+        "Là A-một-bốn-tám. Cả hai khoản xuất hiện hôm qua."
+      ],
+      [
+        "I'll check whether one is a temporary authorization.",
+        "Tôi sẽ kiểm tra xem có khoản nào là tạm giữ tiền không."
+      ],
+      [
+        "Thanks. When should I expect an update?",
+        "Cảm ơn. Khi nào tôi nhận cập nhật?"
+      ],
+      [
+        "By tomorrow afternoon. I'll email you a case number now.",
+        "Trước chiều mai. Tôi sẽ gửi mã hồ sơ qua email ngay."
+      ]
+    ],
+    "Q": [
+      [
+        "What is the order number?",
+        "A148."
+      ],
+      [
+        "When is the update expected?",
+        "By tomorrow afternoon."
+      ]
+    ],
+    "GOAL": "Giải thích vấn đề, yêu cầu giải pháp cụ thể và xác nhận kết quả bằng văn bản.",
+    "GRAMMAR": "I'd like to request ...; I was charged ... bị động; Could you confirm whether ...? hỏi xác nhận.",
+    "SOUND": "Luyện charge /tʃɑrdʒ/ với âm đầu /tʃ/ và âm cuối /dʒ/. Đọc số tiền, ngày và mã đơn theo cụm.",
+    "REGISTER": "Refund là hoàn tiền; cancellation là hủy; auto-renewal là gia hạn tự động. Chính sách khác nhau: hỏi, không khẳng định quyền lợi chưa biết.",
+    "FIX": [
+      "I was charge twice.",
+      "I was charged twice."
+    ],
+    "TASK": "Diễn cuộc hỗ trợ 5 phút: sự việc, bằng chứng giả, giải pháp mong muốn, thời hạn và xác nhận.",
+    "TWIST": "Chưa thể hoàn tiền ngay. Hỏi lý do, bước tiếp theo và mốc nhận trả lời; giữ lời nói bình tĩnh.",
+    "ex": [
+      [
+        "I'd like to cancel my ______.",
+        "subscription"
+      ],
+      [
+        "I was charged ______.",
+        "twice"
+      ],
+      [
+        "Could you check the order ______?",
+        "status"
+      ]
+    ]
+  },
+  {
+    "n": 46,
+    "en": "Negotiating and reaching agreement",
+    "vi": "Thương lượng và thống nhất",
+    "P": [
+      [
+        "Is there any flexibility on the price?",
+        "Mức giá có thể linh hoạt không?"
+      ],
+      [
+        "What would be a reasonable alternative?",
+        "Phương án thay thế hợp lý là gì?"
+      ],
+      [
+        "We could adjust the scope.",
+        "Chúng ta có thể điều chỉnh phạm vi."
+      ],
+      [
+        "Would you be willing to extend the deadline?",
+        "Bạn có sẵn lòng lùi hạn không?"
+      ],
+      [
+        "That works, provided we agree on the details.",
+        "Được, với điều kiện mình thống nhất chi tiết."
+      ],
+      [
+        "Let's put the agreement in writing.",
+        "Mình ghi thỏa thuận thành văn bản nhé."
+      ]
+    ],
+    "D": [
+      [
+        "Your proposal is a little over our budget.",
+        "Đề xuất của bạn hơi vượt ngân sách của chúng tôi."
+      ],
+      [
+        "Is there a particular part you'd like to prioritize?",
+        "Có phần cụ thể nào bạn muốn ưu tiên không?"
+      ],
+      [
+        "The website launch matters most.",
+        "Việc ra mắt website quan trọng nhất."
+      ],
+      [
+        "We could postpone the extra pages and reduce the cost.",
+        "Chúng ta có thể hoãn các trang bổ sung và giảm chi phí."
+      ],
+      [
+        "That works, provided the launch date stays the same.",
+        "Được, với điều kiện ngày ra mắt giữ nguyên."
+      ],
+      [
+        "Agreed. I'll send the revised scope and price.",
+        "Đồng ý. Tôi sẽ gửi phạm vi và giá đã điều chỉnh."
+      ]
+    ],
+    "Q": [
+      [
+        "What is the client's main priority?",
+        "The website launch."
+      ],
+      [
+        "What could be postponed?",
+        "The extra pages."
+      ]
+    ],
+    "GOAL": "Đề xuất điều kiện, hỏi mức linh hoạt và xác nhận thỏa thuận không mơ hồ.",
+    "GRAMMAR": "Would you be willing to ...?; If we ..., could you ...?; provided that ... nêu điều kiện cần.",
+    "SOUND": "Nhấn IF và THEN khi nói điều kiện dài. Dừng trước số tiền và hạn cuối để người nghe dễ ghi lại.",
+    "REGISTER": "Thương lượng giá không phù hợp mọi cửa hàng hoặc dịch vụ. Hỏi có linh hoạt không trước; chấp nhận câu trả lời.",
+    "FIX": [
+      "Would you willing to extend it?",
+      "Would you be willing to extend it?"
+    ],
+    "TASK": "Thương lượng một dự án giả 5 phút gồm ngân sách, phạm vi, hạn và điều kiện; kết thúc bằng tóm tắt.",
+    "TWIST": "Bạn không thể giảm giá thêm. Đề xuất thay đổi phạm vi hoặc lịch, nói rõ giới hạn.",
+    "ex": [
+      [
+        "Is there any flexibility on the ______?",
+        "price"
+      ],
+      [
+        "What would be a reasonable ______?",
+        "alternative"
+      ],
+      [
+        "We could adjust the ______.",
+        "scope"
+      ]
+    ]
+  },
+  {
+    "n": 47,
+    "en": "Networking and professional connections",
+    "vi": "Kết nối nghề nghiệp",
+    "P": [
+      [
+        "What brings you to this event?",
+        "Điều gì đưa bạn đến sự kiện này?"
+      ],
+      [
+        "I work in product design.",
+        "Tôi làm trong lĩnh vực thiết kế sản phẩm."
+      ],
+      [
+        "I'm currently working on a learning app.",
+        "Tôi đang làm một ứng dụng học tập."
+      ],
+      [
+        "How did you get started in your field?",
+        "Bạn bắt đầu trong lĩnh vực của mình như thế nào?"
+      ],
+      [
+        "Would you be open to staying in touch?",
+        "Bạn có muốn giữ liên lạc không?"
+      ],
+      [
+        "It was great talking with you.",
+        "Rất vui được trò chuyện với bạn."
+      ]
+    ],
+    "D": [
+      [
+        "What brings you to this event?",
+        "Điều gì đưa bạn đến sự kiện này?"
+      ],
+      [
+        "I'm hoping to meet people who work in education technology.",
+        "Tôi muốn gặp người làm công nghệ giáo dục."
+      ],
+      [
+        "That's my field too. I'm working on a learning app.",
+        "Đó cũng là lĩnh vực của tôi. Tôi đang làm một ứng dụng học tập."
+      ],
+      [
+        "Interesting. Who is it designed for?",
+        "Thú vị đấy. Ứng dụng dành cho ai?"
+      ],
+      [
+        "Adults learning English. Would you be open to staying in touch?",
+        "Người lớn học tiếng Anh. Bạn có muốn giữ liên lạc không?"
+      ],
+      [
+        "Sure. You can send me a message on my professional profile.",
+        "Có. Bạn gửi tin qua hồ sơ nghề nghiệp của tôi được."
+      ]
+    ],
+    "Q": [
+      [
+        "What field are they interested in?",
+        "Education technology."
+      ],
+      [
+        "Who is the app for?",
+        "Adults learning English."
+      ]
+    ],
+    "GOAL": "Giới thiệu bản thân ngắn gọn, tìm điểm chung và xin phép giữ liên lạc.",
+    "GRAMMAR": "What brings you to ...? hỏi lý do tham dự; work in + lĩnh vực, work for + tổ chức, work on + dự án.",
+    "SOUND": "Giữ /r/ ở career và từ work theo giọng Mỹ có /r/. Luyện giới thiệu 20 giây với khoảng dừng tự nhiên.",
+    "REGISTER": "Elevator pitch là giới thiệu rất ngắn, không phải bài quảng cáo dài. Xin phép liên lạc; không ép chia sẻ thông tin.",
+    "FIX": [
+      "I work on education technology.",
+      "I work in education technology."
+    ],
+    "TASK": "Diễn hai lượt gặp người mới, mỗi lượt 3 phút: giới thiệu, hỏi tiếp nối, điểm chung và xin giữ liên lạc.",
+    "TWIST": "Người kia đang vội. Rút giới thiệu còn 20 giây và kết thúc lịch sự, không giữ họ lại.",
+    "ex": [
+      [
+        "What brings you to this ______?",
+        "event"
+      ],
+      [
+        "I work in product ______.",
+        "design"
+      ],
+      [
+        "I'm currently working on a ______ app.",
+        "learning"
+      ]
+    ]
+  },
+  {
+    "n": 48,
+    "en": "Presentations and questions",
+    "vi": "Trình bày và trả lời câu hỏi",
+    "P": [
+      [
+        "Today I'd like to walk you through our plan.",
+        "Hôm nay tôi muốn giới thiệu từng phần kế hoạch."
+      ],
+      [
+        "The main takeaway is this.",
+        "Điểm chính cần nhớ là đây."
+      ],
+      [
+        "Let me give you an example.",
+        "Để tôi đưa một ví dụ."
+      ],
+      [
+        "Could you clarify what you mean?",
+        "Bạn làm rõ ý của mình được không?"
+      ],
+      [
+        "I don't have that figure with me.",
+        "Hiện tôi không có số liệu đó."
+      ],
+      [
+        "I'll check and follow up with you.",
+        "Tôi sẽ kiểm tra và trả lời lại."
+      ]
+    ],
+    "D": [
+      [
+        "The main takeaway is that we should test a smaller version first.",
+        "Điểm chính là nên thử một phiên bản nhỏ hơn trước."
+      ],
+      [
+        "How many users will be in the test?",
+        "Có bao nhiêu người tham gia thử?"
+      ],
+      [
+        "We're planning for twenty, but that's not final.",
+        "Chúng tôi dự tính hai mươi, nhưng chưa chốt."
+      ],
+      [
+        "How much will the test cost?",
+        "Đợt thử tốn bao nhiêu?"
+      ],
+      [
+        "I don't have the final figure with me. I'll check and follow up.",
+        "Tôi chưa có số cuối cùng. Tôi sẽ kiểm tra và trả lời lại."
+      ],
+      [
+        "Thanks. Please include the assumptions behind the estimate.",
+        "Cảm ơn. Hãy kèm các giả định của ước tính."
+      ]
+    ],
+    "Q": [
+      [
+        "What should be tested first?",
+        "A smaller version."
+      ],
+      [
+        "Is the number of users final?",
+        "No, it is not final."
+      ]
+    ],
+    "GOAL": "Trình bày 4–5 phút có cấu trúc và xử lý câu hỏi chưa chuẩn bị.",
+    "GRAMMAR": "First ..., next ..., finally ... tổ chức; What I mean is ... làm rõ; I don't have ... yet thừa nhận giới hạn.",
+    "SOUND": "Chia câu dài thành nhóm ý. Hạ giọng ở điểm đã kết thúc, giữ nhịp dừng sau thông tin quan trọng.",
+    "REGISTER": "Không cần giọng kịch tính. Nói kết luận rõ; nếu thiếu dữ liệu, hẹn kiểm tra thay vì đoán.",
+    "FIX": [
+      "Let me giving you an example.",
+      "Let me give you an example."
+    ],
+    "TASK": "Trình bày một đề xuất 5 phút, rồi nhận năm câu hỏi. Có ít nhất một câu bạn phải xin làm rõ hoặc hẹn kiểm tra.",
+    "TWIST": "Người nghe hiểu sai kết luận. Giải thích lại bằng ví dụ khác và kiểm tra xem đã rõ chưa.",
+    "ex": [
+      [
+        "Today I'd like to walk you through our ______.",
+        "plan"
+      ],
+      [
+        "The main takeaway is ______.",
+        "this"
+      ],
+      [
+        "Let me give you an ______.",
+        "example"
+      ]
+    ]
+  },
+  {
+    "n": 49,
+    "en": "Informal English and cultural cues",
+    "vi": "Tiếng Anh thân mật và tín hiệu văn hóa",
+    "P": [
+      [
+        "How's it going?",
+        "Dạo này thế nào?"
+      ],
+      [
+        "I'm pretty wiped out.",
+        "Tôi khá kiệt sức."
+      ],
+      [
+        "That works for me.",
+        "Phương án đó phù hợp với tôi."
+      ],
+      [
+        "I'm just kidding.",
+        "Tôi chỉ đùa thôi."
+      ],
+      [
+        "What do you mean by that?",
+        "Bạn nói vậy có ý gì?"
+      ],
+      [
+        "Could you say that another way?",
+        "Bạn nói bằng cách khác được không?"
+      ]
+    ],
+    "D": [
+      [
+        "How's it going?",
+        "Dạo này thế nào?"
+      ],
+      [
+        "Pretty good, but I'm wiped out after that trip.",
+        "Khá ổn, nhưng tôi mệt rã rời sau chuyến đi."
+      ],
+      [
+        "Want to grab dinner, or would you rather call it a night?",
+        "Bạn muốn ăn tối hay kết thúc buổi tối để nghỉ?"
+      ],
+      [
+        "What do you mean by call it a night?",
+        "Call it a night nghĩa là gì?"
+      ],
+      [
+        "I mean stop for the evening and get some rest.",
+        "Ý tôi là dừng hoạt động tối nay và nghỉ ngơi."
+      ],
+      [
+        "In that case, let's get dinner another day.",
+        "Vậy mình ăn tối hôm khác nhé."
+      ]
+    ],
+    "Q": [
+      [
+        "Why is the person tired?",
+        "Because of the trip."
+      ],
+      [
+        "What does call it a night mean here?",
+        "Stop for the evening and get some rest."
+      ]
+    ],
+    "GOAL": "Hiểu vài cách nói thân mật thường gặp, hỏi lại hàm ý và chọn mức trang trọng phù hợp.",
+    "GRAMMAR": "How's it going? là lời hỏi thăm thân mật; I'm going to thường nghe thành gonna trong lời nói, vẫn viết đầy đủ khi trang trọng.",
+    "SOUND": "Nghe wanna/gonna như dạng rút gọn theo ngữ cảnh; không rút gọn mọi want to/going to máy móc. Luyện nguyên dạng trước.",
+    "REGISTER": "Mỹ có nhiều vùng, cộng đồng và cách nói. Slang nhanh thay đổi; ưu tiên cách nói bạn hiểu và đúng quan hệ. Không bắt chước giọng để châm biếm.",
+    "FIX": [
+      "What you mean by that?",
+      "What do you mean by that?"
+    ],
+    "TASK": "Viết và nói hai phiên bản cùng lời nhắn: cho bạn thân và cho đồng nghiệp mới. Giải thích những chỗ đổi cách nói.",
+    "TWIST": "Bạn không chắc người kia đùa hay nghiêm túc. Hỏi lại bình tĩnh thay vì đoán ý.",
+    "ex": [
+      [
+        "How's it ______?",
+        "going"
+      ],
+      [
+        "I'm pretty ______ out.",
+        "wiped"
+      ],
+      [
+        "That ______ for me.",
+        "works"
+      ]
+    ]
+  },
+  {
+    "n": 50,
+    "en": "Empathy and supportive conversations",
+    "vi": "Lắng nghe và trò chuyện hỗ trợ",
+    "P": [
+      [
+        "That sounds really difficult.",
+        "Nghe có vẻ rất khó khăn."
+      ],
+      [
+        "I'm here if you want to talk.",
+        "Tôi ở đây nếu bạn muốn nói chuyện."
+      ],
+      [
+        "Would you like advice, or would you rather I just listen?",
+        "Bạn muốn lời khuyên, hay muốn tôi chỉ lắng nghe?"
+      ],
+      [
+        "You don't have to explain everything.",
+        "Bạn không phải giải thích mọi chuyện."
+      ],
+      [
+        "Is there anything practical I can help with?",
+        "Có việc cụ thể nào tôi giúp được không?"
+      ],
+      [
+        "Thanks for trusting me with that.",
+        "Cảm ơn bạn đã tin tưởng kể với tôi."
+      ]
+    ],
+    "D": [
+      [
+        "I've had a really hard week.",
+        "Tôi có một tuần rất khó khăn."
+      ],
+      [
+        "I'm sorry to hear that. Do you want to talk about it?",
+        "Tôi rất tiếc khi nghe vậy. Bạn muốn nói về chuyện đó không?"
+      ],
+      [
+        "A little. I don't really need advice right now.",
+        "Một chút. Giờ tôi không thực sự cần lời khuyên."
+      ],
+      [
+        "Okay. I'm happy to listen.",
+        "Được. Tôi sẵn lòng nghe."
+      ],
+      [
+        "Thanks. I just need a few minutes to get it off my chest.",
+        "Cảm ơn. Tôi chỉ cần vài phút để nói ra cho nhẹ lòng."
+      ],
+      [
+        "Take your time. You don't have to explain everything.",
+        "Bạn cứ từ từ. Không cần giải thích mọi chuyện."
+      ]
+    ],
+    "Q": [
+      [
+        "Does the person want advice now?",
+        "No, they do not."
+      ],
+      [
+        "What does the listener offer?",
+        "To listen without rushing."
+      ]
+    ],
+    "GOAL": "Thể hiện quan tâm, hỏi người kia cần gì và lắng nghe mà không vội đưa giải pháp.",
+    "GRAMMAR": "That sounds + tính từ; Would it help if ...? đề nghị; You don't have to ... giảm áp lực.",
+    "SOUND": "Dùng giọng đều, khoảng dừng để người kia nói tiếp. Tránh nhấn lời khuyên như mệnh lệnh.",
+    "REGISTER": "Đây là kỹ năng giao tiếp, không thay hỗ trợ chuyên môn. Không nói I know exactly how you feel nếu bạn không biết; tránh ép họ kể.",
+    "FIX": [
+      "You don't must explain everything.",
+      "You don't have to explain everything."
+    ],
+    "TASK": "Đóng vai cuộc nói chuyện 4 phút về một tuần khó khăn giả định: hỏi nhu cầu, lắng nghe, phản hồi và đề nghị giúp cụ thể.",
+    "TWIST": "Người kia muốn dừng chủ đề. Tôn trọng và chuyển sang điều nhẹ nhàng hơn.",
+    "ex": [
+      [
+        "That sounds really ______.",
+        "difficult"
+      ],
+      [
+        "I'm here if you want to ______.",
+        "talk"
+      ],
+      [
+        "Would you like advice, or would you rather I just ______?",
+        "listen"
+      ]
+    ]
+  },
+  {
+    "n": 51,
+    "en": "Thoughtful discussions and uncertainty",
+    "vi": "Thảo luận, bất đồng và sự chưa chắc chắn",
+    "P": [
+      [
+        "I see your point, but I have a different concern.",
+        "Tôi hiểu ý bạn, nhưng có một điều lo khác."
+      ],
+      [
+        "There are trade-offs either way.",
+        "Cách nào cũng có điều phải đánh đổi."
+      ],
+      [
+        "What makes you think that?",
+        "Điều gì khiến bạn nghĩ vậy?"
+      ],
+      [
+        "I don't have enough information to be sure.",
+        "Tôi chưa đủ thông tin để chắc chắn."
+      ],
+      [
+        "We may be looking at this differently.",
+        "Có thể chúng ta đang nhìn chuyện này khác nhau."
+      ],
+      [
+        "What evidence would change your mind?",
+        "Bằng chứng nào sẽ khiến bạn đổi ý?"
+      ]
+    ],
+    "D": [
+      [
+        "Do you think our team should work remotely full-time?",
+        "Bạn nghĩ nhóm nên làm từ xa toàn thời gian không?"
+      ],
+      [
+        "It could save commuting time, but I worry about training new staff.",
+        "Nó có thể giảm thời gian đi lại, nhưng tôi lo việc đào tạo người mới."
+      ],
+      [
+        "I see your point. Could a hybrid schedule help?",
+        "Tôi hiểu ý. Lịch kết hợp có giúp không?"
+      ],
+      [
+        "Maybe. We don't have enough feedback from new employees yet.",
+        "Có thể. Mình chưa có đủ phản hồi từ nhân viên mới."
+      ],
+      [
+        "Let's ask them before we make a decision.",
+        "Mình hỏi họ trước khi quyết định nhé."
+      ],
+      [
+        "Agreed. There are trade-offs either way.",
+        "Đồng ý. Cách nào cũng có điều đánh đổi."
+      ]
+    ],
+    "Q": [
+      [
+        "What concern is mentioned?",
+        "Training new staff."
+      ],
+      [
+        "Whose feedback is needed?",
+        "New employees' feedback."
+      ]
+    ],
+    "GOAL": "Trình bày quan điểm cân bằng, thừa nhận điểm hợp lý của ý khác và hỏi câu mở.",
+    "GRAMMAR": "Although ... diễn đạt tương phản; on the one hand/on the other hand cân nhắc; might/could giữ mức chắc chắn đúng.",
+    "SOUND": "Nhấn điểm khác biệt thay vì nhấn người đối diện. Luyện câu dài có hai vế và dừng tại ranh giới ý.",
+    "REGISTER": "I disagree with that point có thể lịch sự hơn You're wrong. Nhận định cần nguồn nếu liên quan số liệu; không biến ví dụ thành sự thật.",
+    "FIX": [
+      "Although it is flexible, but it has problems.",
+      "Although it is flexible, it has problems."
+    ],
+    "TASK": "Thảo luận 6 phút về làm từ xa, giao thông hoặc học trực tuyến. Nêu hai mặt, hỏi căn cứ và tóm tắt điểm đồng thuận.",
+    "TWIST": "Bạn được đưa một thông tin mới làm yếu lập luận cũ. Điều chỉnh quan điểm và nói rõ điều còn chưa chắc.",
+    "ex": [
+      [
+        "I see your point, but I have a different ______.",
+        "concern"
+      ],
+      [
+        "There are trade-offs ______ way.",
+        "either"
+      ],
+      [
+        "What makes you think ______?",
+        "that"
+      ]
+    ]
+  },
+  {
+    "n": 52,
+    "en": "Your final conversation challenge",
+    "vi": "Thử thách giao tiếp cuối năm",
+    "P": [
+      [
+        "Let me start with a little background.",
+        "Để tôi bắt đầu bằng một chút thông tin nền."
+      ],
+      [
+        "That reminds me of something.",
+        "Điều đó làm tôi nhớ một chuyện."
+      ],
+      [
+        "Let me rephrase that.",
+        "Để tôi nói lại theo cách khác."
+      ],
+      [
+        "What would you do in that situation?",
+        "Bạn sẽ làm gì trong tình huống đó?"
+      ],
+      [
+        "Before we wrap up, let's confirm the plan.",
+        "Trước khi kết thúc, mình xác nhận kế hoạch nhé."
+      ],
+      [
+        "Here's what I'd like to work on next.",
+        "Đây là điều tôi muốn luyện tiếp."
+      ]
+    ],
+    "D": [
+      [
+        "How has your year of learning English been?",
+        "Một năm học tiếng Anh của bạn thế nào?"
+      ],
+      [
+        "I've become more comfortable asking questions and telling stories.",
+        "Tôi thoải mái hơn khi đặt câu hỏi và kể chuyện."
+      ],
+      [
+        "Which real-life situation was the most challenging?",
+        "Tình huống thực tế nào khó nhất?"
+      ],
+      [
+        "A work call. I misunderstood a deadline, so I asked them to clarify.",
+        "Một cuộc gọi công việc. Tôi hiểu nhầm hạn nên nhờ họ làm rõ."
+      ],
+      [
+        "What would you like to work on next?",
+        "Bạn muốn luyện gì tiếp?"
+      ],
+      [
+        "Understanding faster conversations and giving shorter, clearer answers.",
+        "Hiểu hội thoại nhanh hơn và trả lời ngắn gọn, rõ hơn."
+      ]
+    ],
+    "Q": [
+      [
+        "What did the learner misunderstand?",
+        "A deadline."
+      ],
+      [
+        "What are the learner's next goals?",
+        "Understanding faster conversations and giving clearer answers."
+      ]
+    ],
+    "GOAL": "Thực hiện cuộc trò chuyện tự phát 12–15 phút, chuyển chủ đề và tự sửa hiểu nhầm mà không đọc kịch bản.",
+    "GRAMMAR": "Kết hợp các thì, câu hỏi làm rõ, so sánh và điều kiện theo ý cần nói. Độ đúng phục vụ thông điệp, không phải đọc lại quy tắc.",
+    "SOUND": "So sánh bản thu tuần 1, 13, 26, 39 và 52. Đánh giá độ dễ hiểu, trọng âm, cụm ý và khả năng sửa hiểu nhầm, không chỉ tốc độ.",
+    "REGISTER": "Không có một giọng duy nhất của người Mỹ. Mục tiêu là giao tiếp tự nhiên, linh hoạt và phù hợp hoàn cảnh; tiến bộ khác nhau ở từng người.",
+    "FIX": [
+      "I've become more comfortably speaking.",
+      "I've become more comfortable speaking."
+    ],
+    "TASK": "Kiểm tra 12–15 phút: làm quen 2 phút; kể chuyện 3; giải quyết vấn đề 3; nêu ý kiến 3; xác nhận kế hoạch và tự nhận xét 2. Bạn học chọn đề ngẫu nhiên.",
+    "TWIST": "Có ba lần đổi dữ kiện, một câu hỏi ngoài chuẩn bị và một hiểu nhầm. Hỏi lại, diễn đạt lại và tiếp tục bình tĩnh.",
+    "ex": [
+      [
+        "Let me start with a little ______.",
+        "background"
+      ],
+      [
+        "That reminds me of ______.",
+        "something"
+      ],
+      [
+        "Let me rephrase ______.",
+        "that"
+      ]
+    ]
+  }
+]
